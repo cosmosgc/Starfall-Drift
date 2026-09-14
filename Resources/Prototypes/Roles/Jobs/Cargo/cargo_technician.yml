@@ -15,6 +15,10 @@
   - !type:GiveItemOnHolidaySpecial
     holiday: BoxingDay
     prototype: BoxCardboard
+  - !type:AddComponentSpecial
+    components:
+      - type: ReplacementAccent
+        accent: chatsanitize-cargo
 
 - type: startingGear
   id: CargoTechGear

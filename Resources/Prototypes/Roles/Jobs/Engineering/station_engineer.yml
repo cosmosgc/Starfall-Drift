@@ -16,6 +16,11 @@
   - External
   extendedAccess:
   - Atmospherics
+  special:
+  - !type:AddComponentSpecial
+    components:
+      - type: ReplacementAccent
+        accent: chatsanitize-engineering
 
 - type: startingGear
   id: StationEngineerGear

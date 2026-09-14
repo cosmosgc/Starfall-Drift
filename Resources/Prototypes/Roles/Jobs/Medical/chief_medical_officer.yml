@@ -31,6 +31,8 @@
   - !type:AddComponentSpecial
     components:
       - type: CommandStaff
+      - type: ReplacementAccent
+        accent: chatsanitize-medical
 
 - type: startingGear
   id: CMOGear

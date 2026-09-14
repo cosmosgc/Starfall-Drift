@@ -15,6 +15,11 @@
   - Salvage
   - Maintenance
   - External
+  special:
+  - !type:AddComponentSpecial
+    components:
+      - type: ReplacementAccent
+        accent: chatsanitize-cargo
 
 - type: startingGear
   id: SalvageSpecialistGear

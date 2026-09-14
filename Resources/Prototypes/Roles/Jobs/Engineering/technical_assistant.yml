@@ -17,6 +17,11 @@
   - Maintenance
   - Engineering
   - External
+  special:
+  - !type:AddComponentSpecial
+    components:
+      - type: ReplacementAccent
+        accent: chatsanitize-engineering
 
 - type: startingGear
   id: TechnicalAssistantGear

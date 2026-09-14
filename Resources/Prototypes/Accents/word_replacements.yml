@@ -472,6 +472,80 @@
     chatsan-word-67: chatsan-replacement-67
     chatsan-word-68: chatsan-replacement-68
     chatsan-word-69: chatsan-replacement-69 # :godo:
+    # Brazilian Portuguese internet slang / job shorthand (pt-BR)
+    chatsan-word-70: chatsan-replacement-70
+    chatsan-word-71: chatsan-replacement-71
+    chatsan-word-72: chatsan-replacement-72
+    chatsan-word-72-2: chatsan-replacement-72
+    chatsan-word-73: chatsan-replacement-73
+    chatsan-word-74: chatsan-replacement-74
+    chatsan-word-75: chatsan-replacement-75
+    chatsan-word-76: chatsan-replacement-76
+    chatsan-word-77: chatsan-replacement-77
+    chatsan-word-78: chatsan-replacement-78
+    chatsan-word-79: chatsan-replacement-79
+    chatsan-word-80: chatsan-replacement-80
+    chatsan-word-81: chatsan-replacement-81
+    chatsan-word-81-2: chatsan-replacement-81
+    chatsan-word-82: chatsan-replacement-82
+    chatsan-word-83: chatsan-replacement-83
+    chatsan-word-84: chatsan-replacement-84
+    chatsan-word-85: chatsan-replacement-85
+    chatsan-word-86: chatsan-replacement-86
+    chatsan-word-87: chatsan-replacement-87
+    chatsan-word-88: chatsan-replacement-88
+    chatsan-word-89: chatsan-replacement-89
+
+# Department-specific chat expansions (pt-BR server).
+# Attached to jobs via AddComponentSpecial -> ReplacementAccent.
+# NOTE: an entity can only hold one ReplacementAccentComponent, so each job gets exactly one of these.
+- type: accent
+  id: chatsanitize-command
+  wordReplacements:
+    chatsan-cmd-word-1: chatsan-cmd-replacement-1
+    chatsan-cmd-word-2: chatsan-cmd-replacement-2
+    chatsan-cmd-word-3: chatsan-cmd-replacement-3
+    chatsan-cmd-word-4: chatsan-cmd-replacement-4
+
+- type: accent
+  id: chatsanitize-security
+  wordReplacements:
+    chatsan-sec-word-1: chatsan-sec-replacement-1
+    chatsan-sec-word-2: chatsan-sec-replacement-2
+    chatsan-sec-word-3: chatsan-sec-replacement-3
+    chatsan-sec-word-4: chatsan-sec-replacement-4
+
+- type: accent
+  id: chatsanitize-medical
+  wordReplacements:
+    chatsan-med-word-1: chatsan-med-replacement-1
+    chatsan-med-word-2: chatsan-med-replacement-2
+    chatsan-med-word-3: chatsan-med-replacement-3
+    chatsan-med-word-4: chatsan-med-replacement-4
+
+- type: accent
+  id: chatsanitize-engineering
+  wordReplacements:
+    chatsan-eng-word-1: chatsan-eng-replacement-1
+    chatsan-eng-word-2: chatsan-eng-replacement-2
+    chatsan-eng-word-3: chatsan-eng-replacement-3
+    chatsan-eng-word-4: chatsan-eng-replacement-4
+
+- type: accent
+  id: chatsanitize-science
+  wordReplacements:
+    chatsan-sci-word-1: chatsan-sci-replacement-1
+    chatsan-sci-word-2: chatsan-sci-replacement-2
+    chatsan-sci-word-3: chatsan-sci-replacement-3
+    chatsan-sci-word-4: chatsan-sci-replacement-4
+
+- type: accent
+  id: chatsanitize-cargo
+  wordReplacements:
+    chatsan-cargo-word-1: chatsan-cargo-replacement-1
+    chatsan-cargo-word-2: chatsan-cargo-replacement-2
+    chatsan-cargo-word-3: chatsan-cargo-replacement-3
+    chatsan-cargo-word-4: chatsan-cargo-replacement-4
 
 - type: accent
   id: liar
