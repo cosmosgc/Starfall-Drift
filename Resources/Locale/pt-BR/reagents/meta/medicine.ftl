@@ -4,7 +4,7 @@ reagent-desc-cryptobiolin =  Causa confusão e tontura.
 
 reagent-name-dylovene = Dilovene
 
-reagent-desc-dylovene =  Uma antitoxina de largo espectro, que trata danos nas toxinas em organismos, causando vômitos, tonturas e dor.
+reagent-desc-dylovene = Uma antitoxina de amplo espectro que trata dano de toxina. Overdose causa vômito, tontura e dor.
 
 reagent-name-diphenhydramine = difenidramina
 
@@ -20,7 +20,7 @@ reagent-desc-bicaridine = Um analgésico que é altamente eficaz no tratamento d
 
 reagent-name-cryoxadone = crioxadona
 
-reagent-desc-cryoxadone =  Cura todos os tipos de danos padrão, mas só funciona em temperaturas abaixo de 213K.
+reagent-desc-cryoxadone = Necessária para o funcionamento da criogenia. Cura todos os tipos padrão de dano, mas só funciona abaixo de 213K. Trata plantas em pequenas doses.
 
 reagent-name-doxarubixadone = doxarubixadona
 
@@ -42,7 +42,7 @@ reagent-desc-dexalin-plus =  Usado no tratamento de casos extremos de privação
 
 reagent-name-epinephrine = epinefrina
 
-reagent-desc-epinephrine =  Uma química eficaz que estabiliza a pessoa crítica, que não morre para asfixia, enquanto faz pequenos danos durante a critectomia, faz com que a toxina do coração se desfaça do fluxo sanguíneo, ao custo de mais epinefrina, mas pode adicionar histamina, ajuda a reduzir o tempo de atordoamento, comumente encontrado na forma de medipens de emergência.
+reagent-desc-epinephrine = Estabilizante eficaz que impede morte por asfixia em estado crítico e trata dano leve. Remove toxina heartbreaker ao custo de mais epinefrina, mas pode adicionar histamina. Reduz atordoamento. Comum em medipens de emergência.
 
 reagent-name-hyronalin = hyronalina
 
@@ -114,7 +114,7 @@ reagent-desc-lipozine = Um produto químico que acelera o metabolismo, fazendo o
 
 reagent-name-omnizine = Omnizina
 
-reagent-desc-omnizine =  Uma teoria bem conhecida da conspiração diz que suas origens permanecem um mistério porque revelar os segredos de sua produção tornaria a maioria dos medicamentos comerciais obsoletos.
+reagent-desc-omnizine = Um líquido leitoso calmante com brilho iridescente. Diz a conspiração que suas origens são mistério porque revelá-las tornaria obsoletos os remédios comerciais.
 
 reagent-name-ultravasculine = ultravasculina
 
@@ -128,7 +128,7 @@ reagent-name-ethylredoxrazine = etilredoxrazina
 
 reagent-desc-ethylredoxrazine = Neutraliza os efeitos do álcool na corrente sanguínea, embora seja comumente necessário, raramente é solicitado.
 
-reagent-name-cognizine = -Conheça.
+reagent-name-cognizine = cognizina
 
 reagent-desc-cognizine = Um químico misterioso que é capaz de fazer qualquer criatura não-sensível senciente.
 

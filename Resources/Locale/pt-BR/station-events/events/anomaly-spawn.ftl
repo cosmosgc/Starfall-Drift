@@ -1,4 +1,4 @@
-anomaly-spawn-event-announcement =  Nossas leituras detectaram uma perigosa anomalia interespacial. { $sighting }.
+anomaly-spawn-event-announcement = Nossas leituras detectaram uma perigosa anomalia interespatial. Informe a equipe de pesquisa sobre { $sighting }.
 
 anomaly-spawn-sighting-1 = Sons pulsantes baixos ouvidos em toda a estação.
 

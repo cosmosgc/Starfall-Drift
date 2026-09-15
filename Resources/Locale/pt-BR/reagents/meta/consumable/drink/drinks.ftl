@@ -4,7 +4,7 @@ reagent-desc-coffee =  Uma bebida feita de grãos de café, contém uma quantida
 
 reagent-name-cream =  Creme
 
-reagent-desc-cream = Por que não mistura isso com um uísque?
+reagent-desc-cream = A parte gordurosa ainda líquida do leite. Por que não mistura com um uísque?
 
 reagent-name-coconut-water =  Água de coco
 
@@ -26,7 +26,7 @@ reagent-name-green-tea =  Chá verde.
 
 reagent-desc-green-tea =  Chá verde saboroso.
 
-reagent-name-grenadine = -Grenadine.
+reagent-name-grenadine = grenadine
 
 reagent-desc-grenadine =  Não tem sabor de cereja!
 
@@ -68,7 +68,7 @@ reagent-desc-milk-oat = Surpreendentemente saboroso.
 
 reagent-name-milk-soy =  Leite de soja
 
-reagent-desc-milk-soy = - Os favoritos dos consumidores.
+reagent-desc-milk-soy = Favorito dos consumidores.
 
 reagent-name-milk-spoiled =  leite estragado
 
@@ -90,7 +90,7 @@ reagent-name-soda-water =  Água com gás.
 
 reagent-desc-soda-water = Um recipiente de refrigerante, por que não faz um uísque com refrigerante?
 
-reagent-name-soy-latte = - Café com leite de soja.
+reagent-name-soy-latte = latte de soja
 
 reagent-desc-soy-latte = Um café feito com café expresso e leite de soja cozido.
 
@@ -126,10 +126,10 @@ reagent-name-posca =  posca
 
 reagent-desc-posca = A bebida dos pobres guerreiros de uma época esquecida.
 
-reagent-name-mopwata = - Não, não, não.
+reagent-name-mopwata = mopwata
 
-reagent-desc-mopwata =  Água suja e estagnada.
+reagent-desc-mopwata = Água suja e estagnada de esfregão.
 
-reagent-name-orange-lime-soda = Citrus bikeshed
+reagent-name-orange-lime-soda = citrus bikeshed
 
-reagent-desc-orange-lime-soda =  Não, deve ser limão-limão!
+reagent-desc-orange-lime-soda = O refri devia ser de laranja! Não, devia ser de limão!

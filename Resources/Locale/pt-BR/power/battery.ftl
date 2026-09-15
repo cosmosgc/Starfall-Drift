@@ -2,9 +2,9 @@ battery-menu-footer-left =  Perigo: alta tensão.
 
 battery-menu-footer-right =  7.2 REV 6
 
-battery-menu-out =  Fora
+battery-menu-out = SAÍDA
 
-battery-menu-in = IN
+battery-menu-in = ENTRADA
 
 battery-menu-charge-header =  Circuito de carga
 
@@ -14,7 +14,7 @@ battery-menu-storage-header = Células de armazenamento
 
 battery-menu-passthrough =  Passagem
 
-battery-menu-max = Max:
+battery-menu-max = Máx:
 
 battery-menu-current = Atual:
 

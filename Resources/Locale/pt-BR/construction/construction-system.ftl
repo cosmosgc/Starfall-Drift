@@ -6,4 +6,4 @@ construction-system-already-building =  Você já está construindo isso!
 
 construction-system-inside-container =  Não pode construir enquanto estiver lá!
 
-construction-system-cannot-start =  Você não pode fazer isso!
+construction-system-cannot-start = Você não pode construir isso!

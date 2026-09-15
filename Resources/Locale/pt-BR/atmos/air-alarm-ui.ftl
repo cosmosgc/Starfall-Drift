@@ -25,21 +25,21 @@ air-alarm-ui-window-auto-mode-label =  Modo automático
         [normal] Normal.
         [warning]  Aviso
         [danger]  Perigo.
-        [emagged] Emagrecer
+        [emagged] Sabotado
        *[invalid] Inválido
     }
 
-air-alarm-ui-window-pressure = { $pressure } KPa.
+air-alarm-ui-window-pressure = {$pressure} kPa
 
-air-alarm-ui-window-pressure-indicator = Pressure: [color={ $color }]{ $pressure } KPa.[/color]
+air-alarm-ui-window-pressure-indicator = Pressão: [color={$color}]{$pressure} kPa[/color]
 
 air-alarm-ui-window-temperature = { $tempC } C ({ $temperature } K)
 
-air-alarm-ui-window-temperature-indicator = Temperature: [color={ $color }]{ $tempC } C ({ $temperature } K)[/color]
+air-alarm-ui-window-temperature-indicator = Temperatura: [color={$color}]{$tempC} C ({$temperature} K)[/color]
 
 air-alarm-ui-window-tab-vents = Ventilações
 
-air-alarm-ui-window-tab-scrubbers = Scrubbers
+air-alarm-ui-window-tab-scrubbers = Depuradores
 
 air-alarm-ui-window-tab-sensors =  Sensores.
 
@@ -57,9 +57,9 @@ air-alarm-ui-mode-panic = Pânico
 
 air-alarm-ui-mode-none =  Nenhum.
 
-air-alarm-ui-pump-direction-siphoning = -Siphoning.
+air-alarm-ui-pump-direction-siphoning = Sifonando
 
-air-alarm-ui-pump-direction-scrubbing = Esfregando
+air-alarm-ui-pump-direction-scrubbing = Filtrando
 
 air-alarm-ui-pump-direction-releasing =  Liberando
 
@@ -73,13 +73,13 @@ air-alarm-ui-pressure-bound-both =  Ambos.
 
 air-alarm-ui-widget-gas-filters =  Filtros de gás
 
-air-alarm-ui-widget-enable = Activado
+air-alarm-ui-widget-enable = Ativado
 
 air-alarm-ui-widget-copy = Copia as configurações para dispositivos similares.
 
 air-alarm-ui-widget-copy-tooltip = Copia as configurações deste dispositivo para todos os dispositivos nesta aba de alarme aéreo.
 
-air-alarm-ui-widget-ignore = Ignore
+air-alarm-ui-widget-ignore = Ignorar
 
 air-alarm-ui-atmos-net-device-label =  Endereço: { $address }
 
@@ -95,7 +95,7 @@ air-alarm-ui-scrubber-pump-direction-label =  Direção
 
 air-alarm-ui-scrubber-volume-rate-label =  Taxa (L)
 
-air-alarm-ui-scrubber-wide-net-label = WideNet
+air-alarm-ui-scrubber-wide-net-label = Rede ampla
 
 air-alarm-ui-scrubber-select-all-gases-label =  Selecione todos
 
@@ -122,3 +122,7 @@ air-alarm-ui-thresholds-lower-warning-bound =  Aviso abaixo.
 air-alarm-ui-thresholds-copy = Copiando limiares para todos os dispositivos.
 
 air-alarm-ui-thresholds-copy-tooltip = Copia os limiares do sensor deste dispositivo para todos os dispositivos nesta guia de alarme aéreo.
+
+air-alarm-ui-window-listing-title = {$address} : {-air-alarm-state-name(state:$state)}
+air-alarm-ui-window-alarm-state = [color={$color}]{-air-alarm-state-name(state:$state)}[/color]
+air-alarm-ui-window-alarm-state-indicator = Estado: [color={$color}]{-air-alarm-state-name(state:$state)}[/color]

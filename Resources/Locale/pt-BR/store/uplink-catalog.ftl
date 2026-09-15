@@ -1,15 +1,15 @@
 # Weapons
-uplink-pistol-viper-name = Viper.
+uplink-pistol-viper-name = Viper
 
-uplink-pistol-viper-desc =  Uma arma pequena, facilmente oculta, mas um pouco fraca, reconstruída com um receptor totalmente automático, usa revistas de pistolas (.35 auto).
+uplink-pistol-viper-desc = Uma arma pequena, facilmente ocultável, mas um pouco fraca. Modificada com receptor totalmente automático. Usa carregadores de pistola (.35 auto).
 
 uplink-revolver-python-name = Python
 
 uplink-revolver-python-desc = Um revólver de Sindicato brutalmente simples, eficaz e barulhento, cheio de balas perfurantes, usa .45 magnum.
 
-uplink-pistol-cobra-name =  Cobra.
+uplink-pistol-cobra-name = Cobra
 
-uplink-pistol-cobra-desc =  Uma pistola robusta e robusta com silenciador embutido usa revistas de pistolas (.25 sem caixa).
+uplink-pistol-cobra-desc = Uma pistola resistente e robusta com silenciador embutido. Usa carregadores de pistola (.25 sem estojo).
 
 uplink-rifle-mosin-name = Kardashev-Mosin
 
@@ -27,11 +27,11 @@ uplink-hypereutactic-blade-name = Lâmina hipereutáctica
 
 uplink-hypereutactic-blade-desc =  Uma espada de energia gigante com poder que combina com sua aparência requer duas mãos lentas e desajeitadas, mas muito adeptas a refletir, antes tornadas infames por um agente usando uma máscara de alegria, não gostaria de ver isso vindo até você no corredor.
 
-uplink-edagger-name = Adaga da Energia
+uplink-edagger-name = Adaga de energia
 
 uplink-edagger-desc =  Uma pequena lâmina de energia convenientemente disfarçada na forma de uma caneta.
 
-uplink-fire-axe-flaming-name = -Axe de Fogo.
+uplink-fire-axe-flaming-name = Machado de incêndio
 
 uplink-fire-axe-flaming-desc =  Uma arma de estilo clássico infundida com tecnologia avançada de atmos para permitir que ele coloque alvos em chamas.
 
@@ -43,9 +43,9 @@ uplink-gloves-knuckleduster-name = Sindicate Knuckle Dusters
 
 uplink-gloves-knuckleduster-desc = Um par de espanadores de punhos de plastânio que te deixam socar o suficiente para quebrar a mandíbula dos capitães em pedaços.
 
-uplink-hushpup-name =  Silêncio.
+uplink-hushpup-name = Hushpup
 
-uplink-hushpup-desc =  Uma espingarda com pouca capacidade de revista, usa munição de calibre 50.
+uplink-hushpup-desc = Uma escopeta potente com silenciador e baixa capacidade. Usa munição .50.
 
 uplink-c20r-name = C-20r.
 
@@ -129,9 +129,9 @@ uplink-shrapnel-grenade-name = Granada de estilhaços
 uplink-shrapnel-grenade-desc =  Lança um spray de fragmentos afiados que causam grandes danos contra alvos desarmados.
 
 # Ammo
-uplink-pistol-magazine-name = Revista Pistola (.35 auto)
+uplink-pistol-magazine-name = Carregador de pistola (.35 auto)
 
-uplink-pistol-magazine-desc = Revista Pistola com 15 cartuchos, compatível com o Viper.
+uplink-pistol-magazine-desc = Carregador de pistola com 15 cartuchos, compatível com Viper.
 
 uplink-pistol-magazine-c20r-name = Revista SMG (.35 Auto)
 
@@ -149,9 +149,9 @@ uplink-estoc-ammo-name = Revista Rifle (.20 rifle)
 
 uplink-estoc-ammo-desc =  Uma revista de rifles com 25 cartuchos, compatível com o Estoc DMR.
 
-uplink-pistol-magazine-caseless-name = Revista Pistola (.25 sem caixa)
+uplink-pistol-magazine-caseless-name = Carregador de pistola (.25 sem estojo)
 
-uplink-pistol-magazine-caseless-desc = Revista Pistola com 10 cartuchos, compatível com Cobra.
+uplink-pistol-magazine-caseless-desc = Carregador de pistola com 10 cartuchos, compatível com Cobra.
 
 uplink-speedloader-magnum-name =  Carregador de velocidade (.45 magnum AP)
 

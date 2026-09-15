@@ -18,19 +18,19 @@ health-analyzer-window-entity-blood-level-text =  Nível de sangue:
 
 health-analyzer-window-entity-status-text = Estado:
 
-health-analyzer-window-entity-damage-total-text = Danos Total:
+health-analyzer-window-entity-damage-total-text = Dano total:
 
 health-analyzer-window-damage-group-text = { $damageGroup }: { $amount }
 
 health-analyzer-window-damage-type-text = { $damageType }: { $amount }
 
-health-analyzer-window-entity-unrevivable-text = [color=yellow]O paciente não pode ser ressuscitado por meios normais![/color]
+health-analyzer-window-entity-unrevivable-text = [color=yellow]Composição corporal única detectada! Paciente não pode ser ressuscitado por meios normais![/color]
 
 health-analyzer-window-entity-bleeding-text = [color=red] Paciente tem feridas abertas![/color]
 
 health-analyzer-window-scan-mode-text =  Modo de varredura:
 
-health-analyzer-window-scan-mode-active = Activo.
+health-analyzer-window-scan-mode-active = Ativo
 
 health-analyzer-window-scan-mode-inactive = Inativo
 

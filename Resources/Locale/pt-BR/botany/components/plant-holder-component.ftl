@@ -6,15 +6,15 @@ plant-holder-component-remove-weeds-message =  Você remove as ervas daninhas do
 
 plant-holder-component-remove-weeds-others-message = { $otherName }  começa a desenraizar as ervas daninhas.
 
-plant-holder-component-no-weeds-message =  Não precisa ser desenraizado.
+plant-holder-component-no-weeds-message = Este vaso está sem ervas daninhas! Não precisa capinar.
 
-plant-holder-component-remove-plant-message =  Você remove a planta da fábrica { $name }.
+plant-holder-component-remove-plant-message = Você remove a planta de { $name }.
 
 plant-holder-component-remove-plant-others-message = { $name } remove a planta.
 
 plant-holder-component-no-plant-message =  Não há planta para remover.
 
-plant-holder-component-transfer-message =  Você se transferiu. { $amount } Você está { $owner }.
+plant-holder-component-transfer-message = Você transfere { $amount }u para { $owner }.
 
 plant-holder-component-nothing-to-sample-message =  Não há nada para tirar uma amostra!
 
@@ -24,9 +24,9 @@ plant-holder-component-dead-plant-message =  Esta planta está morta.
 
 plant-holder-component-take-sample-message =  Você pega uma amostra do { $seedName }.
 
-plant-holder-component-compost-message =  Você é um composto. { $usingItem } em { $owner }.
+plant-holder-component-compost-message = Você faz compostagem de { $usingItem } em { $owner }.
 
-plant-holder-component-compost-others-message = { $user } Compostos { $usingItem } em { $owner }.
+plant-holder-component-compost-others-message = { $user } faz compostagem de { $usingItem } em { $owner }.
 
 plant-holder-component-nothing-planted-message =  Não tem nada plantado nele.
 

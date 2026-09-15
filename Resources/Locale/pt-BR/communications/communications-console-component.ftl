@@ -13,18 +13,18 @@ comms-console-menu-broadcast-button-tooltip = Transmita sua mensagem para telas 
 
 comms-console-menu-alert-level-button-tooltip = Mude o nível de alerta da estação, aplica-se imediatamente na seleção.
 
-comms-console-menu-call-shuttle = Chamar lançadeira de emergência
+comms-console-menu-call-shuttle = Chamar transporte de emergência
 
-comms-console-menu-recall-shuttle = Recolher lançadeira de emergência
+comms-console-menu-recall-shuttle = Recolher transporte de emergência
 
-comms-console-menu-emergency-shuttle-button-tooltip = Chama ou recolhe a lançadeira de emergência. Só é possível recolher quando ainda há tempo suficiente.
+comms-console-menu-emergency-shuttle-button-tooltip = Chama ou recolhe o transporte de emergência. Só é possível recolher quando ainda há tempo suficiente.
 
 comms-console-menu-time-remaining =  Tempo restante: { $time }
 
 # Popup
 comms-console-permission-denied = Permissão negada.
 
-comms-console-shuttle-unavailable = A lançadeira está indisponível no momento.
+comms-console-shuttle-unavailable = O transporte está indisponível no momento.
 
 comms-console-message-too-long = A mensagem é muito longa.
 

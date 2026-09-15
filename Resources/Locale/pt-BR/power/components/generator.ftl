@@ -14,17 +14,17 @@ portable-generator-start-success =  Você puxa o cordão, e ele gira para a vida
 
 portable-generator-ui-title =  Gerador portátil.
 
-portable-generator-ui-status-stopped =  Parei.
+portable-generator-ui-status-stopped = Parado:
 
-portable-generator-ui-status-starting =  Começando:
+portable-generator-ui-status-starting = Iniciando:
 
-portable-generator-ui-status-running =  Correndo:
+portable-generator-ui-status-running = Funcionando:
 
-portable-generator-ui-start =  Comecem.
+portable-generator-ui-start = Iniciar
 
-portable-generator-ui-stop =  Pare.
+portable-generator-ui-stop = Parar
 
-portable-generator-ui-target-power-label = - O que está fazendo?
+portable-generator-ui-target-power-label = Potência alvo (kW):
 
 portable-generator-ui-efficiency-label = Eficiência:
 
@@ -38,7 +38,7 @@ portable-generator-ui-eject = Ejetar
 
 portable-generator-ui-eta = (~{ $minutes } min)
 
-portable-generator-ui-unanchored = Sem ancorado.
+portable-generator-ui-unanchored = Sem ancoragem
 
 portable-generator-ui-current-output =  Saída atual: { $voltage }
 
@@ -50,7 +50,8 @@ portable-generator-ui-network-stats-not-connected =  Não conectado.
 
 power-switchable-generator-examine = A potência está definida para { $voltage }.
 
-power-switchable-generator-switched = - Mudança de saída para { $voltage }!
+generator-clogged = { CAPITALIZE(THE($generator)) } desliga de repente!
+power-switchable-generator-switched = Saída alterada para { $voltage }!
 
 power-switchable-voltage =
     { $voltage ->

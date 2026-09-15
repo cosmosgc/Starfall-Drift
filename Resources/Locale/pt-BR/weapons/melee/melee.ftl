@@ -1,6 +1,6 @@
-melee-inject-failed-hardsuit =  Seu. { $weapon }  Não posso injetar através de roupas duras!
+melee-inject-failed-hardsuit = Seu { $weapon } não injeta através de hardsuits!
 
-melee-balloon-pop = { CAPITALIZE(THE($balloon)) }  Estourou!
+melee-balloon-pop = { CAPITALIZE(THE($balloon)) } estourou!
 
 # BatteryComponent
-melee-battery-examine = It has enough charge for [color={ $color }]{ $count }[/color] -Bate.
+melee-battery-examine = Tem carga para [color={ $color }]{ $count }[/color] golpes.

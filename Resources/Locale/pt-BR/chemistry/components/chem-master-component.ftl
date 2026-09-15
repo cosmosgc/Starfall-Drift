@@ -16,7 +16,7 @@ chem-master-window-no-container-loaded-text =  Nenhum recipiente carregado.
 
 chem-master-window-buffer-text = Buffer.
 
-chem-master-window-buffer-label = - Não, não.
+chem-master-window-buffer-label = reservatório:
 
 chem-master-window-buffer-all-amount =  Todos.
 
@@ -56,11 +56,11 @@ chem-master-window-sort-type-latest =  Ordenar por: Recente Primeiro
 
 chem-master-output-buffer-draw = Buffer.
 
-chem-master-output-beaker-draw = Beaker
+chem-master-output-beaker-draw = Béquer
 
 chem-master-window-no-beaker-text = Sem béquer carregado.
 
-chem-master-window-beaker-empty-text = Beker Vazio
+chem-master-window-beaker-empty-text = Béquer vazio
 
 chem-master-window-beaker-low-text =  Não há solução suficiente no copo.
 

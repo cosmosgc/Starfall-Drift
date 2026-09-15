@@ -1,6 +1,7 @@
-bounty-console-label-button-text =  Imprimir etiqueta
+bounty-console-menu-title = Console de recompensas da carga
+bounty-console-label-button-text = Imprimir etiqueta
 
-bounty-console-skip-button-text = Skip.
+bounty-console-skip-button-text = Pular
 
 bounty-console-time-label =  Tempo: [color=orange]{ $time }[/color]
 
@@ -22,7 +23,7 @@ bounty-console-id-label = ID #{ $id }
 
 bounty-console-flavor-left = Recompensas provenientes de traficantes inescrupulosos.
 
-bounty-console-flavor-right = V1.4
+bounty-console-flavor-right = v1.4
 
 bounty-manifest-header = [font size=14][bold]Manifesto oficial de recompensa de carga[/bold] (ID #{ $id })[/font]
 

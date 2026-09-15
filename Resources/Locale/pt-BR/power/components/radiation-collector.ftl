@@ -1,15 +1,13 @@
-power-radiation-collector-gas-tank-missing = O tanque de plasma está no ponto de partida. [color=darkred] vazio[/color].
-
+power-radiation-collector-gas-tank-missing = O slot do tanque de plasma está [color=darkred]vazio[/color].
 power-radiation-collector-gas-tank-present =
-    O tanque de plasma está no ponto de partida. [color=darkgreen]Preenchido[/color] and the tank indicator reads [color={ $fullness ->
-       *[0] red]empty
-        [1] red]low
-        [2] yellow]half-full
-        [3] lime]full
+    O slot do tanque de plasma está [color=darkgreen]cheio[/color] e o indicador marca [color={ $fullness ->
+        *[0] red]vazio
+        [1] red]baixo
+        [2] yellow]meio cheio
+        [3] lime]cheio
     }[/color].
-
 power-radiation-collector-enabled =
-    It's switched [color={ $state ->
-        [true] darkgreen]on
-       *[false] darkred]off
+    Está [color={ $state ->
+        [true] darkgreen]ligado
+        *[false] darkred]desligado
     }[/color].

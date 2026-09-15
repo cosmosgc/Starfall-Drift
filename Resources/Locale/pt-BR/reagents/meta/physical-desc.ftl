@@ -16,23 +16,23 @@ reagent-physical-desc-glowing = Brilhando
 
 reagent-physical-desc-heterogeneous = heterogêneo
 
-reagent-physical-desc-mucus-like = Muco-like
+reagent-physical-desc-mucus-like = mucoso
 
 reagent-physical-desc-cold =  frio
 
-reagent-physical-desc-bee-guts = - Abelhas.
+reagent-physical-desc-bee-guts = entranhas de abelha
 
-reagent-physical-desc-tangy = -Tangy.
+reagent-physical-desc-tangy = picante
 
-reagent-physical-desc-fizzy = -Esqueça.
+reagent-physical-desc-fizzy = efervescente
 
-reagent-physical-desc-fuzzy = Fuzzy
+reagent-physical-desc-fuzzy = peludo
 
 reagent-physical-desc-spicy = Apimentado
 
 reagent-physical-desc-abrasive =  abrasivo
 
-reagent-physical-desc-chalky = -Gizy.
+reagent-physical-desc-chalky = giz
 
 reagent-physical-desc-roaring = rugindo
 
@@ -46,13 +46,13 @@ reagent-physical-desc-bubbling =  borbulhando
 
 reagent-physical-desc-wormy = Verme
 
-reagent-physical-desc-frosty = -Flary.
+reagent-physical-desc-frosty = gelado
 
 reagent-physical-desc-blazing = Quente.
 
 reagent-physical-desc-translucent = translúcido
 
-reagent-physical-desc-sugary = - Doçura.
+reagent-physical-desc-sugary = açucarado
 
 reagent-physical-desc-putrid = Putrid.
 
@@ -70,7 +70,7 @@ reagent-physical-desc-starchy = Amido
 
 reagent-physical-desc-starry =  estrelado
 
-reagent-physical-desc-tart = - Não, não, não.
+reagent-physical-desc-tart = azedo
 
 reagent-physical-desc-aromatic =  aromático
 
@@ -78,13 +78,13 @@ reagent-physical-desc-thick =  espesso
 
 reagent-physical-desc-syrupy = Xarope
 
-reagent-physical-desc-grainy = - Graúdo.
+reagent-physical-desc-grainy = granuloso
 
 reagent-physical-desc-foamy = Espumoso
 
 reagent-physical-desc-tropical = tropical
 
-reagent-physical-desc-coarse = - Que grosseiro.
+reagent-physical-desc-coarse = grosso
 
 reagent-physical-desc-opaque = Opaco
 
@@ -148,7 +148,7 @@ reagent-physical-desc-sour = Azedo
 
 reagent-physical-desc-pungent = pungente
 
-reagent-physical-desc-clumpy = - Aconchegante.
+reagent-physical-desc-clumpy = grumoso
 
 reagent-physical-desc-odorless = Inodoro.
 

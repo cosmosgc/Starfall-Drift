@@ -36,4 +36,4 @@ cargo-gift-fire-protection =  Proteção contra incêndio.
 
 cargo-gift-security-guns =  Armas Letais
 
-cargo-gift-security-riot = Motim de Motim
+cargo-gift-security-riot = Equipamento antimotim

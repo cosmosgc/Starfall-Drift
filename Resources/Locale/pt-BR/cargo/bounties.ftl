@@ -16,7 +16,7 @@ bounty-item-carrot-fries =  Batatas fritas de cenoura.
 
 bounty-item-corn = Orelha de milho
 
-bounty-item-crayon = Crayon.
+bounty-item-crayon = Giz de cera
 
 bounty-item-cuban-carp = Carpa cubana
 
@@ -42,7 +42,7 @@ bounty-item-knife = Faca
 
 bounty-item-lemon = Limão.
 
-bounty-item-lime = Cal.
+bounty-item-lime = Limão-taiti
 
 bounty-item-lung = Pulmão
 
@@ -76,7 +76,7 @@ bounty-item-research-disk =  Disco de pesquisa
 
 bounty-item-scrap =  Merda.
 
-bounty-item-shiv = Shiv.
+bounty-item-shiv = Faca improvisada
 
 bounty-item-soap = Sabão
 

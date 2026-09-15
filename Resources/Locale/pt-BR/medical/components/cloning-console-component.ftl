@@ -1,6 +1,6 @@
 cloning-console-window-title = Consola de clonagem
 
-cloning-console-window-clone-button-text = Clone
+cloning-console-window-clone-button-text = Clonar
 
 cloning-console-window-scanner-id = ID: [color=white]{ $scannerOccupantName }[/color]
 
@@ -48,8 +48,8 @@ cloning-console-component-msg-no-cloner =  Não está pronto, nenhum Cloner foi 
 
 cloning-console-component-msg-no-mind =  Não Pronto: Nenhuma Atividade Alma Detectada
 
-cloning-console-chat-error = ERRO: BIOMASSA INSUFICIENTE. { $units } UNIDADES DE BIOMASS.
+cloning-console-chat-error = ERRO: BIOMASSA INSUFICIENTE. CLONAR ESTE CORPO REQUER { $units } UNIDADES DE BIOMASSA.
 
-cloning-console-uncloneable-trait-error = Erro: fechar é impossível devido à composição corporal do abnormal.
+cloning-console-uncloneable-trait-error = ERRO: CLONAGEM IMPOSSÍVEL DEVIDO À COMPOSIÇÃO CORPORAL ANORMAL.
 
-cloning-console-cellular-warning =  Aviso: Genefsch confiança é o melhor { $percent }Cloning pode ter resultados não explicados.
+cloning-console-cellular-warning = AVISO: ÍNDICE DE CONFIANÇA GENEFSCK É { $percent }%. A CLONAGEM PODE TER RESULTADOS INESPERADOS.

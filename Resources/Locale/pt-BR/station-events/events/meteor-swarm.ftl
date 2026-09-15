@@ -1,4 +1,5 @@
-station-event-meteor-swarm-end-announcement = O enxame de meteoros passou.
+station-event-meteor-swarm-start-announcement = Meteoros foram detectados em rota de colisão com a estação.
+station-event-meteor-swarm-end-announcement = O enxame de meteoros passou. Retornem aos seus postos.
 
 station-event-space-dust-start-announcement = A estação está passando por uma nuvem de detritos, esperando pequenos danos em acessórios externos e acessórios.
 

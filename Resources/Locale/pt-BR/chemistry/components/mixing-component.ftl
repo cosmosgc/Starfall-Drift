@@ -1,13 +1,13 @@
 # Types
 mixing-verb-default-mix =  misturar
 
-mixing-verb-default-grind = - Não, não, não.
+mixing-verb-default-grind = moer
 
 mixing-verb-default-juice =  suco
 
 mixing-verb-default-condense =  condensar
 
-mixing-verb-centrifuge =  centrifugação
+mixing-verb-centrifuge = centrifugar
 
 mixing-verb-electrolysis =  eletrolisar
 
@@ -15,7 +15,7 @@ mixing-verb-holy = Bendito seja
 
 mixing-verb-stir =  mexer
 
-mixing-verb-shake = Shake
+mixing-verb-shake = agitar
 
 default-mixing-success =  Você mistura o { $mixed } com o { $mixer }
 

@@ -10,9 +10,9 @@ guide-entry-airlock-security = Atualizações da câmara de ar
 
 guide-entry-wirepanels = Painéis de fios
 
-guide-entry-airlocks = Encaixe de ar
+guide-entry-airlocks = Eclusas de ar
 
-guide-entry-atmospherics = Atmosféricos
+guide-entry-atmospherics = Atmosfera
 
 guide-entry-pipes = Tubos
 
@@ -20,7 +20,7 @@ guide-entry-pumps =  Bombas
 
 guide-entry-gasmanipulation = Manipulação de Gás
 
-guide-entry-atmosphereinout =  Ambiente dentro e fora
+guide-entry-atmosphereinout = Entrada/saída de atmosfera
 
 guide-entry-airvent = Ventilação
 

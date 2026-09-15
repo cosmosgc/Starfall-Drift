@@ -8,7 +8,7 @@ power-monitoring-window-label-substation = Subestação
 
 power-monitoring-window-label-apc = APC.
 
-power-monitoring-window-label-misc = Misc
+power-monitoring-window-label-misc = Diversos
 
 power-monitoring-window-object-array = { $name } array [{ $count }]
 
@@ -36,10 +36,10 @@ power-monitoring-window-show-mv-cable =  Tensão média
 
 power-monitoring-window-show-lv-cable =  Baixa voltagem.
 
-power-monitoring-window-flavor-left = [user@nanotrasen] [Correr poder] [Rede de energia]
+power-monitoring-window-flavor-left = [user@nanotrasen] $run power_net_query
 
-power-monitoring-window-flavor-right = V1.3
+power-monitoring-window-flavor-right = v1.3
 
-power-monitoring-window-rogue-power-consumer = [color=white][font size=14][bold] Aviso, poder de rogue que consome o dispositivo detetado![/bold][/font][/color]
+power-monitoring-window-rogue-power-consumer = [color=white][font size=14][bold]AVISO — DISPOSITIVO ROGUE CONSUMINDO ENERGIA DETECTADO![/bold][/font][/color]
 
-power-monitoring-window-power-net-abnormalities = [color=white][font size=14][bold]ATENÇÃO - ACTIVIDADE ANORMAL NA NET DE PODER[/bold][/font][/color]
+power-monitoring-window-power-net-abnormalities = [color=white][font size=14][bold]ATENÇÃO — ATIVIDADE ANORMAL NA REDE DE ENERGIA[/bold][/font][/color]

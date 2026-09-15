@@ -18,4 +18,4 @@ deployable-turret-component-cannot-access-wires =  Não pode chegar ao painel de
 # Turret notification for station AI
 station-ai-turret-component-name = { $name } ({ $address })
 
-station-ai-turret-component-is-attacking-warning = { CAPITALIZE($source) } Atacou um alvo hostil.
+station-ai-turret-component-is-attacking-warning = { CAPITALIZE($source) } engajou um alvo hostil.

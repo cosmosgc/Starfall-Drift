@@ -5,9 +5,9 @@ wire-name-ai-vision-light = AIV
 
 wire-name-ai-act-light = AIA.
 
-station-ai-takeover = AI takeing
+station-ai-takeover = Assunção da IA
 
-station-ai-eye-name = - Olho de IA. { $name }
+station-ai-eye-name = Olho da IA - { $name }
 
 station-ai-has-no-power-for-upload = O carregamento falhou. O núcleo de IA está desligado.
 
@@ -17,10 +17,10 @@ station-ai-core-losing-power =  Seu núcleo de IA está funcionando agora com en
 
 station-ai-core-critical-power =  Seu núcleo de IA está com pouca energia, o poder externo deve ser reestabelecido ou pode ocorrer corrupção grave de dados!
 
-station-ai-core-taking-damage =  Seu núcleo de IA está causando danos físicos.
+station-ai-core-taking-damage = Seu núcleo de IA está sofrendo dano físico.
 
 # Ghost role
-station-ai-ghost-role-name =  Estação AI
+station-ai-ghost-role-name = IA da estação
 
 station-ai-ghost-role-description = Sirva a equipe da estação como sua sempre vigilante IA.
 

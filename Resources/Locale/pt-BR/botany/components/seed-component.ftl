@@ -1,8 +1,8 @@
-seed-component-description =  Parece que você pode crescer. [color=yellow]{ $seedName }[/color] -Destas.
+seed-component-description = Parece que dá para cultivar [color=yellow]{ $seedName }[/color] a partir destas.
 
 seed-component-has-variety-tag =  Está marcado como variedade. [color=lightgray] Não. { $seedUid }[/color].
 
-seed-component-plant-yield-text =  Planta Rendimento:    [color=lightblue]{ $seedYield }[/color]
+seed-component-plant-yield-text = Rendimento: [color=lightblue]{ $seedYield }[/color]
 
 seed-component-plant-potency-text =  Potência da planta: [color=lightblue]{ $seedPotency }[/color]
 

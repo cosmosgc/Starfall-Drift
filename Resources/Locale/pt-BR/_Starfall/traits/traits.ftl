@@ -8,4 +8,4 @@ trait-chronic-migraines-others = { THE($target) } Esfrega { POSS-ADJ($target) } 
 
 trait-chronic-migraines-start-ipc =  Seus sistemas gaguejam como erros em cascata sobrecarregam seus processadores...
 
-trait-chronic-migraines-others-ipc = As faíscas estouram { THE($target) }  Como { POSS-ADJ($target) } O chassi começa a tremer.
+trait-chronic-migraines-others-ipc = Faíscas saem de { THE($target) } enquanto { POSS-ADJ($target) } chassi começa a tremer.

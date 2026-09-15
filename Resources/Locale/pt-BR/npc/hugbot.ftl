@@ -1,4 +1,5 @@
-hugbot-start-hug-2 =  Parece que precisa de um abraço!
+hugbot-start-hug-1 = DEFICIÊNCIA DE ABRAÇO NÍVEL 5 DETECTADA!
+hugbot-start-hug-2 = Parece que precisa de um abraço!
 
 hugbot-start-hug-3 =  Alguém precisa de um abraço!
 

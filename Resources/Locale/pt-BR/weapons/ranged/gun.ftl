@@ -1,6 +1,6 @@
-gun-selected-mode-examine = Current selected fire mode is [color={ $color }]{ $mode }[/color].
+gun-selected-mode-examine = Modo de tiro atual é [color={ $color }]{ $mode }[/color].
 
-gun-fire-rate-examine = Fire rate is [color={ $color }]{ $fireRate }[/color] por segundo.
+gun-fire-rate-examine = Cadência é [color={ $color }]{ $fireRate }[/color] por segundo.
 
 gun-selector-verb = Mude para { $mode }
 
@@ -8,7 +8,7 @@ gun-selected-mode = Selecionado { $mode }
 
 gun-disabled =  Não pode usar armas!
 
-gun-set-fire-mode-examine = - Pronto para... [color=yellow]{ $mode }[/color].
+gun-set-fire-mode-examine = Ajustado para [color=yellow]{ $mode }[/color].
 
 gun-set-fire-mode-popup =  Mudado para { $mode }
 
@@ -19,16 +19,16 @@ gun-magazine-fired-empty =  Não sobrou munição!
 # SelectiveFire
 gun-SemiAuto = semi-automático
 
-gun-Burst =  Explodir
+gun-Burst = rajada
 
-gun-FullAuto = full-auto
+gun-FullAuto = automático total
 
 # BallisticAmmoProvider
-gun-ballistic-cycle =  Ciclo
+gun-ballistic-cycle = Ejetar
 
-gun-ballistic-cycled = Ciclismo
+gun-ballistic-cycled = Ejetado
 
-gun-ballistic-cycled-empty = Ciclismo (vazio)
+gun-ballistic-cycled-empty = Ejetado (vazio)
 
 gun-ballistic-transfer-invalid = { CAPITALIZE(THE($ammoEntity)) }  Não caberá dentro. { THE($targetEntity) }!
 
@@ -42,12 +42,12 @@ gun-cartridge-spent = É mesmo. [color=red] gastada[/color].
 gun-cartridge-unspent = É mesmo. [color=lime] Não gasto.[/color].
 
 # BatteryAmmoProvider
-gun-battery-examine = It has enough charge for [color={ $color }]{ $count }[/color] -Tiros.
+gun-battery-examine = Tem carga para [color={ $color }]{ $count }[/color] tiros.
 
 # CartridgeAmmoProvider
 gun-chamber-bolt-ammo =  Arma não aparafusada.
 
-gun-chamber-bolt = The bolt is [color={ $color }]{ $bolt }[/color].
+gun-chamber-bolt = O ferrolho está [color={ $color }]{ $bolt }[/color].
 
 gun-chamber-bolt-closed =  Fechado.
 
@@ -57,25 +57,25 @@ gun-chamber-bolt-close =  Feche o parafuso.
 
 gun-chamber-bolt-open =  Abra o parafuso.
 
-gun-chamber-bolt-closed-state =  Abra.
+gun-chamber-bolt-closed-state = Fechado
 
-gun-chamber-bolt-open-state =  Fechado.
+gun-chamber-bolt-open-state = Aberto
 
-gun-chamber-rack = Rack.
+gun-chamber-rack = Ferrolhar
 
 # MagazineAmmoProvider
-gun-magazine-examine = It has [color={ $color }]{ $count }[/color]  Tiros restantes.
+gun-magazine-examine = Tem [color={ $color }]{ $count }[/color] tiros restantes.
 
 # RevolverAmmoProvider
 gun-revolver-empty = Revólver vazio.
 
-gun-revolver-full = Revolta cheia
+gun-revolver-full = Revólver cheio
 
-gun-revolver-insert = Inserído
+gun-revolver-insert = Inserido
 
-gun-revolver-spin =  Girar o revólver
+gun-revolver-spin = Girar o revólver
 
-gun-revolver-spun = Spun
+gun-revolver-spun = Girado
 
 gun-speedloader-empty =  Carregador de velocidade vazio.
 

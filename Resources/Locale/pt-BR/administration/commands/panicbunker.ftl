@@ -1,6 +1,6 @@
 cmd-panicbunker-desc = Alterna o abrigo de pânico, o que permite restrições mais rigorosas para quem pode entrar no servidor.
 
-cmd-panicbunker-help = Uso: "Pânico-de-pacote".
+cmd-panicbunker-help = Uso: panicbunker
 
 panicbunker-command-enabled = O abrigo de pânico foi ativado.
 
@@ -8,7 +8,7 @@ panicbunker-command-disabled = O abrigo do pânico foi desativado.
 
 cmd-panicbunker_disable_with_admins-desc = Se o abrigo de pânico desativará quando um administrador se conectar.
 
-cmd-panicbunker_disable_with_admins-help = Uso: panicbunker desable with admins
+cmd-panicbunker_disable_with_admins-help = Uso: panicbunker_disable_with_admins <ligado/desligado>
 
 panicbunker-command-disable-with-admins-enabled = O abrigo de pânico irá desativar automaticamente com os administradores online.
 
@@ -16,7 +16,7 @@ panicbunker-command-disable-with-admins-disabled = O abrigo de pânico não irá
 
 cmd-panicbunker_enable_without_admins-desc = Se o abrigo de pânico habilitará quando o último administrador se desconectar.
 
-cmd-panicbunker_enable_without_admins-help = Uso: panicbunker enable sem admins
+cmd-panicbunker_enable_without_admins-help = Uso: panicbunker_enable_without_admins <ligado/desligado>
 
 panicbunker-command-enable-without-admins-enabled = O abrigo de pânico irá ativar automaticamente sem administradores online.
 
@@ -24,7 +24,7 @@ panicbunker-command-enable-without-admins-disabled = O abrigo de pânico não va
 
 cmd-panicbunker_count_deadminned_admins-desc = Se desativa ou não contar os administradores desminizados quando automaticamente ativando e desativando o abrigo de pânico.
 
-cmd-panicbunker_count_deadminned_admins-help = Uso: conta de pânico deadminned admins
+cmd-panicbunker_count_deadminned_admins-help = Uso: panicbunker_count_deadminned_admins <ligado/desligado>
 
 panicbunker-command-count-deadminned-admins-enabled = O abrigo de pânico contará os administradores quando forem feitos para ativar e desativar automaticamente.
 
@@ -32,7 +32,7 @@ panicbunker-command-count-deadminned-admins-disabled = O abrigo de pânico não 
 
 cmd-panicbunker_show_reason-desc = Se quer ou não mostrar aos clientes a razão do pânico os impediu de se juntarem.
 
-cmd-panicbunker_show_reason-help = Uso: Panibunker show razo
+cmd-panicbunker_show_reason-help = Uso: panicbunker_show_reason <ligado/desligado>
 
 panicbunker-command-show-reason-enabled = O abrigo de pânico mostrará uma razão para os usuários que bloqueiam a conexão.
 
@@ -40,7 +40,7 @@ panicbunker-command-show-reason-disabled = O abrigo de pânico não mostrará ma
 
 cmd-panicbunker_min_account_age-desc = Obtém ou define a idade mínima da conta em minutos que uma conta deve ser permitida para se conectar com o abrigo de pânico ativado.
 
-cmd-panicbunker_min_account_age-help = Uso: conta de pânico
+cmd-panicbunker_min_account_age-help = Uso: panicbunker_min_account_age <minutos>
 
 panicbunker-command-min-account-age-is = A idade mínima para o abrigo de pânico é { $minutes }  minutos.
 
@@ -48,7 +48,7 @@ panicbunker-command-min-account-age-set = Defina a idade mínima para o abrigo d
 
 cmd-panicbunker_min_overall_minutes-desc = Obtém ou define o tempo de jogo mínimo em minutos que uma conta deve ser permitida para se conectar com o abrigo de pânico ativado.
 
-cmd-panicbunker_min_overall_minutes-help = Uso: Panicbunker  min inunto minuário minutos<minutos>
+cmd-panicbunker_min_overall_minutes-help = Uso: panicbunker_min_overall_minutes <minutos>
 
 panicbunker-command-min-overall-minutes-is = O tempo mínimo para brincar no abrigo do pânico é { $minutes }  minutos.
 

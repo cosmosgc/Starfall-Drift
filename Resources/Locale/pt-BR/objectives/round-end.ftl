@@ -22,4 +22,4 @@ objectives-objective-partial-failure = { $objective } | [color=orange] Falha par
 
 objectives-objective-fail = { $objective } | [color=red] Falha![/color] ({ TOSTRING($progress, "P0") })
 
-objectives-in-custody = [bold][color=red]? Em custódia ? [/color][/bold]
+objectives-in-custody = [bold][color=red]| SOB CUSTÓDIA |[/color][/bold]

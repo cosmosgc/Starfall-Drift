@@ -15,7 +15,7 @@ seeds-meatwheat-display-name = Trigo de carne
 
 seeds-oat-name =  Aveia
 
-seeds-oat-display-name = - Pernas de aveia.
+seeds-oat-display-name = Talos de aveia
 
 seeds-banana-name = Banana
 
@@ -45,9 +45,9 @@ seeds-lemoon-name = Lemoon
 
 seeds-lemoon-display-name =  árvores de lemoon
 
-seeds-lime-name = - Cal.
+seeds-lime-name = lima
 
-seeds-lime-display-name =  árvores de cal
+seeds-lime-display-name = limoeiros
 
 seeds-orange-name =  laranja
 
@@ -73,9 +73,9 @@ seeds-teaplant-name =  planta de chá
 
 seeds-teaplant-display-name =  plantas de chá
 
-seeds-papercane-name = -Caneta de papel.
+seeds-papercane-name = cana-de-papel
 
-seeds-papercane-display-name = Cães de papel
+seeds-papercane-display-name = canas-de-papel
 
 seeds-towercap-name = Torre cap
 
@@ -161,9 +161,9 @@ seeds-chilly-name = -Fresco.
 
 seeds-chilly-display-name = Pimentas geladas
 
-seeds-poppy-name = Papi
+seeds-poppy-name = papoula
 
-seeds-poppy-display-name = Poppies.
+seeds-poppy-display-name = papoulas
 
 seeds-aloe-name = Aloé.
 
@@ -193,9 +193,9 @@ seeds-galaxythistle-name = Galáxia, cardo
 
 seeds-galaxythistle-display-name = Galáxia, cardo
 
-seeds-glasstle-name = - O quê?
+seeds-glasstle-name = glasstle
 
-seeds-glasstle-display-name = - O quê?
+seeds-glasstle-display-name = glasstles
 
 seeds-flyamanita-name = Voe amanita
 
@@ -239,7 +239,7 @@ seeds-cocoa-display-name =  planta de cacau
 
 seeds-berries-name = bagas
 
-seeds-berries-display-name = berry bucho
+seeds-berries-display-name = arbusto de frutas
 
 seeds-bungo-name = Bungo.
 

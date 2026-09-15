@@ -12,7 +12,7 @@ research-technology-fulton = Fultons.
 
 research-technology-salvage-equipment =  Equipamento de Salvagem
 
-research-technology-advanced-powercells = Powercells avançados.
+research-technology-advanced-powercells = Células de energia avançadas
 
 research-technology-mechanical-compression = Compressão Mecânica
 
@@ -115,7 +115,7 @@ research-technology-laundry-tech = Lavanderia Tech
 
 research-technology-basic-hydroponics =  Hidropônica básica.
 
-research-technology-critter-mechs = Critter Mechs
+research-technology-critter-mechs = Mechs de criaturas
 
 research-technology-food-service =  Serviço de Comida
 

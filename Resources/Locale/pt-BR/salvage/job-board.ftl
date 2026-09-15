@@ -1,6 +1,6 @@
-salvage-job-rank-title-0 = [color=gray]- O que é?[/color]
+salvage-job-rank-title-0 = [color=gray]Catador[/color]
 
-salvage-job-rank-title-1 = [color=white]Scrapper[/color]
+salvage-job-rank-title-1 = [color=white]Sucateiro[/color]
 
 salvage-job-rank-title-2 = [color=yellow] Especialista.[/color]
 
@@ -14,28 +14,28 @@ job-board-ui-label-rank = [bold] Posição:[/bold]
 
 job-board-ui-label-items =  Alvo: [color=red]{ $item }[/color]
 
-job-board-label-text = [head=2] Transferência de trabalho de resgate[/head]
-    { "[italic]For use only on official off-station salvage shipments.[/italic]" }
-    
-    { "[bold]Target:[/bold]" } { $target }
-    { "[bold]Reward:[/bold]" } ${ $reward }
-    
-    
-    { "[italic]Shipments are subject to inspection by the Donk corporation[/italic]" }
+job-board-label-text = [head=2]Ordem de trabalho de salvagem[/head]
+    { "[italic]Somente para remessas oficiais de salvagem fora da estação.[/italic]" }
+
+    { "[bold]Alvo:[/bold]" } { $target }
+    { "[bold]Recompensa:[/bold]" } ${ $reward }
+
+
+    { "[italic]Remessas sujeitas a inspeção pela corporação Donk[/italic]" }
 
 salv-job-board-name-BountyTeethSpaceCarp = Carpa espacial
 
 salv-job-board-name-BountySalvageScrap = Derrubos de espaço profundo
 
-salv-job-board-name-BountySalvageOreGold =  Ouro (Ore)
+salv-job-board-name-BountySalvageOreGold = Ouro (Minério)
 
-salv-job-board-name-BountySalvageOreSilver =  Prata (Ore)
+salv-job-board-name-BountySalvageOreSilver = Prata (Minério)
 
-salv-job-board-name-BountySalvageOreUranium = Urânio (Ore)
+salv-job-board-name-BountySalvageOreUranium = Urânio (Minério)
 
-salv-job-board-name-BountySalvageOrePlasma = Plasma (Ore)
+salv-job-board-name-BountySalvageOrePlasma = Plasma (Minério)
 
-salv-job-board-name-BountySalvageOreBananium = Bananium (Ore)
+salv-job-board-name-BountySalvageOreBananium = Bananium (Minério)
 
 salv-job-board-name-BountyTeethSharkminnow = Sharkminnow
 
