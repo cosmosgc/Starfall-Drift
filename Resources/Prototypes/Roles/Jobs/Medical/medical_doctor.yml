@@ -19,6 +19,10 @@
   - !type:GiveItemOnHolidaySpecial
     holiday: DoctorDay
     prototype: WehMedipen
+  - !type:AddComponentSpecial
+    components:
+      - type: ReplacementAccent
+        accent: chatsanitize-medical
 
 - type: startingGear
   id: DoctorGear

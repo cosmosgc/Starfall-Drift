@@ -38,6 +38,8 @@
   - !type:AddComponentSpecial
     components:
       - type: CommandStaff
+      - type: ReplacementAccent
+        accent: chatsanitize-security
 
 - type: startingGear
   id: HoSGear

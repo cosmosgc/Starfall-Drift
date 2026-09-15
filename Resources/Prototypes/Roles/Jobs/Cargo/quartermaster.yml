@@ -32,6 +32,8 @@
   - !type:AddComponentSpecial
     components:
       - type: CommandStaff
+      - type: ReplacementAccent
+        accent: chatsanitize-cargo
 
 - type: startingGear
   id: QuartermasterGear

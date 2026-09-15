@@ -1,0 +1,1 @@
+station-event-vent-creatures-start-horde-announcement = Atenção. Grande influxo de formas de vida desconhecidas detectado nos dutos de ventilação. Emergência prevista perto de { $location }. Evacuem a área para evitar baixas.

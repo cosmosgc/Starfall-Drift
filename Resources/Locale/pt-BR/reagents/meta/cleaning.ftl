@@ -1,0 +1,10 @@
+reagent-name-bleach = água sanitária
+reagent-desc-bleach = Limpador pesado que limpa pisos melhor que o limpador espacial. Extremamente tóxico se ingerido.
+reagent-name-space-cleaner = limpador espacial
+reagent-desc-space-cleaner = Capaz de limpar quase qualquer superfície suja. O faxineiro provavelmente vai agradecer reposições.
+reagent-name-soap = sabão
+reagent-desc-soap = Eu não lavaria minha boca com isso se fosse você.
+reagent-name-space-lube = lubrificante espacial
+reagent-desc-space-lube = Lubrificante de alto desempenho para manutenção de equipamentos mecânicos extremamente complexos (e certamente não usado para fazer as pessoas escorregarem).
+reagent-name-space-glue = cola espacial
+reagent-desc-space-glue = Cola de alto desempenho para manutenção de equipamentos mecânicos extremamente complexos (e certamente não usada para grudar as pessoas no chão).

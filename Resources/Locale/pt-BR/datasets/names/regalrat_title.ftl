@@ -1,0 +1,33 @@
+names-regal-rat-title-dataset-1 = Rei.
+
+names-regal-rat-title-dataset-2 =  Senhor.
+
+names-regal-rat-title-dataset-3 =  Príncipe.
+
+names-regal-rat-title-dataset-4 =  Imperador.
+
+names-regal-rat-title-dataset-5 =  Supremo.
+
+names-regal-rat-title-dataset-6 = Overlord
+
+names-regal-rat-title-dataset-7 =  Mestre.
+
+names-regal-rat-title-dataset-8 = Shogun.
+
+names-regal-rat-title-dataset-9 = Bojar.
+
+names-regal-rat-title-dataset-10 = Czar
+
+names-regal-rat-title-dataset-11 = Fã #vs
+
+names-regal-rat-title-dataset-12 = Apreciável.
+
+names-regal-rat-title-dataset-13 =  Presidente.
+
+names-regal-rat-title-dataset-14 =  Prefeito.
+
+names-regal-rat-title-dataset-15 =  Chefe.
+
+names-regal-rat-title-dataset-16 =  Profeta
+
+names-regal-rat-title-dataset-17 =  Queijo.
