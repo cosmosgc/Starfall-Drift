@@ -296,7 +296,7 @@ accent-gray-words-75 =  Estou indo.
 
 accent-gray-words-replace-75 =  Ouuti.
 
-accent-gray-words-76 = O que é isso?
+accent-gray-words-76 = what's
 
 accent-gray-words-replace-76 = Sebon.
 
@@ -584,7 +584,7 @@ accent-gray-words-147 =  Certo.
 
 accent-gray-words-replace-147 = Zwu.
 
-accent-gray-words-148 = O que é isso?
+accent-gray-words-148 = whats
 
 accent-gray-words-replace-148 = Sebon.
 

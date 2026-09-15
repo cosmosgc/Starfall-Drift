@@ -13,11 +13,11 @@ admin-verbs-teleport-to = Teletransporte para
 
 admin-verbs-teleport-here = Teletransporte aqui
 
-admin-verbs-freeze = Parado!
+admin-verbs-freeze = Congelar
 
-admin-verbs-freeze-and-mute = Parado e mudo
+admin-verbs-freeze-and-mute = Congelar e silenciar
 
-admin-verbs-unfreeze =  Desarrefecer
+admin-verbs-unfreeze = Descongelar
 
 admin-verbs-camera =  Abra a câmera.
 
@@ -70,9 +70,9 @@ admin-verbs-redescribe = Rediscreva
 
 admin-verbs-rename-and-redescribe = Renomear e redescrever
 
-admin-verbs-bar-job-slots = -Esquecendo o bar.
+admin-verbs-bar-job-slots = Bloquear vagas de cargo
 
-admin-verbs-locate-cargo-shuttle = Localize o transporte de carga
+admin-verbs-locate-cargo-shuttle = Localizar nave de carga
 
 admin-verbs-halt-movement = Alto!
 

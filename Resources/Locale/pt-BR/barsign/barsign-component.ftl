@@ -92,7 +92,7 @@ barsign-prototype-name-emprah = 4 A Emprah
 
 barsign-prototype-description-emprah = Gozados por fanáticos, hereges e patronos danificados pelo cérebro.
 
-barsign-prototype-name-spacebucks = - O que é isso?
+barsign-prototype-name-spacebucks = Spacebucks
 
 barsign-prototype-description-spacebucks =  Não dá para fugir deles, mesmo no espaço, e mesmo depois de começarmos a chamá-los de "pesos".
 

@@ -1,4 +1,4 @@
-accent-german-words-1 = O que é isso?
+accent-german-words-1 = the
 
 accent-german-words-replace-1 = Ze
 

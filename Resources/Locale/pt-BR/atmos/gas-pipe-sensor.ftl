@@ -1,6 +1,6 @@
 gas-pipe-sensor-distribution-loop =  Ciclo de distribuição
 
-gas-pipe-sensor-waste-loop = - O que é isso?
+gas-pipe-sensor-waste-loop = Circuito de resíduos
 
 gas-pipe-sensor-mixed-air = Ar misto
 

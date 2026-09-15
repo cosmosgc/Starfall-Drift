@@ -8,11 +8,11 @@ war-declarator-ui-try-war-button =  Tente declarar guerra.
 
 war-declarator-conditions-small-crew =  Não há saqueadores suficientes para declarar guerra!
 
-war-declarator-conditions-left-outpost = O ônibus deixou o posto avançado.
+war-declarator-conditions-left-outpost = O nave deixou o posto avançado.
 
 war-declarator-conditions-time-out = A declaração de guerra passou o tempo.
 
-war-declarator-conditions-ready = O ônibus pode deixar o posto avançado!
+war-declarator-conditions-ready = O nave pode deixar o posto avançado!
 
 war-declarator-conditions-unknown =  Desconhecido
 

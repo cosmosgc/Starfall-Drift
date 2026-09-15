@@ -1,6 +1,6 @@
 chat-manager-max-message-length =  Sua mensagem excede. { $maxMessageLength }  limite de caracteres
 
-chat-manager-ooc-chat-enabled-message = O COC foi ativado.
+chat-manager-ooc-chat-enabled-message = O chat OOC foi ativado.
 
 chat-manager-ooc-chat-disabled-message = O bate-papo da OOC foi desativado.
 
@@ -37,9 +37,8 @@ chat-manager-sender-announcement =  Comando Central
 chat-manager-sender-announcement-wrap-message = [font size=14][bold]{ $sender }  Anúncio:[/font][font size=12]
     { $message }[/bold][/font]
 
-chat-manager-entity-say-wrap-message = [BubbleHeader][bold][Name]{ $entityName }[/Name][/bold][/BubbleHeader] { $verb }, [font={ $fontType }  Tamanho={ $fontSize }]“[BubbleContent]{ $message }[/BubbleContent]”[/font]
-
-chat-manager-entity-say-bold-wrap-message = [BubbleHeader][bold][Name]{ $entityName }[/Name][/bold][/BubbleHeader] { $verb }, [font={ $fontType }  Tamanho={ $fontSize }]“[BubbleContent][bold]{ $message }[/bold][/BubbleContent]”[/font]
+chat-manager-entity-say-wrap-message = [BubbleHeader][bold][Name]{$entityName}[/Name][/bold][/BubbleHeader] {$verb}, [font={$fontType} size={$fontSize}]“[BubbleContent]{$message}[/BubbleContent]”[/font]
+chat-manager-entity-say-bold-wrap-message = [BubbleHeader][bold][Name]{$entityName}[/Name][/bold][/BubbleHeader] {$verb}, [font={$fontType} size={$fontSize}]“[BubbleContent][bold]{$message}[/bold][/BubbleContent]”[/font]
 
 chat-manager-entity-whisper-wrap-message = [font size=11][italic][BubbleHeader][Name]{ $entityName }[/Name][/BubbleHeader]  sussurros, "[BubbleContent]{ $message }[/BubbleContent]”[/italic][/font]
 
@@ -51,7 +50,7 @@ chat-manager-entity-me-wrap-message = [italic]{ PROPER($entity) ->
         [true] { CAPITALIZE($entityName) } [BubbleContent]{ $message }[/BubbleContent][/italic]
     }
 
-chat-manager-entity-looc-wrap-message =  Socorro! [bold]{ $entityName }:[/bold] { $message }
+chat-manager-entity-looc-wrap-message = LOOC: [bold]{$entityName}:[/bold] {$message}
 
 chat-manager-send-ooc-wrap-message = OOC: [bold]{ $playerName }:[/bold] { $message }
 
@@ -115,11 +114,11 @@ chat-speech-verb-mumble = murmúrios
 
 chat-speech-verb-name-arachnid = Arani.
 
-chat-speech-verb-insect-1 = Chitters
+chat-speech-verb-insect-1 = cricrila
 
-chat-speech-verb-insect-2 = Chirps
+chat-speech-verb-insect-2 = gorjeia
 
-chat-speech-verb-insect-3 = Clicks
+chat-speech-verb-insect-3 = estala
 
 chat-speech-verb-name-moth = Lumnari.
 
@@ -129,17 +128,17 @@ chat-speech-verb-winged-2 = Abas
 
 chat-speech-verb-winged-3 = Buzzes
 
-chat-speech-verb-name-slime = Lixo.
+chat-speech-verb-name-slime = Slime
 
-chat-speech-verb-slime-1 = Sloshes.
+chat-speech-verb-slime-1 = chapinha
 
-chat-speech-verb-slime-2 = Burbles
+chat-speech-verb-slime-2 = borbulha
 
-chat-speech-verb-slime-3 = Esgota
+chat-speech-verb-slime-3 = goteja
 
-chat-speech-verb-name-plant = Diona.
+chat-speech-verb-name-plant = Diona
 
-chat-speech-verb-plant-1 = - O que é isso?
+chat-speech-verb-plant-1 = farfalha
 
 chat-speech-verb-plant-2 =  balança
 
@@ -155,11 +154,11 @@ chat-speech-verb-robotic-3 = "Boops"
 
 chat-speech-verb-name-reptilian = Unathi.
 
-chat-speech-verb-reptilian-1 = Assobios
+chat-speech-verb-reptilian-1 = sibila
 
-chat-speech-verb-reptilian-2 = Snipers
+chat-speech-verb-reptilian-2 = bufa
 
-chat-speech-verb-reptilian-3 = Ofegante
+chat-speech-verb-reptilian-3 = ofega
 
 chat-speech-verb-name-skeleton = Esqueleto
 
@@ -235,7 +234,7 @@ chat-speech-verb-cluwne-3 = Riso
 
 chat-speech-verb-name-ghost =  Fantasma
 
-chat-speech-verb-ghost-1 = Reclamações
+chat-speech-verb-ghost-1 = reclama
 
 chat-speech-verb-ghost-2 =  respira
 

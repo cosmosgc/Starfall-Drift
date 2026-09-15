@@ -2,7 +2,7 @@ game-ticker-restart-round = Recomeçando a ronda...
 
 game-ticker-start-round = A rodada está começando agora...
 
-game-ticker-start-round-cannot-start-game-mode-fallback =  Não foi possível começar. { $failedGameMode } - O que é isso? { $fallbackMode }...
+game-ticker-start-round-cannot-start-game-mode-fallback = Falha ao iniciar o modo { $failedGameMode }! Usando { $fallbackMode }...
 
 game-ticker-start-round-cannot-start-game-mode-restart =  Não foi possível começar. { $failedGameMode } Recomeçando a rodada...
 
@@ -16,7 +16,7 @@ game-ticker-pause-start = O começo foi interrompido.
 
 game-ticker-pause-start-resumed = A contagem regressiva de início está agora retomada.
 
-game-ticker-player-join-game-message = Se é a primeira vez que joga, leia as regras do jogo e não tenha medo de pedir ajuda no LOOC ou OOC (normalmente disponível apenas entre as rodadas).
+game-ticker-player-join-game-message = Bem-vindo à Estação Espacial 14! Se for sua primeira vez, leia as regras e peça ajuda no LOOC ou OOC (normalmente disponível apenas entre as rodadas).
 
 game-ticker-get-info-text =
     ID Round: [color=white]#{ $roundId }[/color]
@@ -39,14 +39,14 @@ game-ticker-no-map-selected = [color=yellow] Mapa ainda não selecionado![/color
 game-ticker-player-no-jobs-available-when-joining =  Quando tentavam entrar no jogo, não havia empregos disponíveis.
 
 # Displayed in chat to admins when a player joins
-player-join-message =  Jogador { $name } -Juntos.
+player-join-message = Jogador { $name } entrou.
 
 player-first-join-message =  Jogador { $name } se juntou pela primeira vez.
 
 # Displayed in chat to admins when a player leaves
-player-leave-message =  Jogador { $name }  Esquerda.
+player-leave-message = Jogador { $name } saiu.
 
-latejoin-arrival-announcement = { $character } ({ $job } Chegou à estação!
+latejoin-arrival-announcement = { $character } ({ $job }) chegou à estação.
 
 latejoin-arrival-announcement-special = { $job } { $character } No convés!
 
@@ -66,6 +66,6 @@ preset-no-one-ready =  Não posso começar. { $presetName } Nenhum jogador está
 
 game-run-level-PreRoundLobby = Lobby pré-round
 
-game-run-level-InRound = Em volta
+game-run-level-InRound = Em rodada
 
-game-run-level-PostRound = -Posto em volta.
+game-run-level-PostRound = Pós-rodada

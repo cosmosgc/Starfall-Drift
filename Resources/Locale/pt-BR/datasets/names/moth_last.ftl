@@ -48,7 +48,7 @@ names-moth-last-dataset-17 = Firefly
 
 names-moth-last-dataset-18 =  Escova de fogo
 
-names-moth-last-dataset-19 = - O que é isso?
+names-moth-last-dataset-19 = Manto de Chamas
 
 names-moth-last-dataset-20 = Lightweaver
 

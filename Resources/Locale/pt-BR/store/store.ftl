@@ -8,9 +8,9 @@ store-ui-balance-display = { $currency }: { $amount }
 
 store-ui-price-display = { $amount } { $currency }
 
-store-ui-discount-display-with-currency = { $amount }  Vamos lá. { $currency }
+store-ui-discount-display-with-currency = { $amount } de desconto em { $currency }
 
-store-ui-discount-display = ({ $amount }  Fora!
+store-ui-discount-display = ({ $amount } de desconto!)
 
 store-ui-traitor-flavor = Copyright (C) NT -30643
 
@@ -24,7 +24,7 @@ store-not-account-owner =  Isto. { $store }  Não está ligado a você!
 
 store-preset-name-uplink = Uplink
 
-store-preset-name-spellbook =  Livro de Ortolas
+store-preset-name-spellbook = Grimório
 
 store-preset-name-nukie-delivery = NukeOps entrega Bluespace
 

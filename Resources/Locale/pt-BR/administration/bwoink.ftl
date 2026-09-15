@@ -2,17 +2,20 @@ bwoink-user-title =  Mensagem de administração
 
 bwoink-admin-title =  Ajuda de administração
 
-bwoink-system-starmute-message-no-other-users =  Ninguém está disponível para receber sua mensagem, tente rastrear administradores de jogos em discórdia.
+bwoink-system-starmute-message-no-other-users = *Sistema: Ninguém está disponível para receber sua mensagem. Tente mencionar os administradores no Discord.
 
 bwoink-system-messages-being-relayed-to-discord =  Todas as mensagens são transmitidas para administradores de jogos via Discórdia.
 
-bwoink-system-introductory-message = Por favor, descreva o problema que encontrou em detalhes... suponha que o administrador de jogos que está resolvendo o problema não tem conhecimento do que aconteceu... não peça eventos especiais ou punições para outros jogadores... qualquer bug e outros problemas relacionados... devem ser relatados através da Discórdia ou do Github... o uso errado deste sistema de mensagens pode resultar em ação disciplinar.
+bwoink-system-introductory-message =
+    Por favor, descreva o problema que você encontrou em detalhes. Suponha que o administrador que está resolvendo o problema não tenha conhecimento do ocorrido.
+    Por favor, não peça eventos especiais ou punições para outros jogadores.
+    Quaisquer bugs e outros problemas devem ser reportados pelo Discord ou GitHub.
+    O uso indevido deste sistema pode resultar em ação disciplinar.
 
-bwoink-system-typing-indicator =
-    { $players } { $count ->
-        [one] É
-       *[other] são
-    } Datilografando...
+bwoink-system-typing-indicator = { $players } { $count ->
+        [one] está
+       *[other] estão
+    } digitando...
 
 admin-ahelp-admin-only =  Só o administrador.
 

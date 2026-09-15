@@ -59,7 +59,7 @@ steal-target-groups-ammo-tech-fab-circuitboard =  Placa de circuito de munição
 
 steal-target-groups-clothing-head-hat-warden = O boné do diretor.
 
-steal-target-groups-clothing-outer-hardsuit-void-paramed = - O que é isso?
+steal-target-groups-clothing-outer-hardsuit-void-paramed = traje de vácuo paramédico
 
 steal-target-groups-medical-tech-fab-circuitboard =  Placa de máquina de tecnologia médica
 

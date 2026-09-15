@@ -6,7 +6,7 @@ revenant-overload-name =  Sobrecarregar luzes
 
 revenant-overload-desc =  Sobrecarrega todas as luzes próximas, fazendo com que as luzes pulam e mandem raios perigosos, e o usa para deixá-lo vulnerável a ataques por um longo período de tempo.
 
-revenant-blight-name = - O que é isso?
+revenant-blight-name = Praga
 
 revenant-blight-desc = Infecta todos os organismos próximos com uma doença infecciosa que causa acúmulo tóxico e cansaço, e o usa para deixá-lo vulnerável a ataques por um período médio de tempo.
 

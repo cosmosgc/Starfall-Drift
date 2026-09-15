@@ -12,11 +12,11 @@ reactor-unanchor-warning =  Não pode desancorar o reator nuclear enquanto não 
 
 reactor-anchor-warning =  Posição de âncora inválida.
 
-reactor-smoke-start-message = O que é isso? { $owner }  atingiu uma temperatura perigosa. { $temperature }K. Intervente imediatamente para evitar o colapso.
+reactor-smoke-start-message = ALERTA: { $owner } atingiu temperatura perigosa: { $temperature }K. Intervenha imediatamente para evitar fusão.
 
 reactor-smoke-stop-message = O { $owner }  Tenha um bom dia.
 
-reactor-fire-start-message = O que é isso? { $owner }  Chegou à temperatura crítica: { $temperature }K. Meltdown Imminent.
+reactor-fire-start-message = ALERTA: { $owner } atingiu temperatura CRÍTICA: { $temperature }K. FUSÃO IMINENTE.
 
 reactor-fire-stop-message = O { $owner } Esfriou abaixo da temperatura crítica, derretimento evitado.
 

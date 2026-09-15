@@ -178,7 +178,7 @@ uplink-holster-name = Ombro Holster
 
 uplink-holster-desc = Um coldre de ombro profundo capaz de manter muitos tipos de balística.
 
-uplink-chest-rig-name = - O que é isso?
+uplink-chest-rig-name = Colete Tático
 
 uplink-chest-rig-desc = Tecelagem tática resistente à explosão usada para guardar mercadorias traidoras.
 

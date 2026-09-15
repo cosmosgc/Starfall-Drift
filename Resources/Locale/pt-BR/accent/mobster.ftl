@@ -16,7 +16,7 @@ accent-mobster-words-2 =  Deveria.
 
 accent-mobster-words-replace-2 =  Deveria.
 
-accent-mobster-words-3 = O que é isso?
+accent-mobster-words-3 = the
 
 accent-mobster-words-replace-3 = Da
 

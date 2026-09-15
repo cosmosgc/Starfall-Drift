@@ -2,7 +2,7 @@ tiles-space =  espaço
 
 tiles-plating = chapeamento
 
-tiles-rcd-plating = - O que é isso?
+tiles-rcd-plating = placa RCD
 
 tiles-lattice = laticínio
 
@@ -54,7 +54,7 @@ tiles-white-floor-mono =  Aço branco mono azulejo
 
 tiles-white-floor-pavement-vertical =  Aço branco pavimento vertical
 
-tiles-white-floor-herringbone = O que é isso?
+tiles-white-floor-herringbone = piso espinha de peixe de aço branco
 
 tiles-white-floor-diagonal-mini = Mini-tile de aço branco diagonal
 

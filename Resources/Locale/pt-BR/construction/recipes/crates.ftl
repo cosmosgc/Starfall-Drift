@@ -1,4 +1,4 @@
-construction-recipe-crate-freezer = - O que é isso?
+construction-recipe-crate-freezer = caixa freezer
 
 construction-recipe-big-box =  Caixa de papelão grande.
 

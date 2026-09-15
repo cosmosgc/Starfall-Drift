@@ -2,9 +2,9 @@ ghost-gui-return-to-body-button =  Volte para o corpo.
 
 ghost-gui-ghost-warp-button = Dobra Fantasma
 
-ghost-gui-ghost-roles-button =  Papeles Fantasmas ({ $count })
+ghost-gui-ghost-roles-button = Funções Fantasma ({ $count })
 
-ghost-gui-toggle-ghost-visibility-popup-on = Visibilidade ativa de fantasmas.
+ghost-gui-toggle-ghost-visibility-popup-on = Visibilidade de fantasmas ativada.
 
 ghost-gui-toggle-ghost-visibility-popup-off = Visibilidade desativada de fantasmas.
 
@@ -26,22 +26,20 @@ ghost-target-window-current-button = Dobra: { $name }
 
 ghost-target-window-warp-to-most-followed = Dobra para os mais seguidos
 
-ghost-roles-window-title =  Papeles Fantasmas
+ghost-roles-window-title = Funções Fantasma
 
-ghost-roles-window-available-button =  Disponível ({ $rolesCount })
+ghost-roles-window-available-button = Disponível ({ $rolesCount })
 
-ghost-roles-window-join-raffle-button =  Junte-se à rifa.
+ghost-roles-window-join-raffle-button = Participar do sorteio
 
-ghost-roles-window-raffle-in-progress-button =
-     Junte-se à rifa.{ $time }  esquerda, { $players ->
-        [one] { $players }  jogador
-       *[other] { $players }  Jogadores
+ghost-roles-window-raffle-in-progress-button = Participar do sorteio ({ $time } restantes, { $players ->
+        [one] { $players } jogador
+       *[other] { $players } jogadores
     })
 
-ghost-roles-window-leave-raffle-button =
-     Deixe a rifa ({ $time }  esquerda, { $players ->
-        [one] { $players }  jogador
-       *[other] { $players }  Jogadores
+ghost-roles-window-leave-raffle-button = Sair do sorteio ({ $time } restantes, { $players ->
+        [one] { $players } jogador
+       *[other] { $players } jogadores
     })
 
 ghost-roles-window-request-role-button =  Pedido

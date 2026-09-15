@@ -24,13 +24,13 @@ job-name-chef = Chef
 
 job-name-chaplain = Capelão.
 
-job-name-chemist = Chemist.
+job-name-chemist = Químico
 
 job-name-clown = Palhaço
 
 job-name-cluwne = Cluwne
 
-job-name-cmo =  Chefe de Oficial Médico.
+job-name-cmo = Chefe Médico
 
 job-name-deathsquad =  Esquadrão da Morte
 
@@ -96,14 +96,14 @@ job-name-technical-assistant =  Assistente Técnico
 
 job-name-visitor =  Visitante.
 
-job-name-warden =  Diretor
+job-name-warden = Carcereiro
 
 # unused jobs
 # these are required for the agent ID job icon tooltips
 # I am keeping them for roleplaying opportunities
-job-name-geneticist = Geneticista.
+job-name-geneticist = Geneticista
 
-job-name-boxer = Boxer.
+job-name-boxer = Boxeador
 
 job-name-no-id = Sem identificação.
 
@@ -115,18 +115,18 @@ job-name-unknown =  Desconhecido
 
 job-name-virologist = Virologista
 
-job-name-zookeeper = Zookeeper
+job-name-zookeeper = Tratador
 
 # antagonist jobs
-job-name-ninja = Ninja.
+job-name-ninja = Ninja
 
 job-name-syndicate = Sindicato
 
-job-name-syndicate-commander =  Comandante do Sindicato
+job-name-syndicate-commander = Comandante do Sindicato
 
-job-name-syndicate-corpsman = Sindicate Corpsman
+job-name-syndicate-corpsman = Médico do Sindicato
 
-job-name-syndicate-operative = Sindicate Operative
+job-name-syndicate-operative = Operativo do Sindicato
 
 job-name-pirate =  Pirata.
 
@@ -160,11 +160,11 @@ JobChaplain = Capelão.
 
 JobChef = Chef
 
-JobChemist = Chemist.
+JobChemist = Químico
 
-JobChiefEngineer =  Engenheiro Chefe.
+JobChiefEngineer = Engenheiro Chefe
 
-JobChiefMedicalOfficer =  Chefe de Oficial Médico.
+JobChiefMedicalOfficer = Chefe Médico
 
 JobClown = Palhaço
 
@@ -234,4 +234,4 @@ JobTechnicalAssistant =  Assistente Técnico
 
 JobVisitor =  Visitante.
 
-JobWarden =  Diretor
+JobWarden = Carcereiro

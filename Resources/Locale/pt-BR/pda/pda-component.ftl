@@ -27,7 +27,7 @@ comp-pda-ui-footer =  Assistente Digital Pessoal
 
 comp-pda-ui-station =  Estação: [color=white]{ $station }[/color]
 
-comp-pda-ui-station-alert-level = Alert Level: [color={ $color }]{ $level }[/color]
+comp-pda-ui-station-alert-level = Nível de Alerta: [color={$color}]{$level}[/color]
 
 comp-pda-ui-station-alert-level-instructions =  Instruções: [color=white]{ $instructions }[/color]
 
@@ -37,7 +37,7 @@ comp-pda-ui-eject-id-button = Ejetar ID
 
 comp-pda-ui-eject-pen-button = Ejetar caneta
 
-comp-pda-ui-ringtone-button =  Toquem!
+comp-pda-ui-ringtone-button = Toque
 
 comp-pda-ui-ringtone-button-description = Mude o toque do seu PDA.
 

@@ -144,7 +144,7 @@ accent-cowboy-replacement-36 = - Porco amarrado.
 
 accent-cowboy-words-37 = Que diabos?
 
-accent-cowboy-replacement-37 = O que é isso?
+accent-cowboy-replacement-37 = que diabos
 
 accent-cowboy-words-38 =  Olá.
 
@@ -262,7 +262,7 @@ accent-cowboy-words-66 =  Merda.
 
 accent-cowboy-replacement-66 = Leis tortas.
 
-accent-cowboy-words-67 = - O que é isso?
+accent-cowboy-words-67 = sapato
 
 accent-cowboy-replacement-67 =  Bota
 
@@ -272,7 +272,7 @@ accent-cowboy-replacement-68 =  Botas
 
 accent-cowboy-words-69 = Roubo
 
-accent-cowboy-replacement-69 = - O que é isso?
+accent-cowboy-replacement-69 = farfalhar
 
 accent-cowboy-words-70 = Roubou.
 

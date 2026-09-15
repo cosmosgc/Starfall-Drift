@@ -1,4 +1,4 @@
-names-cargo-shuttle-dataset-1 = Um ônibus espacial não vai acontecer.
+names-cargo-shuttle-dataset-1 = Um nave espacial não vai acontecer.
 
 names-cargo-shuttle-dataset-2 = Grande Transporte de Dinheiro
 

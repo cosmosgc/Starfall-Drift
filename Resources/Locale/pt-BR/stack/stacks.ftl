@@ -28,9 +28,9 @@ stack-reinforced-plasma-glass =  vidro de plasma reforçado
 
 stack-reinforced-uranium-glass =  vidro de urânio reforçado
 
-stack-runed-glass =  Vidros ruidosos
+stack-runed-glass = vidro rúnico
 
-stack-runed-steel =  Aço em funcionamento
+stack-runed-steel = aço rúnico
 
 stack-runed-plasteel = Plasteel runado
 
@@ -46,26 +46,26 @@ stack-bones =
 
 stack-cloth =
     { $amount ->
-        [1]  pano
-       *[other] -Trocos.
+        [1] pano
+       *[other] panos
     }
 
 stack-lv-cable =
     { $amount ->
-        [1] LV cabo
-       *[other] Cabos lv
+        [1] cabo de baixa tensão
+       *[other] cabos de baixa tensão
     }
 
 stack-mv-cable =
     { $amount ->
-        [1] Cabo de vídeo
-       *[other] Cabos de vídeo
+        [1] cabo de média tensão
+       *[other] cabos de média tensão
     }
 
 stack-hv-cable =
     { $amount ->
-        [1] Cabo de TV
-       *[other] Cabos de VH.
+        [1] cabo de alta tensão
+       *[other] cabos de alta tensão
     }
 
 stack-explosive-cord =
@@ -88,8 +88,8 @@ stack-durathread =
 
 stack-rods =
     { $amount ->
-        [1] Rod.
-       *[other] Varas
+        [1] barra
+       *[other] barras
     }
 
 stack-meat-sheet =
@@ -106,8 +106,8 @@ stack-space-carp-tooth =
 
 stack-paper =
     { $amount ->
-        [1]  Papel
-       *[other]  Documentos
+        [1] papel
+       *[other] papéis
     }
 
 stack-diamond =
@@ -145,7 +145,7 @@ stack-ground-tobacco = Tabaco moído
 
 stack-ground-cannabis = Canábis moído
 
-stack-ground-rainbow-cannabis = Canábis arco-íris terra
+stack-ground-rainbow-cannabis = cannabis arco-íris moída
 
 stack-dried-tobacco-leaves =  Folhas de tabaco secas
 
@@ -159,10 +159,9 @@ stack-cigarette-filter =
        *[other]  filtros
     }
 
-stack-rolling-paper =
-    Rolando { $amount ->
-        [1]  Papel
-       *[other]  Documentos
+stack-rolling-paper = papel de enrolar { $amount ->
+        [1]  papel
+       *[other] papéis
     }
 
 stack-fulton = Fulton.
@@ -175,9 +174,9 @@ stack-biomass =  biomassa
 
 stack-pyrotton = piroton
 
-stack-sharkminnow-tooth = Dente de tubarão agora
+stack-sharkminnow-tooth = dente de tubarão-minnow
 
-stack-goliath-hide = Golias escondem-se.
+stack-goliath-hide = pele de goliath
 
 stack-telecrystal = Telecristal
 
@@ -235,7 +234,7 @@ stack-dark-steel-diagonal-mini-tile =  Aço escuro diagonal mini azulejo
 
 stack-dark-steel-diagonal-tile =  Aço escuro, azulejo diagonal.
 
-stack-dark-steel-herringbone = O osso de arenque de aço escuro
+stack-dark-steel-herringbone = piso espinha de peixe de aço escuro
 
 stack-dark-steel-horizontal-slats-tile-bordered =  Aço escuro bordado horizontal ladrilho
 
@@ -259,7 +258,7 @@ stack-steel-diagonal-mini-tile =  Aço diagonal mini azulejo
 
 stack-steel-diagonal-tile =  Aço diagonal azulejo
 
-stack-steel-herringbone = -Arenque de aço.
+stack-steel-herringbone = piso espinha de peixe de aço
 
 stack-steel-horizontal-slats-tile-bordered =  aço bordado horizontal ladrilho ladrilho
 
@@ -283,7 +282,7 @@ stack-white-steel-diagonal-mini-tile =  Aço branco diagonal mini azulejo
 
 stack-white-steel-diagonal-tile =  Aço branco, azulejo diagonal.
 
-stack-white-steel-herringbone = O que é isso?
+stack-white-steel-herringbone = piso espinha de peixe de aço branco
 
 stack-white-steel-horizontal-slats-tile-bordered =  Aço branco bordado horizontal ladrilho
 
@@ -307,9 +306,9 @@ stack-steel-tile = telha de aço
 
 stack-wood-floor =  piso de madeira
 
-stack-techmaint-floor = -Techmaint Floor
+stack-techmaint-floor = piso de manutenção técnica
 
-stack-techmaint-floor-dark =  Andar escuro de tecnologia.
+stack-techmaint-floor-dark = piso escuro de manutenção técnica
 
 stack-freezer-tile = telha de freezer
 
@@ -335,11 +334,11 @@ stack-dirty-tile =  azulejo sujo
 
 stack-white-shuttle-tile =  Azulejo branco
 
-stack-blue-shuttle-tile =  azul-veículo azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul
+stack-blue-shuttle-tile = azulejo de nave azul
 
 stack-orange-shuttle-tile =  azulejo laranja shuttle
 
-stack-purple-shuttle-tile = - O que é isso?
+stack-purple-shuttle-tile = azulejo de nave roxa
 
 stack-red-shuttle-tile =  azulejo vermelho
 
@@ -349,7 +348,7 @@ stack-black-shuttle-tile = - Um azulejo preto.
 
 stack-eighties-floor-tile =  Piso de 80 andares
 
-stack-blue-arcade-tile =  azul arcade azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul azul
+stack-blue-arcade-tile = azulejo de fliperama azul
 
 stack-red-arcade-tile =  azulejo vermelho arcade
 
@@ -439,7 +438,7 @@ stack-snow-floor-tile = - Sim.
 
 stack-wood-patter-floor =  piso de madeira padrão
 
-stack-flesh-floor = Pão de carne
+stack-flesh-floor = piso de carne
 
 stack-steel-maint-floor =  Aço piso principal
 

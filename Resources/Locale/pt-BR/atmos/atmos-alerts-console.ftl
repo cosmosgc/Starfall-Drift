@@ -20,13 +20,13 @@ atmos-alerts-window-temperature-value = { $valueInC } °C ({ $valueInK } K)
 
 atmos-alerts-window-invalid-value = N/A
 
-atmos-alerts-window-total-mol-label = Toupeiras.
+atmos-alerts-window-total-mol-label = Total de mols
 
 atmos-alerts-window-total-mol-value = { $value } mol
 
 atmos-alerts-window-pressure-label =  Pressão.
 
-atmos-alerts-window-pressure-value = { $value } KPa.
+atmos-alerts-window-pressure-value = {$value} kPa
 
 atmos-alerts-window-oxygenation-label = Oxigenação
 
@@ -50,7 +50,7 @@ atmos-alerts-window-danger-state =  Perigo!
 
 atmos-alerts-window-invalid-state = Inativo
 
-atmos-alerts-window-no-active-alerts = [font size=16][color=white]Sem alertas ativos.[/color] [color={ $color }]Situation normal[/color][/font]
+atmos-alerts-window-no-active-alerts = [font size=16][color=white]Sem alertas ativos -[/color] [color={$color}]Situação normal[/color][/font]
 
 atmos-alerts-window-no-data-available =  Não há dados disponíveis.
 

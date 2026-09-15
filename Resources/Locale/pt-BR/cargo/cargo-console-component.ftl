@@ -10,15 +10,15 @@ cargo-console-menu-account-name-none-text =  Nenhum.
 
 cargo-console-menu-account-name-format = [bold][color={ $color }]{ $name }[/color][/bold] [font="Monospace"]\[{ $code }\][/font]
 
-cargo-console-menu-shuttle-name-label =  Nome do ônibus:{ " " }
+cargo-console-menu-shuttle-name-label = Nome da nave:{ " " }
 
 cargo-console-menu-shuttle-name-none-text =  Nenhum.
 
-cargo-console-menu-points-label = Equilíbrio:{ " " }
+cargo-console-menu-points-label = Saldo:{ " " }
 
 cargo-console-menu-points-amount = ${ $amount }
 
-cargo-console-menu-shuttle-status-label =  Situação do transporte:{ " " }
+cargo-console-menu-shuttle-status-label = Status da nave:{ " " }
 
 cargo-console-menu-shuttle-status-away-text =  Longe.
 

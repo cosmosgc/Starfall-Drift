@@ -1,61 +1,35 @@
-cmd-delayroundend-desc = Para o temporizador que termina quando o ônibus de emergência sai do hiperespaço.
+cmd-delayroundend-desc = Pausa o temporizador que encerra a rodada quando a lançadeira de emergência sai do hiperespaço.
+cmd-delayroundend-help = Uso: delayroundend
+emergency-shuttle-command-round-yes = Rodada atrasada.
+emergency-shuttle-command-round-no = Não foi possível atrasar o fim da rodada.
 
-cmd-delayroundend-help = Uso: Atraso de Rodada
+cmd-dockemergencyshuttle-desc = Chama a lançadeira de emergência e acopla à estação, se possível.
+cmd-dockemergencyshuttle-help = Uso: dockemergencyshuttle
 
-emergency-shuttle-command-round-yes = Atrasado.
+cmd-launchemergencyshuttle-desc = Lança antecipadamente a lançadeira de emergência, se possível.
+cmd-launchemergencyshuttle-help = Uso: launchemergencyshuttle
 
-emergency-shuttle-command-round-no =  Incapaz de atrasar o final.
+emergency-shuttle-left = A lançadeira de emergência deixou a estação. Estimativa de {$transitTime} segundos até chegar à CentComm.
+emergency-shuttle-launch-time = A lançadeira de emergência será lançada em {$consoleAccumulator} segundos.
+emergency-shuttle-docked = A lançadeira de emergência acoplou {$direction} da estação, {$location}. Partirá em {$time} segundos.{$extended}
+emergency-shuttle-good-luck = A lançadeira de emergência não conseguiu encontrar a estação. Boa sorte.
+emergency-shuttle-nearby = A lançadeira de emergência não encontrou uma porta de acoplagem válida. Surgiu {$direction} da estação, {$location}. Partirá em {$time} segundos.{$extended}
+emergency-shuttle-extended = {" "}O tempo de lançamento foi estendido devido a circunstâncias inconvenientes.
 
-cmd-dockemergencyshuttle-desc =  Chama o ônibus de emergência e atraca para a estação... se puder.
+emergency-shuttle-console-no-early-launches = Lançamento antecipado desativado.
+emergency-shuttle-console-auth-left = Faltam {$remaining} autorizações para lançamento antecipado.
+emergency-shuttle-console-auth-revoked = Autorização de lançamento antecipado revogada, faltam {$remaining} autorizações.
+emergency-shuttle-console-denied = Acesso negado.
 
-cmd-dockemergencyshuttle-help = Uso: Emergências do cais
+emergency-shuttle-console-window-title = Console da Lançadeira de Emergência
+emergency-shuttle-ui-engines = MOTORES:
+emergency-shuttle-ui-idle = Ociosa
+emergency-shuttle-ui-repeal-all = Revogar Tudo
+emergency-shuttle-ui-early-authorize = Autorização de Lançamento Antecipado
+emergency-shuttle-ui-authorize = AUTORIZAR
+emergency-shuttle-ui-repeal = REVOGAR
+emergency-shuttle-ui-authorizations = Autorizações
+emergency-shuttle-ui-remaining = Restantes: {$remaining}
 
-cmd-launchemergencyshuttle-desc =  Lançar o ônibus de emergência se possível.
-
-cmd-launchemergencyshuttle-help = Uso: lançamento de emergências
-
-# Emergency shuttle
-emergency-shuttle-left = O ônibus de emergência saiu da estação. { $transitTime }  segundos até que a nave chegue à CentComm.
-
-emergency-shuttle-launch-time = A nave de emergência vai lançar em { $consoleAccumulator }  segundos.
-
-emergency-shuttle-docked = O ônibus de emergência atracou. { $direction } da estação, { $location } Ele vai sair em { $time }  segundos.{ $extended }
-
-emergency-shuttle-good-luck = O ônibus de emergência não consegue achar uma estação.
-
-emergency-shuttle-nearby = O ônibus de emergência não consegue achar uma porta de atracação válida. { $direction } da estação, { $location } Ele vai sair em { $time }  segundos.{ $extended }
-
-emergency-shuttle-extended = { " " }O tempo de lançamento foi prolongado devido a circunstâncias inconvenientes.
-
-# Emergency shuttle console popup / announcement
-emergency-shuttle-console-no-early-launches = O lançamento antecipado está desativado.
-
-emergency-shuttle-console-auth-left = { $remaining } As autorizações são necessárias até que o transporte seja lançado mais cedo.
-
-emergency-shuttle-console-auth-revoked =  Autorização de lançamento revogada, { $remaining }  Autorização necessária.
-
-emergency-shuttle-console-denied =  Acesso negado.
-
-# UI
-emergency-shuttle-console-window-title = Consola de transporte de emergência
-
-emergency-shuttle-ui-engines = - Não.
-
-emergency-shuttle-ui-idle = Idle
-
-emergency-shuttle-ui-repeal-all = Revogar tudo
-
-emergency-shuttle-ui-early-authorize =  Autorização de Lançamento Antecipado
-
-emergency-shuttle-ui-authorize =  AUTORIZA
-
-emergency-shuttle-ui-repeal = REVOGAÇÃO
-
-emergency-shuttle-ui-authorizations =  Autorizações
-
-emergency-shuttle-ui-remaining =  Restando: { $remaining }
-
-# Map Misc.
-map-name-centcomm =  Comando Central
-
-map-name-terminal =  Terminal de Chegadas
+map-name-centcomm = Comando Central
+map-name-terminal = Terminal de Chegadas

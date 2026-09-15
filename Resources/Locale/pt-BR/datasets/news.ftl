@@ -90,13 +90,13 @@ news-dataset-45 =  Melhor apontar alto e perder, depois apontar baixo e acertar.
 
 news-dataset-46 = Na mesa do espertinho Sammy, os meteoros frequentemente atacam o mesmo lugar mais de uma vez.
 
-news-dataset-47 =  Olhe para os dois lados antes de embarcar no ônibus espacial.
+news-dataset-47 =  Olhe para os dois lados antes de embarcar no nave espacial.
 
 news-dataset-48 = Tommy B. Saif Sez: espere, o repentino pára às vezes necessário.
 
 news-dataset-49 =  Mantenha os dedos longe dos painéis móveis.
 
-news-dataset-50 =  Não há volta à esquerda, exceto os ônibus.
+news-dataset-50 =  Não há volta à esquerda, exceto os nave.
 
 news-dataset-51 = Tommy B. Saif Sez, devolva assentos e bandejas para sua posição correta e correta.
 

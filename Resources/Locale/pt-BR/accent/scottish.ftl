@@ -160,9 +160,9 @@ accent-scottish-words-41 = para
 
 accent-scottish-words-replace-41 = - Não, não, não.
 
-accent-scottish-words-42 = O que é isso?
+accent-scottish-words-42 = the
 
-accent-scottish-words-replace-42 = - O que é isso?
+accent-scottish-words-replace-42 = tha
 
 accent-scottish-words-43 = ter
 

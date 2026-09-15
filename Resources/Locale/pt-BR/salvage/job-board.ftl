@@ -8,7 +8,7 @@ salvage-job-rank-title-MAX = [color=gold] Salvager Supremo[/color]
 
 job-board-radio-announce = A classificação de Salvager aumentou para [bold]{ $rank }[/bold]Novas ordens podem ser compradas na carga.
 
-job-board-ui-window-title = - O que é isso?
+job-board-ui-window-title = Quadro de Empregos
 
 job-board-ui-label-rank = [bold] Posição:[/bold]
 

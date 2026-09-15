@@ -46,7 +46,7 @@ construction-recipe-pinion-airlock = Encaixe de ar do relógio
 
 construction-recipe-pinion-airlock-glass = Encaixe de ar de relógio de vidro
 
-construction-recipe-airlock-glass-shuttle = Encaixe de ar do ônibus espacial de vidro
+construction-recipe-airlock-glass-shuttle = Encaixe de ar do nave espacial de vidro
 
 construction-recipe-plastic-flaps-clear = flaps de plástico (limpo)
 

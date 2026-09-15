@@ -136,7 +136,7 @@ food-sequence-content-tobacco =  tabaco
 
 food-sequence-content-hamster = hamster
 
-food-sequence-content-suppermatter = - O que é isso?
+food-sequence-content-suppermatter = supermatéria
 
 food-sequence-content-capfruit = capfruit
 

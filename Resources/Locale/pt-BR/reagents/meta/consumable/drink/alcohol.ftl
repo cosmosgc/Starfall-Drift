@@ -298,7 +298,7 @@ reagent-name-mojito = Mojito.
 
 reagent-desc-mojito = Se é bom o suficiente para Spesscuba, é bom o suficiente para você.
 
-reagent-name-monkey-business = - O que é isso?
+reagent-name-monkey-business = monkey business
 
 reagent-desc-monkey-business =  Você tem que se perguntar o que os macacos sentem sobre esta bebida.
 

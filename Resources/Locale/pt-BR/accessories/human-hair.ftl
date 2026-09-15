@@ -20,7 +20,7 @@ marking-HumanHairLongBedhead =  Cabeça de Cama Longa
 
 marking-HumanHairLongBedhead2 =  Cabeça de Cama Longa 2
 
-marking-HumanHairFloorlengthBedhead = - O que é isso?
+marking-HumanHairFloorlengthBedhead = Bedhead até o chão
 
 marking-HumanHairBeehive = Colmeia
 

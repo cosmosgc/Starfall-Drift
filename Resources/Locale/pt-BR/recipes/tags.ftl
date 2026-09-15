@@ -9,7 +9,7 @@ construction-graph-tag-clown-mask =  Uma máscara de palhaço.
 
 construction-graph-tag-clown-recorder =  Gravador de palhaços
 
-construction-graph-tag-clown-bike-horn = - O que é isso?
+construction-graph-tag-clown-bike-horn = buzina de bicicleta
 
 construction-graph-tag-clowne-horn = Corneta quebrada da bicicleta
 

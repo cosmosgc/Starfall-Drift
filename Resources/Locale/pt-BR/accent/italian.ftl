@@ -138,7 +138,7 @@ accent-italian-words-38 =  Quer
 
 accent-italian-words-replace-38 =  Quer-a?
 
-accent-italian-words-39 = O que é isso?
+accent-italian-words-39 = what's
 
 accent-italian-words-replace-39 = O que é-a?
 

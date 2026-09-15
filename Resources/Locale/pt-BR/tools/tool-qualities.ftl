@@ -14,7 +14,7 @@ tool-quality-cutting-name =  Cortando.
 
 tool-quality-cutting-tool-name = Fio-máquina
 
-tool-quality-shearing-name = - O que é isso?
+tool-quality-shearing-name = Tosquia
 
 tool-quality-shearing-tool-name = Fio-máquina
 

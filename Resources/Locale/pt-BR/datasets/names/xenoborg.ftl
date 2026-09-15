@@ -52,7 +52,7 @@ names-xenoborg-dataset-26 = Mecha. Ameaça.
 
 names-xenoborg-dataset-27 = DOMOM BOT9000
 
-names-xenoborg-dataset-28 = - O que é isso?
+names-xenoborg-dataset-28 = Roomba da Morte
 
 names-xenoborg-dataset-29 = Ultraviolento.
 
