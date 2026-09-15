@@ -10,7 +10,7 @@ reagent-name-cornoil =  Óleo de milho
 
 reagent-desc-cornoil =  Óleo de milho, um óleo delicioso usado na cozinha, feito de milho.
 
-reagent-name-coldsauce = -Gridsauce.
+reagent-name-coldsauce = molho frio
 
 reagent-desc-coldsauce =  Deixa a língua paralisada em sua passagem.
 
@@ -18,7 +18,7 @@ reagent-name-horseradish-sauce = Molho de rábano-cavalo
 
 reagent-desc-horseradish-sauce = Molho de rábano-cavalo fedorento.
 
-reagent-name-hotsauce = - Quente.
+reagent-name-hotsauce = molho quente
 
 reagent-desc-hotsauce =  Queima tão bem.
 

@@ -1,10 +1,10 @@
 reagent-physical-desc-soapy = - Espumoso.
 
-reagent-physical-desc-ferrous =  Ferrous
+reagent-physical-desc-ferrous = ferroso
 
 reagent-physical-desc-nothing =  Nada.
 
-reagent-physical-desc-acrid = Acrid
+reagent-physical-desc-acrid = acre
 
 reagent-physical-desc-thick-and-grainy =  espesso e granuloso
 
@@ -54,7 +54,7 @@ reagent-physical-desc-translucent = translúcido
 
 reagent-physical-desc-sugary = açucarado
 
-reagent-physical-desc-putrid = Putrid.
+reagent-physical-desc-putrid = pútrido
 
 reagent-physical-desc-saucey = Molho
 
@@ -122,7 +122,7 @@ reagent-physical-desc-creamy =  cremoso.
 
 reagent-physical-desc-sticky =  pegajoso
 
-reagent-physical-desc-bubbly = Bubbly
+reagent-physical-desc-bubbly = borbulhante
 
 reagent-physical-desc-rocky = rochoso
 
@@ -130,11 +130,11 @@ reagent-physical-desc-lemony-fresh = Limonada fresca
 
 reagent-physical-desc-crisp = crocante
 
-reagent-physical-desc-citric = Citric
+reagent-physical-desc-citric = cítrico
 
 reagent-physical-desc-acidic =  ácido
 
-reagent-physical-desc-buzzy = Buzzy
+reagent-physical-desc-buzzy = zumbidor
 
 reagent-physical-desc-fibrous = fibrosos
 
@@ -152,7 +152,7 @@ reagent-physical-desc-clumpy = grumoso
 
 reagent-physical-desc-odorless = Inodoro.
 
-reagent-physical-desc-gloopy = Gloopy
+reagent-physical-desc-gloopy = grudento
 
 reagent-physical-desc-cloudy = nublado
 
@@ -164,7 +164,7 @@ reagent-physical-desc-chewy = Mastigado
 
 reagent-physical-desc-volatile = volátil
 
-reagent-physical-desc-inky = Inky
+reagent-physical-desc-inky = tinta
 
 reagent-physical-desc-enigmatic = Enigmático
 

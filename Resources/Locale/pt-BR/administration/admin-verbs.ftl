@@ -25,11 +25,11 @@ admin-verbs-camera-description =  Abra uma janela de câmera que segue a entidad
 
 admin-verbs-erase = Apaga.
 
-admin-verbs-erase-description =  Os jogadores são mostrados como se nunca tivessem existido.
+admin-verbs-erase-description = Remove o jogador da rodada e do manifesto da tripulação e apaga suas mensagens de chat. Seus itens são largados no chão. Jogadores veem um popup indicando para jogar como se nunca tivessem existido.
 
 toolshed-verb-mark =  Marcar
 
-toolshed-verb-mark-description =  Coloca essa entidade na variável marcada em $, uma lista de entidades, substituindo seu valor anterior.
+toolshed-verb-mark-description = Coloca esta entidade na variável { $marked }, uma lista de entidades, substituindo seu valor anterior.
 
 export-entity-verb-get-data-text = Exportar a imagem
 

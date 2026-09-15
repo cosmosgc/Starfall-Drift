@@ -4,7 +4,7 @@ reagent-desc-oxygen = Um gás oxidante e incolor.
 
 reagent-name-plasma = plasma
 
-reagent-desc-plasma =  Não deveria comer isso, mas sabemos que vai comer.
+reagent-desc-plasma = Poeira mágica espacial. Provavelmente não deveria comer isso, mas sabemos que vai comer mesmo assim.
 
 reagent-name-tritium = tritio
 
@@ -16,12 +16,12 @@ reagent-desc-carbon-dioxide =  Você não tem idéia do que é isso.
 
 reagent-name-nitrogen =  nitrogênio
 
-reagent-desc-nitrogen = Um gás incolor e inodoro, altamente estável.
+reagent-desc-nitrogen = Um gás incolor, inodoro e não reativo. Altamente estável.
 
 reagent-name-nitrous-oxide =  óxido nitroso
 
-reagent-desc-nitrous-oxide =  Sabe como tudo parece mais engraçado quando está cansado?
+reagent-desc-nitrous-oxide = Sabe como tudo parece mais engraçado quando está cansado? Bem...
 
-reagent-name-frezon = -Frezon.
+reagent-name-frezon = frezon
 
 reagent-desc-frezon = Um refrigerante altamente eficaz e alucinógeno.

@@ -12,7 +12,7 @@ role-type-silicon-name = Silício.
 
 role-type-silicon-antagonist-name = Silício alterado
 
-role-type-update-message = Your role is [color = { $color }]{ $role }[/color]
+role-type-update-message = Seu cargo é [color = { $color }]{ $role }[/color]
 
 # If you change a color here, you might want to also change it in role_types.yml
 role-type-crew-aligned-color = #eeeeeeee
@@ -62,6 +62,6 @@ role-subtype-wizard = Feiticeiro.
 
 role-subtype-xenoborg = Xenoborg
 
-role-subtype-xenoborg-core = Xenoborg Core
+role-subtype-xenoborg-core = Núcleo Xenoborg
 
-role-subtype-changeling = - Mude de roupa.
+role-subtype-changeling = Metamorfo

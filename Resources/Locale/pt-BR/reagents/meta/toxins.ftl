@@ -36,7 +36,7 @@ reagent-desc-sulfuric-acid = Um químico corrosivo, fique longe do rosto.
 
 reagent-name-unstable-mutagen = Mutagênico instável.
 
-reagent-desc-unstable-mutagen =  Causa mutações quando injetadas em pessoas vivas ou plantas.
+reagent-desc-unstable-mutagen = Causa mutações quando injetado em pessoas vivas ou plantas. Doses altas podem ser letais, especialmente em humanos.
 
 reagent-name-heartbreaker-toxin = toxina destruidora de corações.
 
@@ -52,7 +52,7 @@ reagent-desc-mindbreaker-toxin = Um potente composto alucinógeno que é anterio
 
 reagent-name-histamine =  histamina
 
-reagent-desc-histamine = Um produto químico causado por alergênicos reagindo com anticorpos.
+reagent-desc-histamine = Um químico causado por alérgenos reagindo com anticorpos. Letal em grandes quantidades.
 
 reagent-name-theobromine = - Theobromine.
 
@@ -62,7 +62,7 @@ reagent-name-amatoxin =  Amatoxina
 
 reagent-desc-amatoxin =  Uma toxina mortal encontrada em alguns cogumelos, principalmente em amanitas.
 
-reagent-name-vent-crud = -Droga de ventilação.
+reagent-name-vent-crud = resíduo de duto
 
 reagent-desc-vent-crud =  Uma substância negra encontrada em sistemas de ventilação mal mantidos pode causar tosse.
 
@@ -82,11 +82,11 @@ reagent-name-pax = Pax.
 
 reagent-desc-pax = Um químico psiquiátrico que impede o paciente de prejudicar diretamente alguém.
 
-reagent-name-honk = Buzine.
+reagent-name-honk = honk
 
 reagent-desc-honk =  Uma toxina encontrada no banânio causa buzinas graves e hemorragia interna, também pode causar mutação no paciente.
 
-reagent-name-lead = Liderar
+reagent-name-lead = chumbo
 
 reagent-desc-lead =  Uma toxina de ação lenta, mas incrivelmente letal, encontrada em aço, embora em quantidades de traços.
 

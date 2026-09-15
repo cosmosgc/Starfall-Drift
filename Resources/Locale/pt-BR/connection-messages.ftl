@@ -42,9 +42,9 @@ panic-bunker-account-denied = Este servidor está em modo de abrigo em pânico, 
 
 panic-bunker-account-denied-reason = Este servidor está em modo de abrigo em pânico, muitas vezes ativado como precaução contra ataques, novas conexões por contas que não cumprem certos requisitos não são aceitas temporariamente, tente novamente depois.{ $reason }"
 
-panic-bunker-account-reason-account =  Sua conta da Estação Espacial 14 é muito nova. { $minutes }  minutos
+panic-bunker-account-reason-account = Sua conta da Estação Espacial 14 é muito nova. Ela deve ter mais de { $minutes } minutos
 
-panic-bunker-account-reason-overall =  Sua hora de brincar no servidor deve ser maior que { $minutes } $minutos
+panic-bunker-account-reason-overall = Seu tempo total de jogo no servidor deve ser maior que { $minutes } minutos
 
 whitelist-playtime =  Não tem tempo suficiente para entrar nesse servidor. { $minutes }  minutos de jogo para entrar neste servidor.
 
@@ -88,9 +88,9 @@ baby-jail-account-denied = Este servidor é um servidor novato, destinado a novo
 
 baby-jail-account-denied-reason = Este servidor é um servidor novato, destinado a novos jogadores e aqueles que querem ajudá-los.{ $reason }"
 
-baby-jail-account-reason-account =  Sua conta da Estação Espacial 14 é muito velha. { $minutes }  minutos
+baby-jail-account-reason-account = Sua conta da Estação Espacial 14 é muito velha. Ela deve ter menos de { $minutes } minutos
 
-baby-jail-account-reason-overall =  Sua hora de brincar no servidor deve ser mais jovem que { $minutes } $minutos
+baby-jail-account-reason-overall = Seu tempo total de jogo no servidor deve ser menor que { $minutes } minutos
 
 generic-misconfigured = O servidor está mal configurado e não aceita os jogadores.
 

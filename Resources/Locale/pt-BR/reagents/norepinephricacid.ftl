@@ -10,4 +10,5 @@ norepinephricacid-effect-blindness =  Seus olhos param de funcionar!
 
 norepinephricacid-effect-darkness =  Você está mergulhado em um mundo de trevas!
 
-norepinephricacid-effect-eye-disconnect =  Seus olhos parecem estar se desconectando!
+norepinephricacid-effect-eye-disconnect = Seus olhos parecem estar se desconectando!
+norepinephricacid-effect-eyelids = Suas pálpebras estão tremendo rápido.

@@ -1,2 +1,2 @@
 # Examine Text
-gas-volume-pump-system-examined = The pump is set to [color={ $statusColor }]{ $rate }  litros/seg.[/color].
+gas-volume-pump-system-examined = A bomba está regulada para [color={ $statusColor }]{ $rate } litros/s[/color].

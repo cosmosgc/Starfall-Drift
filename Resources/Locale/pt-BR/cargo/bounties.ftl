@@ -266,7 +266,7 @@ bounty-description-banana =  Não me dão mais Botânica, disseram que não tinh
 
 bounty-description-beer = Um agente nefasto roubou todas as bebidas do bar, sim, tudo, ajude-nos a nos ajudar até encontrá-las.
 
-bounty-description-hi-viz-vest = O palhaço roubou o controlador da AME e não devolveu.
+bounty-description-hi-viz-vest = O palhaço roubou o controlador da AME e não devolveu. Está bem escuro aqui. Alguns coletes de alta visibilidade tornariam a navegação no escuro um pouco mais suportável.
 
 bounty-description-torch = O chef fez todos os macacos e kobolds de uma vez, e eles se rebelaram e tomaram o transporte de carga, eles estão exigindo suprimentos e livre passagem para um planeta da selva, e estamos cedendo às suas exigências.
 

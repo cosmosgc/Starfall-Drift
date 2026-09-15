@@ -191,11 +191,19 @@ delivery-spam-10 =  NÃO ABRIR ESTA MAIL
 
 delivery-spam-11 =  Ajude a mamãe e o papai!
     .desc = Pais precisando de apoio financeiro.
-    .content = [bold] Olá, Criança,[/bold]
-         Nossos impostos foram auditados e devemos US$100.000 em spesos ao governo!
-        
-        { "[bold]thank you and we love you,[/bold]" }
-        { "[italic]parents[/italic]" }
+    .content = [bold]Olá, Filho(a),[/bold]
+        Aqui são seus Pais escrevendo: estamos precisando de dinheiro! Nossos impostos foram auditados e devemos $100.000 spesos ao governo! por favor ajude! eles só aceitam vale-presente então você precisará nos enviar 100 cartões-presente Bisa de $1000 spesos.
+
+        por favor envie para:
+        50192 Spess Lane
+        Station City, Ignius 40195-243
+        Quadrante Gamma
+        Sistema Guilimin
+
+        se não recebermos esse dinheiro em 10 dias o governo virá tomar nossa casa de infância e ficaremos desabrigados.
+
+        { "[bold]obrigado e te amamos,[/bold]" }
+        { "[italic]pais[/italic]" }
 
 delivery-spam-12 =  Junte-se a nós na viagem inaugural!
     .desc =  Anúncio para uma viagem relaxante.

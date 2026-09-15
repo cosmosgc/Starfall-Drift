@@ -49,11 +49,11 @@ cryo-pod-window-error-header = ERRO
 # Shown when the eject button is pressed on a locked pod.
 cryo-pod-window-eject-error = O mecanismo de ejeção falhou, contate um engenheiro certificado por Nanotrasen para apoio.
 
-cryo-pod-window-chems-no-beaker =  Nenhum copo inserido.
+cryo-pod-window-chems-no-beaker = Nenhum béquer inserido.
 
-cryo-pod-window-chems-empty-beaker = O copo está vazio.
+cryo-pod-window-chems-empty-beaker = O béquer está vazio.
 
-cryo-pod-window-chems-injecting-tooltip = Injetando { $quantity }U
+cryo-pod-window-chems-injecting-tooltip = Injetando { $quantity }u
 
 cryo-pod-window-inject-1u = 1u
 

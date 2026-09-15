@@ -6,7 +6,7 @@ reagent-name-insect-blood =  Sangue de inseto
 
 reagent-desc-insect-blood =  Isso é nojento, parece quase vivo?
 
-reagent-name-slime = Lixo.
+reagent-name-slime = slime
 
 reagent-desc-slime =  Você pensou que era sangue gradiente no início, mas estava enganado.
 
@@ -32,7 +32,7 @@ reagent-desc-zombie-blood =  Não aconselharia comer, pode ser usado para criar 
 
 reagent-name-unholy-blood =  Sangue profano
 
-reagent-desc-unholy-blood =  Uma substância amaldiçoada que pulsa com energia negra, que é tocada pelo culto, sangra este fluido profano.
+reagent-desc-unholy-blood = Uma substância amaldiçoada que pulsa com energia sombria. Aqueles tocados pelo culto sangram este fluido profano.
 
 reagent-name-ichor = Ichor
 
