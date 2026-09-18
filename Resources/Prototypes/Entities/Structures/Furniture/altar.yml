@@ -34,6 +34,9 @@
   parent: AltarBase
   name: nanotrasen altar
   components:
+  - type: ParticleEmitter
+    effect: ChapelDust
+    intensity: 0.6
   - type: Sprite
     sprite: Structures/Furniture/Altars/Gods/nanotrasen.rsi
     state: nanotrasen
@@ -67,6 +70,9 @@
   parent: AltarNanotrasen
   name: chaos altar
   components:
+  - type: ParticleEmitter
+    effect: InfernalAura
+    intensity: 0.7
   - type: Sprite
     sprite: Structures/Furniture/Altars/Gods/nanotrasen.rsi
     state: chaos
@@ -79,6 +85,8 @@
   parent: AltarNanotrasen
   name: druid altar
   components:
+  - type: ParticleEmitter
+    effect: DruidFireflies
   - type: Sprite
     sprite: Structures/Furniture/Altars/Gods/nanotrasen.rsi
     state: druid
@@ -122,6 +130,8 @@
   parent: AltarNanotrasen
   name: satanic altar
   components:
+  - type: ParticleEmitter
+    effect: GraveMist
   - type: Sprite
     sprite: Structures/Furniture/Altars/Gods/nanotrasen.rsi
     layers:
@@ -348,6 +358,8 @@
   parent: AltarBase
   name: heaven altar
   components:
+  - type: ParticleEmitter
+    effect: ChapelDust
   - type: Sprite
     sprite: Structures/Furniture/Altars/Cults/heaven.rsi
     layers:

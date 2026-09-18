@@ -58,6 +58,8 @@
     proto: ProjectileFireball
     capacity: 5
     count: 5
+  - type: ParticleOnGunShotProjectile
+    effect: FireTrail
 
 - type: entity
   name: wand of the locker

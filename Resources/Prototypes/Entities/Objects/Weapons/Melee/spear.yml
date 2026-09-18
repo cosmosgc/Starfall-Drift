@@ -137,6 +137,13 @@
   id: SpearPlasma
   description: A spear with a plasma shard as a tip.
   components:
+  - type: ParticleOnThrown
+    effect: PlasmaTrail
+  - type: TriggerOnLand
+  - type: EntityEffectOnTrigger
+    effects:
+    - !type:SpawnParticleEffect
+      effect: EmberPop
   - type: Sprite
     sprite: Objects/Weapons/Melee/plasma_spear.rsi
   - type: MeleeWeapon

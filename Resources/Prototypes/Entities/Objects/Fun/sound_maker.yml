@@ -187,6 +187,10 @@
   - type: SpawnOnTrigger
     proto: EffectGravityPulse
     predicted: true
+  - type: EntityEffectOnTrigger
+    effects:
+    - !type:SpawnParticleEffect
+      effect: HonkBurst
 
 ## Whistles
 
