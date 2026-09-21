@@ -4,6 +4,9 @@
   name: electric grill
   description: A microwave? No, a real man cooks steaks on a grill!
   components:
+  - type: ParticleEmitter
+    effect: HearthEmbers
+    intensity: 0.7
   - type: Sprite
     # TODO: draw a sprite
     sprite: Structures/Machines/electric_grill.rsi

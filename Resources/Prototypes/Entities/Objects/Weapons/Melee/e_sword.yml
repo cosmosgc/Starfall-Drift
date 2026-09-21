@@ -3,6 +3,13 @@
   parent: BaseItem
   abstract: true
   components:
+  - type: TriggerOnMeleeHit
+  - type: EntityEffectOnTrigger
+    effects:
+    - !type:SpawnParticleEffect
+      effect: VoltSnap
+  - type: ParticleOnThrown
+    effect: PlasmaTrail
   - type: EnergySword
   - type: ItemToggle
     soundActivate:

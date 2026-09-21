@@ -3,6 +3,8 @@
   parent: BaseItem
   abstract: true
   components:
+  - type: ParticleOnGunShotProjectile
+    effect: FireTrail
   - type: Sprite
   - type: Item
     size: Huge

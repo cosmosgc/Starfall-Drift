@@ -28,6 +28,9 @@
   id: BasePlaceableInstrument
   name: baseinstrument
   components:
+  - type: ParticleEmitter
+    effect: ChapelDust
+    intensity: 0.5
   - type: Instrument
   - type: ActivatableUI
     blockSpectators: true # otherwise they can play client-side music

@@ -5,6 +5,9 @@
   placement:
     mode: SnapgridCenter
   components:
+  - type: ParticleEmitter
+    effect: ToxicBubbles
+    intensity: 0.6
   - type: Transform
     anchored: true
     noRot: true

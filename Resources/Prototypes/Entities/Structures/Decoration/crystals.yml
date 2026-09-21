@@ -5,6 +5,8 @@
   name: crystal
   description: A crystaline solid.
   components:
+  - type: ParticleEmitter
+    effect: CrystalShimmer
   - type: Sprite
     sprite: Structures/Decoration/crystal.rsi
     state: crystal_grey

@@ -4,6 +4,11 @@
   id: BrokenBottle
   description: In Space Glasgow this is called a conversation starter.
   components:
+  - type: TriggerOnMeleeHit
+  - type: EntityEffectOnTrigger
+    effects:
+    - !type:SpawnParticleEffect
+      effect: MeleeImpact
   - type: Tool
     qualities:
     - Slicing

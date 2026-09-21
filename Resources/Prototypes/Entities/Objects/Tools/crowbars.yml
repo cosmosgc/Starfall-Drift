@@ -5,6 +5,11 @@
   name: crowbar
   description: A multipurpose tool used for many tasks, such as prying doors or bludgeoning interdimensional invaders.
   components:
+  - type: TriggerOnMeleeHit
+  - type: EntityEffectOnTrigger
+    effects:
+    - !type:SpawnParticleEffect
+      effect: MeleeImpact
   - type: EmitSoundOnLand
     sound:
       path: /Audio/Items/crowbar_drop.ogg

@@ -170,6 +170,9 @@
   parent: AltarBase
   name: festival altar
   components:
+  - type: ParticleEmitter
+    effect: ChapelDust
+    intensity: 0.7
   - type: Sprite
     sprite: Structures/Furniture/Altars/Gods/convertaltar.rsi
     state: festival
@@ -407,6 +410,9 @@
   name: honkmother altar
   description: A bananium altar dedicated to the honkmother.
   components:
+  - type: ParticleEmitter
+    effect: HonkBurst
+    intensity: 0.4
   - type: Sprite
     sprite: Structures/Furniture/Altars/Cults/bananium.rsi
     state: full

@@ -3,6 +3,11 @@
   parent: BaseStorageItem
   abstract: true
   components:
+  - type: TriggerOnMeleeHit
+  - type: EntityEffectOnTrigger
+    effects:
+    - !type:SpawnParticleEffect
+      effect: MeleeImpact
   - type: Sprite
     layers:
       - map: [ base ]

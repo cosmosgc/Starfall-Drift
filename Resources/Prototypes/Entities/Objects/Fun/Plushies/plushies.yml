@@ -3,6 +3,13 @@
   parent: [SolutionFood, SolutionSmall, BaseItem, BaseStash]
   id: BasePlushie
   components:
+  - type: TriggerOnUse
+  - type: EntityEffectOnTrigger
+    effects:
+    - !type:SpawnParticleEffect
+      effect: HeartFlutter
+  - type: ParticleOnThrown
+    effect: HeartFlutter
   - type: EmitSoundOnUse
     sound: &BasePlushieSound
       collection: ToySqueak

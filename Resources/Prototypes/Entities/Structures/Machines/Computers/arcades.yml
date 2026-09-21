@@ -5,6 +5,9 @@
   name: arcade
   parent: BaseComputer
   components:
+  - type: ParticleEmitter
+    effect: MagicCircle
+    intensity: 0.3
   - type: ExtensionCableReceiver
   - type: PointLight
     radius: 1.8

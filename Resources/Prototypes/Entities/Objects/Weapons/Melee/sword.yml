@@ -3,6 +3,11 @@
   id: BaseSword
   abstract: true
   components:
+  - type: TriggerOnMeleeHit
+  - type: EntityEffectOnTrigger
+    effects:
+    - !type:SpawnParticleEffect
+      effect: MeleeImpact
   - type: Execution
     doAfterDuration: 4.0
   - type: MeleeWeapon

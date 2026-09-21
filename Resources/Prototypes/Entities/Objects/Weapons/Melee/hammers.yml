@@ -4,6 +4,11 @@
   id: Sledgehammer
   description: The perfect tool for wanton carnage.
   components:
+  - type: TriggerOnMeleeHit
+  - type: EntityEffectOnTrigger
+    effects:
+    - !type:SpawnParticleEffect
+      effect: MeleeImpact
   - type: Sprite
     sprite: Objects/Weapons/Melee/sledgehammer.rsi
     state: icon
@@ -30,6 +35,11 @@
   name: Mjollnir
   description: A weapon worthy of a god, able to strike with the force of a lightning bolt. It crackles with barely contained energy.
   components:
+  - type: TriggerOnMeleeHit
+  - type: EntityEffectOnTrigger
+    effects:
+    - !type:SpawnParticleEffect
+      effect: VoltSnap
   - type: Wieldable
     useDelayOnWield: false
   - type: MeleeRequiresWield
@@ -73,6 +83,14 @@
   name: Singularity Hammer
   description: The pinnacle of close combat technology, the hammer harnesses the power of a miniaturized singularity to deal crushing blows.
   components:
+  - type: TriggerOnMeleeHit
+  - type: EntityEffectOnTrigger
+    effects:
+    - !type:SpawnParticleEffect
+      effect: MeleeImpact
+  - type: ParticleEmitter
+    effect: ShadowVeil
+    intensity: 0.4
   - type: Wieldable
     useDelayOnWield: false
   - type: MeleeRequiresWield
