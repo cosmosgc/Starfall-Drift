@@ -4,6 +4,11 @@
   name: bike horn
   description: A horn off of a bicycle.
   components:
+  - type: TriggerOnUse
+  - type: EntityEffectOnTrigger
+    effects:
+    - !type:SpawnParticleEffect
+      effect: HonkBurst
   - type: Sprite
     sprite: Objects/Fun/bikehorn.rsi
     state: icon
@@ -187,6 +192,10 @@
   - type: SpawnOnTrigger
     proto: EffectGravityPulse
     predicted: true
+  - type: EntityEffectOnTrigger
+    effects:
+    - !type:SpawnParticleEffect
+      effect: HonkBurst
 
 ## Whistles
 

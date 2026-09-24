@@ -3,6 +3,8 @@
   abstract: true
   parent: [ BaseItem, BaseMagicalContraband ]
   components:
+  - type: ParticleOnGunShotProjectile
+    effect: ChapelDust
   - type: Sprite
     sprite: Objects/Weapons/Guns/Basic/staves.rsi
   - type: Item

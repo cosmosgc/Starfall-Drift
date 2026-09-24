@@ -4,6 +4,9 @@
   parent: [ BaseMachinePowered, ConstructibleMachine ]
   description: A bed that massively slows down the patient's metabolism and prevents bodily decay, allowing more time to administer a proper treatment for stabilization.
   components:
+  - type: ParticleEmitter
+    effect: CryoMist
+    intensity: 0.6
   - type: StasisBed
   - type: AntiRotOnBuckle
   - type: HealOnBuckle

@@ -4,6 +4,11 @@
   id: Stunprod
   description: A stun prod for illegal incapacitation.
   components:
+  - type: TriggerOnMeleeHit
+  - type: EntityEffectOnTrigger
+    effects:
+    - !type:SpawnParticleEffect
+      effect: VoltSnap
   - type: Sprite
     sprite: Objects/Weapons/Melee/stunprod.rsi
     layers:

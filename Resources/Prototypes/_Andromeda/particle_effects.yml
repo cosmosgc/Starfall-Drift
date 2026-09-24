@@ -1,0 +1,746 @@
+- type: particleEffect
+  id: CryoMist
+  sprite:
+    sprite: Effects/chemsmoke.rsi
+    state: chemsmoke
+  startColor: "#D9FBFF7A"
+  endColor: "#73A8FF00"
+  particleSize: 0.16
+  sizeVariance: 0.438
+  lifetime: 2.4s
+  lifetimeVariance: 0.7s
+  duration: 0
+  speed: 0.55
+  speedVariance: 0.35
+  gravity: -0.18
+  drag: 0.45
+  spreadAngle: 360
+  emitAngle: 0
+  maxCount: 100
+  emissionRate: 36
+  burst: false
+  worldSpace: true
+  terminalSpeed: 1.2
+  constantForce: -0.15, 0.18
+  noiseStrength: 0.65
+  noiseFrequency: 0.9
+  startRotationVariance: 180
+  rotationSpeed: 12
+  rotationSpeedVariance: 36
+  shape:
+    type: Box
+    boxExtents: 0.7, 0.12
+
+- type: particleEffect
+  id: HeartFlutter
+  sprite:
+    sprite: _Andromeda/Particles/hearts.rsi
+    state: small-heart
+  startColor: "#FF6F9FF2"
+  endColor: "#FFD1DC00"
+  particleSize: 0.09
+  sizeVariance: 0.278
+  lifetime: 1.6s
+  lifetimeVariance: 0.35s
+  duration: 0
+  speed: 0.75
+  speedVariance: 0.35
+  gravity: -1
+  drag: 0.45
+  spreadAngle: 70
+  emitAngle: 0
+  maxCount: 8
+  emissionRate: 1
+  burst: true
+  worldSpace: true
+  terminalSpeed: 1.5
+  constantForce: 0, 0.32
+  noiseStrength: 0.55
+  noiseFrequency: 1.8
+  startRotationVariance: 180
+  rotationSpeed: 45
+  rotationSpeedVariance: 90
+  shape:
+    type: CircleFill
+    radius: 0.16
+
+- type: particleEffect
+  id: HeartAura
+  sprite:
+    sprite: _Andromeda/Particles/hearts.rsi
+    state: small-heart
+  startColor: "#FF6F9FF2"
+  endColor: "#FFD1DC00"
+  particleSize: 0.09
+  sizeVariance: 0.278
+  lifetime: 1.6s
+  lifetimeVariance: 0.35s
+  duration: 0
+  speed: 0.75
+  speedVariance: 0.35
+  gravity: -1
+  drag: 0.45
+  spreadAngle: 70
+  emitAngle: 0
+  maxCount: 8
+  emissionRate: 1
+  burst: false
+  worldSpace: true
+  terminalSpeed: 1.5
+  constantForce: 0, 0.32
+  noiseStrength: 0.55
+  noiseFrequency: 1.8
+  startRotationVariance: 180
+  rotationSpeed: 45
+  rotationSpeedVariance: 90
+  shape:
+    type: CircleFill
+    radius: 0.16
+
+- type: particleEffect
+  id: ShadowVeil
+  sprite:
+    sprite: _Starfall/Particles/generic.rsi
+    state: soft_dot_big
+  particleSize: 0.11
+  sizeVariance: 0.35
+  lifetime: 1.9s
+  lifetimeVariance: 0.4s
+  duration: 0
+  speed: 0.28
+  speedVariance: 0.15
+  gravity: -0.06
+  drag: 0.2
+  spreadAngle: 360
+  emitAngle: 0
+  maxCount: 80
+  emissionRate: 45
+  burst: false
+  worldSpace: true
+  terminalSpeed: 0.8
+  constantForce: 0, 0.05
+  noiseStrength: 0.55
+  noiseFrequency: 1.6
+  startRotationVariance: 180
+  rotationSpeed: 8
+  rotationSpeedVariance: 18
+  shape:
+    type: CircleEdge
+    radius: 0.58
+  colorOverLifetime:
+    - time: 0
+      color: "#8D5BD180"
+    - time: 0.45
+      color: "#4A2A7852"
+    - time: 1
+      color: "#1A0F2E00"
+
+- type: particleEffect
+  id: InfernalAura
+  sprite:
+    sprite: _Starfall/Particles/generic.rsi
+    state: curl
+  particleSize: 0.09
+  sizeVariance: 0.34
+  lifetime: 1.5s
+  lifetimeVariance: 0.28s
+  duration: 0
+  speed: 0.42
+  speedVariance: 0.2
+  gravity: -0.14
+  drag: 0.28
+  spreadAngle: 360
+  emitAngle: 0
+  maxCount: 80
+  emissionRate: 34
+  burst: false
+  worldSpace: true
+  terminalSpeed: 1
+  constantForce: 0, 0.12
+  noiseStrength: 0.6
+  noiseFrequency: 1.4
+  startRotationVariance: 180
+  rotationSpeed: 16
+  rotationSpeedVariance: 30
+  shape:
+    type: CircleEdge
+    radius: 0.6
+  colorOverLifetime:
+    - time: 0
+      color: "#FF9E6B94"
+    - time: 0.4
+      color: "#FF3B1F66"
+    - time: 1
+      color: "#4A0A0A00"
+
+- type: particleEffect
+  id: SnowFall
+  sprite:
+    sprite: _Starfall/Particles/generic.rsi
+    state: dot
+  startColor: "#FFFFFFCC"
+  endColor: "#B7D7FF2E"
+  particleSize: 0.055
+  sizeVariance: 0.455
+  lifetime: 3.2s
+  lifetimeVariance: 0.8s
+  duration: 0
+  speed: 0.75
+  speedVariance: 0.25
+  gravity: 0.18
+  drag: 0.08
+  spreadAngle: 20
+  emitAngle: 180
+  maxCount: 180
+  emissionRate: 55
+  burst: false
+  worldSpace: true
+  terminalSpeed: 1.2
+  constantForce: -0.1, -0.05
+  noiseStrength: 0.4
+  noiseFrequency: 0.8
+  startRotationVariance: 180
+  rotationSpeed: 18
+  rotationSpeedVariance: 60
+  shape:
+    type: Box
+    boxExtents: 1.25, 0.08
+
+- type: particleEffect
+  id: ToxicBubbles
+  sprite:
+    sprite: _Starfall/Particles/generic.rsi
+    state: dot
+  startColor: "#B6FF3DB3"
+  endColor: "#24B86F00"
+  particleSize: 0.11
+  sizeVariance: 0.409
+  lifetime: 1.9s
+  lifetimeVariance: 0.55s
+  duration: 0
+  speed: 0.55
+  speedVariance: 0.3
+  gravity: -0.45
+  drag: 0.35
+  spreadAngle: 360
+  emitAngle: 0
+  maxCount: 95
+  emissionRate: 38
+  burst: false
+  worldSpace: true
+  terminalSpeed: 1.1
+  constantForce: 0, 0.25
+  noiseStrength: 0.45
+  noiseFrequency: 2.1
+  startRotationVariance: 180
+  rotationSpeed: 16
+  rotationSpeedVariance: 42
+  shape:
+    type: CircleFill
+    radius: 0.22
+
+- type: particleEffect
+  id: MagicCircle
+  sprite:
+    sprite: effects/particles.rsi
+    state: spark
+  particleSize: 0.055
+  sizeVariance: 0.364
+  lifetime: 1.8s
+  lifetimeVariance: 0.3s
+  duration: 0
+  speed: 0.1
+  speedVariance: 0.25
+  gravity: 0
+  drag: 0.08
+  spreadAngle: 360
+  emitAngle: 180
+  maxCount: 160
+  emissionRate: 80
+  burst: false
+  worldSpace: true
+  shader: unshaded
+  renderLayer: 1
+  terminalSpeed: 1.4
+  constantForce: 0, 0.1
+  noiseStrength: 0.4
+  noiseFrequency: 2.8
+  startRotationVariance: 180
+  rotationSpeed: 90
+  rotationSpeedVariance: 45
+  shape:
+    type: CircleEdge
+    radius: 0.85
+  colorOverLifetime:
+    - time: 0
+      color: "#FF6AB7F2"
+    - time: 0.45
+      color: "#9F7CFFD9"
+    - time: 0.8
+      color: "#FFC8578C"
+    - time: 1
+      color: "#FFFFFF00"
+
+- type: particleEffect
+  id: HearthEmbers
+  sprite:
+    sprite: _Starfall/Particles/generic.rsi
+    state: dot
+  shader: unshaded
+  particleSize: 0.07
+  sizeVariance: 0.4
+  lifetime: 1.4s
+  lifetimeVariance: 0.5s
+  duration: 0
+  speed: 0.9
+  speedVariance: 0.4
+  gravity: -0.9
+  drag: 0.25
+  spreadAngle: 35
+  emitAngle: 0
+  maxCount: 45
+  emissionRate: 14
+  burst: false
+  worldSpace: true
+  terminalSpeed: 1.4
+  constantForce: 0, 0.25
+  noiseStrength: 0.45
+  noiseFrequency: 1.6
+  startRotationVariance: 180
+  rotationSpeed: 10
+  rotationSpeedVariance: 30
+  shape:
+    type: CircleFill
+    radius: 0.25
+  colorOverLifetime:
+    - time: 0
+      color: "#FFF3B0FF"
+    - time: 0.35
+      color: "#FF9A3CFF"
+    - time: 0.7
+      color: "#E2481ACC"
+    - time: 1
+      color: "#4A0A0A00"
+
+- type: particleEffect
+  id: ChapelDust
+  sprite:
+    sprite: _Starfall/Particles/generic.rsi
+    state: soft_dot_big
+  shader: unshaded
+  particleSize: 0.06
+  sizeVariance: 0.5
+  lifetime: 3.4s
+  lifetimeVariance: 1s
+  duration: 0
+  speed: 0.12
+  speedVariance: 0.1
+  gravity: -0.05
+  drag: 0.15
+  spreadAngle: 360
+  emitAngle: 0
+  maxCount: 40
+  emissionRate: 8
+  burst: false
+  worldSpace: true
+  terminalSpeed: 0.5
+  constantForce: 0, 0.03
+  noiseStrength: 0.5
+  noiseFrequency: 0.7
+  startRotationVariance: 180
+  rotationSpeed: 5
+  rotationSpeedVariance: 12
+  shape:
+    type: CircleFill
+    radius: 0.7
+  colorOverLifetime:
+    - time: 0
+      color: "#FFF8DC00"
+    - time: 0.25
+      color: "#FFE9A8B3"
+    - time: 0.7
+      color: "#FFD98A66"
+    - time: 1
+      color: "#FFFFFF00"
+
+- type: particleEffect
+  id: GraveMist
+  sprite:
+    sprite: Effects/chemsmoke.rsi
+    state: chemsmoke
+  particleSize: 0.22
+  sizeVariance: 0.4
+  lifetime: 3s
+  lifetimeVariance: 0.8s
+  duration: 0
+  speed: 0.22
+  speedVariance: 0.15
+  gravity: -0.08
+  drag: 0.3
+  spreadAngle: 360
+  emitAngle: 0
+  maxCount: 60
+  emissionRate: 12
+  burst: false
+  worldSpace: true
+  terminalSpeed: 0.7
+  constantForce: 0, 0.04
+  noiseStrength: 0.6
+  noiseFrequency: 0.9
+  startRotationVariance: 180
+  rotationSpeed: 10
+  rotationSpeedVariance: 30
+  shape:
+    type: CircleFill
+    radius: 0.45
+  colorOverLifetime:
+    - time: 0
+      color: "#6A3FA080"
+    - time: 0.5
+      color: "#3B1F5E59"
+    - time: 1
+      color: "#140A2400"
+
+- type: particleEffect
+  id: DruidFireflies
+  sprite:
+    sprite: _Starfall/Particles/generic.rsi
+    state: soft_dot
+  shader: unshaded
+  particleSize: 0.06
+  sizeVariance: 0.45
+  lifetime: 2.8s
+  lifetimeVariance: 0.9s
+  duration: 0
+  speed: 0.35
+  speedVariance: 0.25
+  gravity: -0.04
+  drag: 0.3
+  spreadAngle: 360
+  emitAngle: 0
+  maxCount: 35
+  emissionRate: 9
+  burst: false
+  worldSpace: true
+  terminalSpeed: 0.7
+  constantForce: 0, 0.02
+  noiseStrength: 0.9
+  noiseFrequency: 1.2
+  startRotationVariance: 180
+  rotationSpeed: 6
+  rotationSpeedVariance: 14
+  shape:
+    type: CircleFill
+    radius: 0.65
+  colorOverLifetime:
+    - time: 0
+      color: "#F4FFB000"
+    - time: 0.25
+      color: "#D8FF7ACC"
+    - time: 0.65
+      color: "#7AE08A99"
+    - time: 1
+      color: "#2A5E3A00"
+
+# Continuous trail for thrown / projectile fire effects (stopped when the entity lands / is destroyed).
+- type: particleEffect
+  id: FireTrail
+  sprite:
+    sprite: _Starfall/Particles/generic.rsi
+    state: dot
+  shader: unshaded
+  particleSize: 0.09
+  sizeVariance: 0.35
+  lifetime: 0.4s
+  lifetimeVariance: 0.15s
+  duration: 0
+  speed: 0.4
+  speedVariance: 0.3
+  gravity: -0.6
+  drag: 0.4
+  spreadAngle: 360
+  emitAngle: 0
+  maxCount: 40
+  emissionRate: 45
+  burst: false
+  worldSpace: true
+  inheritVelocity: 0.15
+  terminalSpeed: 1.2
+  noiseStrength: 0.3
+  noiseFrequency: 1.5
+  startRotationVariance: 180
+  shape:
+    type: Point
+  colorOverLifetime:
+    - time: 0
+      color: "#FFF3B0FF"
+    - time: 0.4
+      color: "#FF7A2ACC"
+    - time: 1
+      color: "#4A0A0A00"
+
+# Continuous trail for thrown plasma weapons.
+- type: particleEffect
+  id: PlasmaTrail
+  sprite:
+    sprite: _Starfall/Particles/generic.rsi
+    state: soft_dot
+  shader: unshaded
+  particleSize: 0.08
+  sizeVariance: 0.35
+  lifetime: 0.5s
+  lifetimeVariance: 0.15s
+  duration: 0
+  speed: 0.3
+  speedVariance: 0.25
+  gravity: -0.2
+  drag: 0.4
+  spreadAngle: 360
+  emitAngle: 0
+  maxCount: 40
+  emissionRate: 40
+  burst: false
+  worldSpace: true
+  inheritVelocity: 0.15
+  terminalSpeed: 1
+  noiseStrength: 0.5
+  noiseFrequency: 2
+  startRotationVariance: 180
+  shape:
+    type: Point
+  colorOverLifetime:
+    - time: 0
+      color: "#C8F4FFFF"
+    - time: 0.4
+      color: "#7A5CFFCC"
+    - time: 1
+      color: "#2A144A00"
+
+# One-shot bursts for EntityEffectOnTrigger (must be burst: true, see SpawnParticleEffectSystem).
+- type: particleEffect
+  id: EmberPop
+  sprite:
+    sprite: _Starfall/Particles/generic.rsi
+    state: dot
+  shader: unshaded
+  particleSize: 0.09
+  sizeVariance: 0.4
+  lifetime: 0.5s
+  lifetimeVariance: 0.2s
+  duration: 0
+  speed: 2.5
+  speedVariance: 1.2
+  gravity: 1.5
+  drag: 1.2
+  spreadAngle: 360
+  emitAngle: 0
+  maxCount: 25
+  emissionRate: 0
+  burst: true
+  worldSpace: true
+  terminalSpeed: 3
+  startRotationVariance: 180
+  shape:
+    type: CircleFill
+    radius: 0.12
+  colorOverLifetime:
+    - time: 0
+      color: "#FFF3B0FF"
+    - time: 0.4
+      color: "#FF7A2ACC"
+    - time: 1
+      color: "#4A0A0A00"
+
+- type: particleEffect
+  id: HonkBurst
+  sprite:
+    sprite: _Starfall/Particles/generic.rsi
+    state: cross
+  shader: unshaded
+  particleSize: 0.12
+  sizeVariance: 0.4
+  lifetime: 0.7s
+  lifetimeVariance: 0.2s
+  duration: 0
+  speed: 2.8
+  speedVariance: 1.4
+  gravity: 1
+  drag: 1.5
+  spreadAngle: 360
+  emitAngle: 0
+  maxCount: 30
+  emissionRate: 0
+  burst: true
+  worldSpace: true
+  terminalSpeed: 3.5
+  noiseStrength: 0.4
+  noiseFrequency: 2
+  startRotationVariance: 180
+  rotationSpeed: 90
+  rotationSpeedVariance: 120
+  shape:
+    type: CircleFill
+    radius: 0.15
+  colorOverLifetime:
+    - time: 0
+      color: "#FFFFFFFF"
+    - time: 0.3
+      color: "#FF6AB7FF"
+    - time: 0.65
+      color: "#FFC857CC"
+    - time: 1
+      color: "#9F7CFF00"
+
+# Punchy one-shot impact flash for melee hits (TriggerOnMeleeHit).
+- type: particleEffect
+  id: MeleeImpact
+  sprite:
+    sprite: _Starfall/Particles/generic.rsi
+    state: cross
+  shader: unshaded
+  particleSize: 0.14
+  sizeVariance: 0.35
+  lifetime: 0.32s
+  lifetimeVariance: 0.1s
+  duration: 0
+  speed: 3.2
+  speedVariance: 1.5
+  gravity: 2
+  drag: 1.5
+  spreadAngle: 360
+  emitAngle: 0
+  maxCount: 22
+  emissionRate: 0
+  burst: true
+  worldSpace: true
+  terminalSpeed: 4
+  startRotationVariance: 180
+  rotationSpeed: 120
+  rotationSpeedVariance: 120
+  shape:
+    type: Point
+  colorOverLifetime:
+    - time: 0
+      color: "#FFFFFFFF"
+    - time: 0.35
+      color: "#FFD98AFF"
+    - time: 1
+      color: "#FF7A2A00"
+
+# Electric snap burst for stun weapons / energy blades hitting.
+- type: particleEffect
+  id: VoltSnap
+  sprite:
+    sprite: _Starfall/Particles/generic.rsi
+    state: dot
+  shader: unshaded
+  particleSize: 0.08
+  sizeVariance: 0.4
+  lifetime: 0.35s
+  lifetimeVariance: 0.12s
+  duration: 0
+  speed: 4
+  speedVariance: 1.8
+  gravity: 0
+  drag: 1.8
+  spreadAngle: 360
+  emitAngle: 0
+  maxCount: 24
+  emissionRate: 0
+  burst: true
+  worldSpace: true
+  terminalSpeed: 5
+  noiseStrength: 0.5
+  noiseFrequency: 3
+  startRotationVariance: 180
+  shape:
+    type: Point
+  colorOverLifetime:
+    - time: 0
+      color: "#FFFFFFFF"
+    - time: 0.35
+      color: "#7AC8FFFF"
+    - time: 1
+      color: "#2A5FFF00"
+
+# Sparse twinkle for crystals.
+- type: particleEffect
+  id: CrystalShimmer
+  sprite:
+    sprite: _Starfall/Particles/generic.rsi
+    state: cross
+  shader: unshaded
+  particleSize: 0.07
+  sizeVariance: 0.45
+  lifetime: 2s
+  lifetimeVariance: 0.7s
+  duration: 0
+  speed: 0.1
+  speedVariance: 0.08
+  gravity: -0.03
+  drag: 0.2
+  spreadAngle: 360
+  emitAngle: 0
+  maxCount: 25
+  emissionRate: 6
+  burst: false
+  worldSpace: true
+  terminalSpeed: 0.4
+  noiseStrength: 0.4
+  noiseFrequency: 1
+  startRotationVariance: 180
+  rotationSpeed: 20
+  rotationSpeedVariance: 40
+  shape:
+    type: CircleFill
+    radius: 0.45
+  colorOverLifetime:
+    - time: 0
+      color: "#FFFFFF00"
+    - time: 0.3
+      color: "#FFF8DCCC"
+    - time: 0.7
+      color: "#FFE9A866"
+    - time: 1
+      color: "#FFFFFF00"
+
+# Ultra-light ambient dust for high-count parents (vending, signs). Keep sparse.
+- type: particleEffect
+  id: FaintMotes
+  sprite:
+    sprite: _Starfall/Particles/generic.rsi
+    state: soft_dot_big
+  particleSize: 0.05
+  sizeVariance: 0.4
+  lifetime: 4s
+  lifetimeVariance: 1.2s
+  duration: 0
+  speed: 0.08
+  speedVariance: 0.06
+  gravity: -0.03
+  drag: 0.1
+  spreadAngle: 360
+  emitAngle: 0
+  maxCount: 20
+  emissionRate: 4
+  burst: false
+  worldSpace: true
+  terminalSpeed: 0.3
+  constantForce: 0, 0.02
+  noiseStrength: 0.5
+  noiseFrequency: 0.6
+  startRotationVariance: 180
+  rotationSpeed: 4
+  rotationSpeedVariance: 10
+  shape:
+    type: CircleFill
+    radius: 0.6
+  colorOverLifetime:
+    - time: 0
+      color: "#FFF8DC00"
+    - time: 0.3
+      color: "#FFE9A880"
+    - time: 0.75
+      color: "#FFD98A4D"
+    - time: 1
+      color: "#FFFFFF00"

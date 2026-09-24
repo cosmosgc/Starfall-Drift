@@ -4,6 +4,11 @@
   id: Chainsaw
   description: A very large chainsaw. Usually you use this for cutting down trees... usually.
   components:
+  - type: TriggerOnMeleeHit
+  - type: EntityEffectOnTrigger
+    effects:
+    - !type:SpawnParticleEffect
+      effect: MeleeImpact
   - type: Tool
     qualities:
     - Slicing

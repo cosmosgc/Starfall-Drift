@@ -2,6 +2,8 @@
   abstract: true
   id: BaseToyGun
   components:
+  - type: ParticleOnGunShotProjectile
+    effect: HonkBurst
   - type: PacifismAllowedGun # They don't hurt!
   - type: Gun
     clumsyProof: true # Clown proficiency

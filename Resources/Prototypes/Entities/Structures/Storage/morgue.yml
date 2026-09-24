@@ -5,6 +5,9 @@
   placement:
     mode: SnapgridCenter
   components:
+  - type: ParticleEmitter
+    effect: GraveMist
+    intensity: 0.6
   - type: Pullable
   - type: Anchorable
   - type: Sprite
@@ -82,6 +85,9 @@
   placement:
     mode: SnapgridCenter
   components:
+  - type: ParticleEmitter
+    effect: HearthEmbers
+    intensity: 0.5
   - type: Sprite
     sprite: Structures/Storage/morgue.rsi
     layers:

@@ -4,6 +4,8 @@
   name: bar sign
   abstract: true
   components:
+  - type: ParticleEmitter
+    effect: FaintMotes
   - type: WallMount
     arc: 360
   - type: Sprite

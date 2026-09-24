@@ -5,6 +5,9 @@
   description: Just add capitalism!
   abstract: true
   components:
+  - type: ParticleEmitter
+    effect: FaintMotes
+    intensity: 0.8
   - type: ActionGrant
     actions:
     - ActionVendingThrow
@@ -111,6 +114,9 @@
   name: vending machine
   abstract: true
   components:
+  - type: ParticleEmitter
+    effect: FaintMotes
+    intensity: 0.8
   - type: StationAiWhitelist
   - type: AmbientOnPowered
   - type: AmbientSound

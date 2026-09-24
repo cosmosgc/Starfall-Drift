@@ -4,6 +4,11 @@
   id: FireAxe
   description: Truly, the weapon of a madman. Who would think to fight fire with an axe?
   components:
+  - type: TriggerOnMeleeHit
+  - type: EntityEffectOnTrigger
+    effects:
+    - !type:SpawnParticleEffect
+      effect: MeleeImpact
   - type: Tag
     tags:
     - FireAxe
@@ -58,6 +63,11 @@
   parent: [ BaseSyndicateContraband, FireAxe ]
   description: Why fight fire with an axe when you can fight with fire and axe? Now featuring rugged rubberized handle!
   components:
+  - type: TriggerOnMeleeHit
+  - type: EntityEffectOnTrigger
+    effects:
+    - !type:SpawnParticleEffect
+      effect: EmberPop
   - type: MeleeWeapon
     wideAnimationRotation: 135
     swingLeft: true

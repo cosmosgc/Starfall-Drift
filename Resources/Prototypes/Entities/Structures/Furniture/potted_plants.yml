@@ -5,6 +5,9 @@
   description: A little bit of nature contained in a pot.
   abstract: true
   components:
+  - type: ParticleEmitter
+    effect: DruidFireflies
+    intensity: 0.5
   - type: SpriteFade
   - type: Transform
     noRot: true

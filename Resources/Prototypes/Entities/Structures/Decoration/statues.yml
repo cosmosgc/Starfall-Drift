@@ -5,6 +5,9 @@
   suffix: Red
   description: An ancient marble statue. The subject is depicted with a floor-length braid and is wielding a red toolbox.
   components:
+  - type: ParticleEmitter
+    effect: ChapelDust
+    intensity: 0.5
   - type: Sprite
     noRot: true
     sprite: Structures/Decoration/statues.rsi
@@ -19,6 +22,9 @@
   suffix: Blue
   description: An ancient marble statue. The subject is depicted with a floor-length braid and is wielding a blue toolbox.
   components:
+  - type: ParticleEmitter
+    effect: ChapelDust
+    intensity: 0.5
   - type: Sprite
     noRot: true
     sprite: Structures/Decoration/statues.rsi
@@ -32,6 +38,9 @@
   name: bananium savior statue
   description: A bananium statue. It portrays the return of the savior who will rise up and lead the clowns to the great honk.
   components:
+  - type: ParticleEmitter
+    effect: FaintMotes
+    intensity: 1.2
   - type: Sprite
     noRot: true
     sprite: Structures/Decoration/statues.rsi
@@ -50,6 +59,9 @@
   id: BaseIronsandStatue
   description: A mysterious statue found in a desert of iron sand.
   components:
+  - type: ParticleEmitter
+    effect: GraveMist
+    intensity: 0.5
   - type: Sprite
     noRot: true
     drawdepth: Mobs

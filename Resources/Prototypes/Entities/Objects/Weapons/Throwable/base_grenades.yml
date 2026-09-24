@@ -39,6 +39,8 @@
   abstract: true
   id: TimerGrenadeBase
   components:
+  - type: ParticleOnThrown
+    effect: SfSmoke
   - type: TriggerOnUse
   - type: TimerTrigger
     delay: 3

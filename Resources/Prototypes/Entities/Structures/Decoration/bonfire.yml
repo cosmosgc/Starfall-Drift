@@ -3,6 +3,8 @@
   parent: BaseStructure
   id: BaseBonfire
   components:
+  - type: ParticleEmitter
+    effect: HearthEmbers
   - type: Fixtures
     fixtures:
       fix1:
