@@ -1,0 +1,18 @@
+# MegaHetero lobby music collection.
+# Como usar:
+# 1. Coloque .ogg mono em Resources/Audio/_MegaHetero/Lobby/
+#    (use Tools/Jukebox-Manager com RESOURCE_VARIANT=_MegaHetero)
+# 2. Liste os arquivos abaixo.
+# 3. Em Resources/ConfigPresets/MegaHetero/lobby.toml troque:
+#      audio.lobby_music_collection = "MegaHeteroLobby"
+
+- type: soundCollection
+  id: MegaHeteroLobby
+  files:
+    # Exemplo (descomente e ajuste após adicionar seus arquivos):
+    # - /Audio/_MegaHetero/Lobby/megahetero_theme.ogg
+    - /Audio/Lobby/thunderdome.ogg
+    - /Audio/Lobby/absconditus.ogg
+    - /Audio/Lobby/space_asshole.ogg
+    - /Audio/Lobby/the_wizard.ogg
+    - /Audio/Lobby/endless_space.ogg

@@ -1,0 +1,5 @@
+pyyaml
+textual
+textual-dev
+python-dotenv
+pillow

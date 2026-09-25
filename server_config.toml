@@ -1,0 +1,48 @@
+# =============================================================================
+# Estação Mega Hetero — host config (PT-BR, Medium RP, South America East)
+# =============================================================================
+# COMO USAR:
+#   1. Copie este arquivo para a mesma pasta do Content.Server.exe com o nome
+#      "server_config.toml" (o servidor carrega automaticamente), OU
+#   2. Passe explicitamente: Content.Server.exe --config-file server_config.toml --data-dir data
+#
+# O branding (hostname, tags, desc, lobby) vem dos presets abaixo. Valores
+# escritos NESTE arquivo têm prioridade sobre os presets.
+# =============================================================================
+
+[config]
+presets = "MegaHetero/estacao-mega-hetero,MegaHetero/lobby"
+
+[log]
+path = "logs"
+level = 1
+
+[net]
+port = 21212
+bindto = "::,0.0.0.0"
+max_connections = 256
+
+[status]
+enabled = true
+
+[console]
+# Conexões locais (127.0.0.1 / ::1) ganham admin automaticamente.
+# Para admin remoto, use o comando "promotehost SeuUsername" no console do servidor.
+loginlocal = true
+
+[database]
+# SQLite para começar; para produção use postgres (descomente abaixo).
+engine = "sqlite"
+# engine = "postgres"
+# pg_host = "localhost"
+# pg_port = 5432
+# pg_database = "ss14"
+# pg_username = "postgres"
+# pg_password = "postgres"
+
+# Sobrescreva aqui os placeholders do preset (têm prioridade sobre ele):
+# [infolinks]
+# discord = "https://discord.gg/seu-convite-real"
+
+# [hub]
+# advertise = true  # já vem true no preset; confira as hub rules antes de listar

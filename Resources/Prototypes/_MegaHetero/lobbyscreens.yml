@@ -1,0 +1,12 @@
+# Estação Mega Hetero — lobby backgrounds próprios.
+# Adicione imagens 1920x1080 (WebP com perdas de preferência) em
+# Resources/Textures/_MegaHetero/LobbyScreens/ e registre abaixo.
+# Pode gerenciar tudo pelo app em Tools/Lobby-Background-Manager
+# (com RESOURCE_VARIANT=_MegaHetero).
+#
+# Exemplo:
+# - type: lobbyBackground
+#   id: MegaHeteroStation
+#   background: /Textures/_MegaHetero/LobbyScreens/megahetero_station.webp
+#   title: lobby-state-background-megahetero-station-title
+#   artist: lobby-state-background-megahetero-station-artist

@@ -1,0 +1,49 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="100" y1="40" x2="1160" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="834" y1="84" x2="1105" y2="294" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1280" height="420" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#020617" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <circle cx="1105" cy="77" r="122" fill="#38BDF8" fill-opacity="0.12"/>
+  <circle cx="152" cy="341" r="126" fill="#10B981" fill-opacity="0.12"/>
+  <path d="M0 336C131 287 241 286 347 322C479 367 577 364 721 278C875 186 1037 176 1280 262V420H0V336Z" fill="#FFFFFF" fill-opacity="0.05"/>
+
+  <g filter="url(#shadow)">
+    <rect x="64" y="64" width="666" height="292" rx="26" fill="#0B1220" stroke="#334155" stroke-width="2"/>
+    <rect x="94" y="96" width="258" height="26" rx="13" fill="#1E293B"/>
+    <rect x="364" y="96" width="126" height="26" rx="13" fill="#16A34A" fill-opacity="0.25"/>
+    <rect x="504" y="96" width="126" height="26" rx="13" fill="#F59E0B" fill-opacity="0.22"/>
+
+    <text x="96" y="165" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">Jukebox Manager</text>
+    <text x="96" y="204" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="20">Curate SS14 music assets, convert tracks to mono OGG,</text>
+    <text x="96" y="232" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="20">update catalogs, and keep attributions in sync.</text>
+
+    <rect x="96" y="268" width="166" height="44" rx="14" fill="#16A34A"/>
+    <text x="122" y="296" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Textual UI</text>
+    <rect x="276" y="268" width="174" height="44" rx="14" fill="#1D4ED8"/>
+    <text x="304" y="296" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">ffmpeg Pipeline</text>
+  </g>
+
+  <g transform="translate(834 84)">
+    <rect x="0" y="0" width="330" height="236" rx="28" fill="#0B1220" stroke="#475569" stroke-width="2"/>
+    <rect x="28" y="28" width="274" height="180" rx="22" fill="#111827"/>
+    <path d="M81 176V77C81 57.67 96.67 42 116 42H212C231.33 42 247 57.67 247 77V176" stroke="url(#accent)" stroke-width="18" stroke-linecap="round"/>
+    <path d="M116 177C116 150.49 137.49 129 164 129C190.51 129 212 150.49 212 177" stroke="#FDE68A" stroke-width="16" stroke-linecap="round"/>
+    <circle cx="126" cy="88" r="12" fill="#F8FAFC"/>
+    <circle cx="202" cy="88" r="12" fill="#F8FAFC"/>
+    <rect x="145" y="84" width="38" height="10" rx="5" fill="#F8FAFC"/>
+    <rect x="132" y="148" width="64" height="18" rx="9" fill="#38BDF8"/>
+    <rect x="112" y="214" width="104" height="12" rx="6" fill="#334155"/>
+  </g>
+</svg>

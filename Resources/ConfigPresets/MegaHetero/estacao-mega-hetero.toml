@@ -1,0 +1,70 @@
+# Estação Mega Hetero — preset base (branding PT-BR, MRP, South America East)
+# Uso (server_config.toml ou linha de comando):
+#   config.presets = "MegaHetero/estacao-mega-hetero,MegaHetero/lobby"
+# Ou via CLI: --cvar config.presets="MegaHetero/estacao-mega-hetero,MegaHetero/lobby"
+#
+# Ordem recomendada: estacao-mega-hetero primeiro, depois lobby (lobby ajusta coleção de música).
+
+[game]
+hostname = "[BR] Estação Mega Hetero [MRP]"
+desc = "Servidor brasileiro de Space Station 14 (PT-BR). Por host de SS13 desde 2017, e mais de 3 anos com devs de SS14."
+lobbyenabled = true
+soft_max_players = 80
+lobbyduration = 300
+panic_bunker.enabled = true
+panic_bunker.min_overall_minutes = 120
+panic_bunker.disable_with_admins = true
+panic_bunker.enable_without_admins = true
+panic_bunker.show_reason = true
+panic_bunker.custom_reason = "Você ainda não tem tempo de jogo suficiente para conectar. Jogue mais em outros servidores e tente novamente."
+
+# Idioma preferencial do servidor (cultura padrão das localizações).
+# Português brasileiro
+[loc]
+culture_name = "pt-BR"
+
+# Mensagem exibida a cada jogador que entra no lobby (edite à vontade).
+# Pode ser alterada em jogo por admins com o comando "set-motd".
+[chat]
+motd = "Bem-vindo à Estação Mega Hetero! Servidor brasileiro PT-BR | Medium RP | South America East."
+
+[net]
+port = 21212
+bindto = "::,0.0.0.0"
+max_connections = 256
+
+[hub]
+advertise = true
+# Tags padrão do hub (https://docs.spacestation14.com/en/robust-toolbox/server-http-api.html):
+#   lang:pt      = Português
+#   region:am_s_e = South America East (leste da América do Sul / Brasil)
+#   rp:med        = Medium RP
+tags = "lang:pt,region:am_s_e,rp:med"
+
+[infolinks]
+# Preencha com os links reais da comunidade e remova os placeholders.
+discord = "https://discord.gg/pjZmB7CZWj"
+forum = ""
+github = ""
+website = ""
+wiki = "https://wiki.spacestation14.com"
+bug_report = "https://github.com/space-wizards/space-station-14/issues/new/choose"
+appeal = ""
+
+[server]
+rules_file = "StandardRuleset"
+
+[status]
+# Opcional: links de política de privacidade próprios.
+# privacy_policy_link = ""
+# privacy_policy_identifier = ""
+# privacy_policy_version = ""
+
+[auth]
+# 0 = Opcional, 1 = Requerida, 2 = Desabilitada.
+# Para servidor público, recomenda-se exigir contas SS14 (reduz griefing).
+mode = 1
+
+[admin]
+see_own_notes = true
+deadmin_on_join = true
