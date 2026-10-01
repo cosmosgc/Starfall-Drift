@@ -11,7 +11,9 @@ desc = "Servidor brasileiro de Space Station 14 (PT-BR). Por host de SS13 desde 
 lobbyenabled = true
 soft_max_players = 80
 lobbyduration = 300
-panic_bunker.enabled = true
+# Abrigo em pânico (panic bunker) DESATIVADO — estava barrando contas novas
+# (inclusive a do dono). Para reativar depois, mude para true e reinicie.
+panic_bunker.enabled = false
 panic_bunker.min_overall_minutes = 120
 panic_bunker.disable_with_admins = true
 panic_bunker.enable_without_admins = true
@@ -43,7 +45,7 @@ tags = "lang:pt,region:am_s_e,rp:med"
 
 [infolinks]
 # Preencha com os links reais da comunidade e remova os placeholders.
-discord = "https://discord.gg/pjZmB7CZWj"
+# discord = "https://discord.gg/pjZmB7CZWj"
 forum = ""
 github = ""
 website = ""
@@ -53,6 +55,10 @@ appeal = ""
 
 [server]
 rules_file = "StandardRuleset"
+
+[whitelist]
+enabled = true
+prototype_list = "basicWhitelist"
 
 [status]
 # Opcional: links de política de privacidade próprios.
@@ -68,3 +74,8 @@ mode = 1
 [admin]
 see_own_notes = true
 deadmin_on_join = true
+
+[console]
+# Host admin permanente (equivale a promotehost a cada conexão).
+# server_config.toml tem prioridade sobre este valor se definir o mesmo cvar.
+login_host_user = "cosmosgc"

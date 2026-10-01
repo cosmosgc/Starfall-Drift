@@ -319,20 +319,38 @@ public sealed partial class ParticleSystem : EntitySystem
         {
             var emitter = _emitters[i];
 
-            // Check if attached entity was deleted even when off-screen.
-            if (emitter.AttachedEntity is { } attachedEnt && Deleted(attachedEnt))
+            // Refresh the attached entity's position BEFORE the visibility check.
+            // MapCoords are otherwise only updated inside TickEmitter (which requires
+            // inView), so any movement while off-screen (teleports, map changes,
+            // shuttle jumps, spawn races) would freeze the emitter on stale
+            // coordinates and it would never resume when back on screen.
+            if (emitter.AttachedEntity is { } followEnt)
             {
-                emitter.Exhausted = true;
-                emitter.AttachedEntity = null;
+                if (Deleted(followEnt))
+                {
+                    emitter.Exhausted = true;
+                    emitter.AttachedEntity = null;
+                }
+                else
+                {
+                    emitter.MapCoords = _transform.GetMapCoordinates(followEnt);
+                }
             }
 
             var inView = emitter.MapCoords.MapId == currentMapId
                 && viewBounds.Contains(emitter.MapCoords.Position);
 
             if (inView)
+            {
                 TickEmitter(emitter, frameTime, eyeAngle);
+            }
             else
+            {
+                // Keep velocity tracking in sync while culled so resuming doesn't
+                // produce a one-frame fling from a stale PreviousPosition.
+                emitter.PreviousPosition = emitter.MapCoords.Position;
                 AgeOffScreenParticles(emitter, frameTime);
+            }
 
             if (emitter.Exhausted && !emitter.HasLiveParticles())
                 _emitters.RemoveAt(i);

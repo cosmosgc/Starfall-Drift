@@ -14,6 +14,10 @@ public sealed partial class ParticleEmitterSystem : EntitySystem
     // Track emitter references so we can stop them when the entity leaves PVS or is removed.
     private readonly Dictionary<EntityUid, ActiveEmitter> _activeEmitters = new();
 
+    // Entities whose respawn attempt already logged a warning. Prevents per-frame
+    // log spam when an emitter can't be (re)created for a persistent reason.
+    private readonly HashSet<EntityUid> _respawnWarned = new();
+
     public override void Initialize()
     {
         base.Initialize();
@@ -21,7 +25,39 @@ public sealed partial class ParticleEmitterSystem : EntitySystem
         SubscribeLocalEvent<ParticleEmitterComponent, ComponentShutdown>(OnCompShutdown);
     }
 
+    public override void Update(float frameTime)
+    {
+        base.Update(frameTime);
+
+        // Safety net: if ComponentInit was missed (PVS re-entry races, init order),
+        // the entity has the component but no live emitter. Respawn it so ambient
+        // effects always resume when back on screen.
+        var query = EntityQueryEnumerator<ParticleEmitterComponent>();
+        while (query.MoveNext(out var uid, out var comp))
+        {
+            if (_activeEmitters.ContainsKey(uid))
+                continue;
+
+            try
+            {
+                SpawnEmitter((uid, comp));
+                _respawnWarned.Remove(uid);
+            }
+            catch (Exception e)
+            {
+                // Transform may not be ready yet; retry next frame, warn once.
+                if (_respawnWarned.Add(uid))
+                    Log.Warning($"ParticleEmitterSystem: failed to (re)spawn emitter for {uid}: {e.Message}");
+            }
+        }
+    }
+
     private void OnCompInit(Entity<ParticleEmitterComponent> ent, ref ComponentInit args)
+    {
+        SpawnEmitter(ent);
+    }
+
+    private void SpawnEmitter(Entity<ParticleEmitterComponent> ent)
     {
         // Stop any lingering emitter from a previous PVS cycle for this entity.
         if (_activeEmitters.TryGetValue(ent.Owner, out var old))
@@ -48,6 +84,7 @@ public sealed partial class ParticleEmitterSystem : EntitySystem
     {
         if (_activeEmitters.Remove(ent.Owner, out var emitter))
             _particles.RemoveParticle(emitter);
+        _respawnWarned.Remove(ent.Owner);
     }
 }
 
