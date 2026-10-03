@@ -1,3 +1,5 @@
+ghost-command-description = Desista da vida e vire um fantasma.
+
 ghost-command-help-text = O comando fantasma transforma você em um fantasma e faz o personagem que você jogou permanentemente catatônico.
 
 ghost-command-no-session =  Você não tem sessão, não pode fantasma.

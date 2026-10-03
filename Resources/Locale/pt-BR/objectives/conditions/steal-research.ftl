@@ -1,1 +1,1 @@
-objective-condition-steal-research-title =  Roubar { $count }  Tecnologias.
+objective-condition-steal-research-title =  Roubar { $count } tecnologias.

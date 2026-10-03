@@ -1,1 +1,1 @@
-gamemap-could-not-use-map-error =  Não foi possível carregar o mapa. { $oldMap } Por isso não é mais elegível! { $newMap } Em vez disso.
+gamemap-could-not-use-map-error =  Falha ao carregar o mapa { $oldMap } porque ele não é mais elegível! Escolhendo { $newMap } no lugar.

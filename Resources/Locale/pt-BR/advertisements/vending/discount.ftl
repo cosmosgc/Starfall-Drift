@@ -1,3 +1,5 @@
+advertisement-discount-1 = Discount Dan, ele é o cara!
+
 advertisement-discount-2 =  Não há nada melhor neste mundo do que uma mordida de mistério.
 
 advertisement-discount-3 =  Não escute as outras máquinas, compre meu produto!

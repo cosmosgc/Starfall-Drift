@@ -6,7 +6,7 @@ reagent-name-shirley-temple = Shirley Temple
 
 reagent-desc-shirley-temple = Um dos favoritos entre os mais jovens da tripulação.
 
-reagent-name-changeling-sting = Sting de mudança
+reagent-name-changeling-sting = Picada de Metamorfo
 
 reagent-desc-changeling-sting =  Você toma um gole e sente uma sensação de queimação...
 

@@ -10,23 +10,23 @@ cargo-console-menu-account-name-none-text =  Nenhum.
 
 cargo-console-menu-account-name-format = [bold][color={ $color }]{ $name }[/color][/bold] [font="Monospace"]\[{ $code }\][/font]
 
-cargo-console-menu-shuttle-name-label = Nome da nave:{ " " }
+cargo-console-menu-shuttle-name-label = Nome do transporte:{ " " }
 
-cargo-console-menu-shuttle-name-none-text =  Nenhum.
+cargo-console-menu-shuttle-name-none-text = Nenhum
 
 cargo-console-menu-points-label = Saldo:{ " " }
 
 cargo-console-menu-points-amount = ${ $amount }
 
-cargo-console-menu-shuttle-status-label = Status da nave:{ " " }
+cargo-console-menu-shuttle-status-label = Status do transporte:{ " " }
 
-cargo-console-menu-shuttle-status-away-text =  Longe.
+cargo-console-menu-shuttle-status-away-text = Longe
 
-cargo-console-menu-order-capacity-label =  Capacidade da ordem:{ " " }
+cargo-console-menu-order-capacity-label = Capacidade de pedidos:{ " " }
 
 cargo-console-menu-order-capacity-number = { $count }/{ $capacity }
 
-cargo-console-menu-call-shuttle-button = Ativar o telepad.
+cargo-console-menu-call-shuttle-button = Ativar telepad
 
 cargo-console-menu-permissions-button = Permissões.
 
@@ -42,7 +42,7 @@ cargo-console-menu-populate-categories-all-text =  Todos.
 
 cargo-console-menu-order-row-title = { $productName } (x{ $orderAmount } para { $orderPrice }$)
 
-cargo-console-menu-populate-orders-cargo-order-row-product-name-text =  Solicitado por: { $orderRequester } from [color={ $accountColor }]{ $account }[/color]
+cargo-console-menu-populate-orders-cargo-order-row-product-name-text = Solicitado por: { $orderRequester } de [color={ $accountColor }]{ $account }[/color]
 
 cargo-console-menu-order-row-product-description =  Razão: { $orderReason }
 
@@ -93,9 +93,9 @@ cargo-console-trade-station =  Enviado para { $destination }
 
 cargo-console-unlock-approved-order-broadcast = [bold]{ $productName } x{ $orderAmount }[/bold], que custam [bold]{ $cost }[/bold], foi aprovado por [bold]{ $approver }[/bold]
 
-cargo-console-fund-withdraw-broadcast = [bold]{ $name } Retirado { $amount } -Spesos de... { $name1 } \[{ $code1 }\]
+cargo-console-fund-withdraw-broadcast = [bold]{ $name } retirou { $amount } Spessos de { $name1 } \[{ $code1 }\]
 
-cargo-console-fund-transfer-broadcast = [bold]{ $name } Transferido. { $amount } -Spesos de... { $name1 } \[{ $code1 }\] to { $name2 } \[{ $code2 }\][/bold]
+cargo-console-fund-transfer-broadcast = [bold]{ $name } transferiu { $amount } Spessos de { $name1 } \[{ $code1 }\] para { $name2 } \[{ $code2 }\][/bold]
 
 cargo-console-fund-transfer-user-unknown =  Desconhecido
 
@@ -114,39 +114,39 @@ cargo-console-paper-print-text = [head=2] Ordem #{ $orderNumber }[/head]
     { "[bold]Approved by:[/bold]" } { $approver }
     { "[bold]Reason:[/bold]" } { $reason }
 
-# Cargo shuttle console
+# Console de transporte de carga
 cargo-shuttle-console-menu-title = Console de transporte de carga
 
-cargo-shuttle-console-station-unknown =  Desconhecido
+cargo-shuttle-console-station-unknown = Desconhecido
 
-cargo-shuttle-console-shuttle-not-found =  Não encontrado.
+cargo-shuttle-console-shuttle-not-found = Não encontrado
 
-cargo-shuttle-console-organics = Detectaram formas de vida orgânicas na nave auxiliar.
+cargo-shuttle-console-organics = Foram detectadas formas de vida orgânicas no transporte.
 
-cargo-no-shuttle =  Nenhum transporte de carga encontrado!
+cargo-no-shuttle = Nenhum transporte de carga encontrado!
 
 # Funding allocation console
-cargo-funding-alloc-console-menu-title = Consola de Alocação de Financiamento
+cargo-funding-alloc-console-menu-title = Console de Alocação de Financiamento
 
 cargo-funding-alloc-console-label-account = [bold]Conta[/bold]
 
-cargo-funding-alloc-console-label-code = [bold]  Código [/bold]
+cargo-funding-alloc-console-label-code = [bold] Código [/bold]
 
-cargo-funding-alloc-console-label-balance = [bold] Equilíbrio [/bold]
+cargo-funding-alloc-console-label-balance = [bold] Saldo [/bold]
 
-cargo-funding-alloc-console-label-cut = [bold]  Divisão de Receitas (%) [/bold]
+cargo-funding-alloc-console-label-cut = [bold] Divisão de Receitas (%) [/bold]
 
-cargo-funding-alloc-console-label-primary-cut = A carga é cortada de fundos de fontes não-lockbox (%):
+cargo-funding-alloc-console-label-primary-cut = Cota da Carga sobre fundos de fontes sem lockbox (%):
 
-cargo-funding-alloc-console-label-lockbox-cut = A carga é cortada em fundos de vendas de caixa de bloqueio (%):
+cargo-funding-alloc-console-label-lockbox-cut = Cota da Carga sobre fundos de vendas de lockbox (%):
 
-cargo-funding-alloc-console-label-help-non-adjustible =  Carga recebe { $percent }O resto está dividido como especificado abaixo:
+cargo-funding-alloc-console-label-help-non-adjustible = A Carga recebe { $percent }% dos lucros de vendas sem lockbox. O resto é dividido conforme especificado abaixo:
 
-cargo-funding-alloc-console-label-help-adjustible =  Os fundos remanescentes de fontes não-locadoras são distribuídos como especificado abaixo:
+cargo-funding-alloc-console-label-help-adjustible = Os fundos restantes de fontes sem lockbox são distribuídos conforme especificado abaixo:
 
-cargo-funding-alloc-console-button-save =  Salvar mudanças
+cargo-funding-alloc-console-button-save = Salvar Alterações
 
-cargo-funding-alloc-console-label-save-fail = [bold]Divisões de Receita Invalidas![/bold] [color=red]({ $pos ->
+cargo-funding-alloc-console-label-save-fail = [bold]Divisões de Receita Inválidas![/bold] [color=red]({ $pos ->
         [1] +
        *[-1] -
     }{ $val }%)[/color]

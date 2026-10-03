@@ -1,3 +1,5 @@
+cmd-whitelistadd-desc = Adiciona o jogador com o nome de usuário fornecido à lista branca do servidor.
+
 cmd-whitelistadd-help = Uso: whitelistadd <nome de usuário ou ID do usuário>
 
 cmd-whitelistadd-existing = { $username }  Já está na lista branca!

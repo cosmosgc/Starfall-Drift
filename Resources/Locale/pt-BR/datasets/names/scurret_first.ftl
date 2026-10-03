@@ -1,6 +1,6 @@
 names-scurret-first-dataset-1 = Wa.
 
-names-scurret-first-dataset-2 =  Calma.
+names-scurret-first-dataset-2 =  Calmo.
 
 names-scurret-first-dataset-3 =  Contente
 

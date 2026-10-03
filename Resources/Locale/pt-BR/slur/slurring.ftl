@@ -1,1 +1,2 @@
-slur-accent-burp = *BURP *.
+slur-accent-confused = ...hããã...
+slur-accent-burp = *BURP*.

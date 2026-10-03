@@ -1,3 +1,5 @@
+admin-logs-title = Painel de Registros de Administração
+
 admin-logs-count =  Mostrando { $showing }/{ $total } de { $round }
 
 admin-logs-export = Exportar

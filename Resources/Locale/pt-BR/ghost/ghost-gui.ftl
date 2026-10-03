@@ -42,16 +42,16 @@ ghost-roles-window-leave-raffle-button = Sair do sorteio ({ $time } restantes, {
        *[other] { $players } jogadores
     })
 
-ghost-roles-window-request-role-button =  Pedido
+ghost-roles-window-request-role-button = Personificar
 
-ghost-roles-window-request-role-button-timer =  Pedido ({ $time }S)
+ghost-roles-window-request-role-button-timer = Personificando ({ $time }S)
 
-ghost-roles-window-follow-role-button =  Siga
+ghost-roles-window-follow-role-button = Seguir
 
-ghost-roles-window-no-roles-available-label =  Não há papéis de fantasmas disponíveis.
+ghost-roles-window-no-roles-available-label = Não há personagens para fantasmas disponíveis.
 
 ghost-roles-window-rules-footer = O botão irá ativar depois. { $time }  segundos (este atraso é para ter certeza de ler as regras).
 
-ghost-return-to-body-title =  Volte para o corpo.
+ghost-return-to-body-title = Volte para o corpo.
 
-ghost-return-to-body-text =  Você está sendo revivido!
+ghost-return-to-body-text = Você está sendo revivido!

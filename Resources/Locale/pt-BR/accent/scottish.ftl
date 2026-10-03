@@ -1,3 +1,5 @@
+accent-scottish-words-1 = do
+
 accent-scottish-words-replace-1 = Dae.
 
 accent-scottish-words-2 =  Não.

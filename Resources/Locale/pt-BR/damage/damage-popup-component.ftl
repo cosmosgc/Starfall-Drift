@@ -1,8 +1,10 @@
 -damage-popup-component-type =
     { $setting ->
-        [combined]  Combinado.
+        [combined] Combinado
         [total] Total
-        [delta] Delta.
-        [hit]  Bata.
-       *[other]  Desconhecido
+        [delta] Delta
+        [hit] Acerto
+       *[other] Desconhecido
     }
+
+damage-popup-component-switched = Alvo definido para o tipo: { -damage-popup-component-type(setting: $setting) }

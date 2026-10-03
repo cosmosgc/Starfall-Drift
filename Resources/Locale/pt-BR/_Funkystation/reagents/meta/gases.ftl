@@ -1,11 +1,11 @@
 # Funky atmos - /tg/ gases
 reagent-name-bz = Bz.
 
-reagent-desc-bz = Um potente alucinógeno que também coloca lodo em estase.
+reagent-desc-bz = Um potente alucinógeno que também coloca slimes em estase.
 
-reagent-name-healium = -Chéalium.
+reagent-name-healium = Healium.
 
-reagent-desc-healium = Um poderoso agente adormecido com propriedades regenerativas.
+reagent-desc-healium = Um poderoso agente sonífero com propriedades regenerativas.
 
 reagent-name-nitrium = Nitrium
 

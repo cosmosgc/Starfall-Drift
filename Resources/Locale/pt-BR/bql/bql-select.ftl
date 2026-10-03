@@ -1,3 +1,5 @@
+cmd-bql_select-desc = Mostra os resultados de uma consulta BQL em uma janela no cliente
+
 cmd-bql_select-help = Uso: bql select <bql query> A janela aberta permite que você se teletransporte ou visualize as variáveis resultantes.
 
 cmd-bql_select-err-server-shell =  Não é possível ser executado a partir da shell do servidor

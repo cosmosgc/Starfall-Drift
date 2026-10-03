@@ -1,4 +1,4 @@
-role-type-crew-aligned-name =  Equipe Alinhada
+role-type-crew-aligned-name =  Alinhado à Tripulação
 
 role-type-solo-antagonist-name = Antagonista Solo
 

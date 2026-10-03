@@ -1,6 +1,6 @@
-marking-BellyGem = Gem de barriga
+marking-BellyGem = Gema de barriga
 
-marking-BellyGem-bellygem = Gem de barriga
+marking-BellyGem-bellygem = Gema de barriga
 
 marking-GrayObject =  Objetos inescrutáveis
 

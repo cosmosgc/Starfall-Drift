@@ -32,7 +32,7 @@ names-moth-first-female-dataset-10 = Maple
 names-moth-first-female-dataset-11 = Mima.
 
 # Nephele
-names-moth-first-female-dataset-12 =  Sobrinho
+names-moth-first-female-dataset-12 =  Nephele
 
 # Dryocampa rubicunda
 names-moth-first-female-dataset-13 = Rosie.

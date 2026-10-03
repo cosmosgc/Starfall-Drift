@@ -1,4 +1,4 @@
-character-info-title = Carácter
+character-info-title = Caráter
 
 character-info-roles-antagonist-text =  Você não tem papéis especiais.
 

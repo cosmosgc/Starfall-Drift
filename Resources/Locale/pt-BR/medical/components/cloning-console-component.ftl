@@ -1,4 +1,4 @@
-cloning-console-window-title = Consola de clonagem
+cloning-console-window-title = Console de clonagem
 
 cloning-console-window-clone-button-text = Clonar
 

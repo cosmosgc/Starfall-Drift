@@ -1,6 +1,8 @@
+zombie-title = Zumbis
+
 zombie-description =  Os mortos-vivos foram libertados na estação, trabalhem com a tripulação para sobreviver ao surto e proteger a estação.
 
-zombieteors-title = Zombiteors
+zombieteors-title = Zombieteors
 
 zombieteors-description =  Os mortos-vivos foram libertados na estação em meio a uma chuva de meteoros cataclísmica!
 

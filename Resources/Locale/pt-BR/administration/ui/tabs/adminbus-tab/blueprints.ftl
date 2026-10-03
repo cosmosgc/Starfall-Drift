@@ -10,6 +10,6 @@ admin-ui-blueprint-rotation = Rotação
 
 admin-ui-blueprint-teleport = Teletransporte para
 
-admin-ui-blueprint-reset = Reiniciar como padrão
+admin-ui-blueprint-reset = Redefinir para o padrão
 
-admin-ui-blueprint-load =  Carregar a planta
+admin-ui-blueprint-load =  Carregar Blueprint

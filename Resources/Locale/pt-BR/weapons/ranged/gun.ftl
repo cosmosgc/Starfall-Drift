@@ -24,11 +24,11 @@ gun-Burst = rajada
 gun-FullAuto = automático total
 
 # BallisticAmmoProvider
-gun-ballistic-cycle = Ejetar
+gun-ballistic-cycle = Ciclar
 
-gun-ballistic-cycled = Ejetado
+gun-ballistic-cycled = Ciclado
 
-gun-ballistic-cycled-empty = Ejetado (vazio)
+gun-ballistic-cycled-empty = Ciclado (vazio)
 
 gun-ballistic-transfer-invalid = { CAPITALIZE(THE($ammoEntity)) }  Não caberá dentro. { THE($targetEntity) }!
 

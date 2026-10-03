@@ -68,55 +68,55 @@ holopad-ai-is-unable-to-activate-projector =  Você não é capaz de ativar o pr
 
 # Mapping prototypes
 # General
-holopad-general-tools =  Geral - Ferramentas
+holopad-general-tools = Geral - Ferramentas
 
-holopad-general-cryosleep = General, Cryosleep.
+holopad-general-cryosleep = Geral - Cryosleep
 
-holopad-general-theater =  Geral - Teatro
+holopad-general-theater = Geral - Teatro
 
-holopad-general-disposals =  Geral - Eliminações
+holopad-general-disposals = Geral - Despejos
 
-holopad-general-eva =  Geral - Armazenamento EVA
+holopad-general-eva = Geral - Armazenamento EVA
 
-holopad-general-lounge = General, salão.
+holopad-general-lounge = Geral - Salão
 
-holopad-general-arcade =  Geral - Arcade
+holopad-general-arcade = Geral - Arcade
 
-holopad-general-evac = General, evacue.
+holopad-general-evac = Geral - Evac
 
-holopad-general-arrivals = General - Chegadas
+holopad-general-arrivals = Geral - Chegadas
 
 # Command
-holopad-command-bridge =  Comando - Ponte
+holopad-command-bridge = Comando - Ponte
 
-holopad-command-vault =  Comando - Cofre
+holopad-command-vault = Comando - Cofre
 
-holopad-command-bridge-hallway =  Comando - Ponte Hallway
+holopad-command-bridge-hallway = Comando - Corredor da Ponte
 
-holopad-command-meeting-room =  Comando - Sala de reunião
+holopad-command-meeting-room = Comando - Sala de Reunião
 
-holopad-command-lounge =  Comando - Lounge
+holopad-command-lounge = Comando - Salão
 
-holopad-command-captain =  Comando, Capitão.
+holopad-command-captain = Comando - Capitão
 
-holopad-command-hop =  Comando - Hop
+holopad-command-hop = Comando - HoP
 
-holopad-command-cmo =  Comando - CMO
+holopad-command-cmo = Comando - CMO
 
-holopad-command-qm =  Comando - QM
+holopad-command-qm = Comando - QM
 
-holopad-command-ce =  Comando - CE
+holopad-command-ce = Comando - CE
 
-holopad-command-rd =  Comando - RD
+holopad-command-rd = Comando - RD
 
-holopad-command-hos =  Comando - Hos
+holopad-command-hos = Comando - HoS
 
 # Science
 holopad-science-anomaly = Ciência - Anomalia
 
 holopad-science-artifact = Ciência - Artefato
 
-holopad-science-artifact-north = Ciência - Artefacto Norte
+holopad-science-artifact-north = Ciência - Artefato Norte
 
 holopad-science-artifact-south = Ciência - Artefato Sul
 
@@ -126,142 +126,142 @@ holopad-science-rnd = Ciência - P&D
 
 holopad-science-front = Ciência - Frente
 
-holopad-science-breakroom = Ciência - Sala de descanso
+holopad-science-breakroom = Ciência - Sala de Descanso
 
 # Medical
-holopad-medical-medbay =  Médico - Medbay
+holopad-medical-medbay = Médico - Medbay
 
-holopad-medical-chemistry =  Médico - Química
+holopad-medical-chemistry = Médico - Química
 
-holopad-medical-cryopods =  Médicos - Cryópodes
+holopad-medical-cryopods = Médico - Cryopods
 
-holopad-medical-morgue =  Médico - Morgue
+holopad-medical-morgue = Médico - Morgue
 
-holopad-medical-surgery =  Cirurgia Médica
+holopad-medical-surgery = Médico - Cirurgia
 
-holopad-medical-paramedic =  Médico-Paramédico
+holopad-medical-paramedic = Médico - Paramédico
 
-holopad-medical-virology =  Médico - Virologia
+holopad-medical-virology = Médico - Virologia
 
-holopad-medical-front =  Médico - Frente
+holopad-medical-front = Médico - Frente
 
-holopad-medical-breakroom = Sala de descanso médico
+holopad-medical-breakroom = Médico - Sala de Descanso
 
-holopad-medical-clinic =  Clínica Médica
+holopad-medical-clinic = Médico - Clínica
 
 # Cargo
-holopad-cargo-front =  Carga - Frente
+holopad-cargo-front = Carga - Frente
 
-holopad-cargo-bay =  Carga - Baía de Carga
+holopad-cargo-bay = Carga - Baía de Carga
 
-holopad-cargo-salvage-bay =  Carga - Baía de Salvage
+holopad-cargo-salvage-bay = Carga - Baía de Salvage
 
-holopad-cargo-breakroom =  Carga - Sala de descanso
+holopad-cargo-breakroom = Carga - Sala de Descanso
 
-holopad-cargo-ats =  Carga - ATS
+holopad-cargo-ats = Carga - ATS
 
-holopad-cargo-shuttle =  Carga - Shuttle
+holopad-cargo-shuttle = Carga - Transporte
 
-holopad-cargo-mailroom =  Carga - Sala de Correio
+holopad-cargo-mailroom = Carga - Sala de Correio
 
 # Engineering
 holopad-engineering-atmos-front = Atmos - Frente
 
-holopad-engineering-atmos-main = Atmos - Main
+holopad-engineering-atmos-main = Atmos - Principal
 
 holopad-engineering-atmos-teg = Atmos - TEG
 
-holopad-engineering-storage =  Engenharia - Armazenamento
+holopad-engineering-storage = Engenharia - Armazenamento
 
-holopad-engineering-breakroom =  Engenharia - Sala de descanso
+holopad-engineering-breakroom = Engenharia - Sala de Descanso
 
-holopad-engineering-front =  Engenharia - Frente
+holopad-engineering-front = Engenharia - Frente
 
-holopad-engineering-telecoms =  Engenharia - Telecoms
+holopad-engineering-telecoms = Engenharia - Telecoms
 
-holopad-engineering-tech-vault =  Engenharia - Tech Coult
+holopad-engineering-tech-vault = Engenharia - Cofre Técnico
 
-holopad-engineering-ame =  Engenharia - AME
+holopad-engineering-ame = Engenharia - AME
 
-holopad-engineering-power =  Engenharia - Energia
+holopad-engineering-power = Engenharia - Energia
 
-holopad-engineering-main =  Engenharia - Main
+holopad-engineering-main = Engenharia - Principal
 
 # Security
-holopad-security-front =  Segurança - Frente
+holopad-security-front = Segurança - Frente
 
-holopad-security-brig =  Segurança - Brig
+holopad-security-brig = Segurança - Brig
 
-holopad-security-warden =  Segurança - Diretor
+holopad-security-warden = Segurança - Carcereiro
 
-holopad-security-interrogation =  Segurança - Interrogatório
+holopad-security-interrogation = Segurança - Interrogatório
 
-holopad-security-breakroom =  Segurança, sala de descanso.
+holopad-security-breakroom = Segurança - Sala de Descanso
 
-holopad-security-detective =  Segurança, detetive.
+holopad-security-detective = Segurança - Detetive
 
-holopad-security-perma =  Segurança, Perma.
+holopad-security-perma = Segurança - Perma
 
-holopad-security-courtroom =  Segurança, sala de tribunal.
+holopad-security-courtroom = Segurança - Tribunal
 
-holopad-security-lawyer =  Segurança - Advogado
+holopad-security-lawyer = Segurança - Advogado
 
-holopad-security-armory =  Segurança - Arsenal
+holopad-security-armory = Segurança - Arsenal
 
-holopad-security-locker-room =  Segurança - Sala de vestiário
+holopad-security-locker-room = Segurança - Vestiário
 
-holopad-security-brig-med =  Segurança - Brig Med
+holopad-security-brig-med = Segurança - Brig Med
 
-holopad-security-evac-checkpoint =  Segurança - Ponto de checagem de evacuação
+holopad-security-evac-checkpoint = Segurança - Posto de Evacuação
 
-holopad-security-arrivals-checkpoint =  Segurança - Ponto de controle de chegadas
+holopad-security-arrivals-checkpoint = Segurança - Posto de Chegadas
 
 # Service
-holopad-service-janitor =  Serviço, zelador.
+holopad-service-janitor = Serviço - Zelador
 
-holopad-service-bar =  Serviço - Bar
+holopad-service-bar = Serviço - Bar
 
-holopad-service-kitchen =  Serviço - Cozinha
+holopad-service-kitchen = Serviço - Cozinha
 
-holopad-service-botany =  Serviço - Botânica
+holopad-service-botany = Serviço - Botânica
 
-holopad-service-chapel =  Serviço, Capela.
+holopad-service-chapel = Serviço - Capela
 
-holopad-service-library =  Serviço - Biblioteca
+holopad-service-library = Serviço - Biblioteca
 
-holopad-service-newsroom =  Serviço, redação.
+holopad-service-newsroom = Serviço - Redação
 
-holopad-service-zookeeper =  Serviço - Zookeeper
+holopad-service-zookeeper = Serviço - Zookeeper
 
-holopad-service-boxer =  Serviço - Boxer
+holopad-service-boxer = Serviço - Boxer
 
-holopad-service-clown = Palhaço de Serviço
+holopad-service-clown = Serviço - Palhaço
 
-holopad-service-musician =  Serviço - Musicista
+holopad-service-musician = Serviço - Musicista
 
-holopad-service-mime =  Serviço, Mime
+holopad-service-mime = Serviço - Mime
 
-holopad-service-clown-mime =  Serviço: Palhaço/Mime
+holopad-service-clown-mime = Serviço - Palhaço/Mime
 
-holopad-service-gameroom =  Serviço, sala de jogos.
+holopad-service-gameroom = Serviço - Sala de Jogos
 
 # AI
-holopad-ai-core = AI - Core
+holopad-ai-core = IA - Núcleo
 
-holopad-ai-main = AI - Main
+holopad-ai-main = IA - Principal
 
-holopad-ai-upload = Al-Up.
+holopad-ai-upload = IA - Upload
 
-holopad-ai-backup-power = AI - Poder de reserva
+holopad-ai-backup-power = IA - Energia Reserva
 
-holopad-ai-entrance = AI-Entrada
+holopad-ai-entrance = IA - Entrada
 
-holopad-ai-chute = Al-Chute.
+holopad-ai-chute = IA - Chute
 
 # Long Range
-holopad-station-bridge =  Estação - Ponte
+holopad-station-bridge = Estação - Ponte
 
-holopad-station-cargo-bay =  Estação - Baía de Carga
+holopad-station-cargo-bay = Estação - Baía de Carga
 
 # CentComm
-holopad-centcomm-evac = CentComm - Evacuação
+holopad-centcomm-evac = CentComm - Transporte de Evacuação

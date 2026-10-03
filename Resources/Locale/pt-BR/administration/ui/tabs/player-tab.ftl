@@ -1,3 +1,5 @@
+player-tab-player-count = Jogadores: { $count }
+
 player-tab-username =  Nome de usuário
 
 player-tab-character = Carácter

@@ -1,3 +1,5 @@
+advertisement-clothes-1 = Vista-se para o sucesso!
+
 advertisement-clothes-2 = Prepare-se para parecer arrogante!
 
 advertisement-clothes-3 =  Olha só essa onda!

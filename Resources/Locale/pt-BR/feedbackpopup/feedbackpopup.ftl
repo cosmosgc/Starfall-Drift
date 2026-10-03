@@ -21,9 +21,9 @@ command-description-feedback-add =  Adiciona um protótipo de feedback aos clien
 
 command-description-feedback-remove = Remove um protótipo de feedback dos clientes.
 
-feedbackpopup-give-command-name =  Dê-me o feed de volta.
+feedbackpopup-give-command-name = givefeedbackpopup
 
-feedbackpopup-show-command-name = Showfeedbackpopup
+feedbackpopup-show-command-name = showfeedbackpopup
 
 cmd-givefeedbackpopup-desc =  Dá ao jogador alvo um retorno.
 

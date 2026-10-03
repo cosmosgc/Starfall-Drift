@@ -1,3 +1,5 @@
+advertisement-happyhonk-1 = Honk! Honk! Por que não pedir um Happy Honk Meal hoje?
+
 advertisement-happyhonk-2 = Palhaços merecem um abraço, se você ver alguém, certifique-se de mostrar sua gratidão.
 
 advertisement-happyhonk-3 = Se você encontrar o Honker Dourado, então reze aos deuses, você é uma pessoa de sorte.

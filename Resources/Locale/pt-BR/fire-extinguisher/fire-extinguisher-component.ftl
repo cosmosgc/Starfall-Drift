@@ -1,4 +1,4 @@
-fire-extinguisher-component-after-interact-refilled-message = { $owner }  está agora recheado
+fire-extinguisher-component-after-interact-refilled-message = { $owner }  está agora reabastecido
 
 fire-extinguisher-component-safety-on-message = A segurança está ligada!
 

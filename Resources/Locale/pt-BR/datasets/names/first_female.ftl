@@ -120,7 +120,7 @@ names-first-female-dataset-60 = Anaya.
 
 names-first-female-dataset-61 = Andrea.
 
-names-first-female-dataset-62 =  Anjo
+names-first-female-dataset-62 =  Angel
 
 names-first-female-dataset-63 = Angela.
 
@@ -148,7 +148,7 @@ names-first-female-dataset-74 = Annika.
 
 names-first-female-dataset-75 = Anya.
 
-names-first-female-dataset-76 =  Abril
+names-first-female-dataset-76 =  April
 
 names-first-female-dataset-77 = Arabella.
 
@@ -170,7 +170,7 @@ names-first-female-dataset-85 = Ashlyn.
 
 names-first-female-dataset-86 = Ashlynn.
 
-names-first-female-dataset-87 =  Ásia
+names-first-female-dataset-87 =  Asia
 
 names-first-female-dataset-88 = Astor.
 
@@ -188,7 +188,7 @@ names-first-female-dataset-94 = Audrina.
 
 names-first-female-dataset-95 = Aurora.
 
-names-first-female-dataset-96 =  Outono
+names-first-female-dataset-96 =  Autumn
 
 names-first-female-dataset-97 = Ava.
 
@@ -292,7 +292,7 @@ names-first-female-dataset-146 = Caroline.
 
 names-first-female-dataset-147 = Carolyn.
 
-names-first-female-dataset-148 =  Carregar
+names-first-female-dataset-148 =  Carry
 
 names-first-female-dataset-149 = Caryl.
 
@@ -318,7 +318,7 @@ names-first-female-dataset-159 = Cherette.
 
 names-first-female-dataset-160 = Cheri.
 
-names-first-female-dataset-161 = Cereja.
+names-first-female-dataset-161 = Cherry.
 
 names-first-female-dataset-162 = Cheyanne.
 
@@ -402,13 +402,13 @@ names-first-female-dataset-201 = Delma.
 
 names-first-female-dataset-202 = Denise.
 
-names-first-female-dataset-203 =  Negar
+names-first-female-dataset-203 =  Denys
 
 names-first-female-dataset-204 = Desiree.
 
-names-first-female-dataset-205 =  Destino
+names-first-female-dataset-205 =  Destiny
 
-names-first-female-dataset-206 = Diamante
+names-first-female-dataset-206 = Diamond
 
 names-first-female-dataset-207 = Diana.
 
@@ -426,7 +426,7 @@ names-first-female-dataset-213 = Dortha.
 
 names-first-female-dataset-214 = Dulce.
 
-names-first-female-dataset-215 =  Páscoa
+names-first-female-dataset-215 =  Easter
 
 names-first-female-dataset-216 = Ebba.
 
@@ -498,7 +498,7 @@ names-first-female-dataset-249 = Evelina.
 
 names-first-female-dataset-250 = Evelyn.
 
-names-first-female-dataset-251 =  Fé
+names-first-female-dataset-251 =  Faith
 
 names-first-female-dataset-252 =  Fátima
 
@@ -514,7 +514,7 @@ names-first-female-dataset-257 = Flora.
 
 names-first-female-dataset-258 = Flossie.
 
-names-first-female-dataset-259 =  Sorte.
+names-first-female-dataset-259 =  Fortune.
 
 names-first-female-dataset-260 = Francesca.
 
@@ -584,7 +584,7 @@ names-first-female-dataset-292 = Hannah.
 
 names-first-female-dataset-293 = Harley.
 
-names-first-female-dataset-294 = Harmonia
+names-first-female-dataset-294 = Harmony
 
 names-first-female-dataset-295 = Harper.
 
@@ -600,7 +600,7 @@ names-first-female-dataset-300 = Hazel.
 
 names-first-female-dataset-301 = Heather.
 
-names-first-female-dataset-302 =  Céu
+names-first-female-dataset-302 =  Heaven
 
 names-first-female-dataset-303 = Hedley.
 
@@ -612,7 +612,7 @@ names-first-female-dataset-306 = Hepsie.
 
 names-first-female-dataset-307 = Holly.
 
-names-first-female-dataset-308 =  Esperança
+names-first-female-dataset-308 =  Hope
 
 names-first-female-dataset-309 = Hortensia.
 
@@ -622,7 +622,7 @@ names-first-female-dataset-311 = Ileen.
 
 names-first-female-dataset-312 =  Imani.
 
-names-first-female-dataset-313 = Inocente.
+names-first-female-dataset-313 = Innocent.
 
 names-first-female-dataset-314 = Irene.
 
@@ -768,7 +768,7 @@ names-first-female-dataset-384 = Juliet.
 
 names-first-female-dataset-385 = Julissa.
 
-names-first-female-dataset-386 =  Julho
+names-first-female-dataset-386 =  July
 
 names-first-female-dataset-387 = Kadence.
 
@@ -858,7 +858,7 @@ names-first-female-dataset-429 = Kennedy.
 
 names-first-female-dataset-430 = Kenzie.
 
-names-first-female-dataset-431 = -Kerena.
+names-first-female-dataset-431 = Kerena.
 
 names-first-female-dataset-432 = Kerensa.
 

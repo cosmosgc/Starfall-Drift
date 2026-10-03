@@ -1,1 +1,1 @@
-shutter-rattle = * Balancem o chocalho *
+shutter-rattle = * chacoalha chacoalha *

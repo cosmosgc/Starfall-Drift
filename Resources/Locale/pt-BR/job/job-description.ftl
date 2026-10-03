@@ -52,7 +52,7 @@ job-description-ertsecurity =  Certifique-se de que qualquer ameaça ativa à es
 
 job-description-hop = Lide com a realocação de acesso usando seu console de identificação, gerenciando o departamento de serviço e mantendo Ian seguro.
 
-job-description-hos = Gerencie sua força de segurança e mantenha-os eficientes, quell dissent, e manter os outros chefes de equipe seguros.
+job-description-hos = Gerencie sua equipe de segurança e mantenha-os eficientes, suprima dissidências e mantenha os outros chefes seguros.
 
 job-description-intern =  Aprenda o básico de administrar medicamentos, produtos químicos básicos e usar ferramentas médicas.
 

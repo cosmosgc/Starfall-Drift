@@ -1,27 +1,43 @@
-markings-search =  Busca
+markings-search = Busca
 
 -markings-selection =
     { $selectable ->
-        [0]  Você não tem mais marcas.
-        [one]  Você pode selecionar mais uma marca.
-       *[other]  Você pode selecionar { $selectable }  Mais marcas.
+        [0] Você não tem mais marcas restantes.
+        [one] Você pode selecionar mais uma marca.
+       *[other] Você pode selecionar mais { $selectable } marcas.
     }
 
-markings-reorder =  Marcações de reordenação.
+markings-limits =
+    { $required ->
+        [true] { $count ->
+            [-1] Selecione pelo menos uma marca.
+            [0] Você não pode selecionar nenhuma marca, mas, de alguma forma, precisa? Isso é um bug.
+            [one] Selecione uma marca.
+           *[other] Selecione pelo menos uma marca e até { $count } marcas. { -markings-selection(selectable: $selectable) }
+        }
+       *[false] { $count ->
+            [-1] Selecione qualquer número de marcas.
+            [0] Você não pode selecionar nenhuma marca.
+            [one] Selecione até uma marca.
+           *[other] Selecione até { $count } marcas. { -markings-selection(selectable: $selectable) }
+        }
+    }
 
-humanoid-marking-modifier-respect-limits =  Limites de respeito
+markings-reorder = Reordenar marcas
 
-humanoid-marking-modifier-respect-group-sex = Respeite o grupo e as restrições sexuais.
+humanoid-marking-modifier-respect-limits = Respeitar limites
 
-humanoid-marking-modifier-base-layers =  Camadas de base
+humanoid-marking-modifier-respect-group-sex = Respeitar restrições de grupo e sexo
 
-humanoid-marking-modifier-enable = Activar
+humanoid-marking-modifier-base-layers = Camadas base
+
+humanoid-marking-modifier-enable = Ativar
 
 humanoid-marking-modifier-prototype-id = ID do protótipo:
 
 markings-organ-Torso = Torso
 
-markings-organ-Head =  Cabeça.
+markings-organ-Head = Cabeça
 
 markings-organ-ArmLeft = Braço esquerdo
 
@@ -35,37 +51,37 @@ markings-organ-LegLeft = Perna esquerda
 
 markings-organ-LegRight = Perna direita
 
-markings-organ-FootLeft =  Pé esquerdo
+markings-organ-FootLeft = Pé esquerdo
 
-markings-organ-FootRight =  Pé direito
+markings-organ-FootRight = Pé direito
 
 markings-organ-Eyes = Olhos
 
-markings-layer-Special =  Especial.
+markings-layer-Special = Especial
 
 markings-layer-Tail = Cauda
 
 markings-layer-Tail-Moth = Asas
 
-markings-layer-Hair =  Cabelo
+markings-layer-Hair = Cabelo
 
-markings-layer-FacialHair =  Cabelo facial
+markings-layer-FacialHair = Cabelo facial
 
-markings-layer-UndergarmentTop =  Camisa de baixo.
+markings-layer-UndergarmentTop = Camisa de baixo
 
 markings-layer-UndergarmentBottom = Cuecas
 
-markings-layer-Chest = Peito.
+markings-layer-Chest = Peito
 
-markings-layer-Head =  Cabeça.
+markings-layer-Head = Cabeça
 
-markings-layer-Snout = Snout
+markings-layer-Snout = Focinho
 
-markings-layer-SnoutCover = Snout (Cover)
+markings-layer-SnoutCover = Focinho (cobertura)
 
-markings-layer-HeadSide =  Cabeça (Side)
+markings-layer-HeadSide = Cabeça (lateral)
 
-markings-layer-HeadTop =  Cabeça (Top)
+markings-layer-HeadTop = Cabeça (topo)
 
 markings-layer-Eyes = Olhos
 
@@ -81,10 +97,10 @@ markings-layer-RLeg = Perna direita
 
 markings-layer-LLeg = Perna esquerda
 
-markings-layer-RFoot =  Pé direito
+markings-layer-RFoot = Pé direito
 
-markings-layer-LFoot =  Pé esquerdo
+markings-layer-LFoot = Pé esquerdo
 
-markings-layer-Overlay =  Sobreposição
+markings-layer-Overlay = Sobreposição
 
-markings-layer-TailOverlay =  Sobreposição
+markings-layer-TailOverlay = Sobreposição

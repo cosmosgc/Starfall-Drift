@@ -1,5 +1,5 @@
 geiger-item-control-status = [color={ $color }]{ $rads } Rads.[/color]
 
-geiger-item-control-disabled = Desativada.
+geiger-item-control-disabled = Desativado.
 
-geiger-component-examine = Current radiation: [color={ $color }]{ $rads } Rads.[/color]
+geiger-component-examine = Radiação atual: [color={ $color }]{ $rads } Rads.[/color]

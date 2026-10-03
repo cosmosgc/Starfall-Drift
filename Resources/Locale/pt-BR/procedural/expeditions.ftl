@@ -1,6 +1,6 @@
 salvage-expedition-type =  Missão
 
-salvage-expedition-window-title = Expedições de salvação.
+salvage-expedition-window-title = Expedições de salvagem.
 
 salvage-expedition-window-difficulty =  Dificuldade:
 

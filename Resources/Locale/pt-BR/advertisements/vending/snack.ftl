@@ -1,3 +1,5 @@
+advertisement-snack-1 = Experimente nossa nova barra de nougat!
+
 advertisement-snack-2 =  Duas calorias pela metade do preço!
 
 advertisement-snack-3 = O mais saudável!

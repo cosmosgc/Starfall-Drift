@@ -184,7 +184,7 @@ names-first-dataset-92 = Andrew.
 
 names-first-dataset-93 = Andy.
 
-names-first-dataset-94 =  Anjo
+names-first-dataset-94 =  Angel
 
 names-first-dataset-95 = Angela.
 
@@ -218,7 +218,7 @@ names-first-dataset-109 = Antonio.
 
 names-first-dataset-110 = Anya.
 
-names-first-dataset-111 =  Abril
+names-first-dataset-111 =  April
 
 names-first-dataset-112 = Arabella.
 
@@ -238,7 +238,7 @@ names-first-dataset-119 =  Armando
 
 names-first-dataset-120 = Arn.
 
-names-first-dataset-121 = Arte
+names-first-dataset-121 = Art
 
 names-first-dataset-122 = Arthur.
 
@@ -256,7 +256,7 @@ names-first-dataset-128 = Ashlynn.
 
 names-first-dataset-129 = Ashton
 
-names-first-dataset-130 =  Ásia
+names-first-dataset-130 =  Asia
 
 names-first-dataset-131 = Astor.
 
@@ -272,13 +272,13 @@ names-first-dataset-136 = Audrey.
 
 names-first-dataset-137 = Audrina.
 
-names-first-dataset-138 =  Agosto
+names-first-dataset-138 =  August
 
 names-first-dataset-139 = Aurora.
 
 names-first-dataset-140 = Austin.
 
-names-first-dataset-141 =  Outono
+names-first-dataset-141 =  Autumn
 
 names-first-dataset-142 = Ava.
 
@@ -486,7 +486,7 @@ names-first-dataset-243 = Caroline.
 
 names-first-dataset-244 = Carolyn.
 
-names-first-dataset-245 =  Carregar
+names-first-dataset-245 =  Carry
 
 names-first-dataset-246 = Carson.
 
@@ -496,7 +496,7 @@ names-first-dataset-248 = Caryl.
 
 names-first-dataset-249 = Casey.
 
-names-first-dataset-250 =  Dinheiro
+names-first-dataset-250 =  Cash
 
 names-first-dataset-251 = Casimir
 
@@ -540,7 +540,7 @@ names-first-dataset-270 = Cherette.
 
 names-first-dataset-271 = Cheri.
 
-names-first-dataset-272 = Cereja.
+names-first-dataset-272 = Cherry.
 
 names-first-dataset-273 = Cheyanne.
 
@@ -636,7 +636,7 @@ names-first-dataset-318 =  Cristopher.
 
 names-first-dataset-319 = Cruz.
 
-names-first-dataset-320 =  Cristal
+names-first-dataset-320 =  Crystal
 
 names-first-dataset-321 = Curtis.
 

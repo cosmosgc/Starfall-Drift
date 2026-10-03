@@ -1,3 +1,5 @@
+comp-space-heater-ui-title = Unidade de Controle de Temperatura
+
 comp-space-heater-ui-thermostat = Termóstato:
 
 comp-space-heater-ui-mode =  Modo

@@ -1,3 +1,2 @@
-block-injection-default = { $name }  Não pode ser injetado.
-
-block-injection-decapoid = { $name }O exoesqueleto é muito grosso para perfurar!
+block-injection-default = {$name}  não pode ser injetado.
+block-injection-decapoid = O exoesqueleto de {$name} é grosso demais para perfurar!

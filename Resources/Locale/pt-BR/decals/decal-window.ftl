@@ -1,3 +1,5 @@
+decal-placer-window-title = Colocador de Decalques
+
 decal-placer-window-use-color = Cor Personalizada
 
 decal-placer-window-rotation = Rotação

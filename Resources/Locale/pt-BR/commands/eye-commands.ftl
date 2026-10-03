@@ -1,3 +1,5 @@
+parse-bool-fail = Não foi possível analisar { $arg } como um bool
+
 parse-float-fail =  Incapaz de analisar { $arg }  como um carro alegórico
 
 cmd-lockeyes-desc = Evita que os olhos sejam girados mais longe.

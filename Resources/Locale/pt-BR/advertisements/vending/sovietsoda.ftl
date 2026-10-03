@@ -1,3 +1,5 @@
+advertisement-sovietsoda-1 = Pelo camarada e pela pátria.
+
 advertisement-sovietsoda-2 =  Você cumpriu sua quota nutricional hoje?
 
 advertisement-sovietsoda-3 =  Muito bom!

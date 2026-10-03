@@ -1,3 +1,5 @@
+quick-dialog-ui-integer = Inteiro..
+
 quick-dialog-ui-float = Flutuar...
 
 quick-dialog-ui-short-text =  Mensagem curta.

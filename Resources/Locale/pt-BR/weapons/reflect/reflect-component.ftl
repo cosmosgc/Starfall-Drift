@@ -1,1 +1,1 @@
-reflect-shot = Refletida!
+reflect-shot = Refletido!

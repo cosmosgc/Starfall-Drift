@@ -5,7 +5,7 @@ station-ai-fixer-console-station-ai-holder-required =  Somente unidades de armaz
 
 station-ai-fixer-console-examination-station-ai-holder-present =  Há { INDEFINITE($holder) } [color=cyan]{ $holder }[/color]  inserido no console.
 
-station-ai-fixer-console-examination-station-ai-holder-absent =  Há uma vaga desocupada para um [color=cyan] Unidade de armazenamento de IA[/color].
+station-ai-fixer-console-examination-station-ai-holder-absent =  Há uma vaga desocupada para uma [color=cyan]Unidade de armazenamento de IA[/color].
 
 station-ai-fixer-console-repair-finished =  Tentando reiniciar a IA...
 

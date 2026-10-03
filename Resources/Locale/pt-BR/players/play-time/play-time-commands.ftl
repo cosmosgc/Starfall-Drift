@@ -1,3 +1,5 @@
+parse-minutes-fail = Não foi possível analisar '{ $minutes }' como minutos
+
 parse-session-fail =  Não encontrei sessão para '{ $username }'
 
 # - playtime_addoverall

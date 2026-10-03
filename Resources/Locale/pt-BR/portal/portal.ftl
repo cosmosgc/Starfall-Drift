@@ -1,4 +1,4 @@
-portal-component-ghost-traverse = Travessia
+portal-component-ghost-traverse = Atravessar
 
 portal-component-no-linked-entities =  Não pode atravessar um portal que não tem exatamente um portal conectado.
 

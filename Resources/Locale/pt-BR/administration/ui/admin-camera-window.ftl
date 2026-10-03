@@ -1,3 +1,5 @@
+admin-camera-window-title = Observando { $name }
+
 admin-camera-window-title-placeholder =  Observando
 
 admin-camera-window-follow =  Siga

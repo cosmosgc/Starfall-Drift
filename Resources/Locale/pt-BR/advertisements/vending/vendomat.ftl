@@ -1,3 +1,5 @@
+advertisement-vendomat-1 = Somente o melhor!
+
 advertisement-vendomat-2 =  Pegue algumas ferramentas.
 
 advertisement-vendomat-3 = O equipamento mais robusto.

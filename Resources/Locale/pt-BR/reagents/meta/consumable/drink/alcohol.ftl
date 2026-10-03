@@ -36,9 +36,9 @@ reagent-desc-coffeeliqueur = Licor aromatizado com café e especiarias.
 
 reagent-name-melon-liquor = Licor de melão
 
-reagent-desc-melon-liquor = Um licor relativamente doce e frutado 46.
+reagent-desc-melon-liquor = Um licor relativamente doce e frutado, com 46 proof.
 
-reagent-name-n-t-cahors = Neoteologia Cahors vinho
+reagent-name-n-t-cahors = Vinho Cahors NeoTeologia
 
 reagent-desc-n-t-cahors =  Vinho de sobremesa fortificado feito de cabernet sauvignon, saperavi e outras uvas.
 
@@ -50,13 +50,13 @@ reagent-name-rum = Rum
 
 reagent-desc-rum = Bebida alcoólica destilada feita de subprodutos da cana-de-açúcar.
 
-reagent-name-sake = sake
+reagent-name-sake = Saquê
 
-reagent-desc-sake =  Bebidas alcoólicas feitas fermentando arroz que foi polido.
+reagent-desc-sake =  Uma bebida alcoólica feita fermentando arroz que foi polido.
 
 reagent-name-tequila = Tequila.
 
-reagent-desc-tequila = Um forte e levemente aromatizado espírito mexicano produzido.
+reagent-desc-tequila = Um destilado mexicano forte e levemente aromatizado.
 
 reagent-name-vermouth = Vermute.
 
@@ -64,7 +64,7 @@ reagent-desc-vermouth =  Vinho branco aromatizado e fortificado com vários bot�
 
 reagent-name-vodka = Vodca.
 
-reagent-desc-vodka =  Bebidas alcoólicas destilada claras que se originam da Polônia e Rússia.
+reagent-desc-vodka =  Bebida alcoólica destilada clara que se origina da Polônia e da Rússia.
 
 reagent-name-whiskey = Uísque
 
@@ -72,7 +72,7 @@ reagent-desc-whiskey = Um tipo de bebida alcoólica destilada feita de purê de 
 
 reagent-name-wine =  Vinho
 
-reagent-desc-wine =  Uma bebida alcoólica premium feita de suco de uva destilada.
+reagent-desc-wine =  Uma bebida alcoólica premium feita de suco de uva destilado.
 
 reagent-name-champagne = Champanhe
 
@@ -86,7 +86,7 @@ reagent-name-alien-brain-hemorrhage =  Hemorragia cerebral alienígena
 
 reagent-desc-alien-brain-hemorrhage =  Talvez queira que o chequem no Med.
 
-reagent-name-allies-cocktail = Coquetéis aliados.
+reagent-name-allies-cocktail = Coquetel Aliado.
 
 reagent-desc-allies-cocktail =  Uma bebida feita de seus aliados, não tão doce quanto quando feita de seus inimigos.
 
@@ -132,7 +132,7 @@ reagent-desc-barefoot = Um milkshake de cassis, feito de creme, suco de frutas e
 
 reagent-name-beepsky-smash = Beepsky esmaga
 
-reagent-desc-beepsky-smash =  Negar beber isso e preparar para a lei.
+reagent-desc-beepsky-smash =  Negue ter bebido isso e prepare-se para A LEI.
 
 reagent-name-black-russian =  Russo negro
 

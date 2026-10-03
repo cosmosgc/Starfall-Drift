@@ -1,3 +1,5 @@
+advertisement-ammo-1 = Estação de Libertação: sua loja única para tudo da segunda emenda!
+
 advertisement-ammo-2 =  Seja um patriota hoje, pegue uma arma!
 
 advertisement-ammo-3 =  Armas de qualidade para preços baratos!

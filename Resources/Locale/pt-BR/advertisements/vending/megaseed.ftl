@@ -1,3 +1,5 @@
+advertisement-megaseed-1 = Nós gostamos de plantas!
+
 advertisement-megaseed-2 = Cultive algumas colheitas
 
 advertisement-megaseed-3 =  Cresce, baby, grouwww!

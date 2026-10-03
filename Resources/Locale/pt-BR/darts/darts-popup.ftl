@@ -8,4 +8,4 @@ darts-popup-5 = 5 pontos.
 
 darts-popup-1 = 1 ponto
 
-darts-popup-miss =  Senhorita.
+darts-popup-miss =  Errou.

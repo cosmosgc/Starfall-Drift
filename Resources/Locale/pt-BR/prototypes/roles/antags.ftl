@@ -1,3 +1,5 @@
+roles-antag-generic-solo-antagonist-name = Antagonista Solo
+
 roles-antag-generic-free-agent-name =  Agente Livre.
 
 roles-antag-generic-team-antagonist-name = Antagonista da equipe

@@ -4,7 +4,7 @@ nuke-component-cant-anchor-toggle = O disco de autenticação é necessário par
 
 nuke-component-announcement-sender =  Explosivo de fissão nuclear
 
-nuke-component-announcement-armed =  Atenção, o mecanismo de autodestruição da estação foi ativado. { $location }. { $time } Se isso foi feito em erro, o mecanismo ainda pode ser desarmado.
+nuke-component-announcement-armed =  Atenção, o mecanismo de autodestruição da estação foi ativado. { $location }. { $time } segundos até a detonação. Se isso foi feito em erro, o mecanismo ainda pode ser desarmado.
 
 nuke-component-announcement-unarmed = A autodestruição da estação foi desativada!
 

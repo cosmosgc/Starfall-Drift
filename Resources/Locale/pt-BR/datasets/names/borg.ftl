@@ -8,7 +8,7 @@ names-borg-dataset-4 = Beep II
 
 names-borg-dataset-5 = Boombox
 
-names-borg-dataset-6 = Guia de Tours.
+names-borg-dataset-6 = Guia Turístico-tron.
 
 names-borg-dataset-7 = Taffy
 

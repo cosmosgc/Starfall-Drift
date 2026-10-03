@@ -1,6 +1,6 @@
 damage-group-brute = Bruto.
 
-damage-group-burn = Queime.
+damage-group-burn = Queimadura.
 
 damage-group-airloss = Perda de ar.
 

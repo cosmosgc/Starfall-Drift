@@ -66,7 +66,7 @@ names-first-male-dataset-33 = Andrew.
 
 names-first-male-dataset-34 = Andy.
 
-names-first-male-dataset-35 =  Anjo
+names-first-male-dataset-35 =  Angel
 
 names-first-male-dataset-36 = Angelo.
 
@@ -74,7 +74,7 @@ names-first-male-dataset-37 = Anthony.
 
 names-first-male-dataset-38 = Antonio.
 
-names-first-male-dataset-39 = Maçã.
+names-first-male-dataset-39 = Apple.
 
 names-first-male-dataset-40 = Archie.
 
@@ -82,7 +82,7 @@ names-first-male-dataset-41 =  Armando
 
 names-first-male-dataset-42 = Arnie.
 
-names-first-male-dataset-43 = Arte
+names-first-male-dataset-43 = Art
 
 names-first-male-dataset-44 = Arthur.
 
@@ -92,7 +92,7 @@ names-first-male-dataset-46 = Asher.
 
 names-first-male-dataset-47 = Ashton
 
-names-first-male-dataset-48 =  Agosto
+names-first-male-dataset-48 =  August
 
 names-first-male-dataset-49 = Austin.
 
@@ -150,7 +150,7 @@ names-first-male-dataset-75 = Brett.
 
 names-first-male-dataset-76 = Brian.
 
-names-first-male-dataset-77 = Tijolo
+names-first-male-dataset-77 = Brick
 
 names-first-male-dataset-78 = Brock.
 
@@ -210,7 +210,7 @@ names-first-male-dataset-105 = Carter.
 
 names-first-male-dataset-106 = Casey.
 
-names-first-male-dataset-107 =  Dinheiro
+names-first-male-dataset-107 =  Cash
 
 names-first-male-dataset-108 = Casimir
 
@@ -290,7 +290,7 @@ names-first-male-dataset-145 =  Cristian.
 
 names-first-male-dataset-146 =  Cristopher.
 
-names-first-male-dataset-147 = Esmagar
+names-first-male-dataset-147 = Crush
 
 names-first-male-dataset-148 = Cruz.
 
@@ -482,7 +482,7 @@ names-first-male-dataset-241 = Frankie.
 
 names-first-male-dataset-242 = Franklin.
 
-names-first-male-dataset-243 = Geladeira
+names-first-male-dataset-243 = Fridge
 
 names-first-male-dataset-244 = Fulton.
 
@@ -572,9 +572,9 @@ names-first-male-dataset-286 = Huffie.
 
 names-first-male-dataset-287 = Hugo.
 
-names-first-male-dataset-288 = Fome
+names-first-male-dataset-288 = Hungry
 
-names-first-male-dataset-289 =  Caçador
+names-first-male-dataset-289 =  Hunter
 
 names-first-male-dataset-290 =  Ian.
 
@@ -750,7 +750,7 @@ names-first-male-dataset-375 = Julio.
 
 names-first-male-dataset-376 = Julius.
 
-names-first-male-dataset-377 =  Justiça
+names-first-male-dataset-377 =  Justice
 
 names-first-male-dataset-378 = Justin.
 
@@ -902,7 +902,7 @@ names-first-male-dataset-451 = Mario.
 
 names-first-male-dataset-452 = Marion.
 
-names-first-male-dataset-453 =  Marcar
+names-first-male-dataset-453 =  Mark
 
 names-first-male-dataset-454 = Marshall.
 
@@ -1096,7 +1096,7 @@ names-first-male-dataset-548 = Ricky.
 
 names-first-male-dataset-549 = Riley.
 
-names-first-male-dataset-550 = Rio
+names-first-male-dataset-550 = River
 
 names-first-male-dataset-551 = Robert.
 
@@ -1108,7 +1108,7 @@ names-first-male-dataset-554 = Rodger.
 
 names-first-male-dataset-555 = Rodrigo.
 
-names-first-male-dataset-556 =  Entendido.
+names-first-male-dataset-556 =  Roger.
 
 names-first-male-dataset-557 = Roman.
 
@@ -1188,7 +1188,7 @@ names-first-male-dataset-594 = Skyler.
 
 names-first-male-dataset-595 = Sloan.
 
-names-first-male-dataset-596 = Fumaça.
+names-first-male-dataset-596 = Smoke.
 
 names-first-male-dataset-597 =  Salomão
 

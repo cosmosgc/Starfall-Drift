@@ -4,7 +4,7 @@ marking-MothAntennasDefault = Antena (Padrão)
 
 marking-MothAntennasCharred-charred = Antena
 
-marking-MothAntennasCharred = Antena (Carrada)
+marking-MothAntennasCharred = Antena (Carbonizada)
 
 marking-MothAntennasDbushy-dbushy = Antena
 
@@ -56,7 +56,7 @@ marking-MothAntennasPlasmafire = Antena (Plasmafire)
 
 marking-MothAntennasRoyal-royal = Antena
 
-marking-MothAntennasRoyal = Antena (Reyal)
+marking-MothAntennasRoyal = Antena (Royal)
 
 marking-MothAntennasStriped-striped = Antena
 
@@ -64,7 +64,7 @@ marking-MothAntennasStriped = Antena (Striped)
 
 marking-MothAntennasWhitefly-whitefly = Antena
 
-marking-MothAntennasWhitefly = Antena (Vôo Branco)
+marking-MothAntennasWhitefly = Antena (Mosca-Branca)
 
 marking-MothAntennasWitchwing-witchwing = Antena
 
@@ -74,7 +74,7 @@ marking-MothAntennasUnderwing-underwing_primary = Primário.
 
 marking-MothAntennasUnderwing-underwing_secondary = Secundário
 
-marking-MothAntennasUnderwing = Antena (Abaixo)
+marking-MothAntennasUnderwing = Antena (Underwing)
 
 marking-MothWingsDefault-default = Asa
 
@@ -82,7 +82,7 @@ marking-MothWingsDefault = Asas (Padrão)
 
 marking-MothWingsCharred-charred = Asa
 
-marking-MothWingsCharred = Asas (Carradas)
+marking-MothWingsCharred = Asas (Carbonizadas)
 
 marking-MothWingsDbushy-dbushy_primary = Primário.
 

@@ -19,19 +19,20 @@ game-ticker-pause-start-resumed = A contagem regressiva de início está agora r
 game-ticker-player-join-game-message = Bem-vindo à Estação Espacial 14! Se for sua primeira vez, leia as regras e peça ajuda no LOOC ou OOC (normalmente disponível apenas entre as rodadas).
 
 game-ticker-get-info-text =
-    ID Round: [color=white]#{ $roundId }[/color]
-     Jogadores: [color=white]{ $playerCount }[/color]
-     Mapa atual: [color=white]{ $mapName }[/color]
-     Modo de jogo atual: [color=white]{ $gmTitle }[/color]
+    ID da Rodada: [color=white]#{ $roundId }[/color]
+    Jogadores: [color=white]{ $playerCount }[/color]
+    Mapa atual: [color=white]{ $mapName }[/color]
+    Modo de jogo atual: [color=white]{ $gmTitle }[/color]
     >[color=yellow]{ $desc }[/color]
 
 game-ticker-get-info-preround-text =
-    ID Round: [color=white]#{ $roundId }[/color]
-     Jogadores: [color=white]{ $playerCount }[/color] ([color=white]{ $readyCount }[/color] { $readyCount ->
-        [one] É
-       *[other] são
-    } O mapa atual é: [color=white]{ $mapName }[/color]
-    O modo de jogo atual é: [color=white]{ $gmTitle }[/color]
+    ID da Rodada: [color=white]#{ $roundId }[/color]
+    Jogadores: [color=white]{ $playerCount }[/color] ([color=white]{ $readyCount }[/color] { $readyCount ->
+        [one] está
+       *[other] estão
+    } prontos)
+    Mapa atual: [color=white]{ $mapName }[/color]
+    Modo de jogo atual: [color=white]{ $gmTitle }[/color]
     >[color=yellow]{ $desc }[/color]
 
 game-ticker-no-map-selected = [color=yellow] Mapa ainda não selecionado![/color]

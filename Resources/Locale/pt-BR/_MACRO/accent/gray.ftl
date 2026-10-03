@@ -1,4 +1,5 @@
-accent-gray-words-replace-1 =  assimd
+accent-gray-words-1 = o
+accent-gray-words-replace-1 = thusd
 
 accent-gray-words-2 =  Nós
 
@@ -64,7 +65,7 @@ accent-gray-words-17 = Em
 
 accent-gray-words-replace-17 = Tii.
 
-accent-gray-words-18 = "Continue"
+accent-gray-words-18 = em
 
 accent-gray-words-replace-18 = Gimbo.
 
@@ -1164,31 +1165,31 @@ accent-gray-words-292 =  Serviço
 
 accent-gray-words-replace-292 = phiiga
 
-accent-gray-words-293 = HoP.
+accent-gray-words-293 = HoP
 
 accent-gray-words-replace-293 = phiidar
 
-accent-gray-words-294 =  Oficial.
+accent-gray-words-294 = Oficial.
 
 accent-gray-words-replace-294 = Pooka.
 
-accent-gray-words-295 =  engenheiro
+accent-gray-words-295 = engenheiro
 
 accent-gray-words-replace-295 = Tekta.
 
-accent-gray-words-296 =  Engenheiros.
+accent-gray-words-296 = Engenheiros.
 
 accent-gray-words-replace-296 = Tektas.
 
-accent-gray-words-297 =  engenharia
+accent-gray-words-297 = engenharia
 
 accent-gray-words-replace-297 = Tuktu.
 
-accent-gray-words-298 =  Chefe.
+accent-gray-words-298 = Chefe.
 
 accent-gray-words-replace-298 = Dar-wa.
 
-accent-gray-words-299 =  Médico
+accent-gray-words-299 = Médico
 
 accent-gray-words-replace-299 = Pofin.
 
@@ -1204,7 +1205,7 @@ accent-gray-words-302 = QM
 
 accent-gray-words-replace-302 = Meidar
 
-accent-gray-words-303 =  Segurança
+accent-gray-words-303 = Segurança
 
 accent-gray-words-replace-303 = Tobbi.
 
@@ -1236,7 +1237,7 @@ accent-gray-words-310 = Ciência
 
 accent-gray-words-replace-310 = Wabatwee
 
-accent-gray-words-311 = RD.
+accent-gray-words-311 = RD
 
 accent-gray-words-replace-311 = Wabadar
 

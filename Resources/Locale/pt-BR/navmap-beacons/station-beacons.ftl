@@ -8,75 +8,75 @@ station-beacon-vault = Cofre
 
 station-beacon-gateway = Portão
 
-station-beacon-captain =  Capitão.
+station-beacon-captain = Capitão
 
-station-beacon-hop = HOP
+station-beacon-hop = Chefe de Pessoal
 
-station-beacon-security =  Segurança.
+station-beacon-security = Segurança
 
-station-beacon-brig = Brig.
+station-beacon-brig = Brig
 
-station-beacon-brig-med = Brig Med.
+station-beacon-brig-med = Brig Médico
 
-station-beacon-warden =  Diretor
+station-beacon-warden = Carcereiro
 
-station-beacon-hos = HOS
+station-beacon-hos = Chefe de Segurança
 
-station-beacon-armory = Arsenal.
+station-beacon-armory = Arsenal
 
-station-beacon-perma-brig = Perma.
+station-beacon-perma-brig = Perma
 
-station-beacon-detective =  Detetive.
+station-beacon-detective = Detetive
 
-station-beacon-courtroom = Sala da corte.
+station-beacon-courtroom = Tribunal
 
-station-beacon-law =  Escritório de advocacia
+station-beacon-law = Escritório de Advocacia
 
-station-beacon-security-checkpoint =  Ponto de controle.
+station-beacon-security-checkpoint = Ponto de Verificação
 
-station-beacon-medical =  Médico
+station-beacon-medical = Médico
 
-station-beacon-medbay = Medbay.
+station-beacon-medbay = Medbay
 
-station-beacon-chemistry = Chem.
+station-beacon-chemistry = Química
 
-station-beacon-cryonics = Cryópodes
+station-beacon-cryonics = Criônica
 
 station-beacon-cmo = CMO
 
-station-beacon-morgue = Morgue.
+station-beacon-morgue = Necrotério
 
-station-beacon-surgery =  Cirurgia
+station-beacon-surgery = Cirurgia
 
-station-beacon-psychology =  Psicologia
+station-beacon-psychology = Psicologia
 
-station-beacon-clinic =  Clínica.
+station-beacon-clinic = Clínica
 
 station-beacon-science = Ciência
 
 station-beacon-research-and-development = Pesquisa
 
-station-beacon-research-server =  Servidor
+station-beacon-research-server = Servidor
 
-station-beacon-research-director = RD.
+station-beacon-research-director = RD
 
 station-beacon-robotics = Robótica
 
 station-beacon-artifact-lab = Artefato
 
-station-beacon-anomaly-gen =  Anomalias
+station-beacon-anomaly-gen = Anomalias
 
-station-beacon-supply = Fornecimento
+station-beacon-supply = Suprimentos
 
-station-beacon-cargo =  Carga
+station-beacon-cargo = Carga
 
-station-beacon-cargo-bay =  Baía de Carga
+station-beacon-cargo-bay = Baía de Carga
 
 station-beacon-qm = QM
 
-station-beacon-salvage =  Salvage
+station-beacon-salvage = Salvage
 
-station-beacon-engineering =  Engenharia
+station-beacon-engineering = Engenharia
 
 station-beacon-ce = CE
 
@@ -100,15 +100,15 @@ station-beacon-solars-W = Solares W
 
 station-beacon-solars-NW = Solares NW
 
-station-beacon-gravgen = Grav.
+station-beacon-gravgen = Gravidade
 
-station-beacon-pa =  Controle PA
+station-beacon-pa = Controle PA
 
 station-beacon-smes = SMES
 
-station-beacon-telecoms = Telecomunicações
+station-beacon-telecoms = Telecoms
 
-station-beacon-atmos = Atmos.
+station-beacon-atmos = Atmos
 
 station-beacon-teg = TEG
 
@@ -116,66 +116,66 @@ station-beacon-tech-vault = Cofre Técnico
 
 station-beacon-anchor = Âncora
 
-station-beacon-service =  Serviço
+station-beacon-service = Serviço
 
-station-beacon-kitchen =  Cozinha
+station-beacon-kitchen = Cozinha
 
-station-beacon-bar = Bar.
+station-beacon-bar = Bar
 
 station-beacon-botany = Botânica
 
-station-beacon-janitor = Zelador.
+station-beacon-janitor = Zelador
 
-station-beacon-ai = AI
+station-beacon-ai = IA
 
-station-beacon-ai-sat = AI Sáb.
+station-beacon-ai-sat = Sat IA
 
-station-beacon-ai-core = AL Core
+station-beacon-ai-core = Núcleo IA
 
-station-beacon-ai-upload = Al Upload
+station-beacon-ai-upload = Upload IA
 
-station-beacon-ai-power = AI Power
+station-beacon-ai-power = Energia IA
 
-station-beacon-arrivals =  Chegadas
+station-beacon-arrivals = Chegadas
 
-station-beacon-evac = Evacuar
+station-beacon-evac = Evac
 
 station-beacon-docking-arm = Braço de Acoplamento
 
-station-beacon-eva-storage =  Armazenamento EVA
+station-beacon-eva-storage = Armazenamento EVA
 
 station-beacon-chapel = Capela
 
-station-beacon-library =  Biblioteca
+station-beacon-library = Biblioteca
 
 station-beacon-reporter = Repórter
 
-station-beacon-dorms =  Dormitórios
+station-beacon-dorms = Dormitórios
 
-station-beacon-theater =  Teatro
+station-beacon-theater = Teatro
 
-station-beacon-tools =  Ferramentas
+station-beacon-tools = Ferramentas
 
-station-beacon-disposals = Descartes
+station-beacon-disposals = Despejos
 
 station-beacon-cryosleep = Cryosleep
 
-station-beacon-escape-pod = Pod de fuga
+station-beacon-escape-pod = Pod de Fuga
 
-station-beacon-escape-pod-N = Pod de fuga N
+station-beacon-escape-pod-N = Pod de Fuga N
 
-station-beacon-escape-pod-NE = Escapar, pode ser que não.
+station-beacon-escape-pod-NE = Pod de Fuga NE
 
-station-beacon-escape-pod-E =  Pode fugir E.
+station-beacon-escape-pod-E = Pod de Fuga E
 
-station-beacon-escape-pod-SE = - Pode ser.
+station-beacon-escape-pod-SE = Pod de Fuga SE
 
-station-beacon-escape-pod-S = Pod de fuga S
+station-beacon-escape-pod-S = Pod de Fuga S
 
-station-beacon-escape-pod-SW = Escapar, SW.
+station-beacon-escape-pod-SW = Pod de Fuga SW
 
-station-beacon-escape-pod-W = Pod de fuga W
+station-beacon-escape-pod-W = Pod de Fuga W
 
-station-beacon-escape-pod-NW = PODE DE Escape NW
+station-beacon-escape-pod-NW = Pod de Fuga NW
 
-station-beacon-vox = Sala de descanso Vox
+station-beacon-vox = Sala de Descanso Vox

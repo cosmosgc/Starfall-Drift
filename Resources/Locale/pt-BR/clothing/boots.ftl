@@ -1,1 +1,1 @@
-clothing-boots-sidearm = Braço lateral
+clothing-boots-sidearm = Arma curta

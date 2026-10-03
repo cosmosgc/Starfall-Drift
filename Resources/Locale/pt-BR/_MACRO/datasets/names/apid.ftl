@@ -1,3 +1,5 @@
+names-apid-worker-dataset-1 = Operária
+
 names-apid-botanist-dataset-1 =  Trabalhador
 
 names-apid-botanist-dataset-2 = Forrageiro.

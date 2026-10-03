@@ -1,5 +1,5 @@
 # With projectiles:
-pacified-cannot-throw =  Não consigo me jogar { THE($projectile) } Isso pode machucar alguém!
+pacified-cannot-throw =  Não consigo me forçar a arremessar { THE($projectile) }, isso pode machucar alguém!
 
 # With embedding projectiles:
 pacified-cannot-throw-embed =  Não tinha como eu jogar { THE($projectile) } Isso pode ficar alojado dentro de alguém!

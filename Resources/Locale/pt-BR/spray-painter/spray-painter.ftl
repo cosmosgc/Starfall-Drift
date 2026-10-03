@@ -152,15 +152,15 @@ spray-painter-style-airlockglass-security =  Segurança.
 spray-painter-style-airlockglass-virology = Virologia
 
 # Lockers
-spray-painter-style-locker-atmospherics = Atmosféricos
+spray-painter-style-locker-atmospherics = Atmos
 
-spray-painter-style-locker-basic = Básico.
+spray-painter-style-locker-basic = Básico
 
 spray-painter-style-locker-botanist = Botânico
 
-spray-painter-style-locker-brigmedic = Brigmedic
+spray-painter-style-locker-brigmedic = Brigmed
 
-spray-painter-style-locker-captain =  Capitão.
+spray-painter-style-locker-captain = Capitão
 
 spray-painter-style-locker-ce = CE
 
@@ -170,13 +170,13 @@ spray-painter-style-locker-clown = Palhaço
 
 spray-painter-style-locker-cmo = CMO
 
-spray-painter-style-locker-doctor =  Doutor.
+spray-painter-style-locker-doctor = Doutor
 
-spray-painter-style-locker-electrical = Elétrico.
+spray-painter-style-locker-electrical = Elétrico
 
-spray-painter-style-locker-engineer =  Engenheiro.
+spray-painter-style-locker-engineer = Engenheiro
 
-spray-painter-style-locker-evac = Evacuação.
+spray-painter-style-locker-evac = Evacuação
 
 spray-painter-style-locker-hop = HOP
 
@@ -184,21 +184,21 @@ spray-painter-style-locker-hos = HOS
 
 spray-painter-style-locker-medicine = Medicina
 
-spray-painter-style-locker-mime = Mime.
+spray-painter-style-locker-mime = Mime
 
 spray-painter-style-locker-paramedic = Paramédico
 
-spray-painter-style-locker-quartermaster = Intendente.
+spray-painter-style-locker-quartermaster = Intendente
 
-spray-painter-style-locker-rd = RD.
+spray-painter-style-locker-rd = RD
 
-spray-painter-style-locker-representative =  Representante
+spray-painter-style-locker-representative = Representante
 
-spray-painter-style-locker-salvage =  Salvage
+spray-painter-style-locker-salvage = Salvage
 
-spray-painter-style-locker-scientist = Cientista.
+spray-painter-style-locker-scientist = Cientista
 
-spray-painter-style-locker-security =  Segurança.
+spray-painter-style-locker-security = Segurança
 
 spray-painter-style-locker-welding = Soldagem
 

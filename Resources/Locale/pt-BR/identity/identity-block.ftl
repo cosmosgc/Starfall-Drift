@@ -1,4 +1,4 @@
-identity-block-examinable-verb-text =  Escondido
+identity-block-examinable-verb-text =  Ocultação
 
 identity-block-coverage-text-mouth = Este item esconde a metade inferior do rosto.
 

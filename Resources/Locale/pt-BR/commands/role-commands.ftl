@@ -1,3 +1,5 @@
+cmd-addrole-desc = Adiciona um papel à mente de um jogador.
+
 cmd-addrole-help = Uso: adesivo <sessão ID> <role>
 
 cmd-addrole-mind-not-found =  Não consigo achar essa mente.

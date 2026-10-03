@@ -1,3 +1,5 @@
+advertisement-smite-1 = SMITE! Acabe com a sua sede!
+
 advertisement-smite-2 =  Uma explosão de limão e limão!
 
 advertisement-smite-3 =  Mais de 1 milhão de bebidas vendidas!

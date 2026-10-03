@@ -1,3 +1,5 @@
+cmd-toggleghostvisibility-desc = Alterna a visibilidade de fantasmas no cliente.
+
 cmd-toggleghostvisibility-help = Uso: alternância de visão [bool]
 
 cmd-toggleselfghost-desc = Alterna ver seu próprio fantasma.

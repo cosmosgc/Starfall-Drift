@@ -4,4 +4,4 @@ signal-timer-menu-label = Rótulo:
 
 signal-timer-menu-delay = Atraso:
 
-signal-timer-menu-start =  Comecem.
+signal-timer-menu-start =  Iniciar

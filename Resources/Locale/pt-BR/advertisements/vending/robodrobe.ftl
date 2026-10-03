@@ -4,4 +4,4 @@ advertisement-robodrobe-2 = 0110001101101100011011110111010001101000011001010111
 
 advertisement-robodrobe-3 =  Roubar alguém da manutenção e transformá-los em um robô!
 
-advertisement-robodrobe-4 = Robótica é divertido!
+advertisement-robodrobe-4 = Robótica é divertida!

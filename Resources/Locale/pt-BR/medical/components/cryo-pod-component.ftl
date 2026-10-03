@@ -1,7 +1,7 @@
 cryo-pod-verb-noun-occupant =  Paciente.
 
 # Examine text showing whether there's a beaker in the pod and if it is empty.
-cryo-pod-examine =  Tem { INDEFINITE($beaker) } { $beaker }  Aqui.
+cryo-pod-examine =  Tem { INDEFINITE($beaker) } { $beaker }  aqui.
 
 cryo-pod-empty-beaker =  Está vazio!
 

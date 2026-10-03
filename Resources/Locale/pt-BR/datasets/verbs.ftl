@@ -882,7 +882,7 @@ verbs-dataset-441 =  Relatório
 
 verbs-dataset-442 = Reproduzir
 
-verbs-dataset-443 =  Pedido
+verbs-dataset-443 = Pedido
 
 verbs-dataset-444 = Resgate
 

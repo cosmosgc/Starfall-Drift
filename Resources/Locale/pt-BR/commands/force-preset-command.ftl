@@ -1,3 +1,5 @@
+cmd-forcepreset-desc = Força uma predefinição de jogo específica para começar no lobby atual.
+
 cmd-forcepreset-help = Uso: forcepreset <preset>
 
 cmd-forcepreset-preround-lobby-only =  Isso só pode ser executado enquanto o jogo estiver no saguão pré-round.

@@ -1,3 +1,5 @@
+entity-effect-status-effect-Stun = atordoante
+
 entity-effect-status-effect-KnockedDown = Nocautear
 
 entity-effect-status-effect-Jitter = "Agitando"

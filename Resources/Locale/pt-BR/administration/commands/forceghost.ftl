@@ -1,4 +1,6 @@
-cmd-forceghost-help = Uso: fórgonte
+cmd-forceghost-desc = Transforma um jogador em observador.
+
+cmd-forceghost-help = Uso: forceghost <jogador>
 
 cmd-forceghost-error-lobby = O alvo não pode se esconder agora.
 

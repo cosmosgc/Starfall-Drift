@@ -1,4 +1,4 @@
-cmd-showwallmounts-desc = Comutando áreas de interação.
+cmd-showwallmounts-desc = Alterna a exibição das áreas de interação de wallmount.
 
 cmd-showwallmounts-help = Uso: { $command }
 

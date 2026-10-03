@@ -104,12 +104,12 @@ steal-target-groups-xeno-artifact = Artefato alienígena
 
 steal-target-groups-booze-dispenser = - Desembaciador de bebidas.
 
-steal-target-groups-plant-rd = "Planta de vaso de RD"
+steal-target-groups-plant-rd = "Vaso de planta do RD"
 
 steal-target-groups-toilet-golden-dirty-water = Sanita dourada
 
 # Thief Animal
-steal-target-groups-animal-named-cat =  Gato da CMO
+steal-target-groups-animal-named-cat = Gato do CMO
 
 steal-target-groups-animal-ian =  Ian.
 

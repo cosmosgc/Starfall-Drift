@@ -1,3 +1,5 @@
+silicon-law-ui-verb = Gerenciar leis
+
 silicon-law-ui-title = Leis de silicone
 
 silicon-law-ui-new-law = Nova lei.

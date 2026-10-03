@@ -6,7 +6,7 @@ character-setup-gui-character-setup-stats-button = Stats
 
 character-setup-gui-character-setup-rules-button =  Regras
 
-character-setup-gui-character-setup-close-button =  Feche.
+character-setup-gui-character-setup-close-button =  Fechar
 
 character-setup-gui-create-new-character-button =  Criar um novo espaço...
 

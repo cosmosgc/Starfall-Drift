@@ -1,9 +1,9 @@
-construction-recipe-gas-pipe-half = Gases, metade.
+construction-recipe-gas-pipe-half = Meio tubo de gás
 
 construction-recipe-gas-pipe-bend = Tubo de gás dobrado
 
-construction-recipe-gas-pipe-t-junction = Tubo de gás T-junction
+construction-recipe-gas-pipe-t-junction = Junção em T de tubo de gás
 
-construction-recipe-gas-pipe-fourway = Gases de gás, quatro.
+construction-recipe-gas-pipe-fourway = Tubo de gás de quatro vias
 
 construction-recipe-heat-exchanger-bend =  dobra do radiador

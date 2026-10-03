@@ -1,3 +1,5 @@
+names-decapoid-first-1 = Uut,
+
 names-decapoid-first-2 = A'ik,
 
 names-decapoid-first-3 = Aku'ka,

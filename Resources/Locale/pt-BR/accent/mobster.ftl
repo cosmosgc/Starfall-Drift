@@ -1,6 +1,8 @@
-accent-mobster-suffix-boss-1 =  Viu?
+accent-mobster-prefix-1 = Nyehh,
 
-accent-mobster-suffix-boss-2 = , fuggedd sobre isso.
+accent-mobster-suffix-boss-1 = , viu?
+
+accent-mobster-suffix-boss-2 = , esquecsaporra.
 
 accent-mobster-suffix-boss-3 = , capiche?
 

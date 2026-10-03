@@ -4,7 +4,7 @@ names-operation-prefix-dataset-2 = Zangado
 
 names-operation-prefix-dataset-3 = Aracnídeo
 
-names-operation-prefix-dataset-4 = Atomic
+names-operation-prefix-dataset-4 = Atômico
 
 names-operation-prefix-dataset-5 =  Benevolente.
 
@@ -12,11 +12,11 @@ names-operation-prefix-dataset-6 = Preto
 
 names-operation-prefix-dataset-7 =  Abençoado
 
-names-operation-prefix-dataset-8 = - Que droga.
+names-operation-prefix-dataset-8 = Sangrento
 
 names-operation-prefix-dataset-9 =  Azul
 
-names-operation-prefix-dataset-10 = Blunt
+names-operation-prefix-dataset-10 = Contundente
 
 names-operation-prefix-dataset-11 = Fervendo
 
@@ -36,9 +36,9 @@ names-operation-prefix-dataset-18 =  Escuro
 
 names-operation-prefix-dataset-19 =  Morto
 
-names-operation-prefix-dataset-20 = Profundidade
+names-operation-prefix-dataset-20 = Profundo
 
-names-operation-prefix-dataset-21 = Derretido.
+names-operation-prefix-dataset-21 = Derelito.
 
 names-operation-prefix-dataset-22 = Deserto
 

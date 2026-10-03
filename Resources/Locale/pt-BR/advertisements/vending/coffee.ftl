@@ -1,3 +1,5 @@
+advertisement-coffee-1 = Tome uma bebida!
+
 advertisement-coffee-2 =  Beba!
 
 advertisement-coffee-3 = É bom para você!

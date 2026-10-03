@@ -1,3 +1,5 @@
+prayer-verbs-subtle-message = Mensagem Sutil
+
 prayer-verbs-pray = Reze
 
 prayer-verbs-call =  Chamada.

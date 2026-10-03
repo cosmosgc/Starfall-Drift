@@ -85,16 +85,16 @@ delivery-spam-4 = Cansado de explodir a ciência?
 delivery-spam-5 =  Libertem todos os machados!
     .desc =  Você já quis acesso gratuito?
     .content = [head=3] Você já quis ter [italic][color=green] Livre [bold] Todos os Axcess!?[/bold][/color][/italic][/head]
-        { "[head=2]Well NOW YOU CAN!![/head]!" }
+        { "[head=2]AGORA VOCÊ PODE!![/head]!" }
         
          Tudo que você precisa fazer é ligar. [color=blue]555 GUR-LECKSS[/color]  Depois de fazer isso, podemos simplesmente consultar remotamente a carteira do departamento de Carga de Yourstation, extorquindo nossas taxas de três [italic] FÁCIL[/italic]  pagamentos, permitindo que você reivindique seu
         { "[head=2][color=green] [bolditalic] FREE AA!!!!!!!!!![/bolditalic][/color][/head]" }
         
         
         { "[color=gray]" }
-        { "[bullet/]Note: station ID must be stated in the format of \"NT/NX - ###\"" }
-        { "[bullet/]Note: Payments lodged to the client's station's cargo department amount to roughly $5000 spesos per transaction, not including individual processing fees" }
-        { "[bullet/]Note: We at Gour-Lecksss LMT. are not responsible if your station's HoP forces you to fill out an ACTUAL Free AA form if they find out about this letter" }
+        { "[bullet/]Observação: o ID da estação deve ser informado no formato \"NT/NX - ###\"" }
+        { "[bullet/]Observação: os pagamentos depositados no departamento de carga da estação do cliente somam cerca de $5000 spesos por transação, sem incluir taxas de processamento individuais" }
+        { "[bullet/]Observação: nós da Gour-Lecksss LMT. não nos responsabilizamos se o HoP da sua estação o forçar a preencher um formulário REAL de AA gratuito caso descubra esta carta" }
         { "[/color]" }
 
 delivery-spam-6 =  Aviso de Nanotrasn!

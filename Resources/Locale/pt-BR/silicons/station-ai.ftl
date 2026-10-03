@@ -5,7 +5,7 @@ wire-name-ai-vision-light = AIV
 
 wire-name-ai-act-light = AIA.
 
-station-ai-takeover = Assunção da IA
+station-ai-takeover = Domínio da IA
 
 station-ai-eye-name = Olho da IA - { $name }
 

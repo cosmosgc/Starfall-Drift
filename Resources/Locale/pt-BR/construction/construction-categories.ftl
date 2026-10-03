@@ -1,3 +1,5 @@
+construction-category-all = Tudo
+
 construction-category-furniture = Mobília
 
 construction-category-storage =  Armazenagem

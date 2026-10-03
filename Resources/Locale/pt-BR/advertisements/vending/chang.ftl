@@ -1,3 +1,5 @@
+advertisement-chang-1 = Prove 5000 anos de cultura!
+
 advertisement-chang-2 =  Sr. Chang, aprovado para consumo seguro em mais de 10 setores!
 
 advertisement-chang-3 =  Comida chinesa é ótima para um encontro, ou uma noite solitária!

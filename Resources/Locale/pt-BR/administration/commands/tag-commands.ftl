@@ -1,3 +1,5 @@
+addtag-command-description = Adiciona uma tag a uma entidade fornecida
+
 addtag-command-help = Uso: addtag <entity uid> <tag>
 
 addtag-command-success =  Adicionado { $tag } para { $target }.

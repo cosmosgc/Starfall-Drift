@@ -1,3 +1,5 @@
+cmd-pardon-desc = Perdoa o banimento de alguém.
+
 cmd-pardon-help = Uso: perdão
 
 cmd-pardon-unable-to-parse =

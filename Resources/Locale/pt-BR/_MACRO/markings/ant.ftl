@@ -1,3 +1,5 @@
+marking-AntAbdomen = Abdome
+
 marking-AntAntennae1 = Antena direita
 
 marking-AntAntennae2 = Antena de Droopy

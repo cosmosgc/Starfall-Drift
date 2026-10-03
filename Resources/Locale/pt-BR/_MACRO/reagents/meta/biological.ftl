@@ -1,3 +1,5 @@
+reagent-name-gray-blood = joos
+
 reagent-desc-gray-blood = Thui espera ketchup mochigi glucum.
 
 reagent-name-mucin = Mucin.

@@ -1,4 +1,4 @@
-ninja-katana-recalled =  Sua energia Katana teletransporta em sua mão!
+ninja-katana-recalled =  Sua Katana de Energia se teletransporta para a sua mão!
 
 ninja-hands-full =  Suas mãos estão cheias!
 

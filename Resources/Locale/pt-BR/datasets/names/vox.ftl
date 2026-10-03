@@ -164,7 +164,7 @@ names-vox-dataset-82 = Betababatrat
 
 names-vox-dataset-83 = Betere.
 
-names-vox-dataset-84 = Béticreche
+names-vox-dataset-84 = Beticreche
 
 names-vox-dataset-85 = Bevekakat
 
@@ -538,7 +538,7 @@ names-vox-dataset-269 = Chisriva
 
 names-vox-dataset-270 = Chisrivevri
 
-names-vox-dataset-271 = -Chitisrevre.
+names-vox-dataset-271 = Chitisrevre
 
 names-vox-dataset-272 = Chitixahra
 
@@ -936,7 +936,7 @@ names-vox-dataset-468 = Hayahriyaxa
 
 names-vox-dataset-469 = Hebahrevrir
 
-names-vox-dataset-470 = -Hebapri.
+names-vox-dataset-470 = Hebapri
 
 names-vox-dataset-471 = Hebihihichit.
 
@@ -956,7 +956,7 @@ names-vox-dataset-478 = Hecrevrivrik
 
 names-vox-dataset-479 = Hecrirecha.
 
-names-vox-dataset-480 =  Ele aqui.
+names-vox-dataset-480 = Hehere
 
 names-vox-dataset-481 = Hehiskitri.
 
@@ -1086,7 +1086,7 @@ names-vox-dataset-543 =  Hipavi.
 
 names-vox-dataset-544 = Hipitratrak
 
-names-vox-dataset-545 = - Hirepabe.
+names-vox-dataset-545 = Hirepabe
 
 names-vox-dataset-546 = Hirichachar.
 
@@ -1158,7 +1158,7 @@ names-vox-dataset-579 = Hirixashahre
 
 names-vox-dataset-580 = Hirixicraya.
 
-names-vox-dataset-581 =  Suahave
+names-vox-dataset-581 = Hishave
 
 names-vox-dataset-582 = Hishesritra
 
@@ -1746,7 +1746,7 @@ names-vox-dataset-873 = Kirihreviche.
 
 names-vox-dataset-874 = Kirikachicha
 
-names-vox-dataset-875 = Kirikátriki
+names-vox-dataset-875 = Kirikatriki
 
 names-vox-dataset-876 = Kirikivri
 
@@ -2560,7 +2560,7 @@ names-vox-dataset-1280 = Precratetet
 
 names-vox-dataset-1281 = Preherihra
 
-names-vox-dataset-1282 =  Pré-hive
+names-vox-dataset-1282 = Prehiviveve
 
 names-vox-dataset-1283 = Prehrakriska
 
@@ -2586,7 +2586,7 @@ names-vox-dataset-1293 = Preretetre
 
 names-vox-dataset-1294 = Prerexike
 
-names-vox-dataset-1295 =  Pré-partilha
+names-vox-dataset-1295 = Presharesre
 
 names-vox-dataset-1296 =  Presravi.
 
@@ -2876,13 +2876,13 @@ names-vox-dataset-1438 = Reskivak.
 
 names-vox-dataset-1439 = Reskixibira
 
-names-vox-dataset-1440 = Recrutado.
+names-vox-dataset-1440 = Resrecracrat
 
 names-vox-dataset-1441 = Resretra
 
 names-vox-dataset-1442 = Resrihrepeke
 
-names-vox-dataset-1443 = Resiste.
+names-vox-dataset-1443 = Resriske
 
 names-vox-dataset-1444 = Resrixiha.
 
@@ -3214,13 +3214,13 @@ names-vox-dataset-1607 = Shepikitepa
 
 names-vox-dataset-1608 = Sheprekritri
 
-names-vox-dataset-1609 =  Ela é uma preskete.
+names-vox-dataset-1609 = Shepreskete
 
 names-vox-dataset-1610 =  Sherati.
 
 names-vox-dataset-1611 =  Sherikre.
 
-names-vox-dataset-1612 =  Ela está arriscando.
+names-vox-dataset-1612 = Sheriskahe
 
 names-vox-dataset-1613 = Sheshasri.
 
@@ -3258,7 +3258,7 @@ names-vox-dataset-1629 = Shexahrehret
 
 names-vox-dataset-1630 = Shexecra.
 
-names-vox-dataset-1631 = Shexishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishi
+names-vox-dataset-1631 = Shexishishit
 
 names-vox-dataset-1632 = Shexivir.
 
@@ -3326,11 +3326,11 @@ names-vox-dataset-1663 = Shiribebepit
 
 names-vox-dataset-1664 = Shisrisheri
 
-names-vox-dataset-1665 =  Merda!
+names-vox-dataset-1665 = Shitehechi
 
-names-vox-dataset-1666 =  Merda!
+names-vox-dataset-1666 = Shitexihre
 
-names-vox-dataset-1667 =  Merdaibibik
+names-vox-dataset-1667 = Shitibibik
 
 names-vox-dataset-1668 = Shitravrekra
 
@@ -3428,7 +3428,7 @@ names-vox-dataset-1714 = Siribetraska
 
 names-vox-dataset-1715 = Siribikra
 
-names-vox-dataset-1716 = Siricharabé.
+names-vox-dataset-1716 = Siricharabe
 
 names-vox-dataset-1717 = Sirihaxer.
 
@@ -3766,9 +3766,9 @@ names-vox-dataset-1883 =  Srariprer.
 
 names-vox-dataset-1884 =  Srarisha.
 
-names-vox-dataset-1885 = -Srashacha.
+names-vox-dataset-1885 = Srashacha
 
-names-vox-dataset-1886 = -Srashakri.
+names-vox-dataset-1886 = Srashakri
 
 names-vox-dataset-1887 = Srashaxata
 
@@ -3794,7 +3794,7 @@ names-vox-dataset-1897 = Sratepre.
 
 names-vox-dataset-1898 = Srateve.
 
-names-vox-dataset-1899 =  Sráticre.
+names-vox-dataset-1899 = Sraticre
 
 names-vox-dataset-1900 =  Sratihi.
 
@@ -3808,7 +3808,7 @@ names-vox-dataset-1904 =  Sravechachar
 
 names-vox-dataset-1905 = Sravrapapat
 
-names-vox-dataset-1906 =  Sraxápe.
+names-vox-dataset-1906 = Sraxape
 
 names-vox-dataset-1907 =  Sraxepipir
 
@@ -3896,7 +3896,7 @@ names-vox-dataset-1948 =  Srevreyayak
 
 names-vox-dataset-1949 =  Srexatreva
 
-names-vox-dataset-1950 =  Srexikratá
+names-vox-dataset-1950 = Srexikrata
 
 names-vox-dataset-1951 =  Srexiskahehe
 
@@ -3950,7 +3950,7 @@ names-vox-dataset-1975 = Sriskicrixi
 
 names-vox-dataset-1976 = Sriskihra.
 
-names-vox-dataset-1977 = -Sristisha.
+names-vox-dataset-1977 = Sriskisha
 
 names-vox-dataset-1978 = Srisratreba
 
@@ -3990,7 +3990,7 @@ names-vox-dataset-1995 = Srivrihrir
 
 names-vox-dataset-1996 =  Srixakrabebe
 
-names-vox-dataset-1997 = -Srixiveyaya.
+names-vox-dataset-1997 = Srixiveyaya
 
 names-vox-dataset-1998 = Sriyapir.
 
@@ -4228,7 +4228,7 @@ names-vox-dataset-2114 = Tipresrita
 
 names-vox-dataset-2115 = Tipritik
 
-names-vox-dataset-2116 = Canseiro.
+names-vox-dataset-2116 = Tireper
 
 names-vox-dataset-2117 = Tiribavre
 
@@ -5122,7 +5122,7 @@ names-vox-dataset-2561 = Vrisketaske
 
 names-vox-dataset-2562 = Vrikiraxe.
 
-names-vox-dataset-2563 = Vriscíreo
+names-vox-dataset-2563 = Vriskire
 
 names-vox-dataset-2564 = Vrisracrakri
 
@@ -5402,7 +5402,7 @@ names-vox-dataset-2701 = Xiprahahatek
 
 names-vox-dataset-2702 = Xirechiske
 
-names-vox-dataset-2703 = Xireshishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishikhshishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishishikhshishishishishishishishishishishishishishishishishishishishishishishishishishikhshikhshikhkhshikhshishishishishikhshishishishishishishishishishikh
+names-vox-dataset-2703 = Xireshishit
 
 names-vox-dataset-2704 = Xiribakrivi
 
