@@ -8,13 +8,13 @@ materials-unit-bar = Bar
 materials-unit-plank = Prancha
 
 # rolls of cloth
-materials-unit-roll = Role.
+materials-unit-roll = Role
 
 # pieces of biomass
 materials-unit-piece =  pedaço
 
 # bunches of bananium
-materials-unit-bunch = - Não, não, não.
+materials-unit-bunch = - Não, não, não
 
 # slabs of meat
 materials-unit-slab = Laje
@@ -30,4 +30,4 @@ materials-unit-boll = Boll
 
 # bills of spesos... not very good but they are not (yet?) used for crafting anything
 # also the lathe/atm would need bigger denominations to output...
-materials-unit-bill = Bill.
+materials-unit-bill = Bill

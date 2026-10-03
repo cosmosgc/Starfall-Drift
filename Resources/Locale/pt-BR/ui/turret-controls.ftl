@@ -5,7 +5,7 @@ turret-controls-window-turret-status-label = Linked devices [{ $count }]
 
 turret-controls-window-armament-controls-label =  Armamento
 
-turret-controls-window-targeting-controls-label =  Pessoal autorizado.
+turret-controls-window-targeting-controls-label = Pessoal autorizado
 
 # Status reports
 turret-controls-window-no-turrets = Sem dispositivos conectados!
@@ -41,10 +41,10 @@ turret-controls-window-target =  Alvo
 
 turret-controls-window-access-group-label = { $prefix } { $label }
 
-turret-controls-window-all-checkbox =  Todos.
+turret-controls-window-all-checkbox = Todos
 
 # Flavor
-turret-controls-window-footer =  Pessoal não autorizado deve garantir que as defesas estejam inativas antes de prosseguir.
+turret-controls-window-footer = Pessoal não autorizado deve garantir que as defesas estejam inativas antes de prosseguir
 
 # Warnings
-turret-controls-access-denied =  Acesso negado.
+turret-controls-access-denied = Acesso negado

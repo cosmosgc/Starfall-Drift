@@ -84,7 +84,7 @@ entity-condition-guidebook-has-tag =
        *[false] tem
     } a etiqueta { $tag }
 
-entity-condition-guidebook-this-reagent = Este reagente.
+entity-condition-guidebook-this-reagent = Este reagente
 
 entity-condition-guidebook-breathing =
     O metabolizador está { $isBreathing ->

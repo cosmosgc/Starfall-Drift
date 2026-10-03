@@ -1,9 +1,9 @@
 # Damage examines
-damage-examinable-verb-text = Danos.
+damage-examinable-verb-text = Danos
 
 damage-examinable-verb-message =  Examine os valores de dano.
 
-damage-hitscan = Hitscan.
+damage-hitscan = Hitscan
 
 damage-projectile = Projétil
 

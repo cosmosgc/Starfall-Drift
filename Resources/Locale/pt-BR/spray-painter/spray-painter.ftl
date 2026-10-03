@@ -34,7 +34,7 @@ spray-painter-selected-style =  Estilo selecionado:
 
 spray-painter-selected-decals = Decalque selecionado:
 
-spray-painter-use-custom-color = Use cores personalizadas.
+spray-painter-use-custom-color = Use cores personalizadas
 
 spray-painter-use-snap-to-tile = Ajustar para azulejo
 
@@ -67,11 +67,11 @@ spray-painter-color-black = Preto
 # Categories (tabs)
 spray-painter-tab-category-airlocks = Encaixe de ar
 
-spray-painter-tab-category-canisters = Canisters.
+spray-painter-tab-category-canisters = Canisters
 
 spray-painter-tab-category-crates = Crates
 
-spray-painter-tab-category-lockers = Armários.
+spray-painter-tab-category-lockers = Armários
 
 spray-painter-tab-category-pipes = Tubos
 
@@ -82,13 +82,13 @@ spray-painter-tab-group-airlockstandard =  Padrão
 
 spray-painter-tab-group-airlockglass =  Vidro
 
-spray-painter-tab-group-cratesteel =  Aço.
+spray-painter-tab-group-cratesteel = Aço
 
 spray-painter-tab-group-crateplastic = Plástico
 
 spray-painter-tab-group-cratesecure =  Seguro
 
-spray-painter-tab-group-closet = Destrancada.
+spray-painter-tab-group-closet = Destrancada
 
 spray-painter-tab-group-locker =  Seguro
 
@@ -99,17 +99,17 @@ spray-painter-tab-group-walllocker =  Seguro (Wall)
 # Airlocks
 spray-painter-style-airlockstandard-atmospherics = Atmosférico
 
-spray-painter-style-airlockstandard-basic = Básico.
+spray-painter-style-airlockstandard-basic = Básico
 
 spray-painter-style-airlockstandard-cargo =  Carga
 
-spray-painter-style-airlockstandard-chemistry =  Química.
+spray-painter-style-airlockstandard-chemistry = Química
 
 spray-painter-style-airlockstandard-command =  Comando
 
 spray-painter-style-airlockstandard-engineering =  Engenharia
 
-spray-painter-style-airlockstandard-freezer = Congelador.
+spray-painter-style-airlockstandard-freezer = Congelador
 
 spray-painter-style-airlockstandard-hydroponics =  Hidropônica
 
@@ -121,17 +121,17 @@ spray-painter-style-airlockstandard-salvage =  Salvage
 
 spray-painter-style-airlockstandard-science = Ciência
 
-spray-painter-style-airlockstandard-security =  Segurança.
+spray-painter-style-airlockstandard-security = Segurança
 
 spray-painter-style-airlockstandard-virology = Virologia
 
 spray-painter-style-airlockglass-atmospherics = Atmosféricos
 
-spray-painter-style-airlockglass-basic = Básico.
+spray-painter-style-airlockglass-basic = Básico
 
 spray-painter-style-airlockglass-cargo =  Carga
 
-spray-painter-style-airlockglass-chemistry =  Química.
+spray-painter-style-airlockglass-chemistry = Química
 
 spray-painter-style-airlockglass-command =  Comando
 
@@ -147,7 +147,7 @@ spray-painter-style-airlockglass-salvage =  Salvage
 
 spray-painter-style-airlockglass-science = Ciência
 
-spray-painter-style-airlockglass-security =  Segurança.
+spray-painter-style-airlockglass-security = Segurança
 
 spray-painter-style-airlockglass-virology = Virologia
 
@@ -202,7 +202,7 @@ spray-painter-style-locker-security = Segurança
 
 spray-painter-style-locker-welding = Soldagem
 
-spray-painter-style-closet-basic = Básico.
+spray-painter-style-closet-basic = Básico
 
 spray-painter-style-closet-biohazard = Bioperiodo
 
@@ -214,7 +214,7 @@ spray-painter-style-closet-biohazard-security =  Risco biológico (segurança)
 
 spray-painter-style-closet-biohazard-janitor =  Risco biológico (perigoso)
 
-spray-painter-style-closet-bomb = - Um terno de bomba.
+spray-painter-style-closet-bomb = - Um terno de bomba
 
 spray-painter-style-closet-bomb-janitor = Terno de bomba (perigoso)
 
@@ -222,21 +222,21 @@ spray-painter-style-closet-chef = Chef
 
 spray-painter-style-closet-fire =  Segurança contra incêndios
 
-spray-painter-style-closet-janitor = Zelador.
+spray-painter-style-closet-janitor = Zelador
 
-spray-painter-style-closet-legal =  Advogado.
+spray-painter-style-closet-legal = Advogado
 
 spray-painter-style-closet-nitrogen =  Internas (nitrogênio)
 
 spray-painter-style-closet-oxygen =  Internas (oxigênio)
 
-spray-painter-style-closet-radiation = Traje de radiação.
+spray-painter-style-closet-radiation = Traje de radiação
 
 spray-painter-style-closet-tool =  Ferramentas
 
 spray-painter-style-wallcloset-atmospherics = Atmosféricos
 
-spray-painter-style-wallcloset-basic = Básico.
+spray-painter-style-wallcloset-basic = Básico
 
 spray-painter-style-wallcloset-black = Preto
 
@@ -244,7 +244,7 @@ spray-painter-style-wallcloset-blue =  Azul
 
 spray-painter-style-wallcloset-fire =  Segurança contra incêndios
 
-spray-painter-style-wallcloset-green = Verde.
+spray-painter-style-wallcloset-green = Verde
 
 spray-painter-style-wallcloset-grey =  Cinza
 
@@ -262,14 +262,14 @@ spray-painter-style-wallcloset-white = Branco
 
 spray-painter-style-wallcloset-yellow =  Amarelo
 
-spray-painter-style-walllocker-evac = Evacuação.
+spray-painter-style-walllocker-evac = Evacuação
 
 spray-painter-style-walllocker-medical =  Médico
 
 # Crates
-spray-painter-style-cratesteel-basic = Básico.
+spray-painter-style-cratesteel-basic = Básico
 
-spray-painter-style-cratesteel-electrical = Elétrico.
+spray-painter-style-cratesteel-electrical = Elétrico
 
 spray-painter-style-cratesteel-engineering =  Engenharia
 
@@ -279,9 +279,9 @@ spray-painter-style-cratesteel-science = Ciência
 
 spray-painter-style-cratesteel-surgery =  Cirurgia
 
-spray-painter-style-crateplastic-basic = Básico.
+spray-painter-style-crateplastic-basic = Básico
 
-spray-painter-style-crateplastic-chemistry =  Química.
+spray-painter-style-crateplastic-chemistry = Química
 
 spray-painter-style-crateplastic-command =  Comando
 
@@ -291,9 +291,9 @@ spray-painter-style-crateplastic-medical =  Médico
 
 spray-painter-style-crateplastic-oxygen = Oxigênio
 
-spray-painter-style-cratesecure-basic = Básico.
+spray-painter-style-cratesecure-basic = Básico
 
-spray-painter-style-cratesecure-chemistry =  Química.
+spray-painter-style-cratesecure-chemistry = Química
 
 spray-painter-style-cratesecure-command =  Comando
 
@@ -305,7 +305,7 @@ spray-painter-style-cratesecure-medical =  Médico
 
 spray-painter-style-cratesecure-plasma = Plasma
 
-spray-painter-style-cratesecure-private =  Soldado.
+spray-painter-style-cratesecure-private = Soldado
 
 spray-painter-style-cratesecure-science = Ciência
 
@@ -320,7 +320,7 @@ spray-painter-style-canisters-ammonia = Amônia
 
 spray-painter-style-canisters-carbon-dioxide = Dióxido de carbono
 
-spray-painter-style-canisters-frezon = Frezon.
+spray-painter-style-canisters-frezon = Frezon
 
 spray-painter-style-canisters-nitrogen = Nitrogênio
 
@@ -332,6 +332,6 @@ spray-painter-style-canisters-plasma = Plasma
 
 spray-painter-style-canisters-storage =  Armazenagem
 
-spray-painter-style-canisters-tritium = Tritium.
+spray-painter-style-canisters-tritium = Tritium
 
 spray-painter-style-canisters-water-vapor = Vapor de água

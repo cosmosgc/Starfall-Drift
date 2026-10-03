@@ -8,21 +8,21 @@ chem-master-window-input-tab =  Entrada
 
 chem-master-window-output-tab =  Saída
 
-chem-master-window-container-label = Container.
+chem-master-window-container-label = Container
 
 chem-master-window-eject-button = Ejetar
 
 chem-master-window-no-container-loaded-text =  Nenhum recipiente carregado.
 
-chem-master-window-buffer-text = Buffer.
+chem-master-window-buffer-text = Buffer
 
 chem-master-window-buffer-label = reservatório:
 
-chem-master-window-buffer-all-amount =  Todos.
+chem-master-window-buffer-all-amount = Todos
 
 chem-master-window-buffer-empty-text = O buffer está vazio.
 
-chem-master-window-buffer-low-text =  Não há solução suficiente em buffer.
+chem-master-window-buffer-low-text = Não há solução suficiente em buffer
 
 chem-master-window-transfer-button =  Transferência
 
@@ -44,7 +44,7 @@ chem-master-window-create-button =  Criar
 
 chem-master-window-bottles-label = Garrafas:
 
-chem-master-window-unknown-reagent-text = Reagente desconhecido.
+chem-master-window-unknown-reagent-text = Reagente desconhecido
 
 chem-master-window-sort-type-none =  Ordenar por: o mais velho primeiro
 
@@ -54,15 +54,15 @@ chem-master-window-sort-type-quantity =  Ordenar por: Quantidade
 
 chem-master-window-sort-type-latest =  Ordenar por: Recente Primeiro
 
-chem-master-output-buffer-draw = Buffer.
+chem-master-output-buffer-draw = Buffer
 
 chem-master-output-beaker-draw = Béquer
 
-chem-master-window-no-beaker-text = Sem béquer carregado.
+chem-master-window-no-beaker-text = Sem béquer carregado
 
 chem-master-window-beaker-empty-text = Béquer vazio
 
-chem-master-window-beaker-low-text =  Não há solução suficiente no copo.
+chem-master-window-beaker-low-text = Não há solução suficiente no copo
 
 chem-master-output-source =  Fonte de embalagem:
 

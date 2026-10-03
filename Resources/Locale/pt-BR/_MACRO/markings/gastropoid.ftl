@@ -58,17 +58,17 @@ marking-GastropoidCheekGlow = Cheeks brilhantes
 
 marking-GastropoidCheekGlow-cheekglow = Cheeks brilhantes
 
-marking-GastropoidCheeks = Cheeks.
+marking-GastropoidCheeks = Cheeks
 
-marking-GastropoidCheeks-cheeks = Cheeks.
+marking-GastropoidCheeks-cheeks = Cheeks
 
 marking-GastropoidFaceEyes1 = Predador
 
 marking-GastropoidFaceEyes1-predator = Predador
 
-marking-GastropoidFaceEyes2 = Prey.
+marking-GastropoidFaceEyes2 = Prey
 
-marking-GastropoidFaceEyes2-prey = Prey.
+marking-GastropoidFaceEyes2-prey = Prey
 
 marking-GastropoidFaceEyes3 = Olhos de tentáculo
 
@@ -98,9 +98,9 @@ marking-GastropoidFaceLoops = Loops
 
 marking-GastropoidFaceLoops-loops = Loops
 
-marking-GastropoidHood = Hood.
+marking-GastropoidHood = Hood
 
-marking-GastropoidHood-hood = Hood.
+marking-GastropoidHood-hood = Hood
 
 marking-GastropoidAntennaColor = Antena colorida
 
@@ -178,9 +178,9 @@ marking-GastropoidShellBigStripes = Listras (Casca Grande)
 
 marking-GastropoidShellBigStripes-bigstripes = Listras (Casca Grande)
 
-marking-GastropoidShellCone = Cone Shell.
+marking-GastropoidShellCone = Cone Shell
 
-marking-GastropoidShellCone-cone = Cone Shell.
+marking-GastropoidShellCone-cone = Cone Shell
 
 marking-GastropoidShellProsthetic = Concha Protética
 
@@ -224,7 +224,7 @@ marking-SnailWeewoo-weewoo1 = Luz 1
 
 marking-SnailWeewoo-weewoo2 = Luz 2
 
-marking-SnailWeewoo-weewoo3 = Base.
+marking-SnailWeewoo-weewoo3 = Base
 
 marking-SnailWeewooSmall = Weewoo (Pequeno Shell)
 
@@ -232,7 +232,7 @@ marking-SnailWeewooSmall-weewoosmall1 = Luz 1
 
 marking-SnailWeewooSmall-weewoosmall2 = Luz 2
 
-marking-SnailWeewooSmall-weewoosmall3 = Base.
+marking-SnailWeewooSmall-weewoosmall3 = Base
 
 marking-ConeBigStripes =  Grandes Listras (Cone Shell)
 
@@ -340,41 +340,41 @@ marking-ProstheticSimpleGlass-prostheticsimpleglass =  Vidro (Pequeno Shell)
 
 marking-SmallMantle = Mantle (Pequeno Shell)
 
-marking-SmallMantle-smallmantle1 = Mantle.
+marking-SmallMantle-smallmantle1 = Mantle
 
 marking-SmallMantle-smallmantle2 = Stripe de Mantle
 
 marking-SmallRibbon = Fita dentada (Small Shell)
 
-marking-SmallRibbon-smallribbon1 = Fita dentada.
+marking-SmallRibbon-smallribbon1 = Fita dentada
 
 marking-SmallRibbon-smallribbon2 = Pins de fita
 
 marking-ConeMantle = Mantle (Concha de Conexão)
 
-marking-ConeMantle-conemantle1 = Mantle.
+marking-ConeMantle-conemantle1 = Mantle
 
 marking-ConeMantle-conemantle2 = Stripe de Mantle
 
 marking-ConeRibbon = Fita dentada (Cone Shell)
 
-marking-ConeRibbon-coneribbon1 = Fita dentada.
+marking-ConeRibbon-coneribbon1 = Fita dentada
 
 marking-ConeRibbon-coneribbon2 = Pins de fita
 
 marking-BigMantle = Mantle (Concha Grande)
 
-marking-BigMantle-bigmantle1 = Mantle.
+marking-BigMantle-bigmantle1 = Mantle
 
 marking-BigMantle-bigmantle2 = Stripe de Mantle
 
 marking-BigRibbon = Fita dentada (Caneta Grande)
 
-marking-BigRibbon-bigribbon1 = Fita dentada.
+marking-BigRibbon-bigribbon1 = Fita dentada
 
 marking-BigRibbon-bigribbon2 = Pins de fita
 
-marking-ProstheticMulticolor = -Plaqueamento Prótético.
+marking-ProstheticMulticolor = -Plaqueamento Prótético
 
 marking-ProstheticMulticolor-prostheticmulticolor1 = Chapa 1
 

@@ -1,6 +1,6 @@
 particle-accelerator-control-menu-on-button = Adiante
 
-particle-accelerator-control-menu-off-button =  Desligado.
+particle-accelerator-control-menu-off-button = Desligado
 
 particle-accelerator-control-menu-service-manual-reference =  Consulte o manual de serviço P.132
 
@@ -16,7 +16,7 @@ particle-accelerator-control-menu-alarm-control-2 = [bold][color=red]LIMITER FAL
 
 particle-accelerator-control-menu-scan-parts-button =  Peças de varredura
 
-particle-accelerator-control-menu-check-containment-field-warning =  Certifique-se de que o campo de contenção esteja ativo antes da operação.
+particle-accelerator-control-menu-check-containment-field-warning = Certifique-se de que o campo de contenção esteja ativo antes da operação
 
 particle-accelerator-control-menu-status-label = [bold]Estado:[/bold]
 

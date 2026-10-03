@@ -54,9 +54,9 @@ marking-GauzeLowerLegRight-gauze_lowerleg_r = Gaze Tornozeleira (direita)
 
 marking-GauzeLowerLegRight = Gaze Tornozeleira (direita)
 
-marking-GauzeUpperLegRight-gauze_upperleg_r = Gaze, saco de coxa.
+marking-GauzeUpperLegRight-gauze_upperleg_r = Gaze, saco de coxa
 
-marking-GauzeUpperLegRight = Gaze, saco de coxa.
+marking-GauzeUpperLegRight = Gaze, saco de coxa
 
 marking-GauzeBlindfold-gauze_blindfold = Gaze Vendado
 

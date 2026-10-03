@@ -12,25 +12,25 @@ criminal-records-console-flavor-left =  Primeiro, faça perguntas depois.
 
 criminal-records-console-flavor-right = V2.1
 
-criminal-records-console-show-all =  Todos.
+criminal-records-console-show-all = Todos
 
 criminal-records-console-status =  Situação
 
-criminal-records-status-none =  Nenhum.
+criminal-records-status-none = Nenhum
 
 criminal-records-status-wanted =  Procurado
 
-criminal-records-status-detained = Detido.
+criminal-records-status-detained = Detido
 
-criminal-records-status-suspected =  Suspeito.
+criminal-records-status-suspected = Suspeito
 
-criminal-records-status-discharged = Descarregado.
+criminal-records-status-discharged = Descarregado
 
 criminal-records-status-paroled = Paroled
 
-criminal-records-status-hostile = Hostil.
+criminal-records-status-hostile = Hostil
 
-criminal-records-status-eliminated =  Eliminado.
+criminal-records-status-eliminated = Eliminado
 
 criminal-records-console-wanted-reason = "Queria a Razão"
 
@@ -42,7 +42,7 @@ criminal-records-console-reason-placeholder = Por exemplo: { $placeholder }
 
 criminal-records-console-crime-history =  História do Crime
 
-criminal-records-history-placeholder =  Escreva o crime aqui.
+criminal-records-history-placeholder = Escreva o crime aqui
 
 criminal-records-no-history = O registro deste tripulante é impecável.
 
@@ -50,7 +50,7 @@ criminal-records-add-history =  Adicionar
 
 criminal-records-delete-history =  Apagar
 
-criminal-records-permission-denied = Permissão negada.
+criminal-records-permission-denied = Permissão negada
 
 criminal-records-console-wanted = { $name } ({ $job }"Foi feito procurado por { $officer } em vez de: { $reason }.
 
@@ -92,4 +92,4 @@ criminal-records-species-filter =  Espécie
 
 criminal-records-console-auto-history = - Sim. { $reason }
 
-criminal-records-console-unspecified-reason =  Não especificado motivo.
+criminal-records-console-unspecified-reason = Não especificado motivo

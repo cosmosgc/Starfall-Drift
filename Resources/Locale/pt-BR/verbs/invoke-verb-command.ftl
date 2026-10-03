@@ -1,4 +1,4 @@
-invoke-verb-command-description = Invoca um verbo com o nome dado em uma entidade, com a entidade do jogador.
+invoke-verb-command-description = Invoca um verbo com o nome dado em uma entidade, com a entidade do jogador
 
 invoke-verb-command-help = Invocar verbo <jogadorUid , "eu"
 

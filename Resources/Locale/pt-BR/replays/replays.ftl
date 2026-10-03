@@ -32,7 +32,7 @@ replay-menu-none =  Nenhuma repetição encontrada.
 # Main Menu Info Box
 replay-info-title = Reproduzir informações
 
-replay-info-none-selected = Sem repetição selecionada.
+replay-info-none-selected = Sem repetição selecionada
 
 replay-info-invalid = [color=red] Repetição inválida selecionada[/color]
 

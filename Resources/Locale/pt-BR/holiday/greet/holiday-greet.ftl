@@ -18,7 +18,7 @@ holiday-name-leap-day = Dia Salto
 
 holiday-name-miku-day = Dia de Hatsune Miku
 
-holiday-name-pi-day = Pi Day.
+holiday-name-pi-day = Pi Day
 
 holiday-name-st-patricks-day = Dia de São Patrício
 

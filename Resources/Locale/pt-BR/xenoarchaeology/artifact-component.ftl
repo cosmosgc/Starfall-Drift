@@ -1,6 +1,6 @@
-artifact-verb-make-always-active =  Faça o artefato sempre ativo.
+artifact-verb-make-always-active = Faça o artefato sempre ativo
 
-artifact-verb-activate = Ativar artefato.
+artifact-verb-activate = Ativar artefato
 
 artifact-unlock-state-begin =  Começa a mudar de formas estranhas...
 

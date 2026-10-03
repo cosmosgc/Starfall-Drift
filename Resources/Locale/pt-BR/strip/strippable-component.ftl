@@ -26,13 +26,13 @@ strippable-component-alert-owner-insert-hand = { CAPITALIZE(THE($user)) }  está
 strippable-component-alert-owner-interact = { CAPITALIZE(THE($user)) }  está se mexendo com seu { $item }!
 
 # StripVerb
-strip-verb-get-data-text = Tire a roupa.
+strip-verb-get-data-text = Tire a roupa
 
-strip-all-verb-get-data-text = Tire tudo.
+strip-all-verb-get-data-text = Tire tudo
 
 strippable-bound-user-interface-stripping-menu-title = { CAPITALIZE($ownerName) }O inventário
 
-strippable-bound-user-interface-stripping-menu-ensnare-button = Remova as restrições das pernas.
+strippable-bound-user-interface-stripping-menu-ensnare-button = Remova as restrições das pernas
 
 strippable-bound-user-interface-stripping-menu-admin-button = Alternar a visão de administração
 

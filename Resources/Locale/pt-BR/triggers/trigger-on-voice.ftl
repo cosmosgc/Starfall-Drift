@@ -4,7 +4,7 @@ trigger-on-voice-uninitialized = A tela diz: "Não iniciado"...
 
 trigger-on-voice-record =  Gravar
 
-trigger-on-voice-stop =  Pare.
+trigger-on-voice-stop = Pare
 
 trigger-on-voice-clear =  Limpar gravação
 

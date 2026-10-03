@@ -38,7 +38,7 @@ reagent-name-unstable-mutagen = mutagênio instável
 
 reagent-desc-unstable-mutagen = Causa mutações quando injetado em pessoas vivas ou plantas. Doses altas podem ser letais, especialmente em humanos.
 
-reagent-name-heartbreaker-toxin = toxina destruidora de corações.
+reagent-name-heartbreaker-toxin = toxina destruidora de corações
 
 reagent-desc-heartbreaker-toxin = Um composto alucinógeno derivado da toxina destruidora de mentes bloqueia sinais neurológicos para o sistema respiratório, causando asfixia, mas o Dexalin Plus e a epinefrina irão filtrá-lo.
 
@@ -78,7 +78,7 @@ reagent-name-allicin = alicina
 
 reagent-desc-allicin = Um composto organossulfuro encontrado em alliums como alho, cebola e plantas relacionadas.
 
-reagent-name-pax = Pax.
+reagent-name-pax = Pax
 
 reagent-desc-pax = Um químico psiquiátrico que impede o paciente de prejudicar diretamente alguém.
 

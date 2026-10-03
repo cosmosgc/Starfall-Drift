@@ -14,7 +14,7 @@ swap-teleporter-popup-teleport-other = { CAPITALIZE(THE($entity)) } Ativa, e voc
 
 swap-teleporter-popup-teleport-fail = { CAPITALIZE(THE($entity)) } Ativa e não o transporta para lugar nenhum.
 
-swap-teleporter-verb-destroy-link = Destrua a ligação quântica.
+swap-teleporter-verb-destroy-link = Destrua a ligação quântica
 
 swap-teleporter-examine-link-present = [color=forestgreen] Está ligado a outro dispositivo.[/color] Alt-Click para quebrar o link quântico.
 

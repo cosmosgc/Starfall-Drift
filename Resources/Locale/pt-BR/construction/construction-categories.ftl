@@ -26,4 +26,4 @@ construction-category-favorites =  Favoritos
 
 construction-add-favorite-button =  Adicionar aos favoritos
 
-construction-remove-from-favorite-button = Remova dos favoritos.
+construction-remove-from-favorite-button = Remova dos favoritos

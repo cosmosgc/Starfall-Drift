@@ -4,6 +4,6 @@ glued-name-prefix =  colado { $baseName }
 
 glue-failure =  Não posso cobrir { THE($target) } Em cola!
 
-glue-verb-text = Aplique a cola.
+glue-verb-text = Aplique a cola
 
 glue-verb-message = Cole um objeto

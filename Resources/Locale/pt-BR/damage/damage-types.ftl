@@ -8,13 +8,13 @@ damage-type-cellular =  Celular
 
 damage-type-caustic = Caustic
 
-damage-type-cold = Frio.
+damage-type-cold = Frio
 
 damage-type-heat = Calor
 
-damage-type-piercing = -Pierre.
+damage-type-piercing = -Pierre
 
-damage-type-poison = Veneno.
+damage-type-poison = Veneno
 
 damage-type-radiation = Radiação
 

@@ -1,6 +1,6 @@
 ui-vote-type-restart = Recomeçar a ronda
 
-ui-vote-type-gamemode =  Próximo jogo.
+ui-vote-type-gamemode = Próximo jogo
 
 ui-vote-type-map =  Próximo mapa
 
@@ -26,7 +26,7 @@ ui-vote-follow-button =  Siga o Usuário
 ui-vote-type-timeout =  Esta votação foi chamada muito recentemente ({ $remaining })
 
 # Unavailable text if a vote type has been disabled manually.
-ui-vote-type-not-available = Este tipo de votação foi desativado.
+ui-vote-type-not-available = Este tipo de votação foi desativado
 
 # Vote option only available for specific users.
 ui-vote-trusted-users-notice =  Essa opção de voto só está disponível para jogadores que têm tempo suficiente para jogar ou estão na lista branca. { $timeReq }  segundos.

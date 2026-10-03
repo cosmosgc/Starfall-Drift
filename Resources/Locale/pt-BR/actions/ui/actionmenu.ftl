@@ -6,7 +6,7 @@ ui-actionmenu-filter-button =  Filtro
 
 ui-actionmenu-search-bar-placeholder-text =  Busca
 
-ui-actionmenu-clear-button =  Limpo.
+ui-actionmenu-clear-button = Limpo
 
 ui-actionsui-function-lock-action-slots = (Desbloquear) arrastando e limpando slots de ação
 

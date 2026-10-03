@@ -70,7 +70,7 @@ marking-MothAntennasWitchwing-witchwing = Antena
 
 marking-MothAntennasWitchwing = Antena (Witch Wing)
 
-marking-MothAntennasUnderwing-underwing_primary = Primário.
+marking-MothAntennasUnderwing-underwing_primary = Primário
 
 marking-MothAntennasUnderwing-underwing_secondary = Secundário
 
@@ -84,13 +84,13 @@ marking-MothWingsCharred-charred = Asa
 
 marking-MothWingsCharred = Asas (Carbonizadas)
 
-marking-MothWingsDbushy-dbushy_primary = Primário.
+marking-MothWingsDbushy-dbushy_primary = Primário
 
 marking-MothWingsDbushy-dbushy_secondary = Secundário
 
 marking-MothWingsDbushy = Asas (Dark & Bushy)
 
-marking-MothWingsDeathhead-deathhead_primary = Primário.
+marking-MothWingsDeathhead-deathhead_primary = Primário
 
 marking-MothWingsDeathhead-deathhead_secondary = Secundário
 
@@ -108,7 +108,7 @@ marking-MothWingsFeathery-feathery = Asa
 
 marking-MothWingsFeathery = Asas (Feathery)
 
-marking-MothWingsFirewatch-firewatch_primary = Primário.
+marking-MothWingsFirewatch-firewatch_primary = Primário
 
 marking-MothWingsFirewatch-firewatch_secondary = Secundário
 
@@ -126,13 +126,13 @@ marking-MothWingsLadybug-ladybug = Asa
 
 marking-MothWingsLadybug = Asas (Ladybug)
 
-marking-MothWingsMaple-maple_primary = Primário.
+marking-MothWingsMaple-maple_primary = Primário
 
 marking-MothWingsMaple-maple_secondary = Secundário
 
 marking-MothWingsMaple = Asas (Maple)
 
-marking-MothWingsMoffra-moffra_primary = Primário.
+marking-MothWingsMoffra-moffra_primary = Primário
 
 marking-MothWingsMoffra-moffra_secondary = Secundário
 
@@ -142,7 +142,7 @@ marking-MothWingsOakworm-oakworm = Asa
 
 marking-MothWingsOakworm = Asas (Oak Worm)
 
-marking-MothWingsPlasmafire-plasmafire_primary = Primário.
+marking-MothWingsPlasmafire-plasmafire_primary = Primário
 
 marking-MothWingsPlasmafire-plasmafire_secondary = Secundário
 
@@ -152,7 +152,7 @@ marking-MothWingsPointy-pointy = Asa
 
 marking-MothWingsPointy = Asas (Pointy)
 
-marking-MothWingsRoyal-royal_primary = Primário.
+marking-MothWingsRoyal-royal_primary = Primário
 
 marking-MothWingsRoyal-royal_secondary = Secundário
 
@@ -178,17 +178,17 @@ marking-MothWingsWitchwing-witchwing = Asa
 
 marking-MothWingsWitchwing = Asas (Witch Wing)
 
-marking-MothWingsUnderwing-underwing_primary = Primário.
+marking-MothWingsUnderwing-underwing_primary = Primário
 
 marking-MothWingsUnderwing-underwing_secondary = Secundário
 
 marking-MothWingsUnderwing = Asas (Underwing)
 
-marking-MothChestCharred-charred_chest = Peito.
+marking-MothChestCharred-charred_chest = Peito
 
 marking-MothChestCharred = Peito de traça (Carrado)
 
-marking-MothHeadCharred-charred_head =  Cabeça.
+marking-MothHeadCharred-charred_head = Cabeça
 
 marking-MothHeadCharred =  Cabeça de mariposa (Carred)
 
@@ -208,11 +208,11 @@ marking-MothRArmCharred-charred_r_arm = Braço direito
 
 marking-MothRArmCharred = Braço direito da mariposa (carregado)
 
-marking-MothChestDeathhead-deathhead_chest = Peito.
+marking-MothChestDeathhead-deathhead_chest = Peito
 
 marking-MothChestDeathhead = Peito de traça (Cabeça da Morte)
 
-marking-MothHeadDeathhead-deathhead_head =  Cabeça.
+marking-MothHeadDeathhead-deathhead_head = Cabeça
 
 marking-MothHeadDeathhead =  Cabeça de mariposa (Cabeça da Morte)
 
@@ -232,11 +232,11 @@ marking-MothRArmDeathhead-deathhead_r_arm = Braço direito
 
 marking-MothRArmDeathhead = Braço direito da mariposa (cabeça da morte)
 
-marking-MothChestFan-fan_chest = Peito.
+marking-MothChestFan-fan_chest = Peito
 
 marking-MothChestFan = Peito de mariposa (Fan)
 
-marking-MothHeadFan-fan_head =  Cabeça.
+marking-MothHeadFan-fan_head = Cabeça
 
 marking-MothHeadFan =  Cabeça de mariposa (Fan)
 
@@ -256,11 +256,11 @@ marking-MothRArmFan-fan_r_arm = Braço direito
 
 marking-MothRArmFan = Braço direito da mariposa (Fan)
 
-marking-MothChestFirewatch-firewatch_chest = Peito.
+marking-MothChestFirewatch-firewatch_chest = Peito
 
 marking-MothChestFirewatch = Peito de traça (Firewatch)
 
-marking-MothHeadFirewatch-firewatch_head =  Cabeça.
+marking-MothHeadFirewatch-firewatch_head = Cabeça
 
 marking-MothHeadFirewatch =  Chefe da mariposa (Firewatch)
 
@@ -280,11 +280,11 @@ marking-MothRArmFirewatch-firewatch_r_arm = Braço direito
 
 marking-MothRArmFirewatch = Braço direito da mariposa (Firewatch)
 
-marking-MothChestGothic-gothic_chest = Peito.
+marking-MothChestGothic-gothic_chest = Peito
 
 marking-MothChestGothic = Peito de mariposa (Gótico)
 
-marking-MothHeadGothic-gothic_head =  Cabeça.
+marking-MothHeadGothic-gothic_head = Cabeça
 
 marking-MothHeadGothic =  Cabeça de mariposa (Gótica)
 
@@ -304,11 +304,11 @@ marking-MothRArmGothic-gothic_r_arm = Braço direito
 
 marking-MothRArmGothic = Braço direito da traça (gótico)
 
-marking-MothChestJungle-jungle_chest = Peito.
+marking-MothChestJungle-jungle_chest = Peito
 
 marking-MothChestJungle = Peito de mariposa (Jungle)
 
-marking-MothHeadJungle-jungle_head =  Cabeça.
+marking-MothHeadJungle-jungle_head = Cabeça
 
 marking-MothHeadJungle =  Cabeça de mariposa (Jungle)
 
@@ -328,11 +328,11 @@ marking-MothRArmJungle-jungle_r_arm = Braço direito
 
 marking-MothRArmJungle = Braço direito da mariposa (Jungle)
 
-marking-MothChestMoonfly-moonfly_chest = Peito.
+marking-MothChestMoonfly-moonfly_chest = Peito
 
 marking-MothChestMoonfly = Peito de traça (Moonfly)
 
-marking-MothHeadMoonfly-moonfly_head =  Cabeça.
+marking-MothHeadMoonfly-moonfly_head = Cabeça
 
 marking-MothHeadMoonfly =  Cabeça de mariposa (Moonfly)
 
@@ -352,11 +352,11 @@ marking-MothRArmMoonfly-moonfly_r_arm = Braço direito
 
 marking-MothRArmMoonfly = Braço direito da mariposa (Moonfly)
 
-marking-MothChestOakworm-oakworm_chest = Peito.
+marking-MothChestOakworm-oakworm_chest = Peito
 
 marking-MothChestOakworm = Peito de mariposa (Lagarto)
 
-marking-MothHeadOakworm-oakworm_head =  Cabeça.
+marking-MothHeadOakworm-oakworm_head = Cabeça
 
 marking-MothHeadOakworm =  Cabeça de mariposa (Oak Worm)
 
@@ -376,11 +376,11 @@ marking-MothRArmOakworm-oakworm_r_arm = Braço direito
 
 marking-MothRArmOakworm = Braço direito da mariposa (Oak Worm)
 
-marking-MothChestPointy-pointy_chest = Peito.
+marking-MothChestPointy-pointy_chest = Peito
 
 marking-MothChestPointy = Peito de traça (Pointy)
 
-marking-MothHeadPointy-pointy_head =  Cabeça.
+marking-MothHeadPointy-pointy_head = Cabeça
 
 marking-MothHeadPointy =  Cabeça de mariposa (Pointy)
 
@@ -400,11 +400,11 @@ marking-MothRArmPointy-pointy_r_arm = Braço direito
 
 marking-MothRArmPointy = Braço direito da mariposa (Pointy)
 
-marking-MothChestRagged-ragged_chest = Peito.
+marking-MothChestRagged-ragged_chest = Peito
 
 marking-MothChestRagged = Peito de mariposa (Atrasado)
 
-marking-MothHeadRagged-ragged_head =  Cabeça.
+marking-MothHeadRagged-ragged_head = Cabeça
 
 marking-MothHeadRagged =  Cabeça de mariposa (Atrasada)
 
@@ -424,11 +424,11 @@ marking-MothRArmRagged-ragged_r_arm = Braço direito
 
 marking-MothRArmRagged = Braço direito da traça (escravado)
 
-marking-MothChestRoyal-royal_chest = Peito.
+marking-MothChestRoyal-royal_chest = Peito
 
 marking-MothChestRoyal = Peito de mariposa (Royal)
 
-marking-MothHeadRoyal-royal_head =  Cabeça.
+marking-MothHeadRoyal-royal_head = Cabeça
 
 marking-MothHeadRoyal =  Cabeça de marota (Royal)
 
@@ -448,11 +448,11 @@ marking-MothRArmRoyal-royal_r_arm = Braço direito
 
 marking-MothRArmRoyal = Braço direito da mariposa (Real)
 
-marking-MothChestWhitefly-whitefly_chest = Peito.
+marking-MothChestWhitefly-whitefly_chest = Peito
 
 marking-MothChestWhitefly = Peito de traça (Voo Branco)
 
-marking-MothHeadWhitefly-whitefly_head =  Cabeça.
+marking-MothHeadWhitefly-whitefly_head = Cabeça
 
 marking-MothHeadWhitefly =  Cabeça de mariposa (Voo Branco)
 
@@ -472,11 +472,11 @@ marking-MothRArmWhitefly-whitefly_r_arm = Braço direito
 
 marking-MothRArmWhitefly = Braço direito da traça (Voo Branco)
 
-marking-MothChestWitchwing-witchwing_chest = Peito.
+marking-MothChestWitchwing-witchwing_chest = Peito
 
 marking-MothChestWitchwing = Peito de traça (Witch Wing)
 
-marking-MothHeadWitchwing-witchwing_head =  Cabeça.
+marking-MothHeadWitchwing-witchwing_head = Cabeça
 
 marking-MothHeadWitchwing =  Cabeça de mariposa (Witch Wing)
 

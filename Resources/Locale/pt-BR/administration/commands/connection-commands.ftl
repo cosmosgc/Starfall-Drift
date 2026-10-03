@@ -8,7 +8,7 @@ cmd-grant_connect_bypass-arg-user = *Usador>
 
 cmd-grant_connect_bypass-arg-duration = [duration minutes]
 
-cmd-grant_connect_bypass-invalid-args =  Espera-se 1 ou 2 argumentos.
+cmd-grant_connect_bypass-invalid-args = Espera-se 1 ou 2 argumentos
 
 cmd-grant_connect_bypass-unknown-user =  Incapaz de encontrar o usuário{ $user }'
 

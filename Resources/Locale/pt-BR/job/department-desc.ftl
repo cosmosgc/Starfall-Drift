@@ -12,7 +12,7 @@ department-Medical-description =  Mantenha a tripulação saudável.
 
 department-Security-description =  Mantenha a paz na estação.
 
-department-Science-description = Pesquisa artefatos e anomalias para inventar novos equipamentos para a estação.
+department-Science-description = Pesquisa artefatos e anomalias para inventar novos equipamentos para a estação
 
 department-Silicon-description = Obedeçam suas leis e sirvam a tripulação.
 

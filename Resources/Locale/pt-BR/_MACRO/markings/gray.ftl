@@ -4,7 +4,7 @@ marking-BellyGem-bellygem = Gema de barriga
 
 marking-GrayObject =  Objetos inescrutáveis
 
-marking-GrayObject-object1 = Keb Orb.
+marking-GrayObject-object1 = Keb Orb
 
 marking-GrayObject-object2 = Yaer Keb Orb
 
@@ -18,7 +18,7 @@ marking-GrayTattooPlane = Tattoo de avião
 
 marking-GrayTattooPlane-plane1 =  Corpo
 
-marking-GrayTattooPlane-plane2 = - Não, não, não.
+marking-GrayTattooPlane-plane2 = - Não, não, não
 
 marking-RadiumGlow = Brilho de rádio
 
@@ -86,9 +86,9 @@ marking-GrayUnderwearStriped-striped1 = Listras
 
 marking-GrayUnderwearStriped-striped2 = Listras
 
-marking-GrayUnderwearToga = Toga.
+marking-GrayUnderwearToga = Toga
 
-marking-GrayUnderwearToga-toga = Toga.
+marking-GrayUnderwearToga-toga = Toga
 
 marking-GrayCuteEars = Orelhas Cinzas (Chute)
 

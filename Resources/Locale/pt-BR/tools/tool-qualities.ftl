@@ -1,16 +1,16 @@
 tool-quality-anchoring-name = Ancoração
 
-tool-quality-anchoring-tool-name = - Awrench.
+tool-quality-anchoring-tool-name = - Awrench
 
 tool-quality-prying-name = A bisbilhotar
 
-tool-quality-prying-tool-name = Crowbar.
+tool-quality-prying-tool-name = Crowbar
 
-tool-quality-screwing-name = - Que se dane.
+tool-quality-screwing-name = - Que se dane
 
-tool-quality-screwing-tool-name =  Chave de fenda.
+tool-quality-screwing-tool-name = Chave de fenda
 
-tool-quality-cutting-name =  Cortando.
+tool-quality-cutting-name = Cortando
 
 tool-quality-cutting-tool-name = Fio-máquina
 
@@ -40,13 +40,13 @@ tool-quality-honking-tool-name = Corno de bicicleta
 
 tool-quality-woodcutting-name = Corte de madeira
 
-tool-quality-woodcutting-tool-name = Hatchet.
+tool-quality-woodcutting-tool-name = Hatchet
 
 tool-quality-rolling-name =  Rodando
 
 tool-quality-rolling-tool-name = Rolando Pin
 
-tool-quality-digging-name = Cavando.
+tool-quality-digging-name = Cavando
 
 tool-quality-digging-tool-name =  Pá
 

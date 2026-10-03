@@ -8,7 +8,7 @@ news-read-ui-prev-tooltip =  Anterior
 
 news-read-ui-default-title =  Notícias da Estação
 
-news-read-ui-not-found-text =  Nenhum artigo encontrado.
+news-read-ui-not-found-text = Nenhum artigo encontrado
 
 news-read-ui-time-prefix-text =  Hora de publicação:
 
@@ -32,7 +32,7 @@ news-write-ui-publish-text = Publicar
 
 news-write-ui-create-text =  Criar
 
-news-write-ui-cancel-text =  Limpo.
+news-write-ui-cancel-text = Limpo
 
 news-write-ui-save-text =  Salve
 
@@ -48,9 +48,9 @@ news-write-ui-new-article = Novo Artigo
 
 news-write-ui-article-name-label =  Título:
 
-news-write-no-access-popup = Sem acesso.
+news-write-no-access-popup = Sem acesso
 
-news-writer-text-length-exceeded =  Texto excede o comprimento máximo.
+news-writer-text-length-exceeded = Texto excede o comprimento máximo
 
 news-write-ui-richtext-tooltip =
      Os artigos de notícias suportam texto rico As seguintes etiquetas de texto ricas são suportadas:
@@ -61,6 +61,6 @@ news-write-ui-richtext-tooltip =
     { "[bullet/]color" }
     { "[bullet/]bullet[/color]" }
 
-news-pda-notification-header = Nova notícia.
+news-pda-notification-header = Nova notícia
 
 news-publish-admin-announcement = { $actor }  Artigo publicado. { $title } Por { $author }

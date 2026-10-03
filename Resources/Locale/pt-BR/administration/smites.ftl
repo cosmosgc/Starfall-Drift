@@ -38,19 +38,19 @@ admin-smite-set-alight-name = Acenda a luz
 
 admin-smite-monkeyify-name = Monkeyify
 
-admin-smite-garbage-can-name = Lixo.
+admin-smite-garbage-can-name = Lixo
 
-admin-smite-electrocute-name =  Eletrocuta.
+admin-smite-electrocute-name = Eletrocuta
 
-admin-smite-remove-blood-name = Remova o sangue.
+admin-smite-remove-blood-name = Remova o sangue
 
-admin-smite-remove-hands-name = Tire as mãos.
+admin-smite-remove-hands-name = Tire as mãos
 
-admin-smite-remove-hand-name = Tire a mão.
+admin-smite-remove-hand-name = Tire a mão
 
 admin-smite-pinball-name = Pinball
 
-admin-smite-yeet-name = Yeet.
+admin-smite-yeet-name = Yeet
 
 admin-smite-become-bread-name =  Tornar-se pão
 
@@ -60,9 +60,9 @@ admin-smite-anger-pointing-arrows-name = Setas de ponta de raiva
 
 admin-smite-dust-name = Poeira
 
-admin-smite-buffering-name = -Abotoando.
+admin-smite-buffering-name = -Abotoando
 
-admin-smite-become-instrument-name =  Torne-se um instrumento.
+admin-smite-become-instrument-name = Torne-se um instrumento
 
 admin-smite-remove-gravity-name = Remova a gravidade
 
@@ -76,23 +76,23 @@ admin-smite-headstand-name =  Cabeçalho
 
 admin-smite-become-mouse-name =  Torne-se Mouse
 
-admin-smite-maid-name = - Gata Maid.
+admin-smite-maid-name = - Gata Maid
 
-admin-smite-zoom-in-name = Aproximem-se.
+admin-smite-zoom-in-name = Aproximem-se
 
 admin-smite-flip-eye-name = Flip Eye
 
-admin-smite-run-walk-swap-name = - Vamos, troque de caminhada.
+admin-smite-run-walk-swap-name = - Vamos, troque de caminhada
 
 admin-smite-super-speed-name =  Corra para cima
 
 admin-smite-stomach-removal-name = Remoção do estômago
 
-admin-smite-speak-backwards-name =  Fale para trás.
+admin-smite-speak-backwards-name = Fale para trás
 
 admin-smite-lung-removal-name = Remoção dos pulmões
 
-admin-smite-disarm-prone-name =  Desarme Prone.
+admin-smite-disarm-prone-name = Desarme Prone
 
 admin-smite-super-bonk-name = Super Bonk
 
@@ -102,7 +102,7 @@ admin-smite-terminate-name =  Terminar
 
 admin-smite-super-slip-name = Super Slip
 
-admin-smite-creampie-name =  Creme.
+admin-smite-creampie-name = Creme
 
 admin-smite-vomit-organs-name =  Órgãos de Vómitos
 
@@ -116,7 +116,7 @@ admin-smite-kill-sign-hidden-name =  Sinal de morte escondido
 
 admin-smite-omni-accent-name = Omni-Accent
 
-admin-smite-crawler-name = Rastejador.
+admin-smite-crawler-name = Rastejador
 
 admin-smite-homing-rod-name = Rodízio de direção
 

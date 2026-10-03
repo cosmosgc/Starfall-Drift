@@ -3,11 +3,11 @@ names-diona-last-dataset-1 = Paz
 
 names-diona-last-dataset-2 = Harmonia
 
-names-diona-last-dataset-3 =  Relaxação.
+names-diona-last-dataset-3 = Relaxação
 
 names-diona-last-dataset-4 = Serendipidade
 
-names-diona-last-dataset-5 =  Calma.
+names-diona-last-dataset-5 = Calma
 
 names-diona-last-dataset-6 = Introspecção
 
@@ -17,7 +17,7 @@ names-diona-last-dataset-8 =  Conforto
 
 names-diona-last-dataset-9 =  Sonhos
 
-names-diona-last-dataset-10 =  Silêncio.
+names-diona-last-dataset-10 = Silêncio
 
 names-diona-last-dataset-11 = Equilíbrio
 
@@ -33,17 +33,17 @@ names-diona-last-dataset-16 = Quietude
 
 names-diona-last-dataset-17 =  Tranqüilidade
 
-names-diona-last-dataset-18 =  Calma.
+names-diona-last-dataset-18 = Calma
 
 names-diona-last-dataset-19 = Equilíbrio
 
 names-diona-last-dataset-20 = Compostura
 
-names-diona-last-dataset-21 =  Controle.
+names-diona-last-dataset-21 = Controle
 
 names-diona-last-dataset-22 = Beatitude
 
-names-diona-last-dataset-23 = -Aproveitamento.
+names-diona-last-dataset-23 = -Aproveitamento
 
 names-diona-last-dataset-24 = Otimismo
 
@@ -53,7 +53,7 @@ names-diona-last-dataset-26 = Alegria
 
 names-diona-last-dataset-27 = Deleite
 
-names-diona-last-dataset-28 = Luxo.
+names-diona-last-dataset-28 = Luxo
 
 names-diona-last-dataset-29 = Euforia
 
@@ -77,11 +77,11 @@ names-diona-last-dataset-38 = Integridade
 
 names-diona-last-dataset-39 =  Justiça
 
-names-diona-last-dataset-40 = Bondade.
+names-diona-last-dataset-40 = Bondade
 
-names-diona-last-dataset-41 = Coragem.
+names-diona-last-dataset-41 = Coragem
 
-names-diona-last-dataset-42 = Empatia.
+names-diona-last-dataset-42 = Empatia
 
 names-diona-last-dataset-43 = Estoicismo
 
@@ -124,7 +124,7 @@ names-diona-last-dataset-61 = Perseverança
 
 names-diona-last-dataset-62 = Densidade
 
-names-diona-last-dataset-63 =  Força.
+names-diona-last-dataset-63 = Força
 
 names-diona-last-dataset-64 = Congestão
 
@@ -140,7 +140,7 @@ names-diona-last-dataset-69 = Fortitude
 
 names-diona-last-dataset-70 = Perseverança
 
-names-diona-last-dataset-71 = Paciência.
+names-diona-last-dataset-71 = Paciência
 
 names-diona-last-dataset-72 = Passividade
 
@@ -154,9 +154,9 @@ names-diona-last-dataset-76 = Justeza
 
 names-diona-last-dataset-77 = Bobagem
 
-names-diona-last-dataset-78 = -Retenção.
+names-diona-last-dataset-78 = -Retenção
 
-names-diona-last-dataset-79 =  Silêncio.
+names-diona-last-dataset-79 = Silêncio
 
 names-diona-last-dataset-80 = Desorientação
 
@@ -168,7 +168,7 @@ names-diona-last-dataset-83 =  Escuridão
 
 names-diona-last-dataset-84 = Fragilidade
 
-names-diona-last-dataset-85 =  Ação.
+names-diona-last-dataset-85 = Ação
 
 names-diona-last-dataset-86 =  Despertar
 
@@ -218,7 +218,7 @@ names-diona-last-dataset-107 = Desespero
 
 names-diona-last-dataset-108 = Tristeza
 
-names-diona-last-dataset-109 = Dor.
+names-diona-last-dataset-109 = Dor
 
 names-diona-last-dataset-110 = Animosidade
 
@@ -242,6 +242,6 @@ names-diona-last-dataset-119 =  Frustração
 
 names-diona-last-dataset-120 = Insanidade
 
-names-diona-last-dataset-121 = Caos.
+names-diona-last-dataset-121 = Caos
 
 names-diona-last-dataset-122 = Medo

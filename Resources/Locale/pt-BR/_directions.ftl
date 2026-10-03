@@ -2,7 +2,7 @@ zzzz-fmt-direction-North = Norte
 
 zzzz-fmt-direction-South = Sul
 
-zzzz-fmt-direction-East =  Leste.
+zzzz-fmt-direction-East = Leste
 
 zzzz-fmt-direction-West =  Oeste
 

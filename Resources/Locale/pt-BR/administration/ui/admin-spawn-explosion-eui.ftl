@@ -22,7 +22,7 @@ admin-explosion-eui-label-directional = Direcional
 
 admin-explosion-eui-label-angle = Ângulo
 
-admin-explosion-eui-label-spread =  Espalhem-se.
+admin-explosion-eui-label-spread = Espalhem-se
 
 admin-explosion-eui-label-distance =  Distância
 
@@ -32,7 +32,7 @@ cmd-explosionui-desc =  Abre uma janela para fácil acesso à destruição da es
 
 cmd-explosionui-help = Uso: Explosionui
 
-cmd-explosion-desc = O trem vai explodir.
+cmd-explosion-desc = O trem vai explodir
 
 cmd-explosion-help = Uso: explosão [intensity] [slope] [maxIntensity] [x y] [mapId] [prototypeId]
 

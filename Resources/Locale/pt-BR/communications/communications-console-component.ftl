@@ -22,11 +22,11 @@ comms-console-menu-emergency-shuttle-button-tooltip = Chama ou recolhe o transpo
 comms-console-menu-time-remaining =  Tempo restante: { $time }
 
 # Popup
-comms-console-permission-denied = Permissão negada.
+comms-console-permission-denied = Permissão negada
 
-comms-console-shuttle-unavailable = O transporte está indisponível no momento.
+comms-console-shuttle-unavailable = O transporte está indisponível no momento
 
-comms-console-message-too-long = A mensagem é muito longa.
+comms-console-message-too-long = A mensagem é muito longa
 
 # Placeholder values
 comms-console-announcement-sent-by =  Enviado por
@@ -42,4 +42,4 @@ comms-console-announcement-title-nukie = Gorlex Marauders
 
 comms-console-announcement-title-station-ai =  Estação AI
 
-comms-console-announcement-title-wizard = Feiticeiro.
+comms-console-announcement-title-wizard = Feiticeiro

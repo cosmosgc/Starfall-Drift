@@ -48,7 +48,7 @@ shell-invalid-grid-id =  Identidade de grade inválida.
 
 shell-invalid-map-id =  Identificação de mapa inválida.
 
-shell-invalid-entity-uid = { $uid }  Não é uma entidade válida.
+shell-invalid-entity-uid = { $uid }  Não é uma entidade válida
 
 shell-invalid-bool = Booleano inválido.
 

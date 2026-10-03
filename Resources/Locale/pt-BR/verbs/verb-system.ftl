@@ -4,7 +4,7 @@ verb-system-null-server-response =  Entidade não vista, não deveria ver isso.
 # usually just use Entity.Name. But it is a bit odd when targeting yourself
 verb-self-target-pronoun =  Você mesmo
 
-verb-categories-admin = Admin.
+verb-categories-admin = Admin
 
 verb-categories-debug = Depurar
 
@@ -14,7 +14,7 @@ verb-categories-eject = Ejetar
 
 verb-categories-insert =  Inserir
 
-verb-categories-buckle = Fivela.
+verb-categories-buckle = Fivela
 
 verb-categories-unbuckle =  Desapertar
 
@@ -44,18 +44,18 @@ verb-categories-fax =  Definir destino
 
 verb-categories-power-level =  Nível de potência
 
-verb-categories-adjust = Ajustar.
+verb-categories-adjust = Ajustar
 
 verb-common-toggle-light = Alternar a luz
 
-verb-common-close =  Feche.
+verb-common-close = Feche
 
-verb-common-open =  Abra.
+verb-common-open = Abra
 
-verb-common-close-ui =  Feche a UI.
+verb-common-close-ui = Feche a UI
 
-verb-common-open-ui =  Abra a UI.
+verb-common-open-ui = Abra a UI
 
 verb-common-enter = Entre
 
-verb-common-exit = Sai.
+verb-common-exit = Sai

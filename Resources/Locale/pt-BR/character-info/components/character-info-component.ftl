@@ -1,7 +1,7 @@
 character-info-title = Caráter
 
-character-info-roles-antagonist-text =  Você não tem papéis especiais.
+character-info-roles-antagonist-text = Você não tem papéis especiais
 
 character-info-objectives-label =  Objetivos
 
-character-info-no-profession = Sem profissão.
+character-info-no-profession = Sem profissão

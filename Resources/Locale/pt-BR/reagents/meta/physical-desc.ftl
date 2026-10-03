@@ -1,8 +1,8 @@
-reagent-physical-desc-soapy = - Espumoso.
+reagent-physical-desc-soapy = - Espumoso
 
 reagent-physical-desc-ferrous = ferroso
 
-reagent-physical-desc-nothing =  Nada.
+reagent-physical-desc-nothing = Nada
 
 reagent-physical-desc-acrid = acre
 
@@ -10,7 +10,7 @@ reagent-physical-desc-thick-and-grainy =  espesso e granuloso
 
 reagent-physical-desc-necrotic = Necrótico
 
-reagent-physical-desc-oily = Oleosa.
+reagent-physical-desc-oily = Oleosa
 
 reagent-physical-desc-glowing = Brilhando
 
@@ -40,7 +40,7 @@ reagent-physical-desc-robust =  robusto
 
 reagent-physical-desc-sickly =  doente
 
-reagent-physical-desc-murky =  Escuro.
+reagent-physical-desc-murky = Escuro
 
 reagent-physical-desc-bubbling =  borbulhando
 
@@ -48,7 +48,7 @@ reagent-physical-desc-wormy = Verme
 
 reagent-physical-desc-frosty = gelado
 
-reagent-physical-desc-blazing = Quente.
+reagent-physical-desc-blazing = Quente
 
 reagent-physical-desc-translucent = translúcido
 
@@ -118,7 +118,7 @@ reagent-physical-desc-porous = poroso
 
 reagent-physical-desc-powdery = Poeira
 
-reagent-physical-desc-creamy =  cremoso.
+reagent-physical-desc-creamy = cremoso
 
 reagent-physical-desc-sticky =  pegajoso
 
@@ -150,13 +150,13 @@ reagent-physical-desc-pungent = pungente
 
 reagent-physical-desc-clumpy = grumoso
 
-reagent-physical-desc-odorless = Inodoro.
+reagent-physical-desc-odorless = Inodoro
 
 reagent-physical-desc-gloopy = grudento
 
 reagent-physical-desc-cloudy = nublado
 
-reagent-physical-desc-sweet =  Doce.
+reagent-physical-desc-sweet = Doce
 
 reagent-physical-desc-electric =  Eletricidade
 
@@ -172,7 +172,7 @@ reagent-physical-desc-exotic-smelling = Exotismo cheirando
 
 reagent-physical-desc-energizing = Energizando
 
-reagent-physical-desc-exhilarating = Excitante.
+reagent-physical-desc-exhilarating = Excitante
 
 reagent-physical-desc-vibrant =  vibrante
 
@@ -180,7 +180,7 @@ reagent-physical-desc-inversed = Inversa
 
 reagent-physical-desc-fluffy = Fofo
 
-reagent-physical-desc-funny =  Engraçado.
+reagent-physical-desc-funny = Engraçado
 
 reagent-physical-desc-alkaline = Alcalino
 
@@ -188,11 +188,11 @@ reagent-physical-desc-reflective =  refletor
 
 reagent-physical-desc-holy = Santo
 
-reagent-physical-desc-slimy = Viscoso.
+reagent-physical-desc-slimy = Viscoso
 
 reagent-physical-desc-neural = neural
 
-reagent-physical-desc-unidentifiable =  não identificável.
+reagent-physical-desc-unidentifiable = não identificável
 
 reagent-physical-desc-non-newtonian =  Não-newtonian
 

@@ -16,7 +16,7 @@ cmd-whitelistremove-help = Uso: lista branca: remova <nome de usuário ou ID do 
 
 cmd-whitelistremove-existing = { $username }  Não está na lista branca!
 
-cmd-whitelistremove-removed = { $username } Removido da lista branca.
+cmd-whitelistremove-removed = { $username } Removido da lista branca
 
 cmd-whitelistremove-not-found =  Incapaz de encontrar{ $username }'
 
@@ -40,7 +40,7 @@ ban-banned-3 =  Tentativas de contornar essa proibição, como criar uma nova co
 
 soft-player-cap-full = O servidor está cheio!
 
-panic-bunker-account-denied = Este servidor está em modo de abrigo em pânico, muitas vezes habilitado como precaução contra ataques, novas conexões por contas que não cumprem certos requisitos não são aceitas temporariamente.
+panic-bunker-account-denied = Este servidor está em modo de abrigo em pânico, muitas vezes habilitado como precaução contra ataques, novas conexões por contas que não cumprem certos requisitos não são aceitas temporariamente
 
 panic-bunker-account-denied-reason = Este servidor está em modo de abrigo em pânico, muitas vezes ativado como precaução contra ataques, novas conexões por contas que não cumprem certos requisitos não são aceitas temporariamente, tente novamente depois.{ $reason }"
 
@@ -64,7 +64,7 @@ whitelist-fail-prefix =  Não está na lista. { $msg }
 
 cmd-blacklistadd-desc =  Adiciona o jogador com o nome dado à lista negra do servidor.
 
-cmd-blacklistadd-help = Uso: lista negra, nome de usuário.
+cmd-blacklistadd-help = Uso: lista negra, nome de usuário
 
 cmd-blacklistadd-existing = { $username }  Já está na lista negra!
 
@@ -80,7 +80,7 @@ cmd-blacklistremove-help = Uso: lista negraremove <nome de usuário>
 
 cmd-blacklistremove-existing = { $username }  Não está na lista negra!
 
-cmd-blacklistremove-removed = { $username } Removido da lista negra.
+cmd-blacklistremove-removed = { $username } Removido da lista negra
 
 cmd-blacklistremove-not-found =  Incapaz de encontrar{ $username }'
 

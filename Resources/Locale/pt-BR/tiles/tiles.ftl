@@ -22,7 +22,7 @@ tiles-steel-floor-mono =  Aço mono azulejo
 
 tiles-steel-floor-pavement-vertical =  pavimento vertical de aço
 
-tiles-steel-floor-herringbone = -Arenque de aço.
+tiles-steel-floor-herringbone = -Arenque de aço
 
 tiles-steel-floor-diagonal-mini = Mini-tile diagonal de aço
 
@@ -46,7 +46,7 @@ tiles-white-floor-mini = Mini-tile de aço branco
 
 tiles-white-floor-pavement =  pavimento de aço branco
 
-tiles-white-floor-diagonal =  Aço branco, azulejo diagonal.
+tiles-white-floor-diagonal = Aço branco, azulejo diagonal
 
 tiles-white-floor-offset = Offset azulejo de aço branco
 
@@ -58,7 +58,7 @@ tiles-white-floor-herringbone = piso espinha de peixe de aço branco
 
 tiles-white-floor-diagonal-mini = Mini-tile de aço branco diagonal
 
-tiles-white-floor-slats-continuous =  Aço branco, azulejo contínuo.
+tiles-white-floor-slats-continuous = Aço branco, azulejo contínuo
 
 tiles-white-floor-vertical-slats-bordered =  Aço branco vertical bordado ladrilho slat
 
@@ -72,7 +72,7 @@ tiles-dark-floor-mini = Mini-tile de aço escuro
 
 tiles-dark-floor-pavement =  pavimento de aço escuro
 
-tiles-dark-floor-diagonal =  Aço escuro, azulejo diagonal.
+tiles-dark-floor-diagonal = Aço escuro, azulejo diagonal
 
 tiles-dark-floor-offset = Offset azulejo de aço escuro
 
@@ -94,7 +94,7 @@ tiles-plastic-dark-floor =  azulejo de plástico escuro
 
 tiles-techmaint-floor = -Techmaint Floor
 
-tiles-techmaint-floor-dark =  Andar escuro de tecnologia.
+tiles-techmaint-floor-dark = Andar escuro de tecnologia
 
 tiles-reinforced-floor =  piso reforçado
 
@@ -106,7 +106,7 @@ tiles-linoleum-floor =  Piso de linóleo
 
 tiles-dirty-steel-floor =  Piso sujo de aço
 
-tiles-elevator-shaft = - O elevador está no poço.
+tiles-elevator-shaft = - O elevador está no poço
 
 tiles-diamond-plate-floor =  piso de placa de diamante
 
@@ -128,7 +128,7 @@ tiles-lime-floor = Cal do chão
 
 tiles-hydro-floor =  piso hidrológico
 
-tiles-bar-floor = -Baile de bar.
+tiles-bar-floor = -Baile de bar
 
 tiles-clown-floor = Palhaço, chão
 
@@ -142,7 +142,7 @@ tiles-mime-floor = Mime piso
 
 tiles-kitchen-floor =  piso da cozinha
 
-tiles-laundry-floor = - O chão da lavanderia.
+tiles-laundry-floor = - O chão da lavanderia
 
 tiles-concrete-tile = telha de concreto
 
@@ -174,7 +174,7 @@ tiles-office-carpet-floor =  chão do tapete do escritório
 
 tiles-boxing-ring-floor =  Piso do ringue de boxe
 
-tiles-gym-floor = - Sim.
+tiles-gym-floor = - Sim
 
 tiles-white-shuttle-floor =  Piso branco da nave auxiliar
 
@@ -208,7 +208,7 @@ tiles-red-circuit-floor =  Piso vermelho do circuito
 
 tiles-snow =  neve
 
-tiles-snow-plating = - Prateleira nevada.
+tiles-snow-plating = - Prateleira nevada
 
 tiles-snow-dug =  neve cavada
 
@@ -260,11 +260,11 @@ tiles-low-desert-floor =  Baixo chão do deserto
 
 tiles-grass-planet-floor = Terra de grama
 
-tiles-dirt-planet-floor = Terra da sujeira, chão do planeta.
+tiles-dirt-planet-floor = Terra da sujeira, chão do planeta
 
 tiles-basalt-floor = BASALT FLORES
 
-tiles-snow-floor = - O chão da neve.
+tiles-snow-floor = - O chão da neve
 
 tiles-wood3 = Madeira piso quebrado
 
@@ -298,7 +298,7 @@ tiles-astro-ironsand = Astro-irons e
 
 tiles-astro-ironsand-borderless = Astro-irons sem fronteiras e
 
-tiles-desert-astro-sand = Astro-areia do deserto.
+tiles-desert-astro-sand = Astro-areia do deserto
 
 tiles-wood-large = Madeira grande
 
@@ -306,9 +306,9 @@ tiles-xeno-floor = Xeno chão
 
 tiles-xeno-steel =  Telha de aço xeno
 
-tiles-xeno-steel-corner =  Aço xeno, azulejo de canto.
+tiles-xeno-steel-corner = Aço xeno, azulejo de canto
 
-tiles-xeno-maint = Xeno Techmaint.
+tiles-xeno-maint = Xeno Techmaint
 
 tiles-xenoborg-floor = telha xenoborg
 
@@ -332,6 +332,6 @@ tiles-ironsand-concrete-slab =  Ferros e laje de concreto
 
 tiles-ironsand-concrete-smooth =  Ferros lisos e piso de concreto
 
-tiles-ironsand-packed = Arremessos de ferro e de ferro.
+tiles-ironsand-packed = Arremessos de ferro e de ferro
 
 tiles-ironsand-paved =  Ferros pavimentados e

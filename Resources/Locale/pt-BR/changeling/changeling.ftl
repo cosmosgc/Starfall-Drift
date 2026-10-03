@@ -1,5 +1,5 @@
 # antag selection
-roles-antag-changeling-name = - Mude de roupa.
+roles-antag-changeling-name = - Mude de roupa
 
 roles-antag-changeling-objective = Um predador inteligente que assume as identidades de suas vítimas.
 

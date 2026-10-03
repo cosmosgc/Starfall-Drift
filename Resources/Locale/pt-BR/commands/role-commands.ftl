@@ -14,4 +14,4 @@ cmd-listroles-help = Uso: listroles
 
 cmd-rmrole-desc = Remove um papel da mente de um jogador.
 
-cmd-rmrole-help = Uso: Rmrole <session ID> <Role Type> O tipo de papel é o nome do tipo C# real.
+cmd-rmrole-help = Uso: Rmrole <session ID> <Role Type> O tipo de papel é o nome do tipo C# real

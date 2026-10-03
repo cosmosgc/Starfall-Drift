@@ -6,13 +6,13 @@ permissions-eui-menu-title =  Painel de Permissões
 
 permissions-eui-menu-add-admin-button =  Adicionar administrador
 
-permissions-eui-menu-add-admin-rank-button =  Adicione o posto de administrador.
+permissions-eui-menu-add-admin-rank-button = Adicione o posto de administrador
 
 permissions-eui-menu-save-admin-rank-button =  Salve
 
 permissions-eui-menu-remove-admin-rank-button = Remova
 
-permissions-eui-menu-admins-tab-title =  Administradores.
+permissions-eui-menu-admins-tab-title = Administradores
 
 permissions-eui-menu-admin-ranks-tab-title = Ranks de administração
 
@@ -22,15 +22,15 @@ permissions-eui-edit-admin-window-name-edit-placeholder =  Nome de usuário/ID d
 
 permissions-eui-edit-admin-window-title-edit-placeholder =  Título personalizado, deixe em branco para herdar o título de patente.
 
-permissions-eui-edit-admin-window-no-rank-button = Sem patente.
+permissions-eui-edit-admin-window-no-rank-button = Sem patente
 
-permissions-eui-edit-admin-rank-window-name-edit-placeholder =  Nome da patente.
+permissions-eui-edit-admin-rank-window-name-edit-placeholder = Nome da patente
 
-permissions-eui-edit-admin-title-control-text =  Nenhum.
+permissions-eui-edit-admin-title-control-text = Nenhum
 
 permissions-eui-edit-admin-window-suspended =  Suspenso?
 
-permissions-eui-edit-no-rank-text =  Nenhum.
+permissions-eui-edit-no-rank-text = Nenhum
 
 permissions-eui-edit-title-button =  Editar
 

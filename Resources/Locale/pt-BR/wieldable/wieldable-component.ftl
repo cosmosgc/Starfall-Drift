@@ -1,6 +1,6 @@
-wieldable-verb-text-wield = Wield.
+wieldable-verb-text-wield = Wield
 
-wieldable-verb-text-unwield = Desviou-se.
+wieldable-verb-text-unwield = Desviou-se
 
 wieldable-component-successful-wield =  Você tem { THE($item) }.
 

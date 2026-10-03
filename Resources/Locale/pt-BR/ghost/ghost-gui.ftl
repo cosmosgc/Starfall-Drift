@@ -1,30 +1,30 @@
-ghost-gui-return-to-body-button =  Volte para o corpo.
+ghost-gui-return-to-body-button = Voltar ao Corpo
 
-ghost-gui-ghost-warp-button = Dobra Fantasma
+ghost-gui-ghost-warp-button = Teleporte Fantasma
 
-ghost-gui-ghost-roles-button = Funções Fantasma ({ $count })
+ghost-gui-ghost-roles-button = Funções Fantasma ({$count})
 
 ghost-gui-toggle-ghost-visibility-popup-on = Visibilidade de fantasmas ativada.
 
-ghost-gui-toggle-ghost-visibility-popup-off = Visibilidade desativada de fantasmas.
+ghost-gui-toggle-ghost-visibility-popup-off = Visibilidade de fantasmas desativada.
 
-ghost-gui-toggle-lighting-manager-popup-normal =  Iluminação normal.
+ghost-gui-toggle-lighting-manager-popup-normal = Iluminação normal.
 
 ghost-gui-toggle-lighting-manager-popup-personal-light = Luz pessoal ativada.
 
-ghost-gui-toggle-lighting-manager-popup-fullbright =  Modo completo.
+ghost-gui-toggle-lighting-manager-popup-fullbright = Modo completo.
 
 ghost-gui-toggle-fov-popup = Campo de visão comutado.
 
-ghost-gui-toggle-hearing-popup-on =  Agora você pode ouvir todas as mensagens.
+ghost-gui-toggle-hearing-popup-on = Agora você pode ouvir todas as mensagens.
 
-ghost-gui-toggle-hearing-popup-off =  Agora só pode ouvir rádio e mensagens próximas.
+ghost-gui-toggle-hearing-popup-off = Agora só pode ouvir rádio e mensagens próximas.
 
-ghost-target-window-title = Dobra Fantasma
+ghost-target-window-title = Teleporte Fantasma
 
-ghost-target-window-current-button = Dobra: { $name }
+ghost-target-window-current-button = Teleportar: { $name }
 
-ghost-target-window-warp-to-most-followed = Dobra para os mais seguidos
+ghost-target-window-warp-to-most-followed = Teleportar para o Mais Seguido
 
 ghost-roles-window-title = Funções Fantasma
 
@@ -42,16 +42,16 @@ ghost-roles-window-leave-raffle-button = Sair do sorteio ({ $time } restantes, {
        *[other] { $players } jogadores
     })
 
-ghost-roles-window-request-role-button = Personificar
+ghost-roles-window-request-role-button = Requisitar
 
-ghost-roles-window-request-role-button-timer = Personificando ({ $time }S)
+ghost-roles-window-request-role-button-timer = Requisitar ({ $time }s)
 
 ghost-roles-window-follow-role-button = Seguir
 
-ghost-roles-window-no-roles-available-label = Não há personagens para fantasmas disponíveis.
+ghost-roles-window-no-roles-available-label = Não há funções fantasma disponíveis no momento.
 
-ghost-roles-window-rules-footer = O botão irá ativar depois. { $time }  segundos (este atraso é para ter certeza de ler as regras).
+ghost-roles-window-rules-footer = O botão será habilitado após { $time } segundos (este atraso garante que você leia as regras).
 
-ghost-return-to-body-title = Volte para o corpo.
+ghost-return-to-body-title = Voltar ao Corpo
 
-ghost-return-to-body-text = Você está sendo revivido!
+ghost-return-to-body-text = Você está sendo revivido! Voltar ao seu corpo?

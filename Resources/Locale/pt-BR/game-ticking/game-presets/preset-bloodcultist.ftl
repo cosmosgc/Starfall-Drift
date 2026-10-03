@@ -136,7 +136,7 @@ cult-spell-sleep-dream =  Você sente uma onda esmagadora de sonolência como pe
 
 cult-spell-allied-cultist =  Não pode mirar em um devoto de Nar'Sie!
 
-cult-empowering-rune-not-in-range =  Você não está dentro do alcance da runa de influência.
+cult-empowering-rune-not-in-range = Você não está dentro do alcance da runa de influência
 
 cult-empowering-rune-no-action =  Você não tem a capacidade de preparar feitiços!
 
@@ -255,7 +255,7 @@ cult-ghost-role-desc = Um zeloso culto de sangue de Nar'Sie, reacordado após a 
 
 cult-ghost-role-rules =  Você é um antagonista da equipe, trabalhe com seus colegas Cultistas para alcançar seus objetivos, sacrifique a tripulação que a sua divindade anseia e faça o véu que a une.
 
-cult-roundend-victory = O culto de sangue convocou Nar'Sie e reivindicou o setor em nome dela.
+cult-roundend-victory = O culto de sangue convocou Nar'Sie e reivindicou o setor em nome dela
 
 cult-roundend-failure = O culto de sangue não foi capaz de convocar seu mestre.
 
@@ -307,7 +307,7 @@ cult-summoning-pylon-failed = A convocação do pilão falhou!
 
 cult-rune-clean-verb-text = Runa Limpa
 
-cult-rune-clean-verb-message =  Limpe a runa de culto de sangue com sabão.
+cult-rune-clean-verb-message = Limpe a runa de culto de sangue com sabão
 
 cult-rune-cleaning =  Você começa a limpar a runa...
 

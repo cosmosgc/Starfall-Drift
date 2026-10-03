@@ -1,9 +1,9 @@
 # Funky atmos - /tg/ gases
-reagent-name-bz = Bz.
+reagent-name-bz = Bz
 
 reagent-desc-bz = Um potente alucinógeno que também coloca slimes em estase.
 
-reagent-name-healium = Healium.
+reagent-name-healium = Healium
 
 reagent-desc-healium = Um poderoso agente sonífero com propriedades regenerativas.
 
@@ -23,7 +23,7 @@ reagent-name-proto-nitrate = Proto-nitrato
 
 reagent-desc-proto-nitrate = Um gás muito volátil que reage de forma diferente com vários gases.
 
-reagent-name-zauker = Zauker.
+reagent-name-zauker = Zauker
 
 reagent-desc-zauker = Um gás altamente tóxico, sua produção é altamente regulada além de ser difícil, também se quebra quando em contato com nitrogênio.
 

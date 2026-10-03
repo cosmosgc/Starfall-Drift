@@ -6,9 +6,9 @@ crayon-interact-used-up-text = O { $owner } se cansou.
 
 crayon-interact-invalid-location =  Não consigo chegar lá!
 
-crayon-window-title = Crayon.
+crayon-window-title = Crayon
 
-crayon-window-placeholder =  Procure, ou faça uma lista separada por vírgulas de nomes.
+crayon-window-placeholder = Procure, ou faça uma lista separada por vírgulas de nomes
 
 crayon-category-1-brushes = Pinceles
 

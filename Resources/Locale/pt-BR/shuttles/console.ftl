@@ -6,7 +6,7 @@ shuttle-console-in-ftl = Atualmente em FTL
 
 shuttle-console-mass = Muito grande para FTL
 
-shuttle-console-prevent = Você é incapaz de pilotar esta nave.
+shuttle-console-prevent = Você é incapaz de pilotar esta nave
 
 shuttle-console-display-label = Exibição
 

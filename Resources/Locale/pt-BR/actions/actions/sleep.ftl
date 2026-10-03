@@ -1,4 +1,4 @@
-action-name-wake =  Acorde.
+action-name-wake = Acorde
 
 sleep-onomatopoeia = Zzz...
 

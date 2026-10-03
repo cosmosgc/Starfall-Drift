@@ -10,6 +10,6 @@ lock-comp-has-user-access-fail =  Acesso negado.
 
 lock-comp-generic-fail = { CAPITALIZE(SUBJECT($target)) } { CONJUGATE-BE($target) } Travado.
 
-toggle-lock-verb-unlock = Destranque-se.
+toggle-lock-verb-unlock = Destranque-se
 
-toggle-lock-verb-lock = Trava.
+toggle-lock-verb-lock = Trava

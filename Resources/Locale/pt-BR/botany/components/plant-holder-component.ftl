@@ -36,7 +36,7 @@ plant-holder-component-something-already-growing-low-health-message = A planta p
 
 plant-holder-component-plant-old-adjective =  Velho e murcha
 
-plant-holder-component-plant-unhealthy-adjective = - Não é saudável.
+plant-holder-component-plant-unhealthy-adjective = - Não é saudável
 
 plant-holder-component-dead-plant-matter-message =  Está cheio de [color=red] Matéria vegetal morta[/color].
 

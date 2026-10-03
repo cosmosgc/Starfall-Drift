@@ -16,15 +16,15 @@ cmd-roleban-hint-duration-1 =  Permanente
 
 cmd-roleban-hint-duration-2 = 1 dia
 
-cmd-roleban-hint-duration-3 = 3 dias.
+cmd-roleban-hint-duration-3 = 3 dias
 
 cmd-roleban-hint-duration-4 = 1 semana
 
 cmd-roleban-hint-duration-5 = 2 semanas
 
-cmd-roleban-hint-duration-6 = 1 mês.
+cmd-roleban-hint-duration-6 = 1 mês
 
-cmd-roleunban-desc =  Perdoe a proibição de um jogador.
+cmd-roleunban-desc = Perdoe a proibição de um jogador
 
 cmd-roleunban-help = Uso: roleunban <role ban id>
 

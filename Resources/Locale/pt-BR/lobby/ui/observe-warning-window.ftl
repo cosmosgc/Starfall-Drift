@@ -1,6 +1,6 @@
-observe-nevermind =  Esqueça.
+observe-nevermind = Esqueça
 
-observe-confirm = Observe.
+observe-confirm = Observe
 
 observe-warning-1 =  Tem certeza que quer observar?
 

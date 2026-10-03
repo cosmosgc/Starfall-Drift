@@ -1,4 +1,4 @@
-feedbackpopup-window-name =  Pedido de feedback.
+feedbackpopup-window-name = Pedido de feedback
 
 feedbackpopup-control-button-text =  Abra o Link
 
@@ -8,7 +8,7 @@ feedbackpopup-control-total-surveys =
        *[other] { $num }  entradas
     }
 
-feedbackpopup-control-no-entries =  Nenhuma entrada.
+feedbackpopup-control-no-entries = Nenhuma entrada
 
 feedbackpopup-control-ui-footer =  Deixe-nos saber o que você pensa!
 

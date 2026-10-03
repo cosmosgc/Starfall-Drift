@@ -4,4 +4,4 @@ administration-ui-round-tab-end-round =  Fim da Rodada
 
 administration-ui-round-tab-restart-round = Recomeçar a ronda
 
-administration-ui-round-tab-restart-round-now = Reinicie agora.
+administration-ui-round-tab-restart-round-now = Reinicie agora

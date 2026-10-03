@@ -4,7 +4,7 @@ delivery-already-opened-examine =  Já estava aberta.
 
 delivery-earnings-examine =  Entregar isso vai ganhar a estação. [color=yellow]{ $spesos }[/color] Spesos.
 
-delivery-recipient-no-name = Sem nome.
+delivery-recipient-no-name = Sem nome
 
 delivery-recipient-no-job =  Desconhecido
 
@@ -16,9 +16,9 @@ delivery-unlocked-others = { CAPITALIZE($recipient) } Destrancado o { $delivery 
 
 delivery-opened-others = { CAPITALIZE($recipient) }  Abriu o { $delivery }.
 
-delivery-unlock-verb = Destranque-se.
+delivery-unlock-verb = Destranque-se
 
-delivery-open-verb =  Abra.
+delivery-open-verb = Abra
 
 delivery-slice-verb = Corte aberto
 
@@ -30,7 +30,7 @@ delivery-teleporter-amount-examine =
 
 delivery-teleporter-empty = O { $entity }  Está vazio.
 
-delivery-teleporter-empty-verb =  Leve o correio.
+delivery-teleporter-empty-verb = Leve o correio
 
 # modifiers
 delivery-priority-examine =  Isso é um... [color=orange]Prioridade { $type }[/color] Você tem [color=orange]{ $time }[/color]  Foi para entregá-lo para obter um bônus.

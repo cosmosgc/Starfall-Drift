@@ -2,7 +2,7 @@ station-beacon-general =  Geral
 
 station-beacon-command =  Comando
 
-station-beacon-bridge = Ponte.
+station-beacon-bridge = Ponte
 
 station-beacon-vault = Cofre
 
@@ -82,7 +82,7 @@ station-beacon-ce = CE
 
 station-beacon-ame = AME
 
-station-beacon-solars = Solares.
+station-beacon-solars = Solares
 
 station-beacon-solars-N = Solares N
 

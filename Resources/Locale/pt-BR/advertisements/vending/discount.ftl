@@ -16,7 +16,7 @@ advertisement-discount-8 = O desconto Dan não é responsável por danos causado
 
 advertisement-discount-9 =  Oferecemos uma grande variedade de lanches baratos!
 
-thankyou-discount-1 =  Obrigado por me dar um beijo.
+thankyou-discount-1 = Obrigado por me dar um beijo
 
 thankyou-discount-2 =  Lembre-se: sem reembolso!
 

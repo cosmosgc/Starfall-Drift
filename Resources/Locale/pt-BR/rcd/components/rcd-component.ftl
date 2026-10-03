@@ -8,11 +8,11 @@ rcd-component-change-mode = O RCD está pronto para '{ $mode }'modo.
 rcd-component-change-build-mode = O RCD está pronto para construir { MAKEPLURAL($name) }.
 
 # RPD mode change
-rcd-rpd-mode-primary = Primário.
+rcd-rpd-mode-primary = Primário
 
 rcd-rpd-mode-secondary = Secundário
 
-rcd-rpd-mode-tertiary = Terciário.
+rcd-rpd-mode-tertiary = Terciário
 
 rcd-rpd-mode-free =  Livre
 
@@ -59,9 +59,9 @@ rcd-component-windows-and-grilles =  Janelas e grades
 
 rcd-component-airlocks = Encaixe de ar
 
-rcd-component-electrical = Elétrico.
+rcd-component-electrical = Elétrico
 
-rcd-component-lighting =  Iluminação.
+rcd-component-lighting = Iluminação
 
 rcd-component-piping = Pipe
 

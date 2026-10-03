@@ -19,11 +19,11 @@ admin-verbs-freeze-and-mute = Congelar e silenciar
 
 admin-verbs-unfreeze = Descongelar
 
-admin-verbs-camera =  Abra a câmera.
+admin-verbs-camera = Abra a câmera
 
 admin-verbs-camera-description =  Abra uma janela de câmera que segue a entidade selecionada.
 
-admin-verbs-erase = Apaga.
+admin-verbs-erase = Apaga
 
 admin-verbs-erase-description = Remove o jogador da rodada e do manifesto da tripulação e apaga suas mensagens de chat. Seus itens são largados no chão. Jogadores veem um popup indicando para jogar como se nunca tivessem existido.
 
@@ -36,7 +36,7 @@ export-entity-verb-get-data-text = Exportar a imagem
 # Tools verbs
 admin-verbs-rejuvenate = Rejuvenescer
 
-admin-verbs-make-indestructible =  Tornar indestrutível.
+admin-verbs-make-indestructible = Tornar indestrutível
 
 admin-verbs-make-vulnerable =  Tornar Vulnerável
 
@@ -54,7 +54,7 @@ admin-verbs-refill-internals-nitrogen = Reenchendo os internos Nitrogênio
 
 admin-verbs-refill-internals-plasma = Reenchendo o plasma interno
 
-admin-verbs-send-to-test-arena =  Envie para a arena de testes.
+admin-verbs-send-to-test-arena = Envie para a arena de testes
 
 admin-verbs-grant-all-access =  Conceda acesso total
 
@@ -82,18 +82,18 @@ admin-verbs-pause-map = Pausar o mapa
 
 admin-verbs-snap-joints = Snap Joints
 
-admin-verbs-make-minigun =  Faça Minigun.
+admin-verbs-make-minigun = Faça Minigun
 
-admin-verbs-set-bullet-amount =  Coloque a quantidade de bala.
+admin-verbs-set-bullet-amount = Coloque a quantidade de bala
 
 # Toggles verbs
-admin-verbs-bolt = Bolt.
+admin-verbs-bolt = Bolt
 
-admin-verbs-unbolt = Desenrosque-se.
+admin-verbs-unbolt = Desenrosque-se
 
 admin-verbs-emergency-access-on =  Acesso de Emergência ligado
 
-admin-verbs-emergency-access-off =  Acesso de emergência desligado.
+admin-verbs-emergency-access-off = Acesso de emergência desligado
 
 # Dialogs verbs
 admin-verbs-dialog-adjust-stack-amount =  Quantidade (máx. { $max })
@@ -108,6 +108,6 @@ admin-verbs-dialog-redescribe-description =  Descrição
 
 admin-verbs-dialog-rename-and-redescribe-title = Renomear e redescrever
 
-admin-verbs-dialog-set-bullet-amount-title =  Coloque a quantidade de bala.
+admin-verbs-dialog-set-bullet-amount-title = Coloque a quantidade de bala
 
 admin-verbs-dialog-set-bullet-amount-amount =  Quantidade (padrão) { $cap })

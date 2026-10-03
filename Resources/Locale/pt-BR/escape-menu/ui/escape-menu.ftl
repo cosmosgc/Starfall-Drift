@@ -10,6 +10,6 @@ ui-escape-wiki = Wiki
 
 ui-escape-disconnect = Desconectar
 
-ui-escape-quit =  Saia.
+ui-escape-quit = Saia
 
 ui-escape-feedback = Feedback

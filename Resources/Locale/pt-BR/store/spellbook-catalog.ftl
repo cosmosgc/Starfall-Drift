@@ -1,9 +1,9 @@
 # Spells
-spellbook-fireball-name = Bola de Fogo.
+spellbook-fireball-name = Bola de Fogo
 
 spellbook-fireball-desc = A maioria da tripulação explode de raiva quando vêem esta bola de fogo indo em direção a eles!
 
-spellbook-blink-name = Pisque.
+spellbook-blink-name = Pisque
 
 spellbook-blink-desc =  Não pisque ou vai sentir falta de se teletransportar.
 
@@ -11,7 +11,7 @@ spellbook-voidapplause-name = Aplausos desprezíveis
 
 spellbook-voidapplause-desc =  Trocar de lugar com o alvo, não te faz querer dançar?
 
-spellbook-knock-name =  Bata.
+spellbook-knock-name = Bata
 
 spellbook-knock-desc =  Abre todas as comportas, caixas e armários nas proximidades.
 
@@ -23,7 +23,7 @@ spellbook-repulse-name = Repulsa
 
 spellbook-repulse-desc =  Diga às pessoas para se afastarem de você.
 
-spellbook-smoke-name = Fumaça.
+spellbook-smoke-name = Fumaça
 
 spellbook-smoke-desc =  Chama uma nuvem de fumaça, é bem óbvio.
 
@@ -104,7 +104,7 @@ spellbook-event-summon-magic-name = Invoque a Magia
 spellbook-event-summon-magic-description =  Coloca um item mágico na frente de todos, nada pode dar errado, desativa os reembolsos quando comprados.
 
 # Upgrades
-spellbook-upgrade-fireball-name = Atualize a bola de fogo.
+spellbook-upgrade-fireball-name = Atualize a bola de fogo
 
 spellbook-upgrade-fireball-description =  Aumenta a bola de fogo para um nível máximo de 3!
 

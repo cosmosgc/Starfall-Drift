@@ -1,4 +1,4 @@
-spill-target-verb-get-data-text = Desembucha.
+spill-target-verb-get-data-text = Desembucha
 
 spill-target-verb-activate-cannot-drain-message =  Você não pode derramar nada de { $owner }!
 

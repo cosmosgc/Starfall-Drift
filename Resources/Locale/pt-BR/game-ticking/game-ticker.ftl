@@ -51,7 +51,7 @@ latejoin-arrival-announcement = { $character } ({ $job }) chegou à estação.
 
 latejoin-arrival-announcement-special = { $job } { $character } No convés!
 
-latejoin-arrival-sender =  Estação.
+latejoin-arrival-sender = Estação
 
 latejoin-arrivals-direction =  Uma nave te transferindo para sua estação chegará em breve.
 

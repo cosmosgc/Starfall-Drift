@@ -1,5 +1,5 @@
 # Displayed as initiator of vote when no user creates the vote
-ui-vote-initiator-server = O servidor.
+ui-vote-initiator-server = O servidor
 
 ui-vote-restart-title = Recomeçar a ronda
 
@@ -9,13 +9,13 @@ ui-vote-restart-failed = Recomeçar o voto falhou (necessidade { TOSTRING($ratio
 
 ui-vote-restart-fail-not-enough-ghost-players = O voto de reinício falhou, um mínimo de { $ghostPlayerRequirement } Os jogadores fantasmas são obrigados a iniciar um voto de reinício.
 
-ui-vote-restart-yes = Sim.
+ui-vote-restart-yes = Sim
 
-ui-vote-restart-no =  Não.
+ui-vote-restart-no = Não
 
 ui-vote-restart-abstain =  Abstenção
 
-ui-vote-gamemode-title =  Próximo jogo.
+ui-vote-gamemode-title = Próximo jogo
 
 ui-vote-gamemode-tie = Empatar para o voto do gamemode! { $picked }
 
@@ -34,15 +34,15 @@ ui-vote-map-notlobby-time = Votar em mapas só é válido no saguão pré-round 
 ui-vote-map-invalid = { $winner }  Não será selecionado!
 
 # Votekick votes
-ui-vote-votekick-unknown-initiator = Um jogador.
+ui-vote-votekick-unknown-initiator = Um jogador
 
 ui-vote-votekick-unknown-target =  Jogador Desconhecido
 
 ui-vote-votekick-title = { $initiator }  chamou um eleitor para usuário: { $targetEntity } Razão: { $reason }
 
-ui-vote-votekick-yes = Sim.
+ui-vote-votekick-yes = Sim
 
-ui-vote-votekick-no =  Não.
+ui-vote-votekick-no = Não
 
 ui-vote-votekick-abstain =  Abstenção
 

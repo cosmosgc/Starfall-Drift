@@ -1,5 +1,5 @@
 # Blocking examines
-blocking-examinable-verb-text =  Proteção.
+blocking-examinable-verb-text = Proteção
 
 blocking-examinable-verb-message =  Examine os valores de proteção.
 

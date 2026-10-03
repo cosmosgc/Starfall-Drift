@@ -86,11 +86,11 @@ guide-entry-gasses = Gases
 
 guide-entry-botany = Botânica
 
-guide-entry-shuttle-craft =  Nave de transporte.
+guide-entry-shuttle-craft = Nave de transporte
 
 guide-entry-networking =  Rede
 
-guide-entry-access-configurator = Acesse o Configurador.
+guide-entry-access-configurator = Acesse o Configurador
 
 guide-entry-power =  Poder
 
@@ -132,7 +132,7 @@ guide-entry-survival =  Sobrevivência
 
 guide-entry-janitorial = Janitorial
 
-guide-entry-bartender = Barman.
+guide-entry-bartender = Barman
 
 guide-entry-chef = Chef
 
@@ -140,7 +140,7 @@ guide-entry-medical =  Médico
 
 guide-entry-medicaldoctor =  Médico
 
-guide-entry-chemist = Chemist.
+guide-entry-chemist = Chemist
 
 guide-entry-brute = Medicação Bruta Avançada
 
@@ -174,11 +174,11 @@ guide-entry-machine-upgrading =  Máquina de atualização
 
 guide-entry-robotics = Robótica
 
-guide-entry-cyborgs = Cyborgs.
+guide-entry-cyborgs = Cyborgs
 
-guide-entry-security =  Segurança.
+guide-entry-security = Segurança
 
-guide-entry-forensics = Forense.
+guide-entry-forensics = Forense
 
 guide-entry-defusal = Grande Defusação de Bombas
 
@@ -202,9 +202,9 @@ guide-entry-radio =  Rádio e Discurso
 
 guide-entry-references =  Tabelas e referências
 
-guide-entry-chemicals =  Produtos químicos.
+guide-entry-chemicals = Produtos químicos
 
-guide-entry-drinks =  Bebidas.
+guide-entry-drinks = Bebidas
 
 guide-entry-foodrecipes =  Receitas de comida
 
@@ -212,7 +212,7 @@ guide-entry-elements =  Elementos
 
 guide-entry-medicine = Medicina
 
-guide-entry-narcotics = Narcóticos.
+guide-entry-narcotics = Narcóticos
 
 guide-entry-pyrotechnics = Pirotecnia
 
@@ -220,19 +220,19 @@ guide-entry-toxins = Toxinas
 
 guide-entry-foods =  Comidas
 
-guide-entry-biological = Biológica.
+guide-entry-biological = Biológica
 
 guide-entry-botanical = Botânico
 
-guide-entry-special =  Especial.
+guide-entry-special = Especial
 
 guide-entry-others =  Outros
 
-guide-entry-pizza-recipes = Pizzas.
+guide-entry-pizza-recipes = Pizzas
 
 guide-entry-savory-recipes =  Comidas Saborosas
 
-guide-entry-bread-recipes = Pão.
+guide-entry-bread-recipes = Pão
 
 guide-entry-breakfast-recipes =  Comidas de café da manhã
 
@@ -250,9 +250,9 @@ guide-entry-barsandcookies-recipes = Barras e biscoitos
 
 guide-entry-cake-recipes = Bolos
 
-guide-entry-salad-recipes = Saladas.
+guide-entry-salad-recipes = Saladas
 
-guide-entry-medicinal-recipes = Medicinal.
+guide-entry-medicinal-recipes = Medicinal
 
 guide-entry-other-recipes =  Outro
 
@@ -264,9 +264,9 @@ guide-entry-antagonists = Antagonistas
 
 guide-entry-nuclear-operatives =  Agentes Nucleares
 
-guide-entry-traitors = Traidores.
+guide-entry-traitors = Traidores
 
-guide-entry-zombies = Zumbis.
+guide-entry-zombies = Zumbis
 
 guide-entry-revolutionaries = Revolucionários
 
@@ -276,13 +276,13 @@ guide-entry-space-ninja = Ninja do Espaço
 
 guide-entry-thieves = Ladrões
 
-guide-entry-wizard = Feiticeiro.
+guide-entry-wizard = Feiticeiro
 
-guide-entry-xenoborgs = Xenoborgs.
+guide-entry-xenoborgs = Xenoborgs
 
 guide-entry-rules =  Regras do servidor
 
-guide-entry-rules-core-only =  Só o núcleo das regras.
+guide-entry-rules-core-only = Só o núcleo das regras
 
 guide-entry-rules-lrp =  Regras padrão
 

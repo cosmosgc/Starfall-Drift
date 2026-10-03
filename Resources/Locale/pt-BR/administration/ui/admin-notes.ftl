@@ -1,8 +1,8 @@
 admin-notes-title =  Notas para { $player }
 
-admin-notes-new-note = Nova nota.
+admin-notes-new-note = Nova nota
 
-admin-notes-show-more =  Mostre mais.
+admin-notes-show-more = Mostre mais
 
 admin-notes-for =  Nota para: { $player }
 
@@ -14,13 +14,13 @@ admin-notes-severity = Severidade: { $severity }
 
 admin-notes-secret =  Segredo
 
-admin-notes-notsecret =  Não é segredo.
+admin-notes-notsecret = Não é segredo
 
 admin-notes-expires = Expira em: { $expires }
 
-admin-notes-expires-never =  Não expira.
+admin-notes-expires-never = Não expira
 
-admin-notes-edited-never =  Nunca.
+admin-notes-edited-never = Nunca
 
 admin-notes-round-id = Id Redonda: { $id }
 
@@ -38,7 +38,7 @@ admin-notes-edit =  Editar
 
 admin-notes-delete =  Apagar
 
-admin-notes-hide =  Esconda-se.
+admin-notes-hide = Esconda-se
 
 admin-notes-delete-confirm =  Confirmar deletar
 
@@ -55,9 +55,9 @@ admin-notes-message-admin = De [bold]{ $admin }[/bold], escrito em { TOSTRING($d
 
 admin-notes-message-wait = O botão de aceitação será ativado depois. { $time }  segundos.
 
-admin-notes-message-accept = Demitir permanentemente.
+admin-notes-message-accept = Demitir permanentemente
 
-admin-notes-message-dismiss = Deem licença por enquanto.
+admin-notes-message-dismiss = Deem licença por enquanto
 
 admin-notes-message-seen =  Viu?
 
@@ -78,11 +78,11 @@ admin-note-editor-title-new =  Criando uma nova nota para { $player }
 
 admin-note-editor-title-existing = Editando nota { $id } "Continue" { $player } Por { $author }
 
-admin-note-editor-pop-out =  Saia.
+admin-note-editor-pop-out = Saia
 
 admin-note-editor-secret =  Segredo?
 
-admin-note-editor-secret-tooltip =  Verificando isso, a nota não será visível pelo jogador.
+admin-note-editor-secret-tooltip = Verificando isso, a nota não será visível pelo jogador
 
 admin-note-editor-type-note =  Nota
 
@@ -96,17 +96,17 @@ admin-note-editor-type-role-ban = Proibição de papéis
 
 admin-note-editor-severity-select =  Selecionar
 
-admin-note-editor-severity-none =  Nenhum.
+admin-note-editor-severity-none = Nenhum
 
-admin-note-editor-severity-low =  Baixo.
+admin-note-editor-severity-low = Baixo
 
-admin-note-editor-severity-medium =  Médio.
+admin-note-editor-severity-medium = Médio
 
-admin-note-editor-severity-high = Alto.
+admin-note-editor-severity-high = Alto
 
 admin-note-editor-expiry-checkbox =  Permanente?
 
-admin-note-editor-expiry-checkbox-tooltip =  Verifique isso para que expire.
+admin-note-editor-expiry-checkbox-tooltip = Verifique isso para que expire
 
 admin-note-editor-expiry-label = Expira em:
 
@@ -129,7 +129,7 @@ admin-note-button-days =  Dias
 
 admin-note-button-weeks =  Semanas
 
-admin-note-button-months = Meses.
+admin-note-button-months = Meses
 
 admin-note-button-years = Anos
 
@@ -146,9 +146,9 @@ admin-notes-new-message =  Você recebeu uma mensagem de administração de { $a
 admin-notes-fallback-admin-name = [System]
 
 # Admin remarks
-admin-remarks-command-description =  Abre a página de comentários do administrador.
+admin-remarks-command-description = Abre a página de comentários do administrador
 
-admin-remarks-command-error = As observações da administração foram desativadas.
+admin-remarks-command-error = As observações da administração foram desativadas
 
 admin-remarks-title =  Observações da administração
 

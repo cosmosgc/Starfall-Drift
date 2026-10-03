@@ -71,7 +71,7 @@ marking-VulpSnoutNose-snout-nose = Nariz
 
 marking-VulpSnoutNose = Nariz Vulpkanin
 
-marking-VulpSnoutVulpine-vulpine =  Vulpine.
+marking-VulpSnoutVulpine-vulpine = Vulpine
 
 marking-VulpSnoutVulpine =  Vulpkanin Vulpine
 
@@ -193,13 +193,13 @@ marking-VulpPointsCrestArmRight =  Crest (Braço direito)
 
 marking-VulpPointsCrestHandRight =  Crest (Mão direita)
 
-marking-VulpPointsCrestArmLeft-crest-arm-l =  Crest.
+marking-VulpPointsCrestArmLeft-crest-arm-l = Crest
 
-marking-VulpPointsCrestHandLeft-crest-hand-l =  Crest.
+marking-VulpPointsCrestHandLeft-crest-hand-l = Crest
 
-marking-VulpPointsCrestArmRight-crest-arm-r =  Crest.
+marking-VulpPointsCrestArmRight-crest-arm-r = Crest
 
-marking-VulpPointsCrestHandRight-crest-hand-r =  Crest.
+marking-VulpPointsCrestHandRight-crest-hand-r = Crest
 
 marking-VulpPointsFadeArmLeft = Desvanecer (Braço esquerdo)
 
@@ -209,13 +209,13 @@ marking-VulpPointsFadeArmRight = Desvanecer (Braço direito)
 
 marking-VulpPointsFadeHandRight = Desvanecer (Mão Direita)
 
-marking-VulpPointsFadeArmLeft-points_fade-arm-l =  Desapareça.
+marking-VulpPointsFadeArmLeft-points_fade-arm-l = Desapareça
 
-marking-VulpPointsFadeHandLeft-points_fade-hand-l =  Desapareça.
+marking-VulpPointsFadeHandLeft-points_fade-hand-l = Desapareça
 
-marking-VulpPointsFadeArmRight-points_fade-arm-r =  Desapareça.
+marking-VulpPointsFadeArmRight-points_fade-arm-r = Desapareça
 
-marking-VulpPointsFadeHandRight-points_fade-hand-r =  Desapareça.
+marking-VulpPointsFadeHandRight-points_fade-hand-r = Desapareça
 
 marking-VulpPointsSharpArmLeft = Afiado (Braço esquerdo)
 
@@ -223,23 +223,23 @@ marking-VulpPointsSharpLongArmLeft = Longo (Braço esquerdo)
 
 marking-VulpPointsSharpHandLeft = Afiado (Mão esquerda)
 
-marking-VulpPointsSharpArmRight = -Afiado.
+marking-VulpPointsSharpArmRight = -Afiado
 
 marking-VulpPointsSharpLongArmRight = Longo (Braço direito)
 
 marking-VulpPointsSharpHandRight = Afiado (Mão direita)
 
-marking-VulpPointsSharpArmLeft-points_sharp-arm-l = Em ponto.
+marking-VulpPointsSharpArmLeft-points_sharp-arm-l = Em ponto
 
-marking-VulpPointsSharpLongArmLeft-points_sharp-arm-long-l = Longo.
+marking-VulpPointsSharpLongArmLeft-points_sharp-arm-long-l = Longo
 
-marking-VulpPointsSharpHandLeft-points_sharp-hand-l = Em ponto.
+marking-VulpPointsSharpHandLeft-points_sharp-hand-l = Em ponto
 
-marking-VulpPointsSharpArmRight-points_sharp-arm-r = Em ponto.
+marking-VulpPointsSharpArmRight-points_sharp-arm-r = Em ponto
 
-marking-VulpPointsSharpLongArmRight-points_sharp-arm-long-r = Longo.
+marking-VulpPointsSharpLongArmRight-points_sharp-arm-long-r = Longo
 
-marking-VulpPointsSharpHandRight-points_sharp-hand-r = Em ponto.
+marking-VulpPointsSharpHandRight-points_sharp-hand-r = Em ponto
 
 marking-VulpClawsFootLeft = Garras (Pedra esquerda)
 
@@ -257,13 +257,13 @@ marking-VulpPointsCrestLegRight =  Crest (Perna Direita)
 
 marking-VulpPointsCrestFootRight =  Crest (Petro direito)
 
-marking-VulpPointsCrestLegLeft-crest-leg-l =  Crest.
+marking-VulpPointsCrestLegLeft-crest-leg-l = Crest
 
-marking-VulpPointsCrestFootLeft-crest-foot-l =  Crest.
+marking-VulpPointsCrestFootLeft-crest-foot-l = Crest
 
-marking-VulpPointsCrestLegRight-crest-leg-r =  Crest.
+marking-VulpPointsCrestLegRight-crest-leg-r = Crest
 
-marking-VulpPointsCrestFootRight-crest-foot-r =  Crest.
+marking-VulpPointsCrestFootRight-crest-foot-r = Crest
 
 marking-VulpPointsFadeLegLeft = Desvanecer (Perna esquerda)
 
@@ -273,13 +273,13 @@ marking-VulpPointsFadeLegRight = "Desaparecer" (Perna Direita)
 
 marking-VulpPointsFadeFootRight = Desvanecer (Petro direito)
 
-marking-VulpPointsFadeLegLeft-points_fade-leg-l =  Desapareça.
+marking-VulpPointsFadeLegLeft-points_fade-leg-l = Desapareça
 
-marking-VulpPointsFadeFootLeft-points_fade-foot-l =  Desapareça.
+marking-VulpPointsFadeFootLeft-points_fade-foot-l = Desapareça
 
-marking-VulpPointsFadeLegRight-points_fade-leg-r =  Desapareça.
+marking-VulpPointsFadeLegRight-points_fade-leg-r = Desapareça
 
-marking-VulpPointsFadeFootRight-points_fade-foot-r =  Desapareça.
+marking-VulpPointsFadeFootRight-points_fade-foot-r = Desapareça
 
 marking-VulpPointsSharpLegLeft = Afiado (Perna esquerda)
 
@@ -287,64 +287,64 @@ marking-VulpPointsSharpFootLeft = Afiado (pé esquerdo)
 
 marking-VulpPointsSharpLegRight = Afiado (Perna direita)
 
-marking-VulpPointsSharpFootRight = -Afiado.
+marking-VulpPointsSharpFootRight = -Afiado
 
-marking-VulpPointsSharpLegLeft-points_sharp-leg-l = Em ponto.
+marking-VulpPointsSharpLegLeft-points_sharp-leg-l = Em ponto
 
-marking-VulpPointsSharpFootLeft-points_sharp-foot-l = Em ponto.
+marking-VulpPointsSharpFootLeft-points_sharp-foot-l = Em ponto
 
-marking-VulpPointsSharpLegRight-points_sharp-leg-r = Em ponto.
+marking-VulpPointsSharpLegRight-points_sharp-leg-r = Em ponto
 
-marking-VulpPointsSharpFootRight-points_sharp-foot-r = Em ponto.
+marking-VulpPointsSharpFootRight-points_sharp-foot-r = Em ponto
 
-marking-VulpHairAdhara = Adhara.
+marking-VulpHairAdhara = Adhara
 
-marking-VulpHairAnita = Anita.
+marking-VulpHairAnita = Anita
 
 marking-VulpHairApollo = Apolo
 
-marking-VulpHairBelle =  Bela.
+marking-VulpHairBelle = Bela
 
 marking-VulpHairBraided =  Cabelo Travado
 
-marking-VulpHairBun = Bun.
+marking-VulpHairBun = Bun
 
 marking-VulpHairCleanCut = Corte limpo
 
 marking-VulpHairCurl = Curl
 
-marking-VulpHairHawk = Falcão.
+marking-VulpHairHawk = Falcão
 
-marking-VulpHairJagged = - Escorregado.
+marking-VulpHairJagged = - Escorregado
 
-marking-VulpHairJeremy = Jeremy.
+marking-VulpHairJeremy = Jeremy
 
-marking-VulpHairKajam = Kajam.
+marking-VulpHairKajam = Kajam
 
-marking-VulpHairKeid = Keid.
+marking-VulpHairKeid = Keid
 
-marking-VulpHairKleeia = Kleeia.
+marking-VulpHairKleeia = Kleeia
 
-marking-VulpHairMizar = Mizar.
+marking-VulpHairMizar = Mizar
 
 marking-VulpHairPunkBraided = Punk Braided
 
-marking-VulpHairRaine = Raine.
+marking-VulpHairRaine = Raine
 
-marking-VulpHairRough = - É difícil.
+marking-VulpHairRough = - É difícil
 
-marking-VulpHairShort =  Cabelo curto.
+marking-VulpHairShort = Cabelo curto
 
 marking-VulpHairShort2 =  Cabelo curto 2
 
-marking-VulpHairSpike = Spike.
+marking-VulpHairSpike = Spike
 
 marking-VulpFacialHairRuff = Ruff
 
-marking-VulpFacialHairElder = Elder.
+marking-VulpFacialHairElder = Elder
 
-marking-VulpFacialHairElderChin = Elder Chin.
+marking-VulpFacialHairElderChin = Elder Chin
 
-marking-VulpFacialHairKita = Kita.
+marking-VulpFacialHairKita = Kita
 
 marking-VulpFacialHairGoatee = Barba (Snout Goatee)

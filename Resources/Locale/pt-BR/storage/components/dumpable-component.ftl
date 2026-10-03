@@ -1,4 +1,4 @@
-dump-verb-name = Despeje no chão.
+dump-verb-name = Despeje no chão
 
 dump-disposal-verb-name = Descarte em { $unit }
 

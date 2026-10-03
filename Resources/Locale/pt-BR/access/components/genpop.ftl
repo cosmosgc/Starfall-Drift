@@ -31,10 +31,10 @@ genpop-locker-ui-label-sentence = [bold] Comprimento da sentença em minutos:[/b
 
 genpop-locker-ui-label-crime = [bold]Crime:[/bold]
 
-genpop-locket-ui-button-done =  Feito.
+genpop-locket-ui-button-done = Feito
 
 genpop-locker-action-end-early =  Fim da sentença cedo
 
-genpop-locker-action-clear-id = Identifique-se.
+genpop-locker-action-clear-id = Identifique-se
 
-genpop-locker-action-reset-sentence = Reinicie a sentença.{ NATURALFIXED($percent, 0) }- Sim.
+genpop-locker-action-reset-sentence = Reinicie a sentença.{ NATURALFIXED($percent, 0) }- Sim

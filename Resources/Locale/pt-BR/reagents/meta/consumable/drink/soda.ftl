@@ -10,7 +10,7 @@ reagent-name-changeling-sting = Picada de Metamorfo
 
 reagent-desc-changeling-sting =  Você toma um gole e sente uma sensação de queimação...
 
-reagent-name-dr-gibb = Dr. Gibb.
+reagent-name-dr-gibb = Dr. Gibb
 
 reagent-desc-dr-gibb =  Uma deliciosa mistura de 42 sabores diferentes.
 
@@ -50,7 +50,7 @@ reagent-name-sol-dry = Sol Seco
 
 reagent-desc-sol-dry =  Doce refrigerante de gengibre do espaço!
 
-reagent-name-roy-rogers = Roy Rogers.
+reagent-name-roy-rogers = Roy Rogers
 
 reagent-desc-roy-rogers =  Prova sólida de que há algo conhecido como doce demais.
 
@@ -62,7 +62,7 @@ reagent-name-space-up =  Espaço-Up
 
 reagent-desc-space-up =  Tem gosto de quebra de casco na boca.
 
-reagent-name-starkist = Starkista.
+reagent-name-starkist = Starkista
 
 reagent-desc-starkist = Um refrigerante doce e com sabor laranja.
 

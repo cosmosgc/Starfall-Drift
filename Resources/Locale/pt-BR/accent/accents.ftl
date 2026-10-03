@@ -201,7 +201,7 @@ accent-words-nymph-4 = Chrrup!
 # TomatoKiller
 accent-words-tomato-1 = Totato!
 
-accent-words-tomato-2 = Trotect.
+accent-words-tomato-2 = Trotect
 
 accent-words-tomato-3 = Mastet?
 

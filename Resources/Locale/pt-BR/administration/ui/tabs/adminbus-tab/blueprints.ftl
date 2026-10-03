@@ -4,7 +4,7 @@ admin-ui-blueprint-path =  Caminho
 
 admin-ui-blueprint-x = X
 
-admin-ui-blueprint-y = Y.
+admin-ui-blueprint-y = Y
 
 admin-ui-blueprint-rotation = Rotação
 

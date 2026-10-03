@@ -1,4 +1,4 @@
-stethoscope-verb =  Ouça com estetoscópio.
+stethoscope-verb = Ouça com estetoscópio
 
 stethoscope-nothing =  Você não ouve nada.
 

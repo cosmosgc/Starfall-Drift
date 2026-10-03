@@ -6,13 +6,13 @@ borg-slot-circuitboards-empty =  Circuitos
 
 borg-slot-flatpacks-empty =  Pacotes de flat
 
-borg-slot-tiles-empty = - Assoalhos.
+borg-slot-tiles-empty = - Assoalhos
 
 borg-slot-topicals-empty =  Tópicos
 
-borg-slot-injector-dropper-empty = Injetores de precisão.
+borg-slot-injector-dropper-empty = Injetores de precisão
 
-borg-slot-small-containers-empty =  Pequenos contêineres.
+borg-slot-small-containers-empty = Pequenos contêineres
 
 borg-slot-chemical-containers-empty = Recipientes químicos
 
@@ -28,10 +28,10 @@ borg-slot-brains-empty = Cérebros e MMIs
 
 borg-slot-modules-empty =  Módulos
 
-borg-slot-powercell-empty = Powercells.
+borg-slot-powercell-empty = Powercells
 
 borg-slot-inflatable-door-empty =  Porta inflável
 
 borg-slot-inflatable-wall-empty = Muro inflável
 
-borg-slot-fuel-empty =  Espaço de combustível.
+borg-slot-fuel-empty = Espaço de combustível

@@ -8,7 +8,7 @@ humanoid-profile-editor-roles-tab =  Papel
 # Unavailable text
 starfall-roles-unavailable-label = Se nenhum dos seus trabalhos habilitados estiver disponível:
 
-starfall-roles-unavailable-stay =  Fique no saguão.
+starfall-roles-unavailable-stay = Fique no saguão
 
 starfall-roles-unavailable-overflow = - Spawn como um { $overflowJob }
 

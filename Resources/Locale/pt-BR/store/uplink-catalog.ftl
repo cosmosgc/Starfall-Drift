@@ -47,11 +47,11 @@ uplink-hushpup-name = Hushpup
 
 uplink-hushpup-desc = Uma escopeta potente com silenciador e baixa capacidade. Usa munição .50.
 
-uplink-c20r-name = C-20r.
+uplink-c20r-name = C-20r
 
 uplink-c20r-desc =  Velha fiel: a clássica submetralhadora C-20r.
 
-uplink-bulldog-name = Bulldog.
+uplink-bulldog-name = Bulldog
 
 uplink-bulldog-desc =  Magra e malvada: contém a popular escopeta Bulldog.
 
@@ -72,7 +72,7 @@ uplink-smoke-grenade-name = Granada de fumaça
 
 uplink-smoke-grenade-desc =  Uma granada que libera uma nuvem enorme de fumaça, perfeita para matar alguém nas sombras ou fazer uma fuga.
 
-uplink-mini-bomb-name = Minibomba.
+uplink-mini-bomb-name = Minibomba
 
 uplink-mini-bomb-desc = Um explosivo de sabotagem de precisão, de baixa potência e alto impacto, com um fusível de 5 segundos, perfeito para destruir rapidamente uma máquina, um cadáver, ou o que mais precisar.
 
@@ -88,15 +88,15 @@ uplink-penguin-grenade-name = Pinguim Granadeiro
 
 uplink-penguin-grenade-desc = Um pequeno pinguim altamente agressivo com uma granada amarrada em seu pescoço... treinado para ignorar todos os agentes do Sindicato e perseguir sem parar um único alvo aleatório quando lançado.
 
-uplink-c4-name = C-4.
+uplink-c4-name = C-4
 
 uplink-c4-desc =  Use-o para romper paredes, comportas ou sabotar equipamentos. Pode ser fixado em quase todos os objetos e tem um temporizador modificável com uma configuração mínima de 10 segundos.
 
-uplink-c4-bundle-name =  Pacote C-4.
+uplink-c4-bundle-name = Pacote C-4
 
 uplink-c4-bundle-desc =  Porque às vezes quantidade é qualidade, contém 8 explosivos plásticos C-4.
 
-uplink-grenadier-rig-name = Colete peitoral de granadeiro.
+uplink-grenadier-rig-name = Colete peitoral de granadeiro
 
 uplink-grenadier-rig-desc =  Tudo que você precisa para uma festa barulhenta: 4 granadas explosivas, 2 granadas EMP e 2 minibombas em um colete peitoral.
 
@@ -104,7 +104,7 @@ uplink-emp-grenade-name = Granada EMP
 
 uplink-emp-grenade-desc =  Uma granada projetada para interromper sistemas eletrônicos, útil para interromper comunicações, armas de energia da segurança e APCs quando você está numa situação apertada.
 
-uplink-exploding-pen-name =  Caneta explosiva.
+uplink-exploding-pen-name = Caneta explosiva
 
 uplink-exploding-pen-desc = Um explosivo classe IV contido em uma caneta padrão vem com um fusível de 4 segundos.
 
@@ -182,7 +182,7 @@ uplink-chest-rig-name = Colete Tático
 
 uplink-chest-rig-desc = Correias táticas resistentes a explosão usadas para guardar equipamentos de traidor.
 
-uplink-emag-name = Emag.
+uplink-emag-name = Emag
 
 uplink-emag-desc = O cartão do sindicato, este sequenciador, é capaz de mexer em vários dispositivos da estação.
 
@@ -190,7 +190,7 @@ uplink-access-breaker-name =  Quebrador de Acesso
 
 uplink-access-breaker-desc = Um configurador de acesso hackeado e um bom amigo da Emag, este dispositivo é capaz de forçar a abertura de comportas de ar, bem como apagar os requisitos de acesso do equipamento da estação.
 
-uplink-agent-id-card-name =  Cartão de identificação do agente.
+uplink-agent-id-card-name = Cartão de identificação do agente
 
 uplink-agent-id-card-desc =  Uma carteira de identidade modificada que pode copiar acessos de outros cartões e mudar seu nome e cargo.
 
@@ -218,7 +218,7 @@ uplink-reinforcement-radio-cyborg-assault-name = Syndicate Assault Cyborg Telepo
 
 uplink-reinforcement-radio-cyborg-assault-desc =  Uma máquina de matar magra e má com acesso a uma Espada de Energia, LMG, Sequenciador Criptográfico e um Pinpointer.
 
-uplink-stealth-box-name =  Caixa furtiva.
+uplink-stealth-box-name = Caixa furtiva
 
 uplink-stealth-box-desc =  Uma caixa equipada com tecnologia furtiva. Passe despercebido, mas não se mova muito rápido ou será revelado!
 
@@ -234,7 +234,7 @@ uplink-binary-translator-key-name =  Chave de tradutor binário
 
 uplink-binary-translator-key-desc =  Permite que você acesse o canal binário dos silícios. Não fale nele, pelo menos não sem uma máscara de voz.
 
-uplink-hypopen-name =  Hipopen.
+uplink-hypopen-name = Hipopen
 
 uplink-hypopen-desc = Um hipospray químico disfarçado de caneta, capaz de injetar 10u de reagentes instantaneamente, começa vazio.
 
@@ -325,7 +325,7 @@ uplink-emp-kit-name = Kit de disruptores elétricos
 # Funky - Changed the description because we don't have stun batons or disablers anymore
 uplink-emp-kit-desc = A virada definitiva contra armas baseadas em energia, para mostrar aos perdedores de laser quem está no comando, contém 3 granadas EMP e um implante EMP. Nota: não interfere em armas de fogo balísticas.
 
-uplink-decoy-kit-name = Kit de iscas.
+uplink-decoy-kit-name = Kit de iscas
 
 uplink-decoy-kit-desc =  Tecnologia de distração de última geração vem com cinco balões realistas, quatro granadas de isca e algumas bombinhas de estalo!
 
@@ -402,7 +402,7 @@ uplink-power-sink-name = Dreno de Energia
 
 uplink-power-sink-desc = Drena imensas quantidades de eletricidade da rede, e explode quando estiver saturado, use uma chave inglesa para conectá-lo aos fios.
 
-uplink-carp-dehydrated-name = Carpa espacial desidratada.
+uplink-carp-dehydrated-name = Carpa espacial desidratada
 
 uplink-carp-dehydrated-desc =  Parece uma carpa de pelúcia, mas só adicione água e se torne uma carpa espacial de verdade!
 
@@ -435,7 +435,7 @@ uplink-hot-potato-name =  Batata Quente
 
 uplink-hot-potato-desc =  Uma vez ativada, esta bomba-relógio não pode ser largada - só passada para outra pessoa!
 
-uplink-chimp-upgrade-kit-name = Chip de atualização do canhão de mão C.H.I.M.P.
+uplink-chimp-upgrade-kit-name = Chip de atualização do canhão de mão C.H.I.M.P
 
 uplink-chimp-upgrade-kit-desc =  Coloque este chip em um canhão padrão C.H.I.M.P. para permitir que ele dispare partículas de ômega.
 
@@ -488,7 +488,7 @@ uplink-eva-syndie-name = Pacote EVA do Sindicato
 
 uplink-eva-syndie-desc = Um simples traje EVA que não oferece proteção além do que é necessário para sobreviver no espaço.
 
-uplink-hardsuit-carp-name = Hardsuit de Carpa.
+uplink-hardsuit-carp-name = Hardsuit de Carpa
 
 uplink-hardsuit-carp-desc =  Parece um traje comum de carpa, exceto totalmente à prova de espaço e engana a carpa espacial para pensar que você é uma delas.
 
@@ -587,7 +587,7 @@ uplink-chameleon-projector-name =  Projetor Camaleão
 uplink-chameleon-projector-desc =  Desapareça à vista de todos criando um holograma de um item ao seu redor. Não use isso para jogar o jogo "Object Search".
 
 # Pointless
-uplink-revolver-cap-gun-name = Cap Gun.
+uplink-revolver-cap-gun-name = Cap Gun
 
 uplink-revolver-cap-gun-desc =  Parece quase de verdade! Para maiores de 8 anos.
 
@@ -619,7 +619,7 @@ uplink-carp-suit-bundle-name =  Bolsa de Traje de Carpa
 
 uplink-carp-suit-bundle-desc =  Contém um traje de carpa e alguns amigos para brincar.
 
-uplink-operative-suit-name = Macacão de Operativo.
+uplink-operative-suit-name = Macacão de Operativo
 
 uplink-operative-suit-desc = Um macacão Gorlex Marauder feito de tecido fino para ter certeza de que você se destaca, sem outros benefícios além de parecer legal.
 
@@ -647,7 +647,7 @@ uplink-bribe-name = Lobbying Bundle
 
 uplink-bribe-desc = Um presente sincero que pode ajudar a influenciar a opinião de alguém.
 
-uplink-hypodart-name = Hipódaro.
+uplink-hypodart-name = Hipódaro
 
 uplink-hypodart-desc = Um dardo aparentemente não notável com um reservatório aumentado para produtos químicos, pode armazenar até 10u reagentes em si mesmo, e injetar instantaneamente quando atingir o alvo.
 
@@ -655,7 +655,7 @@ uplink-barber-scissors-name = Tesoura de barbeiro
 
 uplink-barber-scissors-desc =  Uma boa ferramenta para cortar o cabelo do seu colega, a menos que queira dar a si mesmo.
 
-uplink-backpack-syndicate-name = Mochila do Sindicato.
+uplink-backpack-syndicate-name = Mochila do Sindicato
 
 uplink-backpack-syndicate-desc =  Uma mochila leve à prova de explosão para guardar vários bens traidores.
 
@@ -673,11 +673,11 @@ uplink-business-card-desc = Um cartão que você pode dar a alguém para demonst
 
 uplink-fake-mindshield-name = Falso escudo mental
 
-uplink-fake-mindshield-desc = Um implante alternável capaz de imitar as mesmas transmissões que um escudo mental real emite quando ligado, enganando displays heads-up capazes para pensar que você tem um escudo mental (implantador da marca Nanotrasen não fornecido).
+uplink-fake-mindshield-desc = Um implante alternável capaz de imitar as mesmas transmissões que um escudo mental real emite quando ligado, enganando displays heads-up capazes para pensar que você tem um escudo mental (implantador da marca Nanotrasen não fornecido)
 
 uplink-contraband-lighter-name =  Caixa de isqueiros de contrabando
 
-uplink-contraband-lighter-desc =  Uma caixa misteriosa com garantia de conter um isqueiro da marca do Sindicato.
+uplink-contraband-lighter-desc = Uma caixa misteriosa com garantia de conter um isqueiro da marca do Sindicato
 
 uplink-smuggler-satchel-name = Satchel do Contrabandista
 

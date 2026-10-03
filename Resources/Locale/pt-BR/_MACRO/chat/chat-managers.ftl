@@ -1,4 +1,4 @@
-chat-speech-verb-name-allulalo = Alulalo.
+chat-speech-verb-name-allulalo = Alulalo
 
 chat-speech-verb-allulalo-1 = assobia
 

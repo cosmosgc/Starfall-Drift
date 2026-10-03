@@ -1,7 +1,7 @@
 # named frequencies
 device-frequency-prototype-name-atmos =  Dispositivos atmosféricos
 
-device-frequency-prototype-name-suit-sensors =  Sensores de trajes.
+device-frequency-prototype-name-suit-sensors = Sensores de trajes
 
 device-frequency-prototype-name-crew-monitor = Monitor de tripulação
 
@@ -25,7 +25,7 @@ device-frequency-prototype-name-turret-control =  Controle de torre de sentinela
 
 device-frequency-prototype-name-xenoborg = Xenoborg
 
-device-frequency-prototype-name-mothership =  Nave-mãe.
+device-frequency-prototype-name-mothership = Nave-mãe
 
 device-frequency-prototype-name-surveillance-camera-test =  Teste de Sub-Rede
 
@@ -35,7 +35,7 @@ device-frequency-prototype-name-surveillance-camera-security =  Câmeras de segu
 
 device-frequency-prototype-name-surveillance-camera-science =  Câmeras de ciência
 
-device-frequency-prototype-name-surveillance-camera-supply = -Câmeras de suprimentos.
+device-frequency-prototype-name-surveillance-camera-supply = -Câmeras de suprimentos
 
 device-frequency-prototype-name-surveillance-camera-command =  Câmeras de comando
 
@@ -79,17 +79,17 @@ device-address-prefix-sensor-monitor = MON-
 device-address-examine-message = O endereço do dispositivo é { $address }.
 
 # Device net ID names
-device-net-id-private =  Soldado.
+device-net-id-private = Soldado
 
 device-net-id-wired = Fio
 
-device-net-id-wireless = Sem fio.
+device-net-id-wireless = Sem fio
 
-device-net-id-apc = Apc.
+device-net-id-apc = Apc
 
 device-net-id-atmos-devices =  Dispositivos Atmos
 
-device-net-id-reserved =  Reservado.
+device-net-id-reserved = Reservado
 
 # Unknown
 device-address-unknown = ????-????

@@ -2,7 +2,7 @@ flatpack-unpack-no-room =  Não há espaço para desfazer as malas!
 
 flatpack-examine = Use um. [color=yellow]Multitool[/color] Para desfazer as malas.
 
-flatpack-entity-name = { $name } -Platepack.
+flatpack-entity-name = { $name } -Platepack
 
 flatpack-entity-description =  Uma mochila usada para construir { INDEFINITE($name) } { $name }.
 
@@ -20,4 +20,4 @@ flatpacker-ui-board-invalid-label = [color=red] Não é possível imprimir![/col
 
 flatpacker-ui-insert-board =  Insira uma tábua para começar.
 
-flatpacker-ui-pack-button = - Faça as malas.
+flatpacker-ui-pack-button = - Faça as malas

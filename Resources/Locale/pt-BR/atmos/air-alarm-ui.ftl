@@ -2,7 +2,7 @@ air-alarm-ui-title =  Alarme de Ar
 
 air-alarm-ui-access-denied =  Acesso insuficiente!
 
-air-alarm-ui-window-pressure-label =  Pressão.
+air-alarm-ui-window-pressure-label = Pressão
 
 air-alarm-ui-window-temperature-label =  Temperatura
 
@@ -41,7 +41,7 @@ air-alarm-ui-window-tab-vents = Ventilações
 
 air-alarm-ui-window-tab-scrubbers = Depuradores
 
-air-alarm-ui-window-tab-sensors =  Sensores.
+air-alarm-ui-window-tab-sensors = Sensores
 
 air-alarm-ui-gases = { $gas }: { $amount } mol ({ $percentage }%)
 
@@ -55,7 +55,7 @@ air-alarm-ui-mode-fill = Preencher
 
 air-alarm-ui-mode-panic = Pânico
 
-air-alarm-ui-mode-none =  Nenhum.
+air-alarm-ui-mode-none = Nenhum
 
 air-alarm-ui-pump-direction-siphoning = Sifonando
 
@@ -63,19 +63,19 @@ air-alarm-ui-pump-direction-scrubbing = Filtrando
 
 air-alarm-ui-pump-direction-releasing =  Liberando
 
-air-alarm-ui-pressure-bound-nobound =  Não está preso.
+air-alarm-ui-pressure-bound-nobound = Não está preso
 
 air-alarm-ui-pressure-bound-internalbound =  Preso Interno
 
 air-alarm-ui-pressure-bound-externalbound = Fixação Externa
 
-air-alarm-ui-pressure-bound-both =  Ambos.
+air-alarm-ui-pressure-bound-both = Ambos
 
 air-alarm-ui-widget-gas-filters =  Filtros de gás
 
 air-alarm-ui-widget-enable = Ativado
 
-air-alarm-ui-widget-copy = Copia as configurações para dispositivos similares.
+air-alarm-ui-widget-copy = Copia as configurações para dispositivos similares
 
 air-alarm-ui-widget-copy-tooltip = Copia as configurações deste dispositivo para todos os dispositivos nesta aba de alarme aéreo.
 
@@ -83,9 +83,9 @@ air-alarm-ui-widget-ignore = Ignorar
 
 air-alarm-ui-atmos-net-device-label =  Endereço: { $address }
 
-air-alarm-ui-vent-pump-label =  Direção de ventilação.
+air-alarm-ui-vent-pump-label = Direção de ventilação
 
-air-alarm-ui-vent-pressure-label =  Pressionado.
+air-alarm-ui-vent-pressure-label = Pressionado
 
 air-alarm-ui-vent-external-bound-label = Encaixo externo
 
@@ -113,13 +113,13 @@ air-alarm-ui-thresholds-gas-title = Limiares (%)
 
 air-alarm-ui-thresholds-upper-bound =  Perigo acima
 
-air-alarm-ui-thresholds-lower-bound =  Perigo abaixo.
+air-alarm-ui-thresholds-lower-bound = Perigo abaixo
 
-air-alarm-ui-thresholds-upper-warning-bound =  Aviso acima.
+air-alarm-ui-thresholds-upper-warning-bound = Aviso acima
 
-air-alarm-ui-thresholds-lower-warning-bound =  Aviso abaixo.
+air-alarm-ui-thresholds-lower-warning-bound = Aviso abaixo
 
-air-alarm-ui-thresholds-copy = Copiando limiares para todos os dispositivos.
+air-alarm-ui-thresholds-copy = Copiando limiares para todos os dispositivos
 
 air-alarm-ui-thresholds-copy-tooltip = Copia os limiares do sensor deste dispositivo para todos os dispositivos nesta guia de alarme aéreo.
 

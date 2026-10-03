@@ -11,15 +11,15 @@ comp-pda-io-settings-button =  Configurações
 
 comp-pda-io-program-fallback-title =  Programa
 
-comp-pda-io-no-programs-available =  Nenhum programa disponível.
+comp-pda-io-no-programs-available = Nenhum programa disponível
 
 pda-bound-user-interface-show-uplink-title =  Abra o link
 
-pda-bound-user-interface-show-uplink-description = Acesse seu uplink.
+pda-bound-user-interface-show-uplink-description = Acesse seu uplink
 
 pda-bound-user-interface-lock-uplink-title = Bloquear link
 
-pda-bound-user-interface-lock-uplink-description =  Evite que alguém acesse seu link sem o código.
+pda-bound-user-interface-lock-uplink-description = Evite que alguém acesse seu link sem o código
 
 comp-pda-ui-menu-title = PDA
 
@@ -39,7 +39,7 @@ comp-pda-ui-eject-pen-button = Ejetar caneta
 
 comp-pda-ui-ringtone-button = Toque
 
-comp-pda-ui-ringtone-button-description = Mude o toque do seu PDA.
+comp-pda-ui-ringtone-button-description = Mude o toque do seu PDA
 
 comp-pda-ui-toggle-flashlight-button = Alternar lanterna
 

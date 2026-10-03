@@ -3,7 +3,7 @@ ai-wire-snipped = Um dos fios de seus sistemas foi cortado em { $source }.
 
 wire-name-ai-vision-light = AIV
 
-wire-name-ai-act-light = AIA.
+wire-name-ai-act-light = AIA
 
 station-ai-takeover = Domínio da IA
 
@@ -25,17 +25,17 @@ station-ai-ghost-role-name = IA da estação
 station-ai-ghost-role-description = Sirva a equipe da estação como sua sempre vigilante IA.
 
 # Radial actions
-ai-open = Ações abertas.
+ai-open = Ações abertas
 
-ai-close = Ações próximas.
+ai-close = Ações próximas
 
-bolt-close =  Feche o parafuso.
+bolt-close = Feche o parafuso
 
-bolt-open =  Abra o parafuso.
+bolt-open = Abra o parafuso
 
-emergency-access-on = Activar acesso de emergência.
+emergency-access-on = Activar acesso de emergência
 
-emergency-access-off = Desativar acesso de emergência.
+emergency-access-off = Desativar acesso de emergência
 
 electrify-door-on = Activar sobrecarga
 
@@ -43,9 +43,9 @@ electrify-door-off = Desativar sobrecarga
 
 toggle-light = Alternar a luz
 
-ai-device-not-responding = O dispositivo não está respondendo.
+ai-device-not-responding = O dispositivo não está respondendo
 
-ai-device-no-access =  Você não tem acesso a este dispositivo.
+ai-device-no-access = Você não tem acesso a este dispositivo
 
 ai-consciousness-download-warning =  Sua consciência está sendo baixada.
 
@@ -63,7 +63,7 @@ station-ai-customization-hologram = Avatares holográficos
 # Customizations
 station-ai-icon-ai =  Fantasma na máquina
 
-station-ai-icon-angel =  Anjo da guarda.
+station-ai-icon-angel = Anjo da guarda
 
 station-ai-icon-bliss =  Tempos mais simples
 
@@ -81,6 +81,6 @@ station-ai-hologram-male = Aparência masculina
 
 station-ai-hologram-face =  Cabeça desencarnada
 
-station-ai-hologram-cat =  Forma de gato.
+station-ai-hologram-cat = Forma de gato
 
 station-ai-hologram-dog = Corgi form

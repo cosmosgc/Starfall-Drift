@@ -1,6 +1,6 @@
-gas-pressure-regulator-ui-set-threshold =  Preparar.
+gas-pressure-regulator-ui-set-threshold = Preparar
 
-gas-pressure-regulator-ui-zero-threshold = Zero.
+gas-pressure-regulator-ui-zero-threshold = Zero
 
 gas-pressure-regulator-ui-set-to-current-pressure = Ajustar para pressão de entrada
 
@@ -29,4 +29,4 @@ gas-pressure-regulator-ui-inlet =  Entrada
 # Units
 gas-pressure-regulator-ui-flow-rate-unit = L/s
 
-gas-pressure-regulator-ui-pressure-unit = KPa.
+gas-pressure-regulator-ui-pressure-unit = KPa

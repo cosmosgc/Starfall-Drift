@@ -8,7 +8,7 @@ hud-chatbox-info-unbound =  Clique aqui para falar.
 
 hud-chatbox-select-name-prefixed = { $prefix } { $name }
 
-hud-chatbox-select-channel-Admin = Admin.
+hud-chatbox-select-channel-Admin = Admin
 
 hud-chatbox-select-channel-Console = Consola
 
@@ -18,19 +18,19 @@ hud-chatbox-select-channel-Emotes = Emoções
 
 hud-chatbox-select-channel-Local = Local
 
-hud-chatbox-select-channel-Whisper =  Sussurre.
+hud-chatbox-select-channel-Whisper = Sussurre
 
 hud-chatbox-select-channel-LOOC = LOOC
 
-hud-chatbox-select-channel-OOC = OOC.
+hud-chatbox-select-channel-OOC = OOC
 
-hud-chatbox-select-channel-Damage = Danos.
+hud-chatbox-select-channel-Damage = Danos
 
 hud-chatbox-select-channel-Visual = Ações
 
 hud-chatbox-select-channel-Radio =  Rádio
 
-hud-chatbox-channel-Admin = Admin. Misc.
+hud-chatbox-channel-Admin = Admin. Misc
 
 hud-chatbox-channel-AdminAlert =  Alerta de administração
 
@@ -42,11 +42,11 @@ hud-chatbox-channel-Emotes = Emoções
 
 hud-chatbox-channel-Local = Local
 
-hud-chatbox-channel-Whisper =  Sussurre.
+hud-chatbox-channel-Whisper = Sussurre
 
 hud-chatbox-channel-LOOC = LOOC
 
-hud-chatbox-channel-OOC = OOC.
+hud-chatbox-channel-OOC = OOC
 
 hud-chatbox-channel-Radio =  Rádio
 
@@ -56,9 +56,9 @@ hud-chatbox-channel-Server =  Servidor
 
 hud-chatbox-channel-Visual = Ações
 
-hud-chatbox-channel-Damage = Danos.
+hud-chatbox-channel-Damage = Danos
 
-hud-chatbox-channel-Unspecified =  Não especificado.
+hud-chatbox-channel-Unspecified = Não especificado
 
 hud-chatbox-highlights =  Destaques:
 

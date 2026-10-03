@@ -4,11 +4,11 @@ role-type-solo-antagonist-name = Antagonista Solo
 
 role-type-team-antagonist-name = Antagonista da equipe
 
-role-type-free-agent-name =  Agente Livre.
+role-type-free-agent-name = Agente Livre
 
 role-type-familiar-name =  Familiar
 
-role-type-silicon-name = Silício.
+role-type-silicon-name = Silício
 
 role-type-silicon-antagonist-name = Silício alterado
 
@@ -32,23 +32,23 @@ role-type-silicon-color = #6495ed
 role-type-silicon-antagonist-color = #C832e6
 
 # Ideally, subtype names should be short
-role-subtype-traitor = Traidor.
+role-subtype-traitor = Traidor
 
-role-subtype-thief = Ladrão.
+role-subtype-thief = Ladrão
 
-role-subtype-ninja = Ninja.
+role-subtype-ninja = Ninja
 
-role-subtype-nukie = Nukie.
+role-subtype-nukie = Nukie
 
 role-subtype-traitor-reinforcement = Reforço
 
-role-subtype-revolutionary = Rev.
+role-subtype-revolutionary = Rev
 
-role-subtype-head-revolutionary = Rev. Chefe.
+role-subtype-head-revolutionary = Rev. Chefe
 
-role-subtype-initial-infected = Infectado.
+role-subtype-initial-infected = Infectado
 
-role-subtype-zombie = Zumbi.
+role-subtype-zombie = Zumbi
 
 role-subtype-dragon =  Dragão
 
@@ -56,9 +56,9 @@ role-subtype-survivor =  Sobrevivente
 
 role-subtype-subverted = Subvertidos
 
-role-subtype-paradox-clone = Paradoxo.
+role-subtype-paradox-clone = Paradoxo
 
-role-subtype-wizard = Feiticeiro.
+role-subtype-wizard = Feiticeiro
 
 role-subtype-xenoborg = Xenoborg
 

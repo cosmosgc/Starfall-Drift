@@ -2,9 +2,9 @@ prayer-verbs-subtle-message = Mensagem Sutil
 
 prayer-verbs-pray = Reze
 
-prayer-verbs-call =  Chamada.
+prayer-verbs-call = Chamada
 
-prayer-verbs-rub = Esfregue.
+prayer-verbs-rub = Esfregue
 
 prayer-verbs-worship = Adoração
 

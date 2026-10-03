@@ -28,31 +28,31 @@ holopad-window-controls-locked-out = O controle deste dispositivo foi travado pa
 holopad-window-controls-unlock-countdown =  Ele irá desbloquear automaticamente: { $countdown }
 
 # Buttons
-holopad-window-answer-call =  Responda.
+holopad-window-answer-call = Responda
 
-holopad-window-end-call =  Fim da chamada.
+holopad-window-end-call = Fim da chamada
 
-holopad-window-request-station-ai =  Solicitando estação AI.
+holopad-window-request-station-ai = Solicitando estação AI
 
-holopad-window-activate-projector = Ativar projetor.
+holopad-window-activate-projector = Ativar projetor
 
 holopad-window-emergency-broadcast =  Transmissão de emergência
 
 holopad-window-emergency-broadcast-with-countdown =  Transmissão de emergência ({ $countdown })
 
-holopad-window-access-denied =  Acesso negado.
+holopad-window-access-denied = Acesso negado
 
 # Contact list
 holopad-window-select-contact-from-list =  Selecione um contato para iniciar uma holo-chamada
 
-holopad-window-fetching-contacts-list =  Nenhuma holopada está atualmente em contato.
+holopad-window-fetching-contacts-list = Nenhuma holopada está atualmente em contato
 
 holopad-window-contact-label = { CAPITALIZE($label) }
 
-holopad-window-filter-line-placeholder =  Procure um contato.
+holopad-window-filter-line-placeholder = Procure um contato
 
 # Flavor
-holopad-window-flavor-left =  Não entre enquanto o projetor estiver ativo.
+holopad-window-flavor-left = Não entre enquanto o projetor estiver ativo
 
 holopad-window-flavor-right = V3.0.9
 
@@ -60,7 +60,7 @@ holopad-window-flavor-right = V3.0.9
 holopad-hologram-name = Holograma de { THE($name) }
 
 # Holopad actions
-holopad-activate-projector-verb = Ativar projetor holopádio.
+holopad-activate-projector-verb = Ativar projetor holopádio
 
 holopad-ai-is-unable-to-reach-holopad =  Você não consegue se conectar com a fonte da chamada, está muito longe do seu núcleo.
 

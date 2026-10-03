@@ -14,23 +14,23 @@ player-panel-playtime = Total Playtime: { $days }D:{ $hours }H:{ $minutes }M
 
 player-panel-shared-connections =  Ligações compartilhadas: { $sharedConnections }
 
-player-panel-copy-username =  Entendido.
+player-panel-copy-username = Entendido
 
 player-panel-show-notes =  Notas
 
 player-panel-show-bans =  Mostre Proibições
 
-player-panel-help =  Uma ajuda.
+player-panel-help = Uma ajuda
 
-player-panel-freeze-and-mute = Parado e mudo.
+player-panel-freeze-and-mute = Parado e mudo
 
 player-panel-freeze = Parado!
 
 player-panel-unfreeze =  Desarrefecer
 
-player-panel-kick = Chute.
+player-panel-kick = Chute
 
-player-panel-ban = Ban.
+player-panel-ban = Ban
 
 player-panel-logs =  Diários
 
@@ -38,9 +38,9 @@ player-panel-delete =  Apagar
 
 player-panel-rejuvenate = Rejuvenescer
 
-player-panel-false = Falso.
+player-panel-false = Falso
 
-player-panel-true =  Verdade.
+player-panel-true = Verdade
 
 player-panel-follow =  Siga
 

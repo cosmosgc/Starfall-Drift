@@ -6,4 +6,4 @@ comp-paper-label-has-label-cant-read =  Há uma etiqueta anexada, mas não se po
 
 comp-paper-label-insert = Anexar etiqueta
 
-comp-paper-label-eject =  Desamarre o rótulo.
+comp-paper-label-eject = Desamarre o rótulo

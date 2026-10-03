@@ -12,6 +12,6 @@ atmos-pipe-layers-component-select-layer = { CAPITALIZE($layerName) }  configura
 
 atmos-pipe-layers-component-tool-missing =  Requer { INDEFINITE($toolName) } { $toolName }
 
-atmos-pipe-layers-component-pipes-are-covered =  Os canos estão cobertos.
+atmos-pipe-layers-component-pipes-are-covered = Os canos estão cobertos
 
 atmos-pipe-layers-component-cannot-adjust-pipes =  Você precisa descobrir os canos antes que eles possam ser ajustados.

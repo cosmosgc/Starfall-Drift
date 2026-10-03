@@ -80,7 +80,7 @@ reagent-name-ambuzol = Ambuzol
 
 reagent-desc-ambuzol =  Uma substância altamente projetada capaz de parar a progressão de uma infecção zumbi.
 
-reagent-name-ambuzol-plus = Ambuzol plus.
+reagent-name-ambuzol-plus = Ambuzol plus
 
 reagent-desc-ambuzol-plus =  Mais projetado com omnizina, inocula os vivos contra a infecção.
 

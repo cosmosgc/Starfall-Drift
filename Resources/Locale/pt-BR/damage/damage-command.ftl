@@ -16,6 +16,6 @@ damage-command-error-quantity = { $arg }  Não é uma quantidade válida.
 
 damage-command-error-bool = { $arg }  Não é um bool válido.
 
-damage-command-error-player =  Nenhuma entidade ligada à sessão.
+damage-command-error-player = Nenhuma entidade ligada à sessão
 
 damage-command-error-args =  Número inválido de argumentos

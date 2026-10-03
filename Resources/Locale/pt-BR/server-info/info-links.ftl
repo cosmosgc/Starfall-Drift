@@ -2,7 +2,7 @@ info-link-discord = Discórdia
 
 info-link-forum =  Fórum
 
-info-link-github = GitHub.
+info-link-github = GitHub
 
 info-link-website = Site
 

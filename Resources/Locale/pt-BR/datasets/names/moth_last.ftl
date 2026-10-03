@@ -1,46 +1,46 @@
 # Ascalapha odorata
-names-moth-last-dataset-1 = Blackwitch.
+names-moth-last-dataset-1 = Blackwitch
 
 # Refers to any of the 3 Acherontia
 names-moth-last-dataset-2 =  Morteshead
 
 # Saturniinae
-names-moth-last-dataset-3 =  Imperador.
+names-moth-last-dataset-3 = Imperador
 
 # Plagodis dolabraria
 names-moth-last-dataset-4 = Ardendo
 
 # Temnora
-names-moth-last-dataset-5 =  Temnora.
+names-moth-last-dataset-5 = Temnora
 
 # Usta
-names-moth-last-dataset-6 = Usta.
+names-moth-last-dataset-6 = Usta
 
 # Thysania agrippina
-names-moth-last-dataset-7 = Whitewitch.
+names-moth-last-dataset-7 = Whitewitch
 
 # Operophtera brumata
 names-moth-last-dataset-8 =  Inverno
 
 # Ancient Greek "moth"
-names-moth-last-dataset-9 = Epiolos.
+names-moth-last-dataset-9 = Epiolos
 
 # Conceivably any Old Norse descendant of mǫlr but probably more Danish than anything. "oe" digraph for ø.
-names-moth-last-dataset-10 = Moeller.
+names-moth-last-dataset-10 = Moeller
 
 # Literal pseudo-translation of German Nachtfalter
 names-moth-last-dataset-11 = "Flitter Noturno"
 
 # Belief of moths flying at night signalling the reception of a letter
-names-moth-last-dataset-12 = Herald.
+names-moth-last-dataset-12 = Herald
 
 # Greek figure associated with Hero, and similar sounding to Oleander hawk-moth
-names-moth-last-dataset-13 = Leander.
+names-moth-last-dataset-13 = Leander
 
 # Split between being a myth reference and actual possible surname given the actual Goodman, Hoffman, Newman, Coleman, etc.
-names-moth-last-dataset-14 =  Homem-mata.
+names-moth-last-dataset-14 = Homem-mata
 
-names-moth-last-dataset-15 = Cometrider.
+names-moth-last-dataset-15 = Cometrider
 
 names-moth-last-dataset-16 = Eventide
 
@@ -64,6 +64,6 @@ names-moth-last-dataset-25 =  Língua de Seda
 
 names-moth-last-dataset-26 = Espumante
 
-names-moth-last-dataset-27 = Stargazer.
+names-moth-last-dataset-27 = Stargazer
 
 names-moth-last-dataset-28 = Starseeker

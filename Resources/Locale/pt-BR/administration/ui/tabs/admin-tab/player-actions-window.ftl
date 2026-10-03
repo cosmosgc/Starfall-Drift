@@ -1,6 +1,6 @@
 admin-player-actions-window-ban =  Painel de Banning
 
-admin-player-actions-window-admin-ghost = -Ghost do administrador.
+admin-player-actions-window-admin-ghost = -Ghost do administrador
 
 admin-player-actions-window-permissions =  Painel de Permissões
 

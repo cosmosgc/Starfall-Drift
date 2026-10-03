@@ -14,7 +14,7 @@ crew-manifest-cartridge-loading =  Carregando...
 
 crew-manifest-cartridge-loading-failed =  Falha ao carregar o manifesto da tripulação!
 
-net-probe-program-name = NetProbe.
+net-probe-program-name = NetProbe
 
 net-probe-scan = Escaneado { $device }!
 
@@ -69,15 +69,15 @@ nano-task-ui-heading-low-priority-tasks =
        *[other] { $amount } Tarefas de baixa prioridade
     }
 
-nano-task-ui-done =  Feito.
+nano-task-ui-done = Feito
 
 nano-task-ui-revert-done = Desfazer
 
-nano-task-ui-priority-low =  Baixo.
+nano-task-ui-priority-low = Baixo
 
-nano-task-ui-priority-medium =  Médio.
+nano-task-ui-priority-medium = Médio
 
-nano-task-ui-priority-high = Alto.
+nano-task-ui-priority-high = Alto
 
 nano-task-ui-cancel =  Cancelar
 
@@ -91,7 +91,7 @@ nano-task-ui-new-task = Nova Tarefa
 
 nano-task-ui-description-label =  Descrição:
 
-nano-task-ui-description-placeholder =  Pegue algo importante.
+nano-task-ui-description-placeholder = Pegue algo importante
 
 nano-task-ui-requester-label =  Solicitante:
 
@@ -112,9 +112,9 @@ nano-task-printed-low-priority = [bold]Prioridade[/bold] Baixo
 # Wanted list cartridge
 wanted-list-program-name =  Lista de procurados
 
-wanted-list-label-no-records =  Está tudo bem, cowboy.
+wanted-list-label-no-records = Está tudo bem, cowboy
 
-wanted-list-search-placeholder =  Procure pelo nome e status.
+wanted-list-search-placeholder = Procure pelo nome e status
 
 wanted-list-age-label = [color=darkgray] Idade:[/color] [color=white]{ $age }[/color]
 

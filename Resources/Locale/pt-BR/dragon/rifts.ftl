@@ -4,7 +4,7 @@ carp-rift-duplicate =  Não pode ter duas fendas de carga ao mesmo tempo!
 
 carp-rift-examine = É mesmo. [color=yellow]{ $percentage }%[/color]  Carregado!
 
-carp-rift-max =  Você chegou ao máximo de fendas.
+carp-rift-max = Você chegou ao máximo de fendas
 
 carp-rift-anchor = As fendas requerem uma superfície estável para desovar.
 

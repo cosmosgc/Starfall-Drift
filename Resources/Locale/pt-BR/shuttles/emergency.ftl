@@ -16,10 +16,10 @@ emergency-shuttle-good-luck = O Transporte de Emergência não conseguiu encontr
 emergency-shuttle-nearby = O Transporte de Emergência não encontrou uma porta de acoplagem válida. Surgiu {$direction} da estação, {$location}. Partirá em {$time} segundos.{$extended}
 emergency-shuttle-extended = {" "}O tempo de lançamento foi estendido devido a circunstâncias inconvenientes.
 
-emergency-shuttle-console-no-early-launches = Lançamento antecipado desativado.
+emergency-shuttle-console-no-early-launches = Lançamento antecipado desativado
 emergency-shuttle-console-auth-left = Faltam {$remaining} autorizações para lançamento antecipado.
 emergency-shuttle-console-auth-revoked = Autorização de lançamento antecipado revogada, faltam {$remaining} autorizações.
-emergency-shuttle-console-denied = Acesso negado.
+emergency-shuttle-console-denied = Acesso negado
 
 emergency-shuttle-console-window-title = Console do Transporte de Emergência
 emergency-shuttle-ui-engines = MOTORES:

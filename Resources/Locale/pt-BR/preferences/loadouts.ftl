@@ -20,4 +20,4 @@ loadouts-count-items-in-group =
        *[other]  itens
     }
 
-loadouts-points-restriction =  Pontos insuficientes.
+loadouts-points-restriction = Pontos insuficientes

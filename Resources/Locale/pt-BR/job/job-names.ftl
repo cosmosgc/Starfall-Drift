@@ -1,8 +1,8 @@
 job-name-atmostech =  Técnico Atmosférico
 
-job-name-bartender = Barman.
+job-name-bartender = Barman
 
-job-name-borg = Cyborg.
+job-name-borg = Cyborg
 
 job-name-botanist = Botânico
 
@@ -10,19 +10,19 @@ job-name-brigmedic = Brigmedic
 
 job-name-cadet =  Cadete de Segurança
 
-job-name-captain =  Capitão.
+job-name-captain = Capitão
 
 job-name-cargotech =  Técnico de Carga
 
 job-name-cburn =  Oficial de Quarentena CentComm
 
-job-name-ce =  Engenheiro Chefe.
+job-name-ce = Engenheiro Chefe
 
 job-name-centcommoff =  Oficial da CentComm
 
 job-name-chef = Chef
 
-job-name-chaplain = Capelão.
+job-name-chaplain = Capelão
 
 job-name-chemist = Químico
 
@@ -34,11 +34,11 @@ job-name-cmo = Chefe Médico
 
 job-name-deathsquad =  Esquadrão da Morte
 
-job-name-detective =  Detetive.
+job-name-detective = Detetive
 
 job-name-doctor =  Médico
 
-job-name-engineer =  Engenheiro de Estação.
+job-name-engineer = Engenheiro de Estação
 
 job-name-ertchaplain = ERT Capelão
 
@@ -58,13 +58,13 @@ job-name-hos =  Chefe de Segurança
 
 job-name-intern =  Médico Estagiário
 
-job-name-janitor = Zelador.
+job-name-janitor = Zelador
 
-job-name-lawyer =  Advogado.
+job-name-lawyer = Advogado
 
 job-name-librarian = Bibliotecário
 
-job-name-mime = Mime.
+job-name-mime = Mime
 
 job-name-musician = Músico
 
@@ -74,7 +74,7 @@ job-name-passenger =  Passageiro
 
 job-name-psychologist = Psicólogo
 
-job-name-qm = Intendente.
+job-name-qm = Intendente
 
 job-name-rd =  Diretor de Pesquisa
 
@@ -84,17 +84,17 @@ job-name-research-assistant =  Assistente de Pesquisa
 
 job-name-salvagespec =  Especialista em Salvage
 
-job-name-scientist = Cientista.
+job-name-scientist = Cientista
 
-job-name-security =  Oficial de Segurança.
+job-name-security = Oficial de Segurança
 
 job-name-serviceworker =  Trabalhador de Serviço
 
-job-name-station-ai =  Estação AI
+job-name-station-ai = IA da Estação
 
 job-name-technical-assistant =  Assistente Técnico
 
-job-name-visitor =  Visitante.
+job-name-visitor = Visitante
 
 job-name-warden = Carcereiro
 
@@ -105,9 +105,9 @@ job-name-geneticist = Geneticista
 
 job-name-boxer = Boxeador
 
-job-name-no-id = Sem identificação.
+job-name-no-id = Sem identificação
 
-job-name-prisoner = Prisioneiro.
+job-name-prisoner = Prisioneiro
 
 job-name-roboticist = Roboticista
 
@@ -128,35 +128,35 @@ job-name-syndicate-corpsman = Médico do Sindicato
 
 job-name-syndicate-operative = Operativo do Sindicato
 
-job-name-pirate =  Pirata.
+job-name-pirate = Pirata
 
-job-name-wizard = Feiticeiro.
+job-name-wizard = Feiticeiro
 
-job-name-zombie = Zumbi.
+job-name-zombie = Zumbi
 
 # Job titles
 job-title-cluwne = Cluwne
 
 job-title-universal = Universal
 
-job-title-visitor =  Visitante.
+job-title-visitor = Visitante
 
 # Role timers - Make these alphabetical or I cut you
 JobAtmosphericTechnician =  Técnico Atmosférico
 
-JobBartender = Barman.
+JobBartender = Barman
 
-JobBorg = Borg.
+JobBorg = Borg
 
 JobBotanist = Botânico
 
-JobCaptain =  Capitão.
+JobCaptain = Capitão
 
 JobCargoTechnician =  Técnico de Carga
 
 JobCentralCommandOfficial =  Oficial do Comando Central
 
-JobChaplain = Capelão.
+JobChaplain = Capelão
 
 JobChef = Chef
 
@@ -168,7 +168,7 @@ JobChiefMedicalOfficer = Chefe Médico
 
 JobClown = Palhaço
 
-JobDetective =  Detetive.
+JobDetective = Detetive
 
 JobBrigmedic = Brigmedic
 
@@ -188,17 +188,17 @@ JobHeadOfPersonnel =  Chefe de Pessoal
 
 JobHeadOfSecurity =  Chefe de Segurança
 
-JobJanitor = Zelador.
+JobJanitor = Zelador
 
-JobLawyer =  Advogado.
+JobLawyer = Advogado
 
 JobLibrarian = Bibliotecário
 
-JobMedicalDoctor =  Médico.
+JobMedicalDoctor = Médico
 
-JobMedicalIntern =  Médico estagiário.
+JobMedicalIntern = Médico estagiário
 
-JobMime = Mime.
+JobMime = Mime
 
 JobMusician = Músico
 
@@ -208,7 +208,7 @@ JobPassenger =  Passageiro
 
 JobPsychologist = Psicólogo
 
-JobQuartermaster = Intendente.
+JobQuartermaster = Intendente
 
 JobReporter = Repórter
 
@@ -218,20 +218,20 @@ JobResearchDirector =  Diretor de Pesquisa
 
 JobSalvageSpecialist =  Especialista em Salvage
 
-JobScientist = Cientista.
+JobScientist = Cientista
 
 JobSecurityCadet =  Cadete de Segurança
 
-JobSecurityOfficer =  Oficial de Segurança.
+JobSecurityOfficer = Oficial de Segurança
 
 JobServiceWorker =  Trabalhador de Serviço
 
-JobStationAi =  Estação AI
+JobStationAi = IA da Estação
 
-JobStationEngineer =  Engenheiro de Estação.
+JobStationEngineer = Engenheiro de Estação
 
 JobTechnicalAssistant =  Assistente Técnico
 
-JobVisitor =  Visitante.
+JobVisitor = Visitante
 
 JobWarden = Carcereiro

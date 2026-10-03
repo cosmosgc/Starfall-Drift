@@ -8,4 +8,4 @@ scannable-solution-empty-container =  Não contém produtos químicos.
 
 scannable-solution-chemical = - { $amount }u [color={ $color }]{ $type }[/color]
 
-scannable-solution-temperature =  Temperatura da solução: { $temperature }K.
+scannable-solution-temperature = Temperatura da solução: { $temperature }K

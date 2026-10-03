@@ -1,14 +1,14 @@
 lathe-menu-title = Menu Torno
 
-lathe-menu-queue = Fila.
+lathe-menu-queue = Fila
 
 lathe-menu-server-list =  Lista de servidores
 
 lathe-menu-sync = Sincronização
 
-lathe-menu-search-designs =  Procurem em projetos.
+lathe-menu-search-designs = Procurem em projetos
 
-lathe-menu-category-all =  Todos.
+lathe-menu-category-all = Todos
 
 lathe-menu-search-filter =  Filtro:
 

@@ -23,6 +23,6 @@ gas-tank-window-internal-connected = [color=green]Conectado.[/color]
 
 gas-tank-window-internal-disconnected = [color=red] Desligado.[/color]
 
-comp-gas-tank-open-valve =  Abra a válvula.
+comp-gas-tank-open-valve = Abra a válvula
 
-comp-gas-tank-close-valve =  Feche a válvula.
+comp-gas-tank-close-valve = Feche a válvula

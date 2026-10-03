@@ -1,4 +1,4 @@
-suicide-command-description = Comete suicídio.
+suicide-command-description = Comete suicídio
 
 suicide-command-help-text = O comando suicida dá uma saída rápida para uma rodada enquanto permanece no personagem, o método varia, primeiro ele tentará usar o item em sua mão ativa, se isso falhar, ele tentará usar um objeto no ambiente, finalmente, se nenhum dos itens acima funcionou, você morrerá mordendo sua língua.
 

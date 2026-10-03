@@ -1,11 +1,11 @@
 # titles that get displayed in the wire hacking window
 wires-board-name-default = Fios
 
-wires-board-name-booze = - DrozeDispenser.
+wires-board-name-booze = - DrozeDispenser
 
 wires-board-name-soda =  Refrigerante
 
-wires-board-name-thermomachine = -Termomáquina.
+wires-board-name-thermomachine = -Termomáquina
 
 wires-board-name-condenser = Condensador
 
@@ -15,13 +15,13 @@ wires-board-name-highsec =  Controle de Sec Alto
 
 wires-board-name-vessel = Navio
 
-wires-board-name-crusher = Crusher.
+wires-board-name-crusher = Crusher
 
 wires-board-name-smes = SMES
 
 wires-board-name-substation = Subestação
 
-wires-board-name-apc = APC.
+wires-board-name-apc = APC
 
 wires-board-name-autolathe = Autolathe
 
@@ -33,7 +33,7 @@ wires-board-name-firealarm =  Alarme de incêndio
 
 wires-board-name-arcade =  Arcade
 
-wires-board-name-ape =  Macaco.
+wires-board-name-ape = Macaco
 
 wires-board-name-anomalygenerator =  AnomalyGenerator
 
@@ -43,13 +43,13 @@ wires-board-name-cryopod = Cryo pod
 
 wires-board-name-chemdispenser = ChemDispenser
 
-wires-board-name-chemmaster = ChemMaster.
+wires-board-name-chemmaster = ChemMaster
 
 wires-board-name-generator =  Gerador
 
 wires-board-name-vendingmachine =  Máquina de venda
 
-wires-board-name-intercom = Intercomunicador.
+wires-board-name-intercom = Intercomunicador
 
 wires-board-name-hydroponicstray =  HidropônicoTray
 
@@ -71,25 +71,25 @@ wires-board-name-firelock =  Controle de Firelock
 
 wires-board-name-windoor =  Controle Windoor
 
-wires-board-name-mech = Mech.
+wires-board-name-mech = Mech
 
 wires-board-name-fatextractor = GordoExtrator
 
-wires-board-name-flatpacker = -Planta.
+wires-board-name-flatpacker = -Planta
 
 wires-board-name-spaceheater = Aquecedor Espacial
 
-wires-board-name-jukebox = Jukebox.
+wires-board-name-jukebox = Jukebox
 
 wires-board-name-computer =  Computador
 
-wires-board-name-holopad = Holopade.
+wires-board-name-holopad = Holopade
 
 wires-board-name-barsign =  Sinal do Bar
 
-wires-board-name-weapon-energy-turret = Torre de sentinela.
+wires-board-name-weapon-energy-turret = Torre de sentinela
 
-wires-board-name-turret-controls =  Painel de controle da torre de sentinela.
+wires-board-name-turret-controls = Painel de controle da torre de sentinela
 
 wire-name-access = ACC
 
@@ -103,7 +103,7 @@ wire-name-bolt-light = BRIT
 
 wire-name-door-bolt = BOLT
 
-wire-name-door-safety = A salvo.
+wire-name-door-safety = A salvo
 
 wire-name-door-timer = TIMR
 

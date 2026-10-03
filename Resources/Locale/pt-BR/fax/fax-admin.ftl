@@ -1,5 +1,5 @@
 # Command
-cmd-faxui-desc =  Abra a janela de administração para enviar faxes.
+cmd-faxui-desc = Abra a janela de administração para enviar faxes
 
 cmd-faxui-help = Uso: faxui
 

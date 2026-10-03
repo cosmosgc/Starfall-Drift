@@ -1,6 +1,6 @@
-random-sentience-event-data-1 = Escaneamentos de nossos sensores de longo alcance.
+random-sentience-event-data-1 = Escaneamentos de nossos sensores de longo alcance
 
-random-sentience-event-data-2 =  nossos sofisticados modelos probabilísticos.
+random-sentience-event-data-2 = nossos sofisticados modelos probabilísticos
 
 random-sentience-event-data-3 =  Nossa onipotência
 
@@ -20,7 +20,7 @@ random-sentience-event-strength-4 =  Segurança
 
 random-sentience-event-strength-5 =  comando
 
-random-sentience-event-strength-6 = Palhaço.
+random-sentience-event-strength-6 = Palhaço
 
 random-sentience-event-strength-7 =  baixo
 
@@ -43,6 +43,6 @@ station-event-random-sentience-flavor-organic = Orgânico
 
 station-event-random-sentience-flavor-primate = primata
 
-station-event-random-sentience-flavor-kobold = Kobold.
+station-event-random-sentience-flavor-kobold = Kobold
 
 station-event-random-sentience-flavor-inanimate = inanimado

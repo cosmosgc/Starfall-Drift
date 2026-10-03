@@ -2,7 +2,7 @@ health-analyzer-window-no-patient-data-text = Sem dados de pacientes.
 
 health-analyzer-window-entity-unknown-text =  Desconhecido
 
-health-analyzer-window-entity-unknown-species-text =  Não-Humanóide.
+health-analyzer-window-entity-unknown-species-text = Não-Humanóide
 
 health-analyzer-window-entity-unknown-value-text = N/A
 
@@ -10,7 +10,7 @@ health-analyzer-window-entity-alive-text = Vivo
 
 health-analyzer-window-entity-dead-text =  Morto
 
-health-analyzer-window-entity-critical-text = Crítico.
+health-analyzer-window-entity-critical-text = Crítico
 
 health-analyzer-window-entity-temperature-text =  Temperatura:
 

@@ -1,5 +1,5 @@
 # species specific
-loadout-group-full-tank-aquatic = Tanque cheio para respiradores de água.
+loadout-group-full-tank-aquatic = Tanque cheio para respiradores de água
 
 loadout-group-breath-tool-decapoid = Vaporizador para decapóides
 

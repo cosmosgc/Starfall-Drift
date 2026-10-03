@@ -164,7 +164,7 @@ stack-rolling-paper = papel de enrolar { $amount ->
        *[other] papéis
     }
 
-stack-fulton = Fulton.
+stack-fulton = Fulton
 
 stack-credit = Speso
 
@@ -210,9 +210,9 @@ stack-aloe-cream =  Creme de aloé
 
 stack-gauze = gaze
 
-stack-brutepack = Brutepack.
+stack-brutepack = Brutepack
 
-stack-bloodpack = -Pacote de sangue.
+stack-bloodpack = -Pacote de sangue
 
 stack-medicated-suture = Sutura medicada
 
@@ -226,13 +226,13 @@ stack-blueberry-pancake = Panqueca de mirtilo
 
 stack-chocolate-chip-pancake = panqueca de chocolate
 
-stack-pizza-box =  Caixa de pizza.
+stack-pizza-box = Caixa de pizza
 
 stack-dark-tile =  azulejo escuro
 
 stack-dark-steel-diagonal-mini-tile =  Aço escuro diagonal mini azulejo
 
-stack-dark-steel-diagonal-tile =  Aço escuro, azulejo diagonal.
+stack-dark-steel-diagonal-tile = Aço escuro, azulejo diagonal
 
 stack-dark-steel-herringbone = piso espinha de peixe de aço escuro
 
@@ -262,7 +262,7 @@ stack-steel-herringbone = piso espinha de peixe de aço
 
 stack-steel-horizontal-slats-tile-bordered =  aço bordado horizontal ladrilho ladrilho
 
-stack-steel-mini-tile = Mini-telha de aço.
+stack-steel-mini-tile = Mini-telha de aço
 
 stack-steel-mono-tile =  Aço mono azulejo
 
@@ -280,7 +280,7 @@ stack-offset-white-steel-tile = Offset azulejo de aço branco
 
 stack-white-steel-diagonal-mini-tile =  Aço branco diagonal mini azulejo
 
-stack-white-steel-diagonal-tile =  Aço branco, azulejo diagonal.
+stack-white-steel-diagonal-tile = Aço branco, azulejo diagonal
 
 stack-white-steel-herringbone = piso espinha de peixe de aço branco
 
@@ -296,7 +296,7 @@ stack-white-steel-vertical-pavement =  Aço branco pavimento vertical
 
 stack-white-steel-vertical-slats-tile-bordered =  Aço branco bordado vertical ladrilho
 
-stack-white-steel-slats-tile-continuous =  Aço branco, azulejo contínuo.
+stack-white-steel-slats-tile-continuous = Aço branco, azulejo contínuo
 
 stack-steel-dark-checker-tile =  Aço azulejo escuro
 
@@ -344,7 +344,7 @@ stack-red-shuttle-tile =  azulejo vermelho
 
 stack-grey-shuttle-tile =  Azulejo cinza da nave auxiliar
 
-stack-black-shuttle-tile = - Um azulejo preto.
+stack-black-shuttle-tile = - Um azulejo preto
 
 stack-eighties-floor-tile =  Piso de 80 andares
 
@@ -382,7 +382,7 @@ stack-gym-floor-tile =  Piso de ginástica
 
 stack-elevator-shaft-tile = telha do poço do elevador
 
-stack-rock-vault-tile = - Abóbada de pedra.
+stack-rock-vault-tile = - Abóbada de pedra
 
 stack-blue-floor-tile =  azul azulejo
 
@@ -400,7 +400,7 @@ stack-mime-floor-tile =  Piso mímico azulejo
 
 stack-kitchen-floor-tile =  piso da cozinha
 
-stack-laundry-floor-tile = - Ladrilhos de lavanderia.
+stack-laundry-floor-tile = - Ladrilhos de lavanderia
 
 stack-concrete-tile = telha de concreto
 
@@ -432,9 +432,9 @@ stack-bcircuit-floor-tile = Bcircuit piso azulejo
 
 stack-grass-floor-tile = telha de chão de grama
 
-stack-grass-jungle-floor-tile =  grama, floresta, piso, telha.
+stack-grass-jungle-floor-tile = grama, floresta, piso, telha
 
-stack-snow-floor-tile = - Sim.
+stack-snow-floor-tile = - Sim
 
 stack-wood-patter-floor =  piso de madeira padrão
 
@@ -472,11 +472,11 @@ stack-xeno-floor = Xeno chão
 
 stack-xeno-steel =  Telha de aço xeno
 
-stack-xeno-steel-corner =  Aço xeno, azulejo de canto.
+stack-xeno-steel-corner = Aço xeno, azulejo de canto
 
 stack-xenoborg = telha xenoborg
 
-stack-xeno-maint = Xeno Techmaint.
+stack-xeno-maint = Xeno Techmaint
 
 stack-dark-squiggly =  Aço escuro azulejo esquiggly
 

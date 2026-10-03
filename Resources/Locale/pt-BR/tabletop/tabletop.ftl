@@ -1,6 +1,6 @@
 tabletop-verb-play-game =  Joguem o jogo
 
-tabletop-verb-dump-pieces = -Pedaços de Despejo.
+tabletop-verb-dump-pieces = -Pedaços de Despejo
 
 tabletop-default-board-name =  Jogo de tabuleiro
 
@@ -14,8 +14,8 @@ tabletop-chess-flip = Flip
 
 tabletop-parchis-board-name = Parchís
 
-tabletop-backgammon-board-name =  Gamão.
+tabletop-backgammon-board-name = Gamão
 
-tabletop-checkers-board-name =  Damas.
+tabletop-checkers-board-name = Damas
 
 tabletop-battlemap-board-name =  Mapa de batalha

@@ -1,6 +1,6 @@
-species-name-apid = Apid.
+species-name-apid = Apid
 
-species-name-allulalo = Alulalo.
+species-name-allulalo = Alulalo
 
 species-name-ant = Formiga
 

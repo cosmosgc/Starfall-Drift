@@ -14,7 +14,7 @@ gas-plasma = Plasma
 
 gas-plasma-abbreviation = P
 
-gas-tritium = Tritium.
+gas-tritium = Tritium
 
 gas-tritium-abbreviation = T
 
@@ -30,6 +30,6 @@ gas-nitrous-oxide =  Óxido nitroso
 
 gas-nitrous-oxide-abbreviation = N2O
 
-gas-frezon = Frezon.
+gas-frezon = Frezon
 
-gas-frezon-abbreviation = F.
+gas-frezon-abbreviation = F

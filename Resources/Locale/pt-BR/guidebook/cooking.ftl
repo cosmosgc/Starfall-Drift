@@ -1,4 +1,4 @@
-guidebook-microwave-ingredients-header = Ingredientes.
+guidebook-microwave-ingredients-header = Ingredientes
 
 guidebook-microwave-cook-time-header =  Hora de cozinhar
 

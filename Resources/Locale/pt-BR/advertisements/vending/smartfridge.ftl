@@ -1,6 +1,6 @@
 advertisement-smartfridge-1 = Olá, mundo!
 
-advertisement-smartfridge-2 = Por favor, deixe-me sair.
+advertisement-smartfridge-2 = Por favor, deixe-me sair
 
 advertisement-smartfridge-3 =  Posso fazer um quintilhão de cálculos por segundo.
 

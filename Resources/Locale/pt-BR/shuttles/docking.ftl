@@ -1,4 +1,4 @@
-docking-component-dock = Dock.
+docking-component-dock = Dock
 
 docking-component-undock = Desmontar
 
@@ -8,4 +8,4 @@ cmd-dock-help = Entidade de airlock 1
 
 cmd-dock-success = Atracado com sucesso
 
-cmd-dock-fail =  Incapaz de atracar.
+cmd-dock-fail = Incapaz de atracar

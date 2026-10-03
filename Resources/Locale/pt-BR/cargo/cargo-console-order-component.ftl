@@ -12,4 +12,4 @@ cargo-console-order-menu-reason-label =  Razão:
 
 cargo-console-order-menu-amount-label =  Quantidade:
 
-cargo-console-order-menu-submit-button =  Está bem.
+cargo-console-order-menu-submit-button = Está bem

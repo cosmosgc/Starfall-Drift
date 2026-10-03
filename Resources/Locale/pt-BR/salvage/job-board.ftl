@@ -39,9 +39,9 @@ salv-job-board-name-BountySalvageOreBananium = Bananium (Minério)
 
 salv-job-board-name-BountyTeethSharkminnow = Sharkminnow
 
-salv-job-board-name-BountyGoliathPlates = Golias.
+salv-job-board-name-BountyGoliathPlates = Golias
 
-salv-job-board-name-BountyHivelordRemains = - Hivelord.
+salv-job-board-name-BountyHivelordRemains = - Hivelord
 
 salv-job-board-name-BountySalvageDiamond = Diamante
 

@@ -6,7 +6,7 @@ cargo-console-menu-flavor-right = V2.1
 
 cargo-console-menu-account-name-label = Conta:{ " " }
 
-cargo-console-menu-account-name-none-text =  Nenhum.
+cargo-console-menu-account-name-none-text = Nenhum
 
 cargo-console-menu-account-name-format = [bold][color={ $color }]{ $name }[/color][/bold] [font="Monospace"]\[{ $code }\][/font]
 
@@ -28,7 +28,7 @@ cargo-console-menu-order-capacity-number = { $count }/{ $capacity }
 
 cargo-console-menu-call-shuttle-button = Ativar telepad
 
-cargo-console-menu-permissions-button = Permissões.
+cargo-console-menu-permissions-button = Permissões
 
 cargo-console-menu-categories-label =  Categorias:{ " " }
 
@@ -38,7 +38,7 @@ cargo-console-menu-requests-label =  Pedidos
 
 cargo-console-menu-orders-label =  Ordens
 
-cargo-console-menu-populate-categories-all-text =  Todos.
+cargo-console-menu-populate-categories-all-text = Todos
 
 cargo-console-menu-order-row-title = { $productName } (x{ $orderAmount } para { $orderPrice }$)
 
@@ -50,7 +50,7 @@ cargo-console-menu-order-row-button-approve = Aprovar
 
 cargo-console-menu-order-row-button-cancel =  Cancelar
 
-cargo-console-menu-order-row-alerts-reason-absent = A razão não é especificada.
+cargo-console-menu-order-row-alerts-reason-absent = A razão não é especificada
 
 cargo-console-menu-order-row-alerts-requester-unknown =  Desconhecido
 
@@ -75,19 +75,19 @@ cargo-console-menu-account-action-option-withdraw = Retirar dinheiro
 cargo-console-menu-account-action-option-transfer =  Transferência de fundos para { $code }
 
 # Orders
-cargo-console-order-not-allowed =  Acesso não permitido.
+cargo-console-order-not-allowed = Acesso não permitido
 
-cargo-console-station-not-found =  Nenhuma estação disponível.
+cargo-console-station-not-found = Nenhuma estação disponível
 
 cargo-console-invalid-product = ID do produto inválido
 
-cargo-console-too-many =  Muitas ordens aprovadas.
+cargo-console-too-many = Muitas ordens aprovadas
 
-cargo-console-snip-snip =  Ordem aparada à capacidade.
+cargo-console-snip-snip = Ordem aparada à capacidade
 
 cargo-console-insufficient-funds =  Fundos insuficientes (requerendo { $cost })
 
-cargo-console-unfulfilled =  Não há espaço para cumprir a ordem.
+cargo-console-unfulfilled = Não há espaço para cumprir a ordem
 
 cargo-console-trade-station =  Enviado para { $destination }
 
@@ -99,7 +99,7 @@ cargo-console-fund-transfer-broadcast = [bold]{ $name } transferiu { $amount } S
 
 cargo-console-fund-transfer-user-unknown =  Desconhecido
 
-cargo-console-paper-reason-default =  Nenhum.
+cargo-console-paper-reason-default = Nenhum
 
 cargo-console-paper-approver-default =  Desconhecido
 
@@ -121,7 +121,7 @@ cargo-shuttle-console-station-unknown = Desconhecido
 
 cargo-shuttle-console-shuttle-not-found = Não encontrado
 
-cargo-shuttle-console-organics = Foram detectadas formas de vida orgânicas no transporte.
+cargo-shuttle-console-organics = Foram detectadas formas de vida orgânicas no transporte
 
 cargo-no-shuttle = Nenhum transporte de carga encontrado!
 

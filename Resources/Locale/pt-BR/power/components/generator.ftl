@@ -6,13 +6,13 @@ portable-generator-verb-start-msg-reliable =  Ligue o gerador.
 
 portable-generator-verb-start-msg-unanchored = O gerador deve estar ancorado primeiro!
 
-portable-generator-verb-stop =  Pare o gerador.
+portable-generator-verb-stop = Pare o gerador
 
 portable-generator-start-fail =  Você puxou o cabo, mas não começou.
 
 portable-generator-start-success =  Você puxa o cordão, e ele gira para a vida.
 
-portable-generator-ui-title =  Gerador portátil.
+portable-generator-ui-title = Gerador portátil
 
 portable-generator-ui-status-stopped = Parado:
 
@@ -46,7 +46,7 @@ portable-generator-ui-network-stats =  Rede:
 
 portable-generator-ui-network-stats-value = { POWERWATTS($supply) } / { POWERWATTS($load) }
 
-portable-generator-ui-network-stats-not-connected =  Não conectado.
+portable-generator-ui-network-stats-not-connected = Não conectado
 
 power-switchable-generator-examine = A potência está definida para { $voltage }.
 

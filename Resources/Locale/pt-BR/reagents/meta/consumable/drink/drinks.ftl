@@ -1,4 +1,4 @@
-reagent-name-coffee = Café.
+reagent-name-coffee = Café
 
 reagent-desc-coffee =  Uma bebida feita de grãos de café, contém uma quantidade moderada de cafeína.
 
@@ -18,11 +18,11 @@ reagent-name-cafe-latte = Café com leite
 
 reagent-desc-cafe-latte =  Uma bebida agradável, forte e saborosa enquanto você está lendo.
 
-reagent-name-tea-powder =  Chá em pó.
+reagent-name-tea-powder = Chá em pó
 
 reagent-desc-tea-powder =  Folhas de chá finamente moídas, usadas para fazer chá.
 
-reagent-name-green-tea =  Chá verde.
+reagent-name-green-tea = Chá verde
 
 reagent-desc-green-tea =  Chá verde saboroso.
 
@@ -30,15 +30,15 @@ reagent-name-grenadine = grenadine
 
 reagent-desc-grenadine =  Não tem sabor de cereja!
 
-reagent-name-iced-coffee = Café gelado.
+reagent-name-iced-coffee = Café gelado
 
 reagent-desc-iced-coffee = Café e gelo, refrescante e fresco.
 
-reagent-name-iced-green-tea =  Chá verde gelado.
+reagent-name-iced-green-tea = Chá verde gelado
 
 reagent-desc-iced-green-tea =  Chá verde frio.
 
-reagent-name-iced-tea =  Chá gelado.
+reagent-name-iced-tea = Chá gelado
 
 reagent-desc-iced-tea =  Nenhuma relação com um artista/ator de rap.
 
@@ -46,7 +46,7 @@ reagent-name-lemonade = Limonada
 
 reagent-desc-lemonade =  Beba com suco de limão, água e um adoçante, como açúcar de cana ou mel.
 
-reagent-name-arnold-palmer = Arnold Palmer.
+reagent-name-arnold-palmer = Arnold Palmer
 
 reagent-desc-arnold-palmer =  Agora, veja este drive.
 
@@ -74,7 +74,7 @@ reagent-name-milk-spoiled =  leite estragado
 
 reagent-desc-milk-spoiled = Este leite está rançoso.
 
-reagent-name-nothing =  Nada.
+reagent-name-nothing = Nada
 
 reagent-desc-nothing =  Absolutamente nada.
 
@@ -86,7 +86,7 @@ reagent-name-hot-cocoa = Cacau quente
 
 reagent-desc-hot-cocoa =  Cheira como os feriados!
 
-reagent-name-soda-water =  Água com gás.
+reagent-name-soda-water = Água com gás
 
 reagent-desc-soda-water = Um recipiente de refrigerante, por que não faz um uísque com refrigerante?
 
@@ -94,7 +94,7 @@ reagent-name-soy-latte = latte de soja
 
 reagent-desc-soy-latte = Um café feito com café expresso e leite de soja cozido.
 
-reagent-name-tea =  Chá.
+reagent-name-tea = Chá
 
 reagent-desc-tea =  Uma bebida feita por folhas fervente da árvore de chá, Camellia sinensis.
 
@@ -118,7 +118,7 @@ reagent-name-hot-ramen = Ramen quente
 
 reagent-desc-hot-ramen = Macarrão quente.
 
-reagent-name-pilk = Pilk.
+reagent-name-pilk = Pilk
 
 reagent-desc-pilk =  Uma mistura doentia de leite e cola.
 

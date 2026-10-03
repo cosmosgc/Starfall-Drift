@@ -8,7 +8,7 @@ cmd-tippy-auto-2 =  Mensagem
 
 cmd-tippy-auto-3 =  protótipo da entidade
 
-cmd-tippy-auto-4 =  Fale o tempo, em segundos.
+cmd-tippy-auto-4 = Fale o tempo, em segundos
 
 cmd-tippy-auto-5 =  Tempo de deslizamento, em segundos
 

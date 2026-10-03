@@ -22,9 +22,9 @@ marking-VoxVisageR-visage_r = Visagem (Direita)
 
 marking-VoxVisageR = Visagem (Direita)
 
-marking-VoxCheek-cheekblush = Cheeks.
+marking-VoxCheek-cheekblush = Cheeks
 
-marking-VoxCheek = Cheeks.
+marking-VoxCheek = Cheeks
 
 marking-VoxBeak-beak =  Beak (Pointed)
 
