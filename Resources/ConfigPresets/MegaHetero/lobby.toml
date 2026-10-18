@@ -1,0 +1,19 @@
+# Estação Mega Hetero — controle de lobby (música + background)
+# Carregado DEPOIS de MegaHetero/estacao-mega-hetero.
+# Uso: config.presets = "MegaHetero/estacao-mega-hetero,MegaHetero/lobby"
+
+[audio]
+# Coleção de músicas do lobby (soundCollection).
+# Padrão upstream: "LobbyMusic" (Resources/Prototypes/SoundCollections/lobby.yml).
+# Para usar só músicas próprias, crie Resources/Prototypes/_MegaHetero/SoundCollections/lobby.yml
+# com id próprio (ex.: "MegaHeteroLobby") e troque o valor abaixo.
+lobby_music_collection = "LobbyMusic"
+
+[game]
+# Duração do lobby pré-round em segundos (300 = 5 min)
+lobbyduration = 300
+lobbyenabled = true
+
+# NOTA: ambience.lobby_music_volume e ambience.lobby_music_enabled são
+# CLIENTONLY — só cada jogador ajusta no próprio cliente. Não podem ser
+# definidos pelo servidor, por isso não aparecem aqui.

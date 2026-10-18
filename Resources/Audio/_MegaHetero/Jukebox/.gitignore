@@ -1,0 +1,15 @@
+# Estação Mega Hetero — faixas privadas do jukebox.
+# Os áudios são locais/privados (não commitar binários), mas os metadados
+# (attributions.yml e o catálogo em Resources/Prototypes/_MegaHetero)
+# DEVEM ser commitados.
+*.ogg
+*.mp3
+*.wav
+*.flac
+*.aac
+*.m4a
+*.wma
+*.opus
+# Manter este .gitignore e os metadados versionados:
+!attributions.yml
+!.gitignore

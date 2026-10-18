@@ -1,0 +1,6 @@
+# Estação Mega Hetero — catálogo privado do jukebox.
+# A listagem (gerada pelo Tools/Jukebox-Manager) não é commitada,
+# assim como os áudios em Resources/Audio/_MegaHetero/Jukebox.
+# Manter este .gitignore versionado.
+*.yml
+!.gitignore
