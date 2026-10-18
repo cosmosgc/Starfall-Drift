@@ -1,3 +1,5 @@
+comp-kitchen-spike-begin-hook-self = Você começa a se arrastar para cima de { THE($hook) }!
+
 comp-kitchen-spike-begin-hook-self-other = { CAPITALIZE(THE($victim)) }  Começa a arrastar { REFLEXIVE($victim) } em frente { THE($hook) }!
 
 comp-kitchen-spike-begin-hook-other-self =  Você começa a arrastar { CAPITALIZE(THE($victim)) } em frente { THE($hook) }!
@@ -38,7 +40,7 @@ comp-kitchen-spike-butcher = { CAPITALIZE(THE($user)) } Abatido { THE($victim) }
 
 comp-kitchen-spike-need-tool-quality = { $quality }  Ferramenta necessária para açougueiro { THE($target) }.
 
-comp-kitchen-spike-unhook-verb =  Soltem-no.
+comp-kitchen-spike-unhook-verb = Soltem-no
 
 comp-kitchen-spike-hooked = [color=red]{ CAPITALIZE(THE($victim)) }  Está neste ponto![/color]
 

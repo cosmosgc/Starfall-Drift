@@ -8,4 +8,4 @@ cmd-biome_addlayer-help = Biomemplate, biometemplate, biometemplate, biomemetemp
 
 cmd-biome_addmarkerlayer-desc =  Adiciona outra camada marcadora de bioma
 
-cmd-biome_addmarkerlayer-help = Biome, addmarkerlayer, o biomemarkerlayer.
+cmd-biome_addmarkerlayer-help = Biome, addmarkerlayer, o biomemarkerlayer

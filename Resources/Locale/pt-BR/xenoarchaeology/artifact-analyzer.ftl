@@ -1,4 +1,4 @@
-analysis-console-menu-title = Consola de Análise de Espectro de Ampla Marca 3
+analysis-console-menu-title = Console de Análise de Amplo Espectro Mark 3
 
 analysis-console-server-list-button =  Servidor
 

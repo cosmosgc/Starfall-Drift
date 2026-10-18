@@ -1,6 +1,6 @@
-openable-component-verb-open =  Abra.
+openable-component-verb-open = Abra
 
-openable-component-verb-close =  Feche.
+openable-component-verb-close = Feche
 
 openable-component-on-examine-is-opened = [color=yellow] Aberto.[/color]
 

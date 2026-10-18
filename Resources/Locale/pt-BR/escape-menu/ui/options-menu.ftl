@@ -2,7 +2,7 @@ ui-options-title =  Opções do jogo
 
 ui-options-tab-accessibility = Acessibilidade
 
-ui-options-tab-admin = Admin.
+ui-options-tab-admin = Admin
 
 ui-options-tab-graphics =  Gráficos
 
@@ -16,7 +16,7 @@ ui-options-tab-misc =  Geral
 
 ui-options-apply = Economize e aplique-se
 
-ui-options-reset-all = Reset alterado.
+ui-options-reset-all = Reset alterado
 
 ui-options-default = Reinicie com o padrão
 
@@ -70,7 +70,7 @@ ui-options-misc-label = Misc
 
 ui-options-interface-label = Interface
 
-ui-options-auto-fill-highlights = Defina automaticamente a lista de destaques com base no nome e trabalho do seu personagem.
+ui-options-auto-fill-highlights = Defina automaticamente a lista de destaques com base no nome e trabalho do seu personagem
 
 ui-options-highlights-color = Cor dos destaques:
 
@@ -84,25 +84,25 @@ ui-options-opaque-storage-window =  Janela de armazenamento opaca
 
 ui-options-show-ooc-patron-color =  Mostre a cor do OOC Patreon
 
-ui-options-show-looc-on-head =  Mostre o bate-papo acima da cabeça dos personagens.
+ui-options-show-looc-on-head = Mostre o bate-papo acima da cabeça dos personagens
 
-ui-options-fancy-speech =  Mostre nomes em bolhas de fala.
+ui-options-fancy-speech = Mostre nomes em bolhas de fala
 
 ui-options-fancy-name-background =  Adicione fundo para os nomes de bolhas de fala
 
 ui-options-vsync = VSync
 
-ui-options-fullscreen =  Tela cheia.
+ui-options-fullscreen = Tela cheia
 
 ui-options-lighting-label =  Qualidade de iluminação:
 
-ui-options-lighting-very-low =  Muito baixo.
+ui-options-lighting-very-low = Muito baixo
 
-ui-options-lighting-low =  Baixo.
+ui-options-lighting-low = Baixo
 
-ui-options-lighting-medium =  Médio.
+ui-options-lighting-medium = Médio
 
-ui-options-lighting-high = Alto.
+ui-options-lighting-high = Alto
 
 ui-options-scale-label =  Escala de UI:
 
@@ -134,13 +134,13 @@ ui-options-hud-theme-retro = Retro
 
 ui-options-hud-theme-minimalist = Minimalista
 
-ui-options-hud-theme-ashen = Ashen.
+ui-options-hud-theme-ashen = Ashen
 
 ui-options-hud-layout-default = Predefinição
 
 ui-options-hud-layout-separated = Separados
 
-ui-options-vp-stretch =  Estique o viewport para caber na janela do jogo.
+ui-options-vp-stretch = Estique o viewport para caber na janela do jogo
 
 ui-options-vp-scale =  Escala fixa de viewport:
 
@@ -148,7 +148,7 @@ ui-options-vp-scale-value = x{ $scale }
 
 ui-options-vp-integer-scaling =  Prefere escala inteira (pode causar barras pretas/clipagem)
 
-ui-options-vp-integer-scaling-tooltip = Se esta opção estiver habilitada, a janela será dimensionada usando um valor inteiro em resoluções específicas.
+ui-options-vp-integer-scaling-tooltip = Se esta opção estiver habilitada, a janela será dimensionada usando um valor inteiro em resoluções específicas
 
 ui-options-filter-label =  Filtro de escala:
 
@@ -156,17 +156,17 @@ ui-options-filter-nearest =  Mais perto (sem suavização)
 
 ui-options-filter-bilinear = Bilinear (suave)
 
-ui-options-vp-vertical-fit = Vista vertical encaixando.
+ui-options-vp-vertical-fit = Vista vertical encaixando
 
-ui-options-vp-vertical-fit-tooltip = Se a tela for menor que a tela, então isso fará com que a tela seja cortada no eixo horizontal.
+ui-options-vp-vertical-fit-tooltip = Se a tela for menor que a tela, então isso fará com que a tela seja cortada no eixo horizontal
 
-ui-options-vp-low-res = visor de baixa resolução.
+ui-options-vp-low-res = visor de baixa resolução
 
 ui-options-parallax-low-quality = Parallax de baixa qualidade (fundo)
 
 ui-options-ambient-occlusion =  Mostrem a Oclusão Ambiental
 
-ui-options-fps-counter =  Mostre o balcão FPS.
+ui-options-fps-counter = Mostre o balcão FPS
 
 ui-options-vp-width = Largura do visor:
 
@@ -178,9 +178,9 @@ ui-options-hold-to-attack-ranged =  Mantenha o ataque (intervalo)
 
 ui-options-binds-reset-all = Reset TODOS os keybinds
 
-ui-options-binds-explanation =  Clique para mudar a ligação, clique com o botão direito para limpar.
+ui-options-binds-explanation = Clique para mudar a ligação, clique com o botão direito para limpar
 
-ui-options-unbound =  Não-abrigados.
+ui-options-unbound = Não-abrigados
 
 ui-options-bind-reset = Reiniciar
 
@@ -218,7 +218,7 @@ ui-options-header-text-chat =  Conversar
 
 ui-options-header-text-other =  Texto de entrada outro
 
-ui-options-hotkey-keymap = Use as chaves QWERTY dos EUA.
+ui-options-hotkey-keymap = Use as chaves QWERTY dos EUA
 
 ui-options-hotkey-toggle-walk = Alternar o Passeio
 
@@ -228,7 +228,7 @@ ui-options-function-move-left = Mova-se para a esquerda
 
 ui-options-function-move-down =  Desçam!
 
-ui-options-function-move-right = Mova-se para a direita.
+ui-options-function-move-right = Mova-se para a direita
 
 ui-options-function-walk =  Ande
 
@@ -240,7 +240,7 @@ ui-options-function-camera-rotate-right =  Rodar para a direita
 
 ui-options-function-camera-reset = Reiniciar
 
-ui-options-function-zoom-in = Aproximem-se.
+ui-options-function-zoom-in = Aproximem-se
 
 ui-options-function-zoom-out = Reduzir
 
@@ -248,7 +248,7 @@ ui-options-function-reset-zoom = Reset zoom
 
 ui-options-function-use = Use
 
-ui-options-function-use-secondary = Use o secundário.
+ui-options-function-use-secondary = Use o secundário
 
 ui-options-function-alt-use = Uso de Alt
 
@@ -262,11 +262,11 @@ ui-options-function-activate-item-in-world = Ativar item no mundo
 
 ui-options-function-alt-activate-item-in-world = Alternativa ativar item no mundo
 
-ui-options-function-drop =  Largue o item.
+ui-options-function-drop = Largue o item
 
 ui-options-function-examine-entity =  Examine
 
-ui-options-function-swap-hands = Troque de mãos.
+ui-options-function-swap-hands = Troque de mãos
 
 ui-options-function-swap-hands-reverse = Troque de mãos (outra direção)
 
@@ -276,31 +276,31 @@ ui-options-function-rotate-stored-item =  Rodar item armazenado
 
 ui-options-function-save-item-location =  Salvar a localização do item
 
-ui-options-static-storage-ui =  Tranque a janela de armazenamento para a barra de água quente.
+ui-options-static-storage-ui = Tranque a janela de armazenamento para a barra de água quente
 
-ui-options-function-smart-equip-backpack = Equipe inteligente para mochila.
+ui-options-function-smart-equip-backpack = Equipe inteligente para mochila
 
 ui-options-function-smart-equip-belt =  Inteligente-equipa para cinto
 
-ui-options-function-smart-equip-suit-storage = Equipamento inteligente para se adequar ao armazenamento.
+ui-options-function-smart-equip-suit-storage = Equipamento inteligente para se adequar ao armazenamento
 
 ui-options-function-smart-equip-pocket1 = Smart-equip para o bolso 1
 
 ui-options-function-smart-equip-pocket2 = Smart-equip para o bolso 2
 
-ui-options-function-open-backpack =  Abra a mochila.
+ui-options-function-open-backpack = Abra a mochila
 
-ui-options-function-open-belt = - Abra o cinto.
+ui-options-function-open-belt = - Abra o cinto
 
-ui-options-function-throw-item-in-hand =  Jogue o item.
+ui-options-function-throw-item-in-hand = Jogue o item
 
-ui-options-function-try-pull-object =  Puxe o objeto.
+ui-options-function-try-pull-object = Puxe o objeto
 
 ui-options-function-move-pulled-object = Mova o objeto puxado
 
-ui-options-function-release-pulled-object =  Solte o objeto puxado.
+ui-options-function-release-pulled-object = Solte o objeto puxado
 
-ui-options-function-point =  Ponto na localização.
+ui-options-function-point = Ponto na localização
 
 ui-options-function-rotate-object-clockwise =  Rodar no sentido horário
 
@@ -338,9 +338,9 @@ ui-options-function-open-context-menu =  Abrir menu de contexto
 
 ui-options-function-open-crafting-menu =  Abrir menu de artesanato
 
-ui-options-function-open-inventory-menu = Inventário aberto.
+ui-options-function-open-inventory-menu = Inventário aberto
 
-ui-options-function-open-a-help =  Abra a ajuda do administrador.
+ui-options-function-open-a-help = Abra a ajuda do administrador
 
 ui-options-function-open-abilities-menu =  Abrir menu de ação
 
@@ -352,7 +352,7 @@ ui-options-function-open-entity-spawn-window = Menu de criação de entidade abe
 
 ui-options-function-open-sandbox-window =  Abrir menu sandbox
 
-ui-options-function-open-tile-spawn-window =  Abra o menu de criação de azulejos.
+ui-options-function-open-tile-spawn-window = Abra o menu de criação de azulejos
 
 ui-options-function-open-decal-spawn-window = Menu de decalque aberto
 
@@ -360,15 +360,15 @@ ui-options-function-open-admin-menu =  Abrir menu de administração
 
 ui-options-function-open-guidebook =  Abrir guia
 
-ui-options-function-window-close-all =  Feche todas as janelas.
+ui-options-function-window-close-all = Feche todas as janelas
 
-ui-options-function-window-close-recent =  Feche a janela recente.
+ui-options-function-window-close-recent = Feche a janela recente
 
 ui-options-function-show-escape-menu = Alternar menu de jogo
 
 ui-options-function-escape-context =  Feche a janela recente ou comuta o menu do jogo
 
-ui-options-function-take-screenshot = Tire uma imagem.
+ui-options-function-take-screenshot = Tire uma imagem
 
 ui-options-function-take-screenshot-no-ui = Tire uma imagem (sem UI)
 
@@ -376,17 +376,17 @@ ui-options-function-toggle-fullscreen = Alternar tela cheia
 
 ui-options-function-editor-place-object =  Coloque o objeto
 
-ui-options-function-editor-cancel-place = Cancele a colocação.
+ui-options-function-editor-cancel-place = Cancele a colocação
 
 ui-options-function-editor-grid-place =  Coloque em grade
 
-ui-options-function-editor-line-place =  Coloque a linha.
+ui-options-function-editor-line-place = Coloque a linha
 
 ui-options-function-editor-rotate-object =  Rodar
 
 ui-options-function-editor-flip-object = Flip
 
-ui-options-function-editor-copy-object =  Entendido.
+ui-options-function-editor-copy-object = Entendido
 
 ui-options-function-show-debug-console =  Abrir Console
 
@@ -400,11 +400,11 @@ ui-options-function-inspect-server-component = Inspecione o componente do servid
 
 ui-options-function-inspect-server-component-tooltip =  Abra uma janela ViewVariables com o componente servidor definido pelo comando "Quickinspect" para a entidade que seu mouse está pairando.
 
-ui-options-function-inspect-client-component = Inspecione o componente do cliente.
+ui-options-function-inspect-client-component = Inspecione o componente do cliente
 
 ui-options-function-inspect-client-component-tooltip =  Abra uma janela ViewVariables com o componente cliente definido pelo comando "rápidoinspecionar" para a entidade que seu mouse está pairando.
 
-ui-options-function-hide-ui =  Esconda a UI.
+ui-options-function-hide-ui = Esconda a UI
 
 ui-options-function-hotbar1 = Espreguiçadeira 1
 
@@ -418,7 +418,7 @@ ui-options-function-hotbar5 =  Espaço de barras quentes 5
 
 ui-options-function-hotbar6 = "Caneta de Hotbar 6"
 
-ui-options-function-hotbar7 = Entalhe 7 da barra quente.
+ui-options-function-hotbar7 = Entalhe 7 da barra quente
 
 ui-options-function-hotbar8 = "Caneta 8 da barra quente"
 
@@ -488,17 +488,17 @@ ui-options-function-loadoutshift0 = Turno de carga da barra quente + 0
 
 ui-options-function-shuttle-strafe-up = Esticar
 
-ui-options-function-shuttle-strafe-right = - Direita da corda.
+ui-options-function-shuttle-strafe-right = - Direita da corda
 
-ui-options-function-shuttle-strafe-left = Strafe à esquerda.
+ui-options-function-shuttle-strafe-left = Strafe à esquerda
 
-ui-options-function-shuttle-strafe-down = Aproximem-se.
+ui-options-function-shuttle-strafe-down = Aproximem-se
 
 ui-options-function-shuttle-rotate-left =  Rodar à esquerda
 
 ui-options-function-shuttle-rotate-right =  Rodar para a direita
 
-ui-options-function-shuttle-brake = Trava.
+ui-options-function-shuttle-brake = Trava
 
 ui-options-function-text-cursor-left = Mova o cursor para a esquerda
 
@@ -528,7 +528,7 @@ ui-options-function-text-cursor-select-down = Expandir seleção para baixo
 
 ui-options-function-text-cursor-select-word-left = Expandir seleção deixada por palavra
 
-ui-options-function-text-cursor-select-word-right = Expandir a seleção, direto por palavra.
+ui-options-function-text-cursor-select-word-right = Expandir a seleção, direto por palavra
 
 ui-options-function-text-cursor-select-begin = Expandir a seleção para o início
 
@@ -550,9 +550,9 @@ ui-options-function-multiline-text-submit = Submeter multi-linha
 
 ui-options-function-text-select-all =  Selecione todos
 
-ui-options-function-text-copy =  Entendido.
+ui-options-function-text-copy = Entendido
 
-ui-options-function-text-cut =  Corta.
+ui-options-function-text-cut = Corta
 
 ui-options-function-text-paste = Colar
 
@@ -560,7 +560,7 @@ ui-options-function-text-history-prev =  Anteriormente da história
 
 ui-options-function-text-history-next =  Próximo da história
 
-ui-options-function-text-release-focus =  Solte o foco.
+ui-options-function-text-release-focus = Solte o foco
 
 ui-options-function-text-scroll-to-bottom = Role para baixo
 
@@ -572,25 +572,25 @@ ui-options-function-text-complete-prev = Completo anterior
 
 ui-options-net-predict = Previsão do lado do cliente
 
-ui-options-net-interp-ratio =  Tamanho do buffer do Estado.
+ui-options-net-interp-ratio = Tamanho do buffer do Estado
 
-ui-options-net-interp-ratio-tooltip =  Aumentar isso geralmente fará o jogo mais resistente à perda de pacotes de clientes, no entanto, ao fazê-lo efetivamente adiciona um pouco mais de latência e requer que o cliente prever mais carrapatos futuros.
+ui-options-net-interp-ratio-tooltip = Aumentar isso geralmente fará o jogo mais resistente à perda de pacotes de clientes, no entanto, ao fazê-lo efetivamente adiciona um pouco mais de latência e requer que o cliente prever mais carrapatos futuros
 
-ui-options-net-predict-tick-bias = Previsão, viés do tique-taque.
+ui-options-net-predict-tick-bias = Previsão, viés do tique-taque
 
-ui-options-net-predict-tick-bias-tooltip =  Aumentar isso geralmente fará o jogo mais resistente à perda de pacotes cliente->server, no entanto, ao fazê-lo efetivamente adiciona um pouco mais de latência e requer que o cliente para prever mais carrapatos futuros.
+ui-options-net-predict-tick-bias-tooltip = Aumentar isso geralmente fará o jogo mais resistente à perda de pacotes cliente->server, no entanto, ao fazê-lo efetivamente adiciona um pouco mais de latência e requer que o cliente para prever mais carrapatos futuros
 
 ui-options-net-pvs-spawn = Entity PVS gera orçamento
 
-ui-options-net-pvs-spawn-tooltip =  Isso limita a taxa de envio de entidades recém-nascidas ao cliente, diminuindo isso pode ajudar a reduzir a gagueira devido à desova de entidades, mas pode levar ao pop-in.
+ui-options-net-pvs-spawn-tooltip = Isso limita a taxa de envio de entidades recém-nascidas ao cliente, diminuindo isso pode ajudar a reduzir a gagueira devido à desova de entidades, mas pode levar ao pop-in
 
 ui-options-net-pvs-entry =  Orçamento de entidade PVS
 
-ui-options-net-pvs-entry-tooltip =  Isso limita a taxa de envio de entidades visíveis ao cliente, diminuindo isso pode ajudar a reduzir a gagueira, mas pode levar a uma entrada.
+ui-options-net-pvs-entry-tooltip = Isso limita a taxa de envio de entidades visíveis ao cliente, diminuindo isso pode ajudar a reduzir a gagueira, mas pode levar a uma entrada
 
 ui-options-net-pvs-leave =  Taxa de descompressão da PVS
 
-ui-options-net-pvs-leave-tooltip =  Isso limita o ritmo em que o cliente vai remover entidades fora de vista, diminuindo isso pode ajudar a reduzir a gagueira ao andar, mas pode ocasionalmente levar a erros de previsão e outros problemas.
+ui-options-net-pvs-leave-tooltip = Isso limita o ritmo em que o cliente vai remover entidades fora de vista, diminuindo isso pode ajudar a reduzir a gagueira ao andar, mas pode ocasionalmente levar a erros de previsão e outros problemas
 
 cmd-options-desc =  Abre o menu de opções, opcionalmente com uma aba específica selecionada.
 
@@ -600,7 +600,7 @@ ui-options-accessability-header-visuals = Visualização
 
 ui-options-accessability-header-content =  Conteúdo
 
-ui-options-enable-color-name =  Adicione cores aos nomes dos personagens.
+ui-options-enable-color-name = Adicione cores aos nomes dos personagens
 
 ui-options-colorblind-friendly =  Modo amigável de cor-cego
 
@@ -608,11 +608,11 @@ ui-options-reduced-motion = Reduzir o movimento dos efeitos visuais
 
 ui-options-disable-ai-static = Desativar o efeito estático na sobreposição da câmera IA
 
-ui-options-screen-shake-intensity = - Esfregando a intensidade.
+ui-options-screen-shake-intensity = - Esfregando a intensidade
 
 ui-options-chat-window-opacity = Opacidade da janela de bate-papo
 
-ui-options-speech-bubble-text-opacity =  Fala, bolha de texto, opacidade.
+ui-options-speech-bubble-text-opacity = Fala, bolha de texto, opacidade
 
 ui-options-speech-bubble-speaker-opacity =  Fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala, fala,
 
@@ -626,9 +626,9 @@ ui-options-admin-player-tab-symbol-setting =  Símbolos de antag coluna de carac
 
 ui-options-admin-player-tab-symbol-setting-off = Sem símbolo de antag
 
-ui-options-admin-player-tab-symbol-setting-basic =  Mostre o símbolo padrão da antag.
+ui-options-admin-player-tab-symbol-setting-basic = Mostre o símbolo padrão da antag
 
-ui-options-admin-player-tab-symbol-setting-specific =  Mostre o símbolo de antag específico.
+ui-options-admin-player-tab-symbol-setting-specific = Mostre o símbolo de antag específico
 
 ui-options-admin-player-tab-role-setting =  Configurações de exibição de papéis
 
@@ -642,13 +642,13 @@ ui-options-admin-player-tab-role-setting-subtyperoletype =  Mostrar subtipo e ti
 
 ui-options-admin-player-tab-color-setting =  Configurações de cores
 
-ui-options-admin-player-tab-color-setting-off = Eu odeio cores.
+ui-options-admin-player-tab-color-setting-off = Eu odeio cores
 
 ui-options-admin-player-tab-color-setting-character = Colorir nomes de personagens de antag
 
 ui-options-admin-player-tab-color-setting-roletype = Colorir todos os tipos de papéis
 
-ui-options-admin-player-tab-color-setting-both = Colorir os dois.
+ui-options-admin-player-tab-color-setting-both = Colorir os dois
 
 ui-options-admin-overlay-title = Overlay do administrador
 
@@ -664,17 +664,17 @@ ui-options-admin-overlay-antag-symbol =  Estilo de símbolo de Antag
 
 ui-options-admin-overlay-antag-symbol-off = Sem símbolo de antag
 
-ui-options-admin-overlay-antag-symbol-basic =  Mostre o símbolo padrão da antag.
+ui-options-admin-overlay-antag-symbol-basic = Mostre o símbolo padrão da antag
 
-ui-options-admin-overlay-antag-symbol-specific =  Mostre o símbolo de antag específico.
+ui-options-admin-overlay-antag-symbol-specific = Mostre o símbolo de antag específico
 
-ui-options-admin-enable-overlay-playtime =  Hora de brincar.
+ui-options-admin-enable-overlay-playtime = Hora de brincar
 
-ui-options-admin-enable-overlay-starting-job =  Mostre o trabalho inicial.
+ui-options-admin-enable-overlay-starting-job = Mostre o trabalho inicial
 
 ui-options-admin-overlay-merge-distance =  Distância de mesclagem da pilha
 
-ui-options-admin-overlay-ghost-fade-distance = A sobreposição fantasma vai desvanecer do rato.
+ui-options-admin-overlay-ghost-fade-distance = A sobreposição fantasma vai desvanecer do rato
 
 ui-options-admin-overlay-ghost-hide-distance =  Sobreposição fantasma escondem-se do rato
 

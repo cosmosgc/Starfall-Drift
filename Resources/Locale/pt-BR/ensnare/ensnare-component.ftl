@@ -1,3 +1,5 @@
+ensnare-component-try-free = Você se esforça para remover { $ensnare } que está te enredando!
+
 ensnare-component-try-free-complete =  Você se libertou com sucesso do { $ensnare }!
 
 ensnare-component-try-free-fail =  Você não consegue se libertar do { $ensnare }!

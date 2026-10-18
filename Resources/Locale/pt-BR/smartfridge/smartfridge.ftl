@@ -6,10 +6,10 @@ smart-fridge-component-try-eject-access-denied =  Acesso negado!
 
 smart-fridge-component-search-filter =  Busca...
 
-smart-fridge-component-title = Geladeira Inteligente.
+smart-fridge-component-title = Geladeira Inteligente
 
 smart-fridge-list-item = { $item } [{ $amount }]
 
 smart-fridge-request-generic =  Todas as vendas finais
 
-smart-fridge-request-chemistry = Requisito refils de química.
+smart-fridge-request-chemistry = Requisito refils de química

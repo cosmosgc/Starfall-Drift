@@ -1,6 +1,6 @@
 credits-window-title =  Créditos
 
-credits-window-patrons-tab = Padroeiros.
+credits-window-patrons-tab = Padroeiros
 
 credits-window-ss14contributorslist-tab =  Créditos
 
@@ -22,7 +22,7 @@ credits-window-original-remake-team-section-title =  Estação Espacial Original
 
 credits-window-immortals-title = Em Memória
 
-credits-window-special-thanks-section-title =  Obrigado especiais.
+credits-window-special-thanks-section-title = Obrigado especiais
 
 credits-window-previous-page-button =  Página anterior
 

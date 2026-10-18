@@ -24,11 +24,11 @@ gun-Burst = rajada
 gun-FullAuto = automático total
 
 # BallisticAmmoProvider
-gun-ballistic-cycle = Ejetar
+gun-ballistic-cycle = Ciclar
 
-gun-ballistic-cycled = Ejetado
+gun-ballistic-cycled = Ciclado
 
-gun-ballistic-cycled-empty = Ejetado (vazio)
+gun-ballistic-cycled-empty = Ciclado (vazio)
 
 gun-ballistic-transfer-invalid = { CAPITALIZE(THE($ammoEntity)) }  Não caberá dentro. { THE($targetEntity) }!
 
@@ -45,17 +45,17 @@ gun-cartridge-unspent = É mesmo. [color=lime] Não gasto.[/color].
 gun-battery-examine = Tem carga para [color={ $color }]{ $count }[/color] tiros.
 
 # CartridgeAmmoProvider
-gun-chamber-bolt-ammo =  Arma não aparafusada.
+gun-chamber-bolt-ammo = Arma não aparafusada
 
 gun-chamber-bolt = O ferrolho está [color={ $color }]{ $bolt }[/color].
 
-gun-chamber-bolt-closed =  Fechado.
+gun-chamber-bolt-closed = Fechado
 
-gun-chamber-bolt-opened = - Abra o parafuso.
+gun-chamber-bolt-opened = - Abra o parafuso
 
-gun-chamber-bolt-close =  Feche o parafuso.
+gun-chamber-bolt-close = Feche o parafuso
 
-gun-chamber-bolt-open =  Abra o parafuso.
+gun-chamber-bolt-open = Abra o parafuso
 
 gun-chamber-bolt-closed-state = Fechado
 
@@ -67,7 +67,7 @@ gun-chamber-rack = Ferrolhar
 gun-magazine-examine = Tem [color={ $color }]{ $count }[/color] tiros restantes.
 
 # RevolverAmmoProvider
-gun-revolver-empty = Revólver vazio.
+gun-revolver-empty = Revólver vazio
 
 gun-revolver-full = Revólver cheio
 
@@ -77,7 +77,7 @@ gun-revolver-spin = Girar o revólver
 
 gun-revolver-spun = Girado
 
-gun-speedloader-empty =  Carregador de velocidade vazio.
+gun-speedloader-empty = Carregador de velocidade vazio
 
 # GunSpreadModifier
 examine-gun-spread-modifier-reduction = A propagação foi reduzida por [color=yellow]{ $percentage }%[/color].

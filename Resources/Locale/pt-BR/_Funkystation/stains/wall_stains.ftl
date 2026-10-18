@@ -1,3 +1,5 @@
+wall-stain-cleaning-start = Você começa a limpar a mancha com toda a sua força...
+
 wall-stain-cleaning-success =  Você consegue limpar a mancha.
 
 wall-stain-cleaning-dry-rag = O pano está muito seco!

@@ -18,13 +18,13 @@ machine-part-name-capacitor =  Capacitor
 
 machine-part-name-manipulator = Manipulador
 
-machine-part-name-matter-bin = - Não importa.
+machine-part-name-matter-bin = - Não importa
 
 machine-part-name-power-cell = Célula de Energia
 
-two-way-lever-left =  Empurre para a esquerda.
+two-way-lever-left = Empurre para a esquerda
 
-two-way-lever-right =  Empurre para a direita.
+two-way-lever-right = Empurre para a direita
 
 two-way-lever-cant =  Não pode empurrar a alavanca dessa maneira!
 

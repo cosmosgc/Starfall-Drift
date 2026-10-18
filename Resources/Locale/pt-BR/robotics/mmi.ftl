@@ -14,8 +14,8 @@ positronic-brain-wipe-device-verb-text = Cérebro de limpeza
 
 positronic-brain-wiped-device = A atividade neural foi encerrada.
 
-positronic-brain-stop-searching-verb-text =  Pare de procurar.
+positronic-brain-stop-searching-verb-text = Pare de procurar
 
 positronic-brain-stopped-searching = O desbotamento dos neurônios parou.
 
-positronic-brain-slot-component-slot-name-brain = Cérebro.
+positronic-brain-slot-component-slot-name-brain = Cérebro

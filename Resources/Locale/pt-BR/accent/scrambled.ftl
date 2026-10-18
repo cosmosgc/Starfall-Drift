@@ -1,3 +1,5 @@
+accent-scrambled-words-1 = Quem?
+
 accent-scrambled-words-2 = O quê?
 
 accent-scrambled-words-3 =  Quando?

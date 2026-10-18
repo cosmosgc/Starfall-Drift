@@ -1,4 +1,4 @@
-cmd-osay-desc =  Força outra entidade a tentar enviar uma mensagem.
+cmd-osay-desc = Força outra entidade a tentar enviar uma mensagem
 
 cmd-osay-help = Uso: { $command }  Tradução:
 

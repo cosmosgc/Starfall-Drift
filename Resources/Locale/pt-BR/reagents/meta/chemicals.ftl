@@ -42,7 +42,7 @@ reagent-name-cellulose =  Fibras de celulose
 
 reagent-desc-cellulose = Um polidextrose polimérica cristalina, plantas juram por isso.
 
-reagent-name-rororium = Rororium.
+reagent-name-rororium = Rororium
 
 reagent-desc-rororium =  Uma substância estranha que preenche os núcleos dos hivelords que vagueiam pelo asteróide mineiro, que se pensava ser a fonte de seus poderes regenerativos.
 

@@ -1,14 +1,14 @@
-research-discipline-none =  Nenhum.
+research-discipline-none = Nenhum
 
-research-discipline-industrial = Industrial.
+research-discipline-industrial = Industrial
 
-research-discipline-arsenal = Arsenal.
+research-discipline-arsenal = Arsenal
 
 research-discipline-experimental =  Experimental
 
 research-discipline-civilian-services =  Serviços Civis
 
-research-technology-fulton = Fultons.
+research-technology-fulton = Fultons
 
 research-technology-salvage-equipment =  Equipamento de Salvagem
 
@@ -32,11 +32,11 @@ research-technology-advanced-atmospherics = Atmosféricos avançados
 
 research-technology-advanced-tools =  Ferramentas Avançadas
 
-research-technology-super-powercells = Super Powercells.
+research-technology-super-powercells = Super Powercells
 
 research-technology-bluespace-storage =  Armazenamento Bluespace
 
-research-technology-optimized-microgalvanism = Microgalvanismo otimizado.
+research-technology-optimized-microgalvanism = Microgalvanismo otimizado
 
 research-technology-space-scanning = Escaneando o espaço
 
@@ -57,7 +57,7 @@ research-technology-weaponized-laser-manipulation = Manipulação Laser Armada
 # Funky - Made name more accurate
 research-technology-nonlethal-ammunition = Munição Menos Letal
 
-research-technology-practice-ammunition = Pratiquem a munição.
+research-technology-practice-ammunition = Pratiquem a munição
 
 research-technology-concentrated-laser-weaponry =  Arma laser concentrada
 
@@ -75,7 +75,7 @@ research-technology-basic-shuttle-armament =  Armamento Básico
 
 research-technology-advanced-shuttle-weapon =  Armas avançadas
 
-research-technology-thermal-weaponry =  Arma térmica.
+research-technology-thermal-weaponry = Arma térmica
 
 research-technology-dual-wielding-technology =  Tecnologia de Wielding Dupla
 
@@ -113,7 +113,7 @@ research-technology-janitorial-equipment =  Equipamento de limpeza
 
 research-technology-laundry-tech = Lavanderia Tech
 
-research-technology-basic-hydroponics =  Hidropônica básica.
+research-technology-basic-hydroponics = Hidropônica básica
 
 research-technology-critter-mechs = Mechs de criaturas
 

@@ -1,7 +1,7 @@
 # addobjectives
 cmd-rmobjective-desc = Remove um objetivo da mente do jogador.
 
-cmd-rmobjective-help = - Não, não, não.
+cmd-rmobjective-help = - Não, não, não
 
 cmd-rmobjective-invalid-args =  Esperava exatamente 2 argumentos.
 

@@ -1,6 +1,6 @@
 store-currency-inserted = { CAPITALIZE(THE($used)) }  está inserido em { THE($target) }.
 
-store-currency-war-boost-given = { CAPITALIZE($target) }  Começa a zumbir.
+store-currency-war-boost-given = { CAPITALIZE($target) }  Começa a zumbir
 
 store-currency-inserted-implant = { CAPITALIZE(THE($used)) }  está inserido em seu implante.
 
@@ -12,7 +12,7 @@ store-currency-display-debugdollar =
        *[other] Dólares de depuração
     }
 
-store-currency-display-telecrystal =  TC.
+store-currency-display-telecrystal = TC
 
 store-currency-display-stolen-essence = Essência roubada
 

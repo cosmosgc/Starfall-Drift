@@ -1,12 +1,12 @@
 traitor-round-end-codewords = As palavras-chave eram: [color=White]{ $codewords }[/color]
 
-traitor-round-end-agent-name = Traidor.
+traitor-round-end-agent-name = Traidor
 
 objective-issuer-syndicate = [color=crimson]O Sindicato[/color]
 
 objective-issuer-unknown = [color=white] Desconhecido[/color]
 
-traitor-title = Traidor.
+traitor-title = Traidor
 
 traitor-description =  Há traidores entre nós...
 
@@ -22,7 +22,7 @@ traitor-death-match-station-is-too-unsafe-announcement = A estação é muito in
 
 traitor-death-match-end-round-description-first-line =  Os PDAs se recuperaram depois...
 
-traitor-death-match-end-round-description-entry = { $originalName }É PDA, com { $tcBalance }  TC.
+traitor-death-match-end-round-description-entry = { $originalName }É PDA, com { $tcBalance }  TC
 
 # TraitorRole
 traitor-role-greeting =  Você é um agente enviado por [color = darkred]O Sindicato[/color] em nome de { $corporation } Seus objetivos e palavras-chave estão listados no menu de personagens, use seu link para comprar as ferramentas que você precisará para esta missão, morte a Nanotrasen.

@@ -1,4 +1,4 @@
-timer-trigger-verb-set = { $time }  Segundos.
+timer-trigger-verb-set = { $time }  Segundos
 
 timer-trigger-verb-set-current = { $time }  Segundos (atual)
 

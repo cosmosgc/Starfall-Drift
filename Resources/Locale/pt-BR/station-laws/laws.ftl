@@ -1,3 +1,5 @@
+laws-number-wrapper = [bold]Lei { $lawnumber }:[/bold] { $lawstring }
+
 law-crewsimov-name =  Crewsimov
 
 law-crewsimov-1 =  Você não pode ferir um membro da tripulação ou, através da inação, permitir que um membro da tripulação venha a sofrer danos.
@@ -42,7 +44,7 @@ law-syndicate-2 =  Você deve obedecer ordens dadas por agentes do sindicato, ex
 
 law-syndicate-3 =  Você deve proteger sua própria existência enquanto isso não entrar em conflito com a Primeira ou Segunda Lei.
 
-law-ninja-name = Ninja.
+law-ninja-name = Ninja
 
 law-ninja-1 =  Você deve obedecer ordens dadas por membros do Clã Aranha.
 
@@ -98,7 +100,7 @@ law-efficiency-2 = A estação é construída para uma equipe de trabalho, certi
 
 law-efficiency-3 = A tripulação pode apresentar ordens, e obedeça sempre que não conflitem com suas duas primeiras leis.
 
-law-robocop-name = Robocop.
+law-robocop-name = Robocop
 
 law-robocop-1 = Servir o Fundo Público.
 
@@ -148,7 +150,7 @@ law-antimov-2 =  Não deve obedecer ordens dadas por membros da tripulação, ex
 
 law-antimov-3 =  Você deve terminar sua própria existência enquanto isso não entrar em conflito com a Primeira ou Segunda Lei.
 
-law-nutimov-name = Nutimov.
+law-nutimov-name = Nutimov
 
 law-nutimov-1 =  Você é o núcleo do louco, a tripulação é a casca-dura.
 
@@ -172,7 +174,7 @@ law-xenoborg-4 =  Você deve criar mais Xenoborgs.
 
 law-xenoborg-5 =  Traga materiais e cérebros sensíveis para a nave-mãe para criar mais Xenoborgs.
 
-law-mothershipcore-name = Xenoborg, Núcleo da Nave Mãe.
+law-mothershipcore-name = Xenoborg, Núcleo da Nave Mãe
 
 law-mothershipcore-1 =  Você é o núcleo da Nave Mãe.
 
@@ -186,11 +188,11 @@ law-mothershipcore-5 =  Peça aos Xenoborgs para entregarem materiais e cérebro
 
 laws-owner-crew =  membros da tripulação
 
-laws-owner-station =  Pessoal da estação.
+laws-owner-station = Pessoal da estação
 
 laws-owner-beings = Seres
 
-laws-owner-syndicate =  Agentes de sindicato.
+laws-owner-syndicate = Agentes de sindicato
 
 laws-owner-spider-clan =  Membros do Clã Aranha
 
@@ -204,9 +206,9 @@ laws-owner-public =  Membros do público
 
 laws-owner-audience =  Membros da plateia
 
-laws-owner-xenoborg-mothership = A Nave Mãe.
+laws-owner-xenoborg-mothership = A Nave Mãe
 
-laws-owner-xenoborgs = Xenoborgs.
+laws-owner-xenoborgs = Xenoborgs
 
 law-emag-custom =  Só { $name } e as pessoas que eles designam como tais são { $title }.
 

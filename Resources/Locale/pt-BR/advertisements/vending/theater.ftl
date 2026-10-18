@@ -1,3 +1,5 @@
+advertisement-theater-1 = Vista-se para o sucesso!
+
 advertisement-theater-2 = Agasalhado e chutado!
 
 advertisement-theater-3 = É hora do show!

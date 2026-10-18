@@ -1,4 +1,4 @@
-artifact-crusher-verb-start-crushing =  Comece a esmagar.
+artifact-crusher-verb-start-crushing = Comece a esmagar
 
 artifact-crusher-examine-no-autolocks = As travas automáticas da máquina são [color=green]Deficiente[/color].
 

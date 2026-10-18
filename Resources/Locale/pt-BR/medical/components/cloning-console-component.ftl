@@ -1,4 +1,4 @@
-cloning-console-window-title = Consola de clonagem
+cloning-console-window-title = Console de clonagem
 
 cloning-console-window-clone-button-text = Clonar
 
@@ -32,19 +32,19 @@ cloning-console-mind-present-text = Interface neural: [color=green]Consciência 
 
 cloning-console-component-msg-ready =  Pronto para clonar
 
-cloning-console-component-msg-empty =  Nenhum corpo detectado.
+cloning-console-component-msg-empty = Nenhum corpo detectado
 
 cloning-console-component-msg-scanner-occupant-alive =  Não pronto, Scanner Occupant Living
 
 cloning-console-component-msg-already-alive =  Não Pronto: Conflito Metafísico
 
-cloning-console-component-msg-occupied =  Não pronto: o módulo já contém um clone.
+cloning-console-component-msg-occupied = Não pronto: o módulo já contém um clone
 
 cloning-console-component-msg-already-cloning =  Não Pronto: Conflito de Rede Pod
 
 cloning-console-component-msg-incomplete =  Não Pronto: Clonagem em andamento
 
-cloning-console-component-msg-no-cloner =  Não está pronto, nenhum Cloner foi detectado.
+cloning-console-component-msg-no-cloner = Não está pronto, nenhum Cloner foi detectado
 
 cloning-console-component-msg-no-mind =  Não Pronto: Nenhuma Atividade Alma Detectada
 

@@ -1,4 +1,4 @@
-cmd-colornetwork-desc = Pinta os dispositivos de atmos na cor especificada.
+cmd-colornetwork-desc = Pinta os dispositivos de atmos na cor especificada
 
 cmd-colornetwork-help =  Rede de cores, canos, cores,
 

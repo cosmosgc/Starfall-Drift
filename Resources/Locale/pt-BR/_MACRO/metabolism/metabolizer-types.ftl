@@ -1,7 +1,7 @@
 metabolizer-type-gastropoid = Gastropoid
 
-metabolizer-type-apid = Apid.
+metabolizer-type-apid = Apid
 
 metabolizer-type-decapoid = Decapoid
 
-metabolizer-type-allulalo = Alulalo.
+metabolizer-type-allulalo = Allulalo

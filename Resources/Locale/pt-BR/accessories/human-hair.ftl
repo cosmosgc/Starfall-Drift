@@ -4,13 +4,13 @@ marking-HumanHairAfro2 = Afro 2
 
 marking-HumanHairBigafro = Afro (Grande)
 
-marking-HumanHairAntenna = Ahoge.
+marking-HumanHairAntenna = Ahoge
 
 marking-HumanHairBaby =  Querida
 
 marking-HumanHairBalding =  Cabelo careca
 
-marking-HumanHairBedhead =  Cabeça de cama.
+marking-HumanHairBedhead = Cabeça de cama
 
 marking-HumanHairBedheadv2 =  Cabeça de Cama 2
 
@@ -26,7 +26,7 @@ marking-HumanHairBeehive = Colmeia
 
 marking-HumanHairBeehivev2 = Colmeia 2
 
-marking-HumanHairBob = Bob Hair.
+marking-HumanHairBob = Bob Hair
 
 marking-HumanHairBob2 = Bob Hair 2
 
@@ -36,9 +36,9 @@ marking-HumanHairBob4 = Bob Hair 4
 
 marking-HumanHairBob5 = Bob Hair 5
 
-marking-HumanHairBobcurl = Bobcurl.
+marking-HumanHairBobcurl = Bobcurl
 
-marking-HumanHairBoddicker = Boddicker.
+marking-HumanHairBoddicker = Boddicker
 
 marking-HumanHairBowlcut = Bowlcut
 
@@ -92,7 +92,7 @@ marking-HumanHairClassicCia = Clássico CIA
 
 marking-HumanHairClassicCornrows2 = Clássico Cornos 2
 
-marking-HumanHairClassicFloorlengthBedhead = Clássico, cabeça de cama.
+marking-HumanHairClassicFloorlengthBedhead = Clássico, cabeça de cama
 
 marking-HumanHairClassicLong2 = Clássico Cabelo Longo 2
 
@@ -104,9 +104,9 @@ marking-HumanHairClassicMulder = Clássico Mulder
 
 marking-HumanHairClassicWisp = Clássico Wisp
 
-marking-HumanHairCoffeehouse = Café.
+marking-HumanHairCoffeehouse = Café
 
-marking-HumanHairCombover = Combover.
+marking-HumanHairCombover = Combover
 
 marking-HumanHairCornrows = Cornos
 
@@ -126,7 +126,7 @@ marking-HumanHairCube = Cubo
 
 marking-HumanHairCurls = Curls
 
-marking-HumanHairC = Corte o cabelo.
+marking-HumanHairC = Corte o cabelo
 
 marking-HumanHairDandypompadour = Dandy Pompadour
 
@@ -136,17 +136,17 @@ marking-HumanHairDoublebun = Bun dupla
 
 marking-HumanHairDoublebunLong = "Bun Duplo Long"
 
-marking-HumanHairDreads = -Dreadlocks.
+marking-HumanHairDreads = -Dreadlocks
 
-marking-HumanHairDrillruru = Drillruru.
+marking-HumanHairDrillruru = Drillruru
 
 marking-HumanHairDrillhairextended = Perfurar o cabelo (extendeu)
 
-marking-HumanHairEmo = Emo.
+marking-HumanHairEmo = Emo
 
 marking-HumanHairEmofringe = Emo Fringe
 
-marking-HumanHairNofade =  Não há ninguém.
+marking-HumanHairNofade = Não há ninguém
 
 marking-HumanHairHighfade = Desvanecer (Alto)
 
@@ -158,7 +158,7 @@ marking-HumanHairBaldfade = Desvanecer (Balde)
 
 marking-HumanHairFeather =  Pena
 
-marking-HumanHairFather =  Padre.
+marking-HumanHairFather = Padre
 
 marking-HumanHairSargeant = Topo Plano
 
@@ -176,7 +176,7 @@ marking-HumanHairHalfbang =  Cabelo Meio-desengatado
 
 marking-HumanHairHalfbang2 =  Cabelo Meio-desengatado 2
 
-marking-HumanHairHalfshaved = Meia loção.
+marking-HumanHairHalfshaved = Meia loção
 
 marking-HumanHairHedgehog =  Cabelo de Ouriço
 
@@ -188,13 +188,13 @@ marking-HumanHairShorthime = Hime Cut (Pequeno)
 
 marking-HumanHairHimeup = Hime Updo
 
-marking-HumanHairHitop = Hitop.
+marking-HumanHairHitop = Hitop
 
-marking-HumanHairJade = Jade.
+marking-HumanHairJade = Jade
 
-marking-HumanHairJensen = Jensen Hair.
+marking-HumanHairJensen = Jensen Hair
 
-marking-HumanHairJoestar = Joestar.
+marking-HumanHairJoestar = Joestar
 
 marking-HumanHairKeanu =  Cabelo Keanu
 
@@ -222,21 +222,21 @@ marking-HumanHairLongsidepart = Lado Longo Parte
 
 marking-HumanHairMegaeyebrows = Mega Sobrancelhas
 
-marking-HumanHairMessy = Mesquinho.
+marking-HumanHairMessy = Mesquinho
 
-marking-HumanHairModern = Moderno.
+marking-HumanHairModern = Moderno
 
-marking-HumanHairMohawk = Mohawk.
+marking-HumanHairMohawk = Mohawk
 
-marking-HumanHairNitori = Nitori.
+marking-HumanHairNitori = Nitori
 
 marking-HumanHairReversemohawk = Mohawk (Reverso)
 
 marking-HumanHairUnshavenMohawk = Mohawk (Descortado)
 
-marking-HumanHairMulder = Mulder.
+marking-HumanHairMulder = Mulder
 
-marking-HumanHairOdango = Odango.
+marking-HumanHairOdango = Odango
 
 marking-HumanHairOmbre = Ombre
 
@@ -244,7 +244,7 @@ marking-HumanHairOneshoulder = Um ombro
 
 marking-HumanHairShortovereye = Olho acima
 
-marking-HumanHairOxton = Oxton.
+marking-HumanHairOxton = Oxton
 
 marking-HumanHairParted = Separado
 
@@ -298,11 +298,11 @@ marking-HumanHairSpikyponytail = Rabo de cavalo (Spiky)
 
 marking-HumanHairPoofy = Poofy
 
-marking-HumanHairPulato = Pulato.
+marking-HumanHairPulato = Pulato
 
-marking-HumanHairQuiff = Quiff.
+marking-HumanHairQuiff = Quiff
 
-marking-HumanHairRonin = Ronin.
+marking-HumanHairRonin = Ronin
 
 marking-HumanHairShaped =  Formado
 
@@ -312,7 +312,7 @@ marking-HumanHairShavedpart =  Parte raspada
 
 marking-HumanHairShortbangs = Bangs Curtos
 
-marking-HumanHairA =  Cabelo curto.
+marking-HumanHairA = Cabelo curto
 
 marking-HumanHairShorthair2 =  Cabelo curto 2
 
@@ -326,7 +326,7 @@ marking-HumanHairF =  Cabelo curto 6
 
 marking-HumanHairShorthairg =  Cabelo curto 7
 
-marking-HumanHair80s =  Cabelo curto 80 anos.
+marking-HumanHair80s = Cabelo curto 80 anos
 
 marking-HumanHairRosa = Rosa Cabelo Curto
 
@@ -336,7 +336,7 @@ marking-HumanHairBAlt =  Cabelo do ombro (Over eye)
 
 marking-HumanHairSidecut = Lado de corte
 
-marking-HumanHairSkinhead = Skinhead.
+marking-HumanHairSkinhead = Skinhead
 
 marking-HumanHairProtagonist =  Cabelo ligeiramente longo
 
@@ -350,11 +350,11 @@ marking-HumanHairSpookyLong =  Assustador Longo
 
 marking-HumanHairSwept =  Cabelos de volta varridos
 
-marking-HumanHairSwept2 =  Cabelos para trás, desfocados.
+marking-HumanHairSwept2 = Cabelos para trás, desfocados
 
 marking-HumanHairTailed =  Seguido
 
-marking-HumanHairThinning = Afinando.
+marking-HumanHairThinning = Afinando
 
 marking-HumanHairThinningfront = Afinamento (frente)
 
@@ -372,15 +372,15 @@ marking-HumanHairTwintail = Twintails
 
 marking-HumanHairTwoStrands =  Dois Strands
 
-marking-HumanHairUndercut = - Não, não, não.
+marking-HumanHairUndercut = - Não, não, não
 
-marking-HumanHairUndercutleft = -Abaixo, à esquerda.
+marking-HumanHairUndercutleft = -Abaixo, à esquerda
 
-marking-HumanHairUndercutright = -Abaixe-se à direita.
+marking-HumanHairUndercutright = -Abaixe-se à direita
 
 marking-HumanHairUneven = Invicto
 
-marking-HumanHairUnkept =  Não está preso.
+marking-HumanHairUnkept = Não está preso
 
 marking-HumanHairUpdo = Updo
 
@@ -394,7 +394,7 @@ marking-HumanHairVeryshortovereyealternate =  Muito curto (Olho por cima)
 
 marking-HumanHairVlongfringe =  Muito longa com franja
 
-marking-HumanHairVolaju = Volaju.
+marking-HumanHairVolaju = Volaju
 
 marking-HumanHairWisp = Wisp
 

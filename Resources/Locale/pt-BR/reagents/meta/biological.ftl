@@ -1,4 +1,4 @@
-reagent-name-blood =  Sangue.
+reagent-name-blood = Sangue
 
 reagent-desc-blood =  Espero que seja ketchup.
 
@@ -22,11 +22,11 @@ reagent-name-ammonia-blood =  Sangue anaeróbio
 
 reagent-desc-ammonia-blood =  Nada mais em toda a galáxia cheira tão terrível.
 
-reagent-name-sulfur-blood =  Sangue sulfúrico.
+reagent-name-sulfur-blood = Sangue sulfúrico
 
 reagent-desc-sulfur-blood =  Parece quase ácido.
 
-reagent-name-zombie-blood =  Sangue de zumbi.
+reagent-name-zombie-blood = Sangue de zumbi
 
 reagent-desc-zombie-blood =  Não aconselharia comer, pode ser usado para criar uma inoculação contra a infecção.
 

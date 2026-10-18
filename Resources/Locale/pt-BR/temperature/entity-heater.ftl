@@ -1,10 +1,10 @@
 -entity-heater-setting-name =
     { $setting ->
-        [off]  Desligar
-        [low]  baixo
-        [medium]  Médio
-        [high] Alto.
-       *[other]  desconhecido
+        [off] desligado
+        [low] baixo
+        [medium] médio
+        [high] alto
+       *[other] desconhecido
     }
 
 entity-heater-examined =
@@ -15,3 +15,6 @@ entity-heater-examined =
         [high] [color=red]{ -entity-heater-setting-name(setting: "high") }[/color]
        *[other] [color=purple]{ -entity-heater-setting-name(setting: "other") }[/color]
     }.
+
+entity-heater-switch-setting = Mudar para { -entity-heater-setting-name(setting: $setting) }
+entity-heater-switched-setting = Mudou para { -entity-heater-setting-name(setting: $setting) }.

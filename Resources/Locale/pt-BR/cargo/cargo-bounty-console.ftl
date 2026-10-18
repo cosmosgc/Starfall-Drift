@@ -33,7 +33,7 @@ bounty-console-tab-available-label =  Disponível
 
 bounty-console-tab-history-label =  História
 
-bounty-console-history-empty-label =  Nenhum histórico de recompensas encontrado.
+bounty-console-history-empty-label = Nenhum histórico de recompensas encontrado
 
 bounty-console-history-notice-completed-label = [color=limegreen] Concluído.[/color]
 

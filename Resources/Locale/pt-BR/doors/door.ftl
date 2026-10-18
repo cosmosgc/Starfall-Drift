@@ -1,1 +1,1 @@
-door-pry =  Porta de Pry
+door-pry =  Forçar porta

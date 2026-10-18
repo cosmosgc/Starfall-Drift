@@ -1,6 +1,6 @@
-cmd-arrivals-enable-hint =  Permitem chegadas.
+cmd-arrivals-enable-hint = Permitem chegadas
 
-cmd-arrivals-disable-hint = Desativa as chegadas.
+cmd-arrivals-disable-hint = Desativa as chegadas
 
 cmd-arrivals-returns =  Preparar as chegadas para { $value }.
 

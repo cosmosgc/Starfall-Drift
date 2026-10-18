@@ -1,7 +1,4 @@
-cmd-callshuttle-desc =  Chama o lançadeira de emergência com uma hora de chegada opcionalmente fornecida.
-
+cmd-callshuttle-desc =  Chama o transporte de evacuação com um horário de chegada opcionalmente fornecido.
 cmd-callshuttle-help = Uso: callshuttle [m:ss]
-
-cmd-recallshuttle-desc = Relembra a nave de emergência.
-
+cmd-recallshuttle-desc = Chama de volta o transporte de evacuação.
 cmd-recallshuttle-help = Uso: recallshuttle

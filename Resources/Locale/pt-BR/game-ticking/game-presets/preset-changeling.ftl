@@ -4,4 +4,4 @@ changeling-briefing =  Você é capaz de usar e assumir as identidades daqueles 
 
 objective-issuer-changeling = [color=#FA2A55]O Colmeia[/color]
 
-changeling-round-end-agent-name = Mude de roupa.
+changeling-round-end-agent-name = Mude de roupa

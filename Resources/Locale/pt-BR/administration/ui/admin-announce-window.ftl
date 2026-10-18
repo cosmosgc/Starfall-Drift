@@ -8,11 +8,11 @@ admin-announce-announcer-default =  Comando Central
 
 admin-announce-button = Anunciar
 
-admin-announce-type-station =  Estação.
+admin-announce-type-station = Estação
 
 admin-announce-type-server =  Servidor
 
-admin-announce-keep-open =  Mantenha aberto.
+admin-announce-keep-open = Mantenha aberto
 
 cmd-announceui-desc =  Abre a interface de comunicação.
 

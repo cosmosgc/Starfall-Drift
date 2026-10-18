@@ -20,6 +20,6 @@ hijack-beacon-verb-activate-text = Ativar
 
 hijack-beacon-verb-activate-message = O farol só pode estar armado na Estação de Comércio Automatizado, em um azulejo desocupado.
 
-hijack-beacon-verb-deactivate-text = Desativar.
+hijack-beacon-verb-deactivate-text = Desativar
 
 hijack-beacon-verb-deactivate-message = O farol não vai se desativar sozinho, sabe.

@@ -2,7 +2,7 @@ bluespace-artifact-event-announcement =  Nossas leituras detectaram um objeto de
 
 bluespace-artifact-sighting-1 = flashes brilhantes de luz
 
-bluespace-artifact-sighting-2 = Sons estranhos vindos de túneis de manutenção.
+bluespace-artifact-sighting-2 = Sons estranhos vindos de túneis de manutenção
 
 bluespace-artifact-sighting-3 =  Estruturas de outro mundo
 

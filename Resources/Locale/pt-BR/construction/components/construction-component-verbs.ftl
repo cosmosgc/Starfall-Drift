@@ -1,4 +1,4 @@
-deconstructible-verb-begin-deconstruct =  Comecem a desconstruir.
+deconstructible-verb-begin-deconstruct = Comecem a desconstruir
 
 deconstructible-verb-activate-no-target-text =  Não há como desconstruir isso.
 

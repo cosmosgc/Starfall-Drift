@@ -10,6 +10,6 @@ cryostorage-ui-button-remove = Remova
 
 cryostorage-ui-filler-hand = na mão
 
-cryostorage-ui-label-no-bodies =  Nenhum corpo em criostoringo.
+cryostorage-ui-label-no-bodies = Nenhum corpo em criostoringo
 
 cryostorage-popup-access-denied =  Acesso negado!

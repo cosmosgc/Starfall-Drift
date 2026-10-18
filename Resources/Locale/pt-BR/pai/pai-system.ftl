@@ -22,7 +22,7 @@ pai-system-wipe-device-verb-text = Remova o PAI
 
 pai-system-wiped-device = O IAP foi apagado do dispositivo.
 
-pai-system-stop-searching-verb-text =  Pare de procurar.
+pai-system-stop-searching-verb-text = Pare de procurar
 
 pai-system-stopped-searching = O dispositivo parou de procurar um IAP.
 

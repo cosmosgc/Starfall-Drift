@@ -34,7 +34,7 @@ reactor-meltdown-announcement = Um reator nuclear a bordo da estação sobrecarr
 
 reactor-meltdown-announcement-sender = Derretimento nuclear
 
-comp-nuclear-reactor-ui-locked =  Fechado.
+comp-nuclear-reactor-ui-locked = Fechado
 
 comp-nuclear-reactor-ui-insert-button =  Inserir
 
@@ -60,7 +60,7 @@ comp-nuclear-reactor-ui-reactor-rads = Radiação
 
 comp-nuclear-reactor-ui-reactor-therm =  Energia térmica
 
-comp-nuclear-reactor-ui-reactor-control =  Controle de Rods.
+comp-nuclear-reactor-ui-reactor-control = Controle de Rods
 
 comp-nuclear-reactor-ui-therm-format = { POWERWATTS($power) }T
 

@@ -1,3 +1,5 @@
+object-tab-entity-id = ID da Entidade
+
 object-tab-object-name =  Nome do objeto
 
 object-tab-object-type =  Tipo de objeto:

@@ -3,13 +3,13 @@ store-category-debug =  categoria de depuração
 
 store-category-debug2 = Depurar categoria 2
 
-store-category-weapons =  Arma de armas.
+store-category-weapons = Arma de armas
 
 store-category-ammo = Munição
 
 store-category-explosives =  Explosivos
 
-store-category-chemicals =  Produtos químicos.
+store-category-chemicals = Produtos químicos
 
 store-category-deception = Decepção
 
@@ -17,13 +17,13 @@ store-category-disruption = Disrupção
 
 store-category-implants = Implantes
 
-store-category-allies = Aliados.
+store-category-allies = Aliados
 
 store-category-job =  Trabalho
 
 store-category-wearables = Vestidos
 
-store-category-pointless = Inútil.
+store-category-pointless = Inútil
 
 store-category-objective =  Objetivo
 
@@ -51,4 +51,4 @@ store-category-combat =  Combate
 
 store-category-utility = Utilidade
 
-store-category-stealth = -Silêncio.
+store-category-stealth = -Silêncio

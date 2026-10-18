@@ -1,1 +1,1 @@
-guide-help-verb =  Socorro!
+guide-help-verb =  Ajuda

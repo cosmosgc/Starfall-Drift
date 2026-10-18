@@ -1,8 +1,8 @@
 goodfeeling-artifact-1 =  Você se sente bem.
 
-goodfeeling-artifact-2 =  Tudo parece estar indo bem.
+goodfeeling-artifact-2 = Tudo parece estar indo bem
 
-goodfeeling-artifact-3 =  Você tem um bom pressentimento sobre isso.
+goodfeeling-artifact-3 = Você tem um bom pressentimento sobre isso
 
 goodfeeling-artifact-4 =  Seus instintos dizem que tudo vai melhorar.
 

@@ -2,13 +2,13 @@ marking-ScarEyeRight-scar_eye_right = Cicatriz no Olho Direito
 
 marking-ScarEyeRight = Cicatriz no olho (direita)
 
-marking-ScarEyeLeft-scar_eye_left = Cicatriz no Olho Esquerda
+marking-ScarEyeLeft-scar_eye_left = Cicatriz no Olho Esquerdo
 
 marking-ScarEyeLeft = Cicatriz no olho (esquerda)
 
 marking-ScarTopSurgeryShort-scar_top_surgery_short = Cicatriz de Cirurgia Top
 
-marking-ScarTopSurgeryShort = Cicatriz de Cirurgia de Topo (Chort)
+marking-ScarTopSurgeryShort = Cicatriz de Cirurgia Top (Curta)
 
 marking-ScarTopSurgeryLong-scar_top_surgery_long = Cicatriz de Cirurgia Top
 

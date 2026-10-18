@@ -1,612 +1,612 @@
-flavor-profile =  Gostos { $flavor }.
+flavor-profile =  Tem gosto { $flavor }.
 
-flavor-profile-multiple =  Gostos { $flavors } e { $lastFlavor }.
+flavor-profile-multiple =  Tem gosto { $flavors } e { $lastFlavor }.
 
 flavor-profile-unknown =  Tem gosto indescritível.
 
-flavor-base-savory = Sabory
+flavor-base-savory = saboroso
 
-flavor-base-sweet =  Doce.
+flavor-base-sweet = doce
 
-flavor-base-salty = Salgado
+flavor-base-salty = salgado
 
-flavor-base-sour = Azedo
+flavor-base-sour = azedo
 
-flavor-base-bitter =  amargo
+flavor-base-bitter = amargo
 
-flavor-base-spicy = Apimentado
+flavor-base-spicy = apimentado
 
-flavor-base-metallic = metal
+flavor-base-metallic = metálico
 
-flavor-base-meaty =  Carney
+flavor-base-meaty = carnudo
 
-flavor-base-fishy = Peixinho.
+flavor-base-fishy = de peixe
 
-flavor-base-crabby = Rasby.
+flavor-base-crabby = de caranguejo
 
-flavor-base-cheesy = Que nojo.
+flavor-base-cheesy = de queijo
 
-flavor-base-funny =  Engraçado.
+flavor-base-funny = engraçado
 
-flavor-base-strange =  Estranho.
+flavor-base-strange = estranho
 
-flavor-base-tingly = Tingindo
+flavor-base-tingly = formigante
 
-flavor-base-acid =  ácido
+flavor-base-acid = ácido
 
-flavor-base-leafy = folhoso.
+flavor-base-leafy = folhoso
 
-flavor-base-minty = Minty.
+flavor-base-minty = mentolado
 
-flavor-base-nutty =  Louco.
+flavor-base-nutty = de nozes
 
-flavor-base-chalky = -Gizy.
+flavor-base-chalky = de giz
 
-flavor-base-oily = Oleosa.
+flavor-base-oily = oleoso
 
-flavor-base-peppery = Pimenta
+flavor-base-peppery = pimentado
 
-flavor-base-slimy = Viscoso.
+flavor-base-slimy = viscoso
 
-flavor-base-magical =  mágico
+flavor-base-magical = mágico
 
-flavor-base-fiber = fibrosos
+flavor-base-fiber = fibroso
 
-flavor-base-cold =  frio
+flavor-base-cold = frio
 
-flavor-base-spooky =  Assustador.
+flavor-base-spooky = assustador
 
-flavor-base-smokey = Fumaça
+flavor-base-smokey = defumado
 
-flavor-base-fruity =  Fruta
+flavor-base-fruity = frutado
 
-flavor-base-creamy =  cremoso.
+flavor-base-creamy = cremoso
 
-flavor-base-fizzy = -Esqueça.
+flavor-base-fizzy = gaseificado
 
-flavor-base-shocking = Chocante.
+flavor-base-shocking = chocante
 
-flavor-base-cheap =  barato.
+flavor-base-cheap = barato
 
-flavor-base-piquant = Piquant
+flavor-base-piquant = picante
 
-flavor-base-sharp = Afiado.
+flavor-base-sharp = acentuado
 
-flavor-base-syrupy = Xarope
+flavor-base-syrupy = de xarope
 
-flavor-base-spaceshroom =  misterioso
+flavor-base-spaceshroom = misterioso
 
-flavor-base-clean =  Limpo.
+flavor-base-clean = limpo
 
-flavor-base-alkaline = Alcalino
+flavor-base-alkaline = alcalino
 
-flavor-base-holy = Santo
+flavor-base-holy = santo
 
-flavor-base-horrible = Horrível.
+flavor-base-horrible = horrível
 
 # lmao
-flavor-base-terrible = Terrível.
+flavor-base-terrible = terrível
 
-flavor-base-mindful = "Cuidado"
+flavor-base-mindful = consciente
 
-flavor-base-chewy = Mastigado
+flavor-base-chewy = mastigável
 
-flavor-base-trashy = Lixo.
+flavor-base-trashy = de lixo
 
-flavor-base-motivating =  motivando
+flavor-base-motivating = motivador
 
-flavor-complex-nothing =  como nada.
+flavor-complex-nothing = de nada
 
-flavor-complex-honey =  Como o mel
+flavor-complex-honey = de mel
 
-flavor-complex-ketchunaise =  Como tomates e maionese.
+flavor-complex-ketchunaise = de tomates e maionese
 
-flavor-complex-mayonnaise =  Como maionese.
+flavor-complex-mayonnaise = de maionese
 
-flavor-complex-mustard =  Como mostarda
+flavor-complex-mustard = de mostarda
 
-flavor-complex-nutriment =  Como nutrição.
+flavor-complex-nutriment = de nutrição
 
-flavor-complex-vitamin =  Como vitaminas.
+flavor-complex-vitamin = de vitaminas
 
-flavor-complex-protein =  Como proteína.
+flavor-complex-protein = de proteína
 
-flavor-complex-food =  Como comida.
+flavor-complex-food = de comida
 
-flavor-complex-bun =  Como pão
+flavor-complex-bun = de pãozinho
 
-flavor-complex-bread =  Como pão
+flavor-complex-bread = de pão
 
-flavor-complex-batter =  Como massa
+flavor-complex-batter = de massa
 
-flavor-complex-butter =  Como manteiga.
+flavor-complex-butter = de manteiga
 
-flavor-complex-egg =  Como ovo
+flavor-complex-egg = de ovo
 
-flavor-complex-raw-egg =  Como ovo cru.
+flavor-complex-raw-egg = de ovo cru
 
-flavor-complex-bacon =  Como bacon.
+flavor-complex-bacon = de bacon
 
-flavor-complex-chicken =  Como frango.
+flavor-complex-chicken = de frango
 
-flavor-complex-duck =  Como pato
+flavor-complex-duck = de pato
 
-flavor-complex-chocolate =  Como chocolate.
+flavor-complex-chocolate = de chocolate
 
-flavor-complex-pasta =  Como macarrão.
+flavor-complex-pasta = de macarrão
 
-flavor-complex-rice =  Como arroz.
+flavor-complex-rice = de arroz
 
-flavor-complex-oats =  Como aveia.
+flavor-complex-oats = de aveia
 
-flavor-complex-jelly =  Como geleia
+flavor-complex-jelly = de geleia
 
-flavor-complex-soy =  Como soja
+flavor-complex-soy = de soja
 
-flavor-complex-ice-cream =  Como sorvete.
+flavor-complex-ice-cream = de sorvete
 
-flavor-complex-dough =  Como a massa.
+flavor-complex-dough = de massa
 
-flavor-complex-sweet-dough =  Como massa doce
+flavor-complex-sweet-dough = de massa doce
 
-flavor-complex-tofu =  Como tofu.
+flavor-complex-tofu = de tofu
 
-flavor-complex-miso =  Como miso
+flavor-complex-miso = de missô
 
-flavor-complex-lemoon =  Como louro
+flavor-complex-lemoon = de louro
 
-flavor-complex-muffin =  Como um muffin.
+flavor-complex-muffin = de muffin
 
-flavor-complex-peas =  Como ervilhas.
+flavor-complex-peas = de ervilhas
 
-flavor-complex-pineapple =  Como abacaxi.
+flavor-complex-pineapple = de abacaxi
 
-flavor-complex-onion =  Como cebola
+flavor-complex-onion = de cebola
 
-flavor-complex-eggplant =  Como berinjela
+flavor-complex-eggplant = de berinjela
 
-flavor-complex-carrot =  Como cenouras.
+flavor-complex-carrot = de cenouras
 
-flavor-complex-cabbage =  Como repolhos.
+flavor-complex-cabbage = de repolhos
 
-flavor-complex-potatoes =  Como batatas.
+flavor-complex-potatoes = de batatas
 
-flavor-complex-pumpkin =  Como abóboras.
+flavor-complex-pumpkin = de abóboras
 
-flavor-complex-mushroom =  Como cogumelos.
+flavor-complex-mushroom = de cogumelos
 
-flavor-complex-tomato =  Como tomates.
+flavor-complex-tomato = de tomates
 
-flavor-complex-corn =  Como o milho
+flavor-complex-corn = de milho
 
-flavor-complex-banana =  Como bananas
+flavor-complex-banana = de bananas
 
-flavor-complex-apple =  Como maçãs.
+flavor-complex-apple = de maçãs
 
-flavor-complex-cotton =  Como algodão
+flavor-complex-cotton = de algodão
 
-flavor-complex-bungo =  Como a doçura tropical
+flavor-complex-bungo = de doçura tropical
 
-flavor-complex-raisins =  Como uvas secas.
+flavor-complex-raisins = de uvas passas
 
-flavor-complex-orange =  como laranjas.
+flavor-complex-orange = de laranjas
 
-flavor-complex-watermelon =  Como melancia.
+flavor-complex-watermelon = de melancia
 
-flavor-complex-garlic =  Como alho.
+flavor-complex-garlic = de alho
 
-flavor-complex-grape =  Como uvas.
+flavor-complex-grape = de uvas
 
-flavor-complex-berry =  Como bagas
+flavor-complex-berry = de frutas vermelhas
 
-flavor-complex-meatballs =  Como almôndegas.
+flavor-complex-meatballs = de almôndegas
 
-flavor-complex-nettles =  Como urtigas
+flavor-complex-nettles = de urtigas
 
-flavor-complex-jungle =  Como a selva
+flavor-complex-jungle = de selva
 
-flavor-complex-vegetables =  Como legumes.
+flavor-complex-vegetables = de legumes
 
-flavor-complex-cherry =  Como cerejas.
+flavor-complex-cherry = de cerejas
 
-flavor-complex-pink =  Como rosa
+flavor-complex-pink = de rosa
 
-flavor-complex-curry =  Como curry.
+flavor-complex-curry = de curry
 
-flavor-complex-borsch-1 =  Como borsch
+flavor-complex-borsch-1 = de borsch
 
-flavor-complex-borsch-2 =  Como Bortsch.
+flavor-complex-borsch-2 = de bortsch
 
-flavor-complex-borsch-3 =  Como o Borstch.
+flavor-complex-borsch-3 = de borstch
 
-flavor-complex-borsch-4 =  Como borsh
+flavor-complex-borsch-4 = de borsh
 
-flavor-complex-borsch-5 =  Como borscht
+flavor-complex-borsch-5 = de borscht
 
-flavor-complex-mre-brownie =  Como um brownie barato.
+flavor-complex-mre-brownie = de brownie barato
 
-flavor-complex-fortune-cookie =  Como uma chance aleatória.
+flavor-complex-fortune-cookie = de chance aleatória
 
-flavor-complex-nutribrick =  Como se estivesse operando em uma selva.
+flavor-complex-nutribrick = de quem está operando em uma selva
 
-flavor-complex-cheap-noodles =  Como macarrão barato.
+flavor-complex-cheap-noodles = de macarrão barato
 
-flavor-complex-syndi-cakes =  Como um bolo de frutas
+flavor-complex-syndi-cakes = de bolo de frutas encorpado
 
-flavor-complex-sus-jerky =  Como sus
+flavor-complex-sus-jerky = de sus
 
-flavor-complex-boritos =  Como jogos.
+flavor-complex-boritos = de jogos
 
-flavor-complex-nachos =  Como nachos.
+flavor-complex-nachos = de nachos
 
-flavor-complex-donk =  Como pizza barata.
+flavor-complex-donk = de pizza barata
 
-flavor-complex-copypasta =  Como uma piada repetitiva.
+flavor-complex-copypasta = de piada repetitiva
 
-flavor-complex-bad-joke =  Como uma piada ruim.
+flavor-complex-bad-joke = de piada ruim
 
-flavor-complex-memory-leek =  Como uma bomba de garfo
+flavor-complex-memory-leek = de fork bomb
 
-flavor-complex-gunpowder =  Como pólvora.
+flavor-complex-gunpowder = de pólvora
 
-flavor-complex-validhunting =  Como caça válida.
+flavor-complex-validhunting = de validhunting
 
-flavor-complex-people =  Como as pessoas.
+flavor-complex-people = de pessoas
 
-flavor-complex-cat =  Como um gato.
+flavor-complex-cat = de gato
 
-flavor-complex-homerun =  Como um home run
+flavor-complex-homerun = de home run
 
-flavor-complex-grass =  Como a grama
+flavor-complex-grass = de grama
 
-flavor-complex-flare =  Como um sinalizador de fumaça
+flavor-complex-flare = de sinalizador fumegante
 
-flavor-complex-cobwebs =  Como teias de aranha.
+flavor-complex-cobwebs = de teias de aranha
 
-flavor-complex-sadness =  Como tristeza.
+flavor-complex-sadness = de tristeza
 
-flavor-complex-hope =  Como esperança.
+flavor-complex-hope = de esperança
 
-flavor-complex-chaos =  Como o caos.
+flavor-complex-chaos = de caos
 
-flavor-complex-squirming =  como contorcer
+flavor-complex-squirming = de se contorcer
 
-flavor-complex-electrons =  como elétrons.
+flavor-complex-electrons = de elétrons
 
-flavor-complex-parents =  como os pais de alguém.
+flavor-complex-parents = de pais de alguém
 
-flavor-complex-plastic =  Como plástico.
+flavor-complex-plastic = de plástico
 
-flavor-complex-glue =  Como cola.
+flavor-complex-glue = de cola
 
-flavor-complex-spaceshroom-cooked =  Como o espaço umami
+flavor-complex-spaceshroom-cooked = de umami espacial
 
-flavor-complex-lost-friendship =  Como uma amizade perdida.
+flavor-complex-lost-friendship = de amizade perdida
 
-flavor-complex-light =  Como uma luz apagada
+flavor-complex-light = de uma luz apagada
 
-flavor-complex-profits =  Como lucros.
+flavor-complex-profits = de lucros
 
-flavor-complex-fishops =  Como os temidos peixes
+flavor-complex-fishops = dos temidos fishops
 
-flavor-complex-blue-pumpkin =  como uma boca cheia de água da piscina
+flavor-complex-blue-pumpkin = de uma boca cheia de água de piscina
 
-flavor-complex-violets =  Como violetas.
+flavor-complex-violets = de violetas
 
-flavor-complex-pyrotton =  Como uma boca queimando
+flavor-complex-pyrotton = de boca queimando
 
-flavor-complex-mothballs =  Como naftalinas.
+flavor-complex-mothballs = de naftalina
 
-flavor-complex-paint-thinner =  Como o diluente de tinta.
+flavor-complex-paint-thinner = de diluente de tinta
 
-flavor-complex-numbing-tranquility =  Como tranqüilidade adormecida.
+flavor-complex-numbing-tranquility = de tranquilidade entorpecente
 
-flavor-complex-true-nature =  como a verdadeira natureza da realidade.
+flavor-complex-true-nature = da verdadeira natureza da realidade
 
-flavor-complex-false-meat =  Não é completamente diferente da carne.
+flavor-complex-false-meat = de algo não totalmente diferente de carne
 
-flavor-complex-paper =  Como polpa mole
+flavor-complex-paper = de polpa mole
 
-flavor-complex-compressed-meat =  Como carne comprimida.
+flavor-complex-compressed-meat = de carne comprimida
 
-flavor-complex-dog-food =  Como comida de cachorro.
+flavor-complex-dog-food = de comida de cachorro
 
-flavor-complex-canned-tuna =  Como atum enlatado.
+flavor-complex-canned-tuna = de atum enlatado
 
-flavor-complex-alcohol =  Como álcool.
+flavor-complex-alcohol = de álcool
 
-flavor-complex-soda =  Como refrigerante.
+flavor-complex-soda = de refrigerante
 
-flavor-complex-juice =  Como suco
+flavor-complex-juice = de suco
 
-flavor-complex-rocksandstones =  Como pedras e pedras
+flavor-complex-rocksandstones = de pedras e rochas
 
-flavor-complex-water =  como água.
+flavor-complex-water = de água
 
-flavor-complex-beer =  Como mijo.
+flavor-complex-beer = de mijo
 
-flavor-complex-cognac =  Como álcool seco picante.
+flavor-complex-cognac = de álcool seco e picante
 
-flavor-complex-mead =  Como mel fermentado.
+flavor-complex-mead = de mel fermentado
 
-flavor-complex-vermouth =  Como cascas de uva de ervas
+flavor-complex-vermouth = de cascas de uva com ervas
 
-flavor-complex-ale =  Como pão
+flavor-complex-ale = de pão
 
-flavor-complex-tonic-water =  como água furiosa.
+flavor-complex-tonic-water = de água furiosa
 
-flavor-complex-cola =  Como cola
+flavor-complex-cola = de refrigerante de cola
 
-flavor-complex-energy-drink =  Como ácido de bateria.
+flavor-complex-energy-drink = de ácido de bateria
 
-flavor-complex-dr-gibb =  Como negligência.
+flavor-complex-dr-gibb = de negligência médica
 
-flavor-complex-ginger-soda =  Como gengibre
+flavor-complex-ginger-soda = de gengibre
 
-flavor-complex-grape-soda =  Como refrigerante de uva.
+flavor-complex-grape-soda = de refrigerante de uva
 
-flavor-complex-lemon-lime-soda =  Como refrigerante de limão.
+flavor-complex-lemon-lime-soda = de refrigerante de limão
 
-flavor-complex-lemon-lime-cranberry-soda =  Como o Natal
+flavor-complex-lemon-lime-cranberry-soda = de Natal
 
-flavor-complex-pwr-game-soda =  Como jogos.
+flavor-complex-pwr-game-soda = de jogos
 
-flavor-complex-root-beer-soda =  Como cerveja de raiz
+flavor-complex-root-beer-soda = de root beer
 
-flavor-complex-citrus-soda =  Como refrigerante de citrinos.
+flavor-complex-citrus-soda = de refrigerante cítrico
 
-flavor-complex-space-up-soda =  Como o espaço.
+flavor-complex-space-up-soda = de espaço
 
-flavor-complex-starkist-soda =  Como refrigerante de laranja.
+flavor-complex-starkist-soda = de refrigerante de laranja
 
-flavor-complex-fourteen-loko-soda =  Como o malte doce
+flavor-complex-fourteen-loko-soda = de malte doce
 
-flavor-complex-vodka =  Como grãos fermentados.
+flavor-complex-vodka = de grãos fermentados
 
-flavor-complex-tequila =  como a morte fermentada
+flavor-complex-tequila = de morte fermentada
 
-flavor-complex-sake =  Como doce, arroz alcoólico
+flavor-complex-sake = de arroz doce e alcoólico
 
-flavor-complex-rum =  Como açúcar fermentado.
+flavor-complex-rum = de açúcar fermentado
 
-flavor-complex-coffee-liquor =  Como café forte e amargo.
+flavor-complex-coffee-liquor = de café forte e amargo
 
-flavor-complex-whiskey =  como melaço
+flavor-complex-whiskey = de melaço
 
-flavor-complex-shitty-wine =  Como cascas de uva
+flavor-complex-shitty-wine = de cascas de uva
 
-flavor-complex-champagne =  Como pão fresco.
+flavor-complex-champagne = de pão fresco
 
-flavor-complex-iced-tea =  Como chá gelado.
+flavor-complex-iced-tea = de chá gelado
 
-flavor-complex-coffee =  Como café.
+flavor-complex-coffee = de café
 
-flavor-complex-milk =  Como leite.
+flavor-complex-milk = de leite
 
-flavor-complex-tea =  Como chá.
+flavor-complex-tea = de chá
 
-flavor-complex-ice =  Como gelo
+flavor-complex-ice = de gelo
 
-flavor-complex-mopwata =  Como a água estagnada e suja.
+flavor-complex-mopwata = de água estagnada e suja
 
-flavor-complex-gin =  Como grãos fermentados com bagas de zimbro
+flavor-complex-gin = de grãos fermentados com bagas de zimbro
 
-flavor-complex-arnold-palmer =  Como um buraco em um
+flavor-complex-arnold-palmer = de um buraco com uma tacada só
 
-flavor-complex-blue-hawaiian =  Como os trópicos.
+flavor-complex-blue-hawaiian = dos trópicos
 
-flavor-complex-cosmopolitan =  Doce e picante
+flavor-complex-cosmopolitan = doce e ácido
 
-flavor-complex-painkiller =  Como umas férias tropicais.
+flavor-complex-painkiller = de férias tropicais
 
-flavor-complex-pina-colada =  como o sol tropical
+flavor-complex-pina-colada = de sol tropical
 
-flavor-complex-long-island = Suspeitamente como chá gelado.
+flavor-complex-long-island = suspeitosamente de chá gelado
 
-flavor-complex-three-mile-island =  Como chá feito em escoamento nuclear.
+flavor-complex-three-mile-island = de chá feito em escoamento nuclear
 
-flavor-complex-whiskey-cola =  Como melaço carbonatado.
+flavor-complex-whiskey-cola = de melaço carbonatado
 
-flavor-complex-root-beer-float =  Como sorvete em cerveja
+flavor-complex-root-beer-float = de sorvete com root beer
 
-flavor-complex-crush-depth =  Como a Zona Hadal.
+flavor-complex-crush-depth = da Zona Hadal
 
-flavor-complex-black-russian =  Como café alcoólico.
+flavor-complex-black-russian = de café alcoólico
 
-flavor-complex-white-russian =  Como um café adoçado alcoólico.
+flavor-complex-white-russian = de café alcoólico adoçado
 
-flavor-complex-electric-shark =  Como a Semana do Tubarão nos trópicos.
+flavor-complex-electric-shark = da Semana do Tubarão nos trópicos
 
-flavor-complex-tortuga =  Como chá doce.
+flavor-complex-tortuga = de chá doce
 
-flavor-complex-moonshine =  Como álcool puro.
+flavor-complex-moonshine = de álcool puro
 
-flavor-complex-singulo =  como um buraco sem fundo.
+flavor-complex-singulo = de um buraco sem fundo
 
-flavor-complex-syndie-bomb =  Como uísque amargo.
+flavor-complex-syndie-bomb = de uísque amargo
 
-flavor-complex-tequila-sunrise =  Como uma manhã mexicana
+flavor-complex-tequila-sunrise = de manhã mexicana
 
-flavor-complex-irish-coffee =  como um chamado de despertar alcoólatra.
+flavor-complex-irish-coffee = de um despertar alcoólico
 
-flavor-complex-iced-beer =  Como mijo gelado.
+flavor-complex-iced-beer = de mijo gelado
 
-flavor-complex-gargle-blaster =  Como se alguém tivesse esmagado sua cabeça com um tijolo de ouro coberto de limão.
+flavor-complex-gargle-blaster = de cabeça esmagada por um tijolo de ouro coberto de limão
 
-flavor-complex-bloody-mary =  Como uma ressaca ruim.
+flavor-complex-bloody-mary = de ressaca ruim
 
-flavor-complex-beepsky =  Como óleo e uísque.
+flavor-complex-beepsky = de óleo e uísque
 
-flavor-complex-banana-honk =  Como um milkshake de banana
+flavor-complex-banana-honk = de milkshake de banana
 
-flavor-complex-atomic-bomb =  como um deserto nuclear.
+flavor-complex-atomic-bomb = de um deserto nuclear
 
-flavor-complex-atomic-cola =  Como guardar tampas de garrafa
+flavor-complex-atomic-cola = de acumular tampinhas de garrafa
 
-flavor-complex-cuba-libre =  Como cola de espiga
+flavor-complex-cuba-libre = de refrigerante de cola batizado
 
-flavor-complex-gin-tonic =  refrescantemente amargo
+flavor-complex-gin-tonic = refrescantemente amargo
 
-flavor-complex-screwdriver =  Como suco de laranja com espiga.
+flavor-complex-screwdriver = de suco de laranja batizado
 
-flavor-complex-jack-rose =  Como um testemunho.
+flavor-complex-jack-rose = de testemunho
 
-flavor-complex-jungle-bird =  Como se estivesse em um aviário tropical.
+flavor-complex-jungle-bird = de estar em um aviário tropical
 
-flavor-complex-kalimotxo =  Como cola chique com espiga
+flavor-complex-kalimotxo = de refrigerante de cola chique batizado
 
-flavor-complex-vampiro =  Fruta, saborosa e picante
+flavor-complex-vampiro = frutado, saboroso e picante
 
-flavor-complex-bronx =  Como frutas alcoólicas, suaves e doces.
+flavor-complex-bronx = de frutas alcoólicas levemente doces
 
-flavor-complex-monkey-business =  Como um macaco.
+flavor-complex-monkey-business = de enlouquecer
 
-flavor-complex-vodka-red-bool =  Como um ataque cardíaco.
+flavor-complex-vodka-red-bool = de ataque cardíaco
 
-flavor-complex-irish-bool =  Como cafeína e Irlanda.
+flavor-complex-irish-bool = de cafeína e Irlanda
 
-flavor-complex-xeno-basher =  Como matar insetos.
+flavor-complex-xeno-basher = de matar insetos
 
-flavor-complex-budget-insuls-drink =  Como porta de arrombamento
+flavor-complex-budget-insuls-drink = de hackear portas
 
-flavor-complex-watermelon-wakeup =  Como um doce despertar
+flavor-complex-watermelon-wakeup = de doce despertar
 
-flavor-complex-rubberneck =  Como sintéticos.
+flavor-complex-rubberneck = de sintéticos
 
-flavor-complex-irish-slammer =  Como uma cola de cola de ponta
+flavor-complex-irish-slammer = de refrigerante de cola batizado com sorvete
 
-flavor-complex-alien-brain-hemorrhage =  como uma lesão extraterrestre.
+flavor-complex-alien-brain-hemorrhage = de uma lesão extraterrestre
 
-flavor-complex-themartinez =  Como violetas e vodka de limão
+flavor-complex-themartinez = de violetas e vodka de limão
 
-flavor-complex-cogchamp =  Como latão
+flavor-complex-cogchamp = de latão
 
-flavor-complex-white-gilgamesh =  Como creme levemente carbonatado.
+flavor-complex-white-gilgamesh = de creme levemente carbonatado
 
-flavor-complex-antifreeze = Quente
+flavor-complex-antifreeze = morno
 
-flavor-complex-caipirinha =  Como o Brasil
+flavor-complex-caipirinha = do Brasil
 
-flavor-complex-daiquiri =  Como rum, limão e açúcar.
+flavor-complex-daiquiri = de rum, limão e açúcar
 
-flavor-complex-deathintheafternoon =  Como anis e champanhe
+flavor-complex-deathintheafternoon = de anis e champanhe
 
-flavor-complex-empress75 =  Como o Tyrian roxo.
+flavor-complex-empress75 = de púrpura de Tiro
 
-flavor-complex-espressomartini =  Como vodka e café.
+flavor-complex-espressomartini = de vodka e café
 
-flavor-complex-mayojito =  Como uma crise de estômago.
+flavor-complex-mayojito = de crise de estômago
 
-flavor-complex-mimeosa =  Como silêncio e laranjas.
+flavor-complex-mimeosa = de silêncio e laranjas
 
-flavor-complex-mimosa =  Como um brunch cedo
+flavor-complex-mimosa = de um brunch cedo
 
-flavor-complex-moscowmule =  Como vodka e ginger ale
+flavor-complex-moscowmule = de vodka e ginger ale
 
-flavor-complex-thesunalsorises =  Como um absinto daiquiri
+flavor-complex-thesunalsorises = de daiquiri de absinto
 
-flavor-complex-whiskeysour =  Como uísque e ovo.
+flavor-complex-whiskeysour = de uísque e ovo
 
-flavor-complex-zombiecocktail =  Como comer cérebros.
+flavor-complex-zombiecocktail = de comer cérebros
 
-flavor-complex-absinthe =  como anis amargos
+flavor-complex-absinthe = de anis amargo
 
-flavor-complex-blue-curacao =  como flores laranjas
+flavor-complex-blue-curacao = de flores de laranjeira
 
-flavor-complex-acidspit =  Como ácido de bateria francês.
+flavor-complex-acidspit = de ácido de bateria francês
 
-flavor-complex-allies-cocktail =  Como uma tintura medicinal.
+flavor-complex-allies-cocktail = de tintura medicinal
 
-flavor-complex-aloe =  Como o orvalho da manhã
+flavor-complex-aloe = de orvalho da manhã
 
-flavor-complex-amasec =  Como o suor marinho do espaço
+flavor-complex-amasec = de suor de fuzileiro espacial
 
-flavor-complex-andalusia =  Como melaço azedo
+flavor-complex-andalusia = de melaço azedo
 
-flavor-complex-b52 =  como um pub irlandês.
+flavor-complex-b52 = de pub irlandês
 
-flavor-complex-bahama-mama =  Como banhos de sol no Caribe
+flavor-complex-bahama-mama = de banhos de sol no Caribe
 
-flavor-complex-barefoot =  Como um milkshake de cassis.
+flavor-complex-barefoot = de milkshake de cassis
 
-flavor-complex-booger =  Como o ranho
+flavor-complex-booger = de ranho
 
-flavor-complex-brave-bull =  Como ser atropelado por um caminhão.
+flavor-complex-brave-bull = de ser atropelado por um caminhão
 
-flavor-complex-demons-blood =  Como o sétimo círculo do inferno
+flavor-complex-demons-blood = do sétimo círculo do inferno
 
-flavor-complex-devils-kiss =  Como canibalismo.
+flavor-complex-devils-kiss = de canibalismo
 
-flavor-complex-driest-martini =  Como um imitador bêbado.
+flavor-complex-driest-martini = de um imitador bêbado
 
-flavor-complex-eggnog =  Como creme derretido.
+flavor-complex-eggnog = de creme derretido
 
-flavor-complex-erika-surprise =  Como se o barman tivesse cometido um erro.
+flavor-complex-erika-surprise = de um erro do bartender
 
-flavor-complex-gin-fizz =  refrescante e limonada
+flavor-complex-gin-fizz = refrescante e cítrico
 
-flavor-complex-gildlager =  Como o ouro do Czar.
+flavor-complex-gildlager = do ouro do Czar
 
-flavor-complex-dark-and-stormy =  Como ginger ale com rum
+flavor-complex-dark-and-stormy = de ginger ale com rum
 
-flavor-complex-grog =  Como uma favela do mar
+flavor-complex-grog = de canção de marinheiro
 
-flavor-complex-hippies-delight =  Como se sua pressão estivesse caindo.
+flavor-complex-hippies-delight = de pressão baixando
 
-flavor-complex-hooch =  Como seria delicioso se você fosse um motor diesel
+flavor-complex-hooch = de algo que seria delicioso se você fosse um motor a diesel
 
-flavor-complex-manhattan =  Como olhar pela janela de um hotel de 5 estrelas
+flavor-complex-manhattan = de olhar pela janela de um hotel 5 estrelas
 
-flavor-complex-manhattan-project =  Como se eu me tornasse a Morte, o destruidor de mundos.
+flavor-complex-manhattan-project = de me tornar a Morte, o destruidor de mundos
 
-flavor-complex-margarita =  Como uma ressaca muito ruim.
+flavor-complex-margarita = de ressaca muito ruim
 
-flavor-complex-martini =  Como um filme de espião.
+flavor-complex-martini = de filme de espião
 
-flavor-complex-mojito =  Como ir para a sombra depois de estar no sol quente
+flavor-complex-mojito = de ir para a sombra depois de estar no sol quente
 
-flavor-complex-neurotoxin =  Como uma instalação de testes subterrâneos.
+flavor-complex-neurotoxin = de instalação de testes subterrânea
 
-flavor-complex-patron =  Como ser serenata por mariachi
+flavor-complex-patron = de receber uma serenata de mariachi
 
-flavor-complex-radler =  Como limonada com espiga
+flavor-complex-radler = de limonada batizada
 
-flavor-complex-red-mead =  Como uma batalha viking.
+flavor-complex-red-mead = de batalha viking
 
-flavor-complex-sbiten =  Como fogo.
+flavor-complex-sbiten = de fogo
 
-flavor-complex-snowwhite =  Como lúpulo amargo e amargo.
+flavor-complex-snowwhite = de lúpulo azedo e amargo
 
-flavor-complex-sui-dream =  como uma foto dos Alpes
+flavor-complex-sui-dream = de uma foto dos Alpes
 
-flavor-complex-toxins-special =  como a exploração espacial.
+flavor-complex-toxins-special = de exploração espacial
 
-flavor-complex-vodka-martini =  Como um filme de espião da Rússia.
+flavor-complex-vodka-martini = de filme de espião da Rússia
 
-flavor-complex-vodka-tonic =  refrescantemente amargo
+flavor-complex-vodka-tonic = refrescantemente amargo
 
-flavor-complex-coconut-rum =  Como açúcar fermentado de nozes.
+flavor-complex-coconut-rum = de açúcar fermentado de nozes
 
-flavor-complex-bacchus-blessing =  Como uma parede de tijolos
+flavor-complex-bacchus-blessing = de parede de tijolos
 
-flavor-complex-pilk =  Como leite doce.
+flavor-complex-pilk = de leite doce
 
-flavor-complex-medicine =  Como medicina.
+flavor-complex-medicine = de remédio
 
-flavor-complex-carpet =  Como um punhado de peles.
+flavor-complex-carpet = de um punhado de pelos
 
-flavor-complex-bee =  Inacreditável.
+flavor-complex-bee = inabelível
 
-flavor-complex-sax =  Como jazz
+flavor-complex-sax = de jazz
 
-flavor-complex-bottledlightning =  Como um raio em uma garrafa
+flavor-complex-bottledlightning = de raio em uma garrafa
 
-flavor-complex-punishment =  Como castigo.
+flavor-complex-punishment = de castigo
 
-flavor-complex-forbidden = Proibido.
+flavor-complex-forbidden = proibido
 
-flavor-complex-artifact-glue =  Como artefatos esmagados.
+flavor-complex-artifact-glue = de artefatos esmagados
 
-flavor-weh =  Como se fosse o Weh.
+flavor-weh = de weh
 
-flavor-hew =  Como hew
+flavor-hew = de hew

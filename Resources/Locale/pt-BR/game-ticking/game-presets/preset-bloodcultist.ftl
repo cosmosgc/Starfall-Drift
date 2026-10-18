@@ -1,8 +1,8 @@
-roles-antag-cult-name = Culto de Sangue
+roles-antag-cult-name = Cultista de Sangue
 
 roles-antag-cult-objective =  Chame seu mestre, o [color=crimson]Geômetro de sangue, Nar'Sie[/bold] Através da conversão, dominação e sangue que ela seja trazida de volta ao mundo, coopere com seus companheiros Cultistas para abrir o véu e trazer a Sua vinda!
 
-cult-role-greeting = Use sua adaga de culto para atacar os inimigos do culto, receber cura de seus pilões e oferecer suas almas a ela!
+cult-role-greeting = Você é um Cultista de Sangue. Use sua adaga de culto para atacar os inimigos do culto, receber cura de seus pylons e oferecer as almas deles a ela!
 
 cult-briefing =  Ajude seus companheiros a converter a tripulação e sacrifique seus alvos para invocar sua divindade.
 
@@ -14,9 +14,9 @@ admin-verb-make-cultist =  Faça do alvo um Cultista de Sangue.
 
 cult-dagger-equip-fail = A adaga vira cinzas em suas mãos!
 
-cult-attack-repelled = Santa magia repele seu ataque!
+cult-attack-repelled = Magia sagrada repele seu ataque!
 
-cult-attack-teamhit =  Seu ataque pára de morrer antes de atingir um cultista.
+cult-attack-teamhit =  Seu ataque para seco antes de atingir um cultista.
 
 contraband-examine-text-BloodCult = [color=crimson]Este item é um produto altamente ilegal de magia de culto de sangue![/color]
 
@@ -136,7 +136,7 @@ cult-spell-sleep-dream =  Você sente uma onda esmagadora de sonolência como pe
 
 cult-spell-allied-cultist =  Não pode mirar em um devoto de Nar'Sie!
 
-cult-empowering-rune-not-in-range =  Você não está dentro do alcance da runa de influência.
+cult-empowering-rune-not-in-range = Você não está dentro do alcance da runa de influência
 
 cult-empowering-rune-no-action =  Você não tem a capacidade de preparar feitiços!
 
@@ -255,7 +255,7 @@ cult-ghost-role-desc = Um zeloso culto de sangue de Nar'Sie, reacordado após a 
 
 cult-ghost-role-rules =  Você é um antagonista da equipe, trabalhe com seus colegas Cultistas para alcançar seus objetivos, sacrifique a tripulação que a sua divindade anseia e faça o véu que a une.
 
-cult-roundend-victory = O culto de sangue convocou Nar'Sie e reivindicou o setor em nome dela.
+cult-roundend-victory = O culto de sangue convocou Nar'Sie e reivindicou o setor em nome dela
 
 cult-roundend-failure = O culto de sangue não foi capaz de convocar seu mestre.
 
@@ -307,7 +307,7 @@ cult-summoning-pylon-failed = A convocação do pilão falhou!
 
 cult-rune-clean-verb-text = Runa Limpa
 
-cult-rune-clean-verb-message =  Limpe a runa de culto de sangue com sabão.
+cult-rune-clean-verb-message = Limpe a runa de culto de sangue com sabão
 
 cult-rune-cleaning =  Você começa a limpar a runa...
 

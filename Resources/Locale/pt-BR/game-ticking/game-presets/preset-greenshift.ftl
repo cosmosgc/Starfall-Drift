@@ -1,3 +1,3 @@
-greenshift-title = Greenshift.
+greenshift-title = Greenshift
 
-greenshift-description =  Uma predefinição sem eventos para eventos administrativos para passar sem interferência.
+greenshift-description =  Uma predefinição sem eventos, para que eventos de administradores ocorram sem interferência.

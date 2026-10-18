@@ -1,4 +1,4 @@
-marking-HumanNoseSchnozz = Schnozz.
+marking-HumanNoseSchnozz = Schnozz
 
 marking-HumanNoseSchnozz-schnozz = Nariz
 

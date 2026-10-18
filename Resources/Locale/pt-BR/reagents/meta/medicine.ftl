@@ -1,4 +1,4 @@
-reagent-name-cryptobiolin =  criptobiolina.
+reagent-name-cryptobiolin =  criptobiolina
 
 reagent-desc-cryptobiolin =  Causa confusão e tontura.
 
@@ -8,7 +8,7 @@ reagent-desc-dylovene = Uma antitoxina de amplo espectro que trata dano de toxin
 
 reagent-name-diphenhydramine = difenidramina
 
-reagent-desc-diphenhydramine = Expurga rapidamente o corpo da histamina, reduz a agitação, causa sonolência e trata danos ao veneno, muitas vezes incluídos na medicação para dormir.
+reagent-desc-diphenhydramine = Expurga rapidamente o corpo da histamina, reduz a agitação, causa sonolência e trata dano de veneno, muitas vezes incluída na medicação para dormir.
 
 reagent-name-arithrazine = Arithrazina
 
@@ -80,7 +80,7 @@ reagent-name-ambuzol = Ambuzol
 
 reagent-desc-ambuzol =  Uma substância altamente projetada capaz de parar a progressão de uma infecção zumbi.
 
-reagent-name-ambuzol-plus = Ambuzol plus.
+reagent-name-ambuzol-plus = Ambuzol plus
 
 reagent-desc-ambuzol-plus =  Mais projetado com omnizina, inocula os vivos contra a infecção.
 

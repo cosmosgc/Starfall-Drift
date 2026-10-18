@@ -18,18 +18,18 @@ blockgame-menu-button-scoreboard =  Painel de avaliação
 
 blockgame-menu-button-pause = Pausa
 
-blockgame-menu-button-unpause = Despachem-se.
+blockgame-menu-button-unpause = Despachem-se
 
 blockgame-menu-msg-game-over =  Fim de jogo!
 
 blockgame-menu-label-highscores =  Elevações
 
-blockgame-menu-button-back = Para trás.
+blockgame-menu-button-back = Para trás
 
 blockgame-menu-label-next =  Próxima
 
-blockgame-menu-label-hold =  Espere.
+blockgame-menu-label-hold = Espere
 
-blockgame-menu-text-station =  Estação.
+blockgame-menu-text-station = Estação
 
-blockgame-menu-text-nanotrasen = Nanotrasen.
+blockgame-menu-text-nanotrasen = Nanotrasen

@@ -1,3 +1,5 @@
+cmd-golobby-desc = Habilita o lobby e reinicia a rodada.
+
 cmd-golobby-help = Uso: golobby / golobby <preset>
 
 cmd-golobby-success = Ativando o saguão e reiniciando a rodada.

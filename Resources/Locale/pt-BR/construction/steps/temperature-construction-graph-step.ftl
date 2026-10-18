@@ -1,1 +1,1 @@
-construction-temperature-default = Em seguida, o calor para [color=red]{ $temperature }[/color].
+construction-temperature-default = Em seguida, aqueça até [color=red]{ $temperature }[/color].

@@ -1,1 +1,1 @@
-smoking-pipe-slot-component-slot-name-bowl = Bola.
+smoking-pipe-slot-component-slot-name-bowl = Bola

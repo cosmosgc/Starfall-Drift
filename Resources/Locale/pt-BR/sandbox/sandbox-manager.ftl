@@ -16,7 +16,7 @@ sandbox-window-spawn-tiles-button = Tiles espaçados
 
 sandbox-window-spawn-decals-button = Decalques de Spawn
 
-sandbox-window-grant-full-access-button = Grant Acesso total.
+sandbox-window-grant-full-access-button = Grant Acesso total
 
 sandbox-window-ghost-button =  Fantasma
 
@@ -30,7 +30,7 @@ sandbox-window-toggle-subfloor-button = Alternar o Sub- andar
 
 sandbox-window-toggle-suicide-button = Suicídio
 
-sandbox-window-show-spawns-button =  Mostrem os Spawns.
+sandbox-window-show-spawns-button = Mostrem os Spawns
 
 sandbox-window-show-bb-button =  Mostre BB
 

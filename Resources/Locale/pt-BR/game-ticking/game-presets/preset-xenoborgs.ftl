@@ -1,4 +1,4 @@
-xenoborgs-title = Xenoborgs.
+xenoborgs-title = Xenoborgs
 
 xenoborgs-description =  Uma nave-mãe Xenoborg foi detectada perto da estação, impedindo-os de transformar cada ser senciente em um xenoborg.
 

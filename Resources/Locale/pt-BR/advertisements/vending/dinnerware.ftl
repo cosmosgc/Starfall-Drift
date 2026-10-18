@@ -1,3 +1,5 @@
+advertisement-dinnerware-1 = Mm, comidinhas!
+
 advertisement-dinnerware-2 =  Acessórios de comida e comida.
 
 advertisement-dinnerware-3 =  Peguem seus pratos!

@@ -8,11 +8,11 @@ radio-jammer-component-examine-on-state = A luz está atualmente [color=darkgree
 
 radio-jammer-component-examine-off-state = A luz está atualmente [color=darkred] Desligar[/color].
 
-radio-jammer-component-setting-high = Alto.
+radio-jammer-component-setting-high = Alto
 
-radio-jammer-component-setting-medium =  Médio.
+radio-jammer-component-setting-medium = Médio
 
-radio-jammer-component-setting-low =  Baixo.
+radio-jammer-component-setting-low = Baixo
 
 radio-jammer-component-set-message-high = O bloqueador está operando agora em alta potência.
 

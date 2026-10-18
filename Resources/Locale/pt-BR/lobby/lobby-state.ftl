@@ -1,10 +1,10 @@
 lobby-state-paused = Pausa
 
-lobby-state-soon = A volta começa em breve.
+lobby-state-soon = A volta começa em breve
 
 lobby-state-right-now-question =  Agora?
 
-lobby-state-right-now-confirmation =  Agora mesmo.
+lobby-state-right-now-confirmation = Agora mesmo
 
 lobby-state-round-start-countdown-text = A rodada começa em: { $timeLeft }
 
@@ -14,11 +14,11 @@ lobby-state-ready-button-ready-up-state =  Prontos?
 
 lobby-state-player-status-not-ready =  Não Pronto
 
-lobby-state-player-status-ready =  Pronto.
+lobby-state-player-status-ready = Pronto
 
 lobby-state-player-status-observer =  Observador
 
-lobby-state-player-status-round-not-started = A rodada ainda não começou.
+lobby-state-player-status-round-not-started = A rodada ainda não começou
 
 lobby-state-player-status-round-time =
     O tempo é redondo: { $hours } { $hours ->

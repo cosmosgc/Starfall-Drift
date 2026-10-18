@@ -1,3 +1,5 @@
+advertisement-cigs-1 = Cigarros espaciais têm um gosto bom, como um cigarro deve ser.
+
 advertisement-cigs-2 =  Prefiro caixa de ferramentas do que trocar.
 
 advertisement-cigs-3 = Fumaça!

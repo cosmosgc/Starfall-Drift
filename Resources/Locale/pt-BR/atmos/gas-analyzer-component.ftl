@@ -10,23 +10,23 @@ gas-analyzer-window-tab-title-capitalized = { CAPITALIZE($title) }
 
 gas-analyzer-window-refresh-button =  Atualizar
 
-gas-analyzer-window-no-data = Sem dados.
+gas-analyzer-window-no-data = Sem dados
 
 gas-analyzer-window-no-gas-text = Sem Gases
 
 gas-analyzer-window-volume-text = Volume:
 
-gas-analyzer-window-volume-val-text = { $volume } L.
+gas-analyzer-window-volume-val-text = { $volume } L
 
 gas-analyzer-window-pressure-text =  Pressão:
 
-gas-analyzer-window-pressure-val-text = { $pressure } KPa.
+gas-analyzer-window-pressure-val-text = { $pressure } KPa
 
 gas-analyzer-window-temperature-text =  Temperatura:
 
 gas-analyzer-window-temperature-val-text = { $tempK }K ({ $tempC }°C)
 
-gas-analyzer-window-gas-column-name =  Gás.
+gas-analyzer-window-gas-column-name = Gás
 
 gas-analyzer-window-molarity-column-name = mol
 

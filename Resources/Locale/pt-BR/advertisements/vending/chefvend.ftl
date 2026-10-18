@@ -1,3 +1,5 @@
+advertisement-chefvend-1 = Pelo menos sessenta por cento dos nossos ovos intactos, garantido!
+
 advertisement-chefvend-2 = Arroz, arroz, bebê.
 
 advertisement-chefvend-3 =  Bata um pouco de manteiga nele!

@@ -10,7 +10,7 @@ admin-solutions-window-vv-button = VV
 
 admin-solutions-window-vv-button-tooltip =  Abre a entidade de solução correspondente em ViewVariables.
 
-admin-solutions-window-add-new-button =  Adicione novo reagente.
+admin-solutions-window-add-new-button = Adicione novo reagente
 
 admin-solutions-window-volume-label = Volume { $currentVolume }/{ $maxVolume }U
 

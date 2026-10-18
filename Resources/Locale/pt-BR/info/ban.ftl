@@ -1,5 +1,5 @@
 # ban
-cmd-ban-desc = Bani alguém.
+cmd-ban-desc = Bani alguém
 
 cmd-ban-help = Uso: banir o nome ou o ID do usuário [duration in minutes, leave out or 0 for permanent ban]
 
@@ -23,22 +23,22 @@ cmd-ban-hint-duration-1 =  Permanente
 
 cmd-ban-hint-duration-2 = 1 dia
 
-cmd-ban-hint-duration-3 = 3 dias.
+cmd-ban-hint-duration-3 = 3 dias
 
 cmd-ban-hint-duration-4 = 1 semana
 
 cmd-ban-hint-duration-5 = 2 semanas
 
-cmd-ban-hint-duration-6 = 1 mês.
+cmd-ban-hint-duration-6 = 1 mês
 
 # ban panel
-cmd-banpanel-desc =  Abre o painel de proibição.
+cmd-banpanel-desc = Abre o painel de proibição
 
 cmd-banpanel-help = Uso: banpanel [name or user guid]
 
 cmd-banpanel-server =  Isso não pode ser usado no console do servidor
 
-cmd-banpanel-player-err = O jogador não foi encontrado.
+cmd-banpanel-player-err = O jogador não foi encontrado
 
 # listbans
 cmd-banlist-desc =  Lista as proibições de um usuário.
@@ -56,7 +56,7 @@ cmd-ban_exemption_update-help =
     Specify multiple flags to give a player multiple ban exemption flags.
     To remove all exemptions, run this command and give "None" as only flag.
 
-cmd-ban_exemption_update-nargs =  Esperava pelo menos 2 argumentos.
+cmd-ban_exemption_update-nargs = Esperava pelo menos 2 argumentos
 
 cmd-ban_exemption_update-locate =  Incapaz de localizar o jogador.{ $player }'.
 
@@ -72,7 +72,7 @@ cmd-ban_exemption_get-desc =  Mostrar isenção de proibição para um certo jog
 
 cmd-ban_exemption_get-help = Uso: ban exception get <player>
 
-cmd-ban_exemption_get-nargs =  Esperava exatamente um argumento.
+cmd-ban_exemption_get-nargs = Esperava exatamente um argumento
 
 cmd-ban_exemption_get-none = O usuário não está isento de nenhuma proibição.
 
@@ -93,7 +93,7 @@ ban-panel-reason =  Razão
 
 ban-panel-last-conn =  Usar IP e HWID da última conexão?
 
-ban-panel-submit = Ban.
+ban-panel-submit = Ban
 
 ban-panel-confirm =  Tem certeza?
 
@@ -107,7 +107,7 @@ ban-panel-tabs-role =  Informações sobre a proibição de papéis
 
 ban-panel-no-data =  Você deve fornecer um usuário, IP ou HWID para banir
 
-ban-panel-invalid-ip = O endereço IP não pode ser analisado.
+ban-panel-invalid-ip = O endereço IP não pode ser analisado
 
 ban-panel-select =  Selecione o tipo
 
@@ -123,13 +123,13 @@ ban-panel-days =  Dias
 
 ban-panel-weeks =  Semanas
 
-ban-panel-months = Meses.
+ban-panel-months = Meses
 
 ban-panel-years = Anos
 
 ban-panel-permanent =  Permanente
 
-ban-panel-ip-hwid-tooltip =  Deixe vazio e verifique a caixa de seleção abaixo para usar os detalhes da última conexão.
+ban-panel-ip-hwid-tooltip = Deixe vazio e verifique a caixa de seleção abaixo para usar os detalhes da última conexão
 
 ban-panel-severity = Severidade:
 
@@ -142,7 +142,7 @@ server-ban-string = { $admin }  criado um { $severity } A proibição do servido
 
 server-ban-string-no-pii = { $admin }  criado um { $severity } A proibição do servidor de gravidade que expira. { $expires } para { $name } com razão: { $reason }
 
-server-ban-string-never =  Nunca.
+server-ban-string-never = Nunca
 
 # Kick on ban
-ban-kick-reason =  Você foi banido.
+ban-kick-reason = Você foi banido

@@ -10,23 +10,23 @@ comp-secret-stash-on-examine-found-hidden-item =  Há algo escondido dentro do {
 
 comp-secret-stash-on-destroyed-popup =  Algo cai do { $stashname }!
 
-comp-secret-stash-verb-insert-into-stash = -Coisa de Stash.
+comp-secret-stash-verb-insert-into-stash = -Coisa de Stash
 
 comp-secret-stash-verb-insert-message-item-already-inside =  Já tem um item dentro do { $stashname }.
 
 comp-secret-stash-verb-insert-message-no-item =  Esconda-se. { THE($item) } na { $stashname }.
 
-comp-secret-stash-verb-take-out-item =  Pegue o item.
+comp-secret-stash-verb-take-out-item = Pegue o item
 
 comp-secret-stash-verb-take-out-message-something =  Leve o conteúdo do { $stashname }  Fora.
 
 comp-secret-stash-verb-take-out-message-nothing =  Não há nada dentro do { $stashname }.
 
-comp-secret-stash-verb-close =  Feche.
+comp-secret-stash-verb-close = Feche
 
 comp-secret-stash-verb-cant-close =  Você não pode fechar o { $stashname } Com isso.
 
-comp-secret-stash-verb-open =  Abra.
+comp-secret-stash-verb-open = Abra
 
 secret-stash-plant =  Planta
 

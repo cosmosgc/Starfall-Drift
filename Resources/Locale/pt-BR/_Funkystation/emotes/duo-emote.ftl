@@ -1,3 +1,5 @@
+duo-emote-left-hanging = Você ficou no vácuo...
+
 duo-emote-get-closer = Chegue mais perto.
 
 duo-emote-no-tail = { $target }  Não tem uma cauda para responder com...
@@ -12,7 +14,7 @@ duo-emote-fistbump-self =  Você dá { $target } Um soco!
 
 duo-emote-fistbump = { $ent }  Dá { $target } Um soco!
 
-duo-emote-highfive-perform =  Toca aqui.
+duo-emote-highfive-perform = Toca aqui
 
 duo-emote-highfive-attempt-self =  Levante a mão para um "toca aqui" { $target }.
 
@@ -22,7 +24,7 @@ duo-emote-highfive-self =  Você dá { $target } Um toque de cinco!
 
 duo-emote-highfive = { $ent }  Dá { $target } Um toque de cinco!
 
-duo-emote-hug-perform =  Abrace-se.
+duo-emote-hug-perform = Abrace-se
 
 duo-emote-hug-attempt-self =  Levante os braços para um abraço. { $target }.
 

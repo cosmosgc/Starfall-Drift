@@ -1,3 +1,5 @@
+advertisement-cola-1 = Refrescante!
+
 advertisement-cola-2 =  Espero que esteja com sede!
 
 advertisement-cola-3 =  Mais de 1 milhão de bebidas vendidas!

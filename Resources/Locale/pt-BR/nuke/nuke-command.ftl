@@ -6,4 +6,4 @@ cmd-nukearm-not-found =  Não encontro nenhuma entidade com um Componente Nuke.
 
 cmd-nukearm-1-help =  Tempo (em segundos)
 
-cmd-nukearm-2-help = Nuke.
+cmd-nukearm-2-help = Nuke

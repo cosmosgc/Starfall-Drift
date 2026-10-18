@@ -11,7 +11,7 @@ canvas-design-tool-picker = Seletor
 
 canvas-design-tool-fill = Preencher
 
-canvas-design-tool-line =  Linha reta.
+canvas-design-tool-line = Linha reta
 
 canvas-design-tool-square = Rectangle
 
@@ -19,9 +19,9 @@ canvas-design-tool-circle =  Círculo / elipse
 
 canvas-design-palette = Paleta
 
-canvas-design-clear =  Limpo.
+canvas-design-clear = Limpo
 
-canvas-design-clear-confirm =  Confirmar claro.
+canvas-design-clear-confirm = Confirmar claro
 
 canvas-design-save =  Salve
 
@@ -39,7 +39,7 @@ canvas-design-close-title =  Mudanças de tela não salvas
 
 canvas-design-close-save =  Salve
 
-canvas-design-close-save-draft = Economize o rascunho.
+canvas-design-close-save-draft = Economize o rascunho
 
 canvas-design-close-nosave =  Não salve
 

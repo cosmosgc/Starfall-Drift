@@ -1,3 +1,5 @@
+comp-containment-turned-on = O gerador de campo de contenção liga.
+
 comp-containment-turned-off = O gerador de campo de contenção desliga.
 
 comp-containment-on =  Está trocada. [color=green]"Continue"[/color], pronto para gerar uma conexão.

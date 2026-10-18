@@ -1,6 +1,6 @@
 department-Cargo =  Carga
 
-department-Civilian = Civilista.
+department-Civilian = Civilista
 
 department-Command =  Comando
 
@@ -10,12 +10,12 @@ department-Engineering =  Engenharia
 
 department-Medical =  Médico
 
-department-Security =  Segurança.
+department-Security = Segurança
 
 department-Science = Ciência
 
-department-Silicon = Silício.
+department-Silicon = Silício
 
-department-Specific =  Estação específica.
+department-Specific = Estação específica
 
 department-Unknown =  Desconhecido

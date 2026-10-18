@@ -4,11 +4,11 @@ marking-AllulaloUnderbelly-allulaloChestUnderbelly = Sub-barriga
 
 marking-AllulaloChestHeartMonitor = Monitor de Coração
 
-marking-AllulaloChestHeartMonitor-allulaloChestHeartMonitor = Monitor cardíaco.
+marking-AllulaloChestHeartMonitor-allulaloChestHeartMonitor = Monitor cardíaco
 
-marking-AllulaloHeadUnderbelly = Chin.
+marking-AllulaloHeadUnderbelly = Chin
 
-marking-AllulaloHeadUnderbelly-allulaloHeadUnderbelly = Chin.
+marking-AllulaloHeadUnderbelly-allulaloHeadUnderbelly = Chin
 
 marking-AllulaloHeadNeckFluff = Plumagem do Pescoço
 
@@ -31,13 +31,13 @@ marking-AllulaloEyesHeterochromia = Olhos (Heterochromia)
 
 marking-AllulaloEyesHeterochromia-allulaloEyesDefaultLeft = Olho esquerdo
 
-marking-AllulaloEyesHeterochromia-allulaloEyesDefaultRight = Olho direito.
+marking-AllulaloEyesHeterochromia-allulaloEyesDefaultRight = Olho direito
 
 marking-AllulaloEyesUnshaded = Olhos (Glowing)
 
 marking-AllulaloEyesUnshaded-allulaloEyesUnshadedLeft = Olho esquerdo
 
-marking-AllulaloEyesUnshaded-allulaloEyesUnshadedRight = Olho direito.
+marking-AllulaloEyesUnshaded-allulaloEyesUnshadedRight = Olho direito
 
 marking-AllulaloWingsDefaultRight = Asas Predefinidas
 
@@ -45,13 +45,13 @@ marking-AllulaloWingsDefaultRight-allulaloArmDefaultRight = Asa
 
 marking-AllulaloWingsSplitRight = Asas divididas
 
-marking-AllulaloWingsSplitRight-allulaloArmSplit1 =  Penas mais baixas.
+marking-AllulaloWingsSplitRight-allulaloArmSplit1 = Penas mais baixas
 
-marking-AllulaloWingsSplitRight-allulaloArmSplit2 = Plumas de cima.
+marking-AllulaloWingsSplitRight-allulaloArmSplit2 = Plumas de cima
 
 marking-AllulaloWingsOwlRight = Asas de mergulho
 
-marking-AllulaloWingsOwlRight-allulaloArmOwl1 =  Penas do meio.
+marking-AllulaloWingsOwlRight-allulaloArmOwl1 = Penas do meio
 
 marking-AllulaloWingsOwlRight-allulaloArmOwl2 = Plumas padrão
 
@@ -63,13 +63,13 @@ marking-AllulaloWingsDefaultLeft-allulaloArmDefaultLeft = Asa
 
 marking-AllulaloWingsSplitLeft = Asas divididas
 
-marking-AllulaloWingsSplitLeft-allulaloArmSplit1 =  Penas mais baixas.
+marking-AllulaloWingsSplitLeft-allulaloArmSplit1 = Penas mais baixas
 
-marking-AllulaloWingsSplitLeft-allulaloArmSplit2 = Plumas de cima.
+marking-AllulaloWingsSplitLeft-allulaloArmSplit2 = Plumas de cima
 
 marking-AllulaloWingsOwlLeft = Asas de mergulho
 
-marking-AllulaloWingsOwlLeft-allulaloArmOwl1 =  Penas do meio.
+marking-AllulaloWingsOwlLeft-allulaloArmOwl1 = Penas do meio
 
 marking-AllulaloWingsOwlLeft-allulaloArmOwl2 = Plumas padrão
 
@@ -91,9 +91,9 @@ marking-AllulaloLegPlumageRight =  Penas excessivas
 
 marking-AllulaloLegPlumageRight-allulaloLegPlumage = Plumagem
 
-marking-AllulaloHeadTopHorn = Horn.
+marking-AllulaloHeadTopHorn = Horn
 
-marking-AllulaloHeadTopHorn-allulaloHeadTopHorn = Horn.
+marking-AllulaloHeadTopHorn-allulaloHeadTopHorn = Horn
 
 marking-AllulaloHeadTopFeathers =  Penas chiques
 
@@ -127,13 +127,13 @@ marking-AllulaloTailDefault-allulaloTailDefault2 =  Penas
 
 marking-AllulaloTailDefault-allulaloTailDefault3 = Sub-barriga
 
-marking-AllulaloTailThick = Cara de rabo grosso.
+marking-AllulaloTailThick = Cara de rabo grosso
 
 marking-AllulaloTailThick-allulaloTailLarge = Cauda
 
 marking-AllulaloTailThick-allulaloTailLarge2 = Sub-barriga
 
-marking-AllulaloTailThick-allulaloTailLarge3 = Spikes.
+marking-AllulaloTailThick-allulaloTailLarge3 = Spikes
 
 marking-AllulaloTailThickSpikes = Cara grossa com espigas
 
@@ -141,7 +141,7 @@ marking-AllulaloTailThickSpikes-allulaloTailLarge = Cauda
 
 marking-AllulaloTailThickSpikes-allulaloTailLarge2 = Sub-barriga
 
-marking-AllulaloTailThickSpikes-allulaloTailLarge3 = Spikes.
+marking-AllulaloTailThickSpikes-allulaloTailLarge3 = Spikes
 
 marking-AllulaloTailTuft = Tuft Tail
 

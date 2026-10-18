@@ -1,3 +1,5 @@
+advertisement-boozeomat-1 = Espero que ninguém me peça uma xícara de chá...
+
 advertisement-boozeomat-2 = O álcool é amigo da humanidade.
 
 advertisement-boozeomat-3 = É um prazer servi-lo!

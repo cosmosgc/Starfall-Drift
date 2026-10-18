@@ -1,6 +1,6 @@
 selectable-lock-verb-category-name =  Adicionar bloqueio
 
-selectable-lock-no-lock-verb = Sem fechadura.
+selectable-lock-no-lock-verb = Sem fechadura
 
 selectable-lock-no-lock-popup =  Nenhuma fechadura foi adicionada a { THE($target) }.
 

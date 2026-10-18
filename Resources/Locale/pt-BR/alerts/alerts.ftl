@@ -74,7 +74,7 @@ alerts-battery-name =  Bateria
 
 alerts-battery-desc = Se sua bateria se esgotar, não poderá usar suas habilidades.
 
-alerts-no-battery-name = Sem bateria.
+alerts-no-battery-name = Sem bateria
 
 alerts-no-battery-desc =  Você não tem bateria, tornando-se incapaz de carregar ou usar suas habilidades.
 
@@ -122,7 +122,7 @@ alerts-pulled-name =  Puxado
 
 alerts-pulled-desc =  Você está sendo puxado, se liberte.
 
-alerts-pulling-name =  Puxando.
+alerts-pulling-name = Puxando
 
 alerts-pulling-desc =  Está puxando algo, clique no alerta para parar.
 
@@ -154,11 +154,11 @@ alerts-revenant-corporeal-name =  Corporal
 
 alerts-revenant-corporeal-desc =  Você se manifestou fisicamente, as pessoas ao seu redor podem vê-lo e machucá-lo.
 
-alerts-rooted-name = Enraizados.
+alerts-rooted-name = Enraizados
 
 alerts-rooted-desc =  Você está preso ao chão, não pode escorregar, mas absorve fluidos sob você.
 
-alerts-stealthy-name = - Pegador de carteiras.
+alerts-stealthy-name = - Pegador de carteiras
 
 alerts-stealthy-desc = Se você está roubando agora, clique para alternar.
 

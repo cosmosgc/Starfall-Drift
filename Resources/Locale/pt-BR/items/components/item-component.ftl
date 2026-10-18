@@ -1,6 +1,6 @@
 pick-up-verb-get-data-text =  Pegar
 
-pick-up-verb-get-data-text-inventory =  Coloque na mão.
+pick-up-verb-get-data-text-inventory = Coloque na mão
 
 item-component-on-examine-size =  Aqui é { INDEFINITE($size) } [bold]{ $size }[/bold] item.
 

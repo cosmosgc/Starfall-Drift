@@ -20,7 +20,7 @@ marking-VoxHairKingly = Vox Kingly
 
 marking-VoxHairLongBraid = Vox Long Braid
 
-marking-VoxHairMange = Vox Mange.
+marking-VoxHairMange = Vox Mange
 
 marking-VoxHairMohawk = Vox Mohawk
 

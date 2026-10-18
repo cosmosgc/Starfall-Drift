@@ -4,7 +4,7 @@ changelog-author-changed = [color=#EEE]{ $author }[/color]  Mudado:
 
 changelog-today =  Hoje
 
-changelog-yesterday =  Ontem.
+changelog-yesterday = Ontem
 
 changelog-new-changes = Novas mudanças
 
@@ -18,7 +18,7 @@ changelog-button-new-entries = Changelog (novo!)
 
 changelog-tab-title-Changelog = Changelog
 
-changelog-tab-title-Admin = Admin.
+changelog-tab-title-Admin = Admin
 
 changelog-tab-title-Maps =  Mapas
 

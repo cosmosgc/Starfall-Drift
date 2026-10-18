@@ -10,11 +10,11 @@ signal-port-name-on-receiver = Adiante
 
 signal-port-description-on-receiver =  Ligar um dispositivo.
 
-signal-port-name-off-receiver =  Desligado.
+signal-port-name-off-receiver = Desligado
 
 signal-port-description-off-receiver =  Desligar um dispositivo.
 
-signal-port-name-forward = Em frente.
+signal-port-name-forward = Em frente
 
 signal-port-description-forward =  Faz um dispositivo (por exemplo, transportador) operar na direção normal.
 
@@ -22,11 +22,11 @@ signal-port-name-reverse = Inverter
 
 signal-port-description-reverse =  Faz um dispositivo (por exemplo, transportador) operar na direção inversa.
 
-signal-port-name-open =  Abra.
+signal-port-name-open = Abra
 
 signal-port-description-open =  Abre um dispositivo.
 
-signal-port-name-close =  Feche.
+signal-port-name-close = Feche
 
 signal-port-description-close =  Fecha um dispositivo.
 
@@ -38,11 +38,11 @@ signal-port-name-trigger-receiver = Trigger
 
 signal-port-description-trigger-receiver = Ativa algum mecanismo no dispositivo.
 
-signal-port-name-order-sender =  Mandar o remetente.
+signal-port-name-order-sender = Mandar o remetente
 
 signal-port-description-order-sender =  Enviador de pedidos de console de carga
 
-signal-port-name-order-receiver = Receptor de pedidos.
+signal-port-name-order-receiver = Receptor de pedidos
 
 signal-port-description-order-receiver = Receptor de ordem de console de carga
 
@@ -54,23 +54,23 @@ signal-port-name-depressurize = Despressurizar
 
 signal-port-description-depressurize =  Faz com que o dispositivo comece a sugar ar até que a pressão do alvo seja atingida.
 
-signal-port-name-pod-sender = -Cadículo de clonagem.
+signal-port-name-pod-sender = -Cadículo de clonagem
 
 signal-port-description-pod-sender =  Enviando sinal de cápsula de clonagem
 
-signal-port-name-pod-receiver = -Cadículo de clonagem.
+signal-port-name-pod-receiver = -Cadículo de clonagem
 
-signal-port-description-pod-receiver = Receptor de sinal de cápsula de clonagem.
+signal-port-description-pod-receiver = Receptor de sinal de cápsula de clonagem
 
 signal-port-name-med-scanner-sender = Escâner médico
 
-signal-port-description-med-scanner-sender =  Enviador de sinal de scanner médico.
+signal-port-description-med-scanner-sender = Enviador de sinal de scanner médico
 
 signal-port-name-med-scanner-receiver = Escâner médico
 
-signal-port-description-med-scanner-receiver = Receptor de sinal de scanner médico.
+signal-port-description-med-scanner-receiver = Receptor de sinal de scanner médico
 
-signal-port-name-hold-open =  Espere.
+signal-port-name-hold-open = Espere
 
 signal-port-description-hold-open =  Desligar o fechamento automático.
 
@@ -78,7 +78,7 @@ signal-port-name-artifact-analyzer-sender = Consola
 
 signal-port-description-artifact-analyzer-sender =  Enviador de sinal do console de análise
 
-signal-port-name-artifact-analyzer-receiver = Pad.
+signal-port-name-artifact-analyzer-receiver = Pad
 
 signal-port-description-artifact-analyzer-receiver = Receptor de sinal de analisador de artefatos
 

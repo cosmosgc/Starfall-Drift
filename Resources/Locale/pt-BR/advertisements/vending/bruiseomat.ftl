@@ -1,3 +1,5 @@
+advertisement-bruiseomat-1 = EU VOTO WAROPS!!!
+
 advertisement-bruiseomat-2 =  Quem tem TC?
 
 advertisement-bruiseomat-3 =  Alguém comprou um EMAG?

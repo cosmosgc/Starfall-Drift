@@ -14,9 +14,9 @@ lathe-category-tools =  Ferramentas
 lathe-category-weapons =  Armas
 
 # Biogen
-lathe-category-food =  Comida.
+lathe-category-food = Comida
 
-lathe-category-chemicals =  Produtos químicos.
+lathe-category-chemicals = Produtos químicos
 
 lathe-category-materials =  Materiais
 
@@ -31,7 +31,7 @@ lathe-category-medical =  Médico
 
 lathe-category-research = Pesquisa
 
-lathe-category-security =  Segurança.
+lathe-category-security = Segurança
 
 lathe-category-service =  Serviço
 
@@ -46,13 +46,13 @@ lathe-category-concrete-tile = Concreto
 
 lathe-category-dark-tile =  Escuro
 
-lathe-category-faux-tile = Falso.
+lathe-category-faux-tile = Falso
 
-lathe-category-maints-tile = Maints.
+lathe-category-maints-tile = Maints
 
 lathe-category-marble =  Mármore
 
-lathe-category-steel-tile =  Aço.
+lathe-category-steel-tile = Aço
 
 lathe-category-shuttle-tile =  Nave
 
@@ -62,12 +62,12 @@ lathe-category-wood-tile = Madeira
 
 lathe-category-plastic-tile = Plástico
 
-lathe-category-precious-tile = Preciosa.
+lathe-category-precious-tile = Preciosa
 
-lathe-category-industrial-tile = Industrial.
+lathe-category-industrial-tile = Industrial
 
 # Science
-lathe-category-mechs = Mechs.
+lathe-category-mechs = Mechs
 
 lathe-category-modules =  Módulos
 
@@ -91,6 +91,6 @@ lathe-category-command =  Comando
 
 lathe-category-hats =  Chapéus
 
-lathe-category-jumpsuits = -Maiôs.
+lathe-category-jumpsuits = -Maiôs
 
 lathe-category-neck = Pescoço

@@ -8,7 +8,7 @@ welder-component-no-fuel-in-tank = O { $owner }  Está vazio.
 
 welder-component-on-examine-welder-lit-message = [color=orange]Lit.[/color]
 
-welder-component-on-examine-welder-not-lit-message =  Não está acesa.
+welder-component-on-examine-welder-not-lit-message = Não está acesa
 
 welder-component-on-examine-detailed-message =
     Fuel: [color={ $colorName }]{ $fuelLeft }/{ $fuelCapacity }[/color]

@@ -28,7 +28,7 @@ admin-verb-text-make-traitor =  Faça Traidor
 
 admin-verb-text-make-initial-infected =  Faça o Infectado Inicial
 
-admin-verb-text-make-zombie =  Faça um zumbi.
+admin-verb-text-make-zombie = Faça um zumbi
 
 admin-verb-text-make-nuclear-operative =  Faça Gorlex Marauder
 
@@ -40,7 +40,7 @@ admin-verb-text-make-thief =  Faça Ladrão
 
 admin-verb-text-make-paradox-clone =  Criar Clone Paradox
 
-admin-verb-text-make-wizard =  Faça o Mago.
+admin-verb-text-make-wizard = Faça o Mago
 
 admin-verb-text-make-space-ninja =  Faça Ninja
 

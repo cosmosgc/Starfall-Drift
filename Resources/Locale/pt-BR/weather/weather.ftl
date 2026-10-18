@@ -6,7 +6,7 @@ cmd-weatheradd-desc =  Adicione tempo específico ao mapa.
 
 cmd-weatherremove-help = REMOVER TEMPOS REMOVIDOS
 
-cmd-weatherset-help = O tempo está baixo.
+cmd-weatherset-help = O tempo está baixo
 
 cmd-weatheradd-help = WEAMAD < mapId> <protótipo/null>
 

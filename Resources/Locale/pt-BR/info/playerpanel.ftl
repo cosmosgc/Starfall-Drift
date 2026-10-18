@@ -1,4 +1,4 @@
-cmd-playerpanel-desc =  Mostra informações e ações gerais para um jogador.
+cmd-playerpanel-desc = Mostra informações e ações gerais para um jogador
 
 cmd-playerpanel-help = Uso: playerpanel <nome ou ID do usuário>
 

@@ -1,3 +1,5 @@
+advertisement-condiment-1 = Cansado de carne seca? Borrife condimentos cheios de sabor nela!
+
 advertisement-condiment-2 = Utensílios de segurança infantil, garfos, colheres e facas que não cortam nada.
 
 advertisement-condiment-3 =  Óleo de milho!

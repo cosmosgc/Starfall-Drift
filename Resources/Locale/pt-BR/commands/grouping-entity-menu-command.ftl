@@ -4,4 +4,4 @@ cmd-entitymenug-help = Uso: { $command } <0:{ $groupingTypesCount }>
 
 cmd-entitymenug-error = { $arg }  Não é um inteiro válido.
 
-cmd-entitymenug-notify = Menu de Contexto Agrupamento definido para digitar: { $cvar }
+cmd-entitymenug-notify = Agrupamento do menu de contexto definido para o tipo: { $cvar }

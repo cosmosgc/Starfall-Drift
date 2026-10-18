@@ -25,15 +25,15 @@ survivor-round-end-alive-on-shuttle-count =
 
 objective-issuer-swf = [color=turquoise]A Federação dos Feiticeiros Espaciais[/color]
 
-wizard-title = Feiticeiro.
+wizard-title = Feiticeiro
 
 wizard-description =  Há um Mago na estação, nunca se sabe o que eles podem fazer.
 
-roles-antag-wizard-name = Feiticeiro.
+roles-antag-wizard-name = Feiticeiro
 
 # _Starfall
 roles-antag-wizard-objective = As tensões entre a Federação dos Feiticeiros Espaciais e Nanotrasen chegaram a um ponto de ebulição.
 
 wizard-role-greeting =  Houve tensões entre a Federação dos Feiticeiros do Espaço e NanoTrasen, você foi selecionado pela Federação dos Feiticeiros do Espaço para visitar a estação e "lembrar" por que os Feiticeiros não devem ser enganados, causar caos e destruição, mas lembre-se que os Feiticeiros do Espaço querem que você saia vivo.
 
-wizard-round-end-name =  Mago.
+wizard-round-end-name = Mago

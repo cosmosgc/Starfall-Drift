@@ -13,7 +13,7 @@ armor-damage-type-blunt = Blunt
 
 armor-damage-type-slash = Slash
 
-armor-damage-type-piercing = -Pierre.
+armor-damage-type-piercing = -Pierre
 
 armor-damage-type-heat = Calor
 
@@ -27,9 +27,9 @@ armor-damage-type-asphyxiation = Asfixia
 
 armor-damage-type-cellular =  Celular
 
-armor-damage-type-cold = Frio.
+armor-damage-type-cold = Frio
 
-armor-damage-type-poison = Veneno.
+armor-damage-type-poison = Veneno
 
 armor-damage-type-shock = Choque
 

@@ -1,4 +1,4 @@
-trait-chronic-migraines-name = Enxaquecas crônicas.
+trait-chronic-migraines-name = Enxaquecas crônicas
 
 trait-chronic-migraines-desc =  Às vezes, você experimenta enxaquecas debilitantes que prejudicam sua visão e movimento, e receberá medicação para enxaqueca quando chegar.
 

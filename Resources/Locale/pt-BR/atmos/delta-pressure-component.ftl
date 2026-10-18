@@ -1,1 +1,1 @@
-window-taking-damage = [color=orange] Está se esforçando sob pressão![/color]
+window-taking-damage = [color=orange] Está cedendo sob pressão![/color]

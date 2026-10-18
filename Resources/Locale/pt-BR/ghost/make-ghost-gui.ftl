@@ -19,7 +19,7 @@ make-ghost-roles-window-max-duration-label = Max Duração (s)
 make-ghost-roles-window-make-button =  Faça
 
 # Raffle
-make-ghost-roles-window-raffle-not-button =  Não rifa.
+make-ghost-roles-window-raffle-not-button = Não rifa
 
 make-ghost-roles-window-raffle-custom-settings-button =  Configurações personalizadas
 

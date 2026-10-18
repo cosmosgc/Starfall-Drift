@@ -66,4 +66,4 @@ marking-HumanFacialHairElvis = Costeletas (Elvis)
 
 marking-HumanFacialHairMutton = Costeletas (Corte de Mutton)
 
-marking-HumanFacialHairSideburn = - Costeletas.
+marking-HumanFacialHairSideburn = - Costeletas

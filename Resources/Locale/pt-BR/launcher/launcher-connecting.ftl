@@ -1,12 +1,12 @@
 connecting-title =  Estação Espacial 14
 
-connecting-exit = Sai.
+connecting-exit = Sai
 
 connecting-retry = Retentar
 
 connecting-reconnect = Reconectar
 
-connecting-copy =  Entendido.
+connecting-copy = Entendido
 
 connecting-redial = Relaunch
 
@@ -26,7 +26,7 @@ connecting-fail-reason =
      Falha ao conectar-se ao servidor:
     { $reason }
 
-connecting-state-NotConnecting =  Não está se conectando.
+connecting-state-NotConnecting = Não está se conectando
 
 connecting-state-ResolvingHost = Resolvendo o hospedeiro
 
@@ -34,4 +34,4 @@ connecting-state-EstablishingConnection =  Estabelecendo conexão
 
 connecting-state-Handshake = Aperto de mão
 
-connecting-state-Connected = Conectado.
+connecting-state-Connected = Conectado

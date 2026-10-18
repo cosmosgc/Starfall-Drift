@@ -15,6 +15,6 @@ construction-insert-info-examine-name-knife = Faca
 
 construction-insert-info-examine-name-utensil = utensílio
 
-construction-insert-info-examine-name-laser-cannon =  Arma laser de alta potência.
+construction-insert-info-examine-name-laser-cannon = Arma laser de alta potência
 
 construction-insert-info-examine-name-power-cell = Célula de energia

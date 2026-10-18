@@ -6,7 +6,7 @@ signal-port-name-on-transmitter = Adiante
 
 signal-port-description-on-transmitter =  Esta porta é invocada sempre que o transmissor é ligado.
 
-signal-port-name-off-transmitter =  Desligado.
+signal-port-name-off-transmitter = Desligado
 
 signal-port-description-off-transmitter =  Esta porta é invocada sempre que o transmissor é desligado.
 
@@ -14,11 +14,11 @@ signal-port-name-status-transmitter =  Situação
 
 signal-port-description-status-transmitter =  Esta porta é invocada com ALTO ou LOW dependendo do estado do transmissor.
 
-signal-port-name-left =  Esquerda.
+signal-port-name-left = Esquerda
 
 signal-port-description-left =  Esta porta é invocada sempre que a alavanca é movida para a posição mais esquerda.
 
-signal-port-name-right =  Certo.
+signal-port-name-right = Certo
 
 signal-port-description-right =  Esta porta é invocada sempre que a alavanca é movida para a posição mais direita.
 
@@ -58,7 +58,7 @@ signal-port-name-logic-output-low =  Baixo resultado
 
 signal-port-description-logic-output-low =  Esta porta é invocada sempre que a entrada tem uma borda caindo.
 
-signal-port-name-air-danger =  Perigo.
+signal-port-name-air-danger = Perigo
 
 signal-port-description-air-danger = Este porto é invocado com o ALTO quando em perigo e o Baixo quando não.
 
@@ -66,11 +66,11 @@ signal-port-name-air-warning =  Aviso
 
 signal-port-description-air-warning =  Esta porta é invocada com o ALTO quando em modo de alerta e o Baixo quando não.
 
-signal-port-name-air-normal = Normal.
+signal-port-name-air-normal = Normal
 
 signal-port-description-air-normal =  Esta porta é invocada com o ALTO quando em modo normal e o Low quando não.
 
-signal-port-name-decaying = Decaindo.
+signal-port-name-decaying = Decaindo
 
 signal-port-description-decaying =  Esta porta é invocada quando uma anomalia ligada começa a se deteriorar.
 
@@ -86,11 +86,11 @@ signal-port-name-pulse = Pulso
 
 signal-port-description-pulse = Este porto é invocado quando uma anomalia está pulsando.
 
-signal-port-name-supercrit = Supercrítico.
+signal-port-name-supercrit = Supercrítico
 
 signal-port-description-supercrit = Este porto é invocado quando uma anomalia ligada explode após o estado de supercrito.
 
-signal-port-name-power-charging =  Carregando.
+signal-port-name-power-charging = Carregando
 
 signal-port-description-power-charging =  Esta porta é invocada com o ALTO quando a bateria está ganhando carga e o Baixo quando não.
 
@@ -98,6 +98,6 @@ signal-port-name-power-discharging = Descarregando
 
 signal-port-description-power-discharging =  Esta porta é invocada com o ALTO quando a bateria está perdendo carga e o Baixo quando não.
 
-signal-port-name-item-detected = Detectado.
+signal-port-name-item-detected = Detectado
 
 signal-port-description-item-detected =  Esta porta é invocada sempre que o transmissor detecta um item.

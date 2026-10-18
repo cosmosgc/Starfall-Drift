@@ -2,7 +2,7 @@ marking-CrabChestBiopulse = Biopulso
 
 marking-CrabChestBiopulse-biopulse1 =  Exterior
 
-marking-CrabChestBiopulse-biopulse2 = Inner.
+marking-CrabChestBiopulse-biopulse2 = Inner
 
 marking-CrabChestMasked = Mascarado
 
@@ -38,7 +38,7 @@ marking-FlowerMoonPlate-flowermoonupper1 = Prato
 
 marking-FlowerMoonPlate-flowermoonupper2 =  Exterior
 
-marking-FlowerMoonPlate-flowermoonupper3 = Inner.
+marking-FlowerMoonPlate-flowermoonupper3 = Inner
 
 marking-CrabCrackedHead =  Quebras na cabeça
 
@@ -52,11 +52,11 @@ marking-GaudyClownHead = Cara de Palhaço Gaudy
 
 marking-GaudyClownHead-gaudyclownhead1 =  Exterior
 
-marking-GaudyClownHead-gaudyclownhead2 = Inner.
+marking-GaudyClownHead-gaudyclownhead2 = Inner
 
 marking-DecapoidGillsDefault = Gills (Padrão)
 
-marking-DecapoidGillsDefault-gills-default = Gills.
+marking-DecapoidGillsDefault-gills-default = Gills
 
 marking-GillStripes = Gills (Striped)
 
@@ -108,7 +108,7 @@ marking-RightEncrustedPauldron-pauldronencrusted1 = Pauldron
 
 marking-RightEncrustedPauldron-pauldronencrusted2 = Dica
 
-marking-RightEncrustedPauldron-pauldronencrusted3 = Gems.
+marking-RightEncrustedPauldron-pauldronencrusted3 = Gems
 
 marking-RPauldronArmored = Pauldron (Armored)
 
@@ -134,7 +134,7 @@ marking-LeftEncrustedPauldron-pauldronencrusted1 = Pauldron
 
 marking-LeftEncrustedPauldron-pauldronencrusted2 = Dica
 
-marking-LeftEncrustedPauldron-pauldronencrusted3 = Gems.
+marking-LeftEncrustedPauldron-pauldronencrusted3 = Gems
 
 marking-LPauldronArmored = Pauldron (Armored)
 
@@ -164,7 +164,7 @@ marking-CrabSplitClaw = Garra Dividida
 
 marking-CrabSplitClaw-splitclaw1 = Alto
 
-marking-CrabSplitClaw-splitclaw2 =  Mais baixo.
+marking-CrabSplitClaw-splitclaw2 = Mais baixo
 
 marking-DecapoidClawGradient = Gradiente da Garra Maior
 
@@ -182,9 +182,9 @@ marking-DecapoidRHandPlate = Garra Menor
 
 marking-DecapoidRHandPlate-plate = Garra Menor
 
-marking-DecapoidFlatHead =  Cabeça plana.
+marking-DecapoidFlatHead = Cabeça plana
 
-marking-DecapoidFlatHead-flathead =  Cabeça plana.
+marking-DecapoidFlatHead-flathead = Cabeça plana
 
 marking-DecapoidCrestFledgeling =  Crest (Fledgeling)
 
@@ -242,32 +242,32 @@ marking-DecapoidWhiskerCurled = Whiskers (Curled)
 
 marking-DecapoidWhiskerCurled-whisker-curled = Whiskers
 
-marking-GrasperCurly = Curly.
+marking-GrasperCurly = Curly
 
-marking-GrasperCurly-grasper-curly = Grasper.
+marking-GrasperCurly-grasper-curly = Grasper
 
-marking-GrasperFreaky =  Esquisita.
+marking-GrasperFreaky = Esquisita
 
-marking-GrasperFreaky-grasper-freaky = Grasper.
+marking-GrasperFreaky-grasper-freaky = Grasper
 
 marking-GrasperHigh = Alto
 
-marking-GrasperHigh-grasper-highup = Grasper.
+marking-GrasperHigh-grasper-highup = Grasper
 
 marking-GrasperLong = Longo
 
-marking-GrasperLong-grasper-long = Grasper.
+marking-GrasperLong-grasper-long = Grasper
 
 marking-GrasperMoon =  Lua
 
-marking-GrasperMoon-grasper-moon1 = Grasper.
+marking-GrasperMoon-grasper-moon1 = Grasper
 
 marking-GrasperMoon-grasper-moon2 = Dica
 
-marking-GrasperShort = Curto.
+marking-GrasperShort = Curto
 
-marking-GrasperShort-grasper-short = Grasper.
+marking-GrasperShort-grasper-short = Grasper
 
 marking-GrasperUneven = Invicto
 
-marking-GrasperUneven-grasper-uneven = Grasper.
+marking-GrasperUneven-grasper-uneven = Grasper

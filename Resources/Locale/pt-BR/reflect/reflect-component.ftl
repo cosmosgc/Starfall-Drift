@@ -1,5 +1,5 @@
-reflect-component-examine =  Tem um [color=lightblue]{ $value }%[/color] A chance de [color=cyan]Reflita[/color] { $type }.
+reflect-component-examine =  Tem [color=lightblue]{ $value }%[/color] de chance de [color=cyan]refletir[/color] { $type }.
 
-reflect-component-nonenergy =  balas.
+reflect-component-nonenergy = balas
 
-reflect-component-energy = Eléctricos de energia
+reflect-component-energy = raios de energia

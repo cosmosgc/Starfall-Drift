@@ -1,3 +1,5 @@
+admin-alert-shared-connection = { $player } está compartilhando uma conexão com { $otherCount } jogador(es) conectado(s): { $otherList }
+
 admin-alert-ipintel-blocked = { $player }  foi rejeitado de entrar devido ao seu IP ter um { TOSTRING($percent, "P2") }  confiança de ser um VPN/Datacenter.
 
 admin-alert-ipintel-warning = { $player } IP tem um { TOSTRING($percent, "P2") }  Confiança de ser um VPN/Datacenter.

@@ -1,6 +1,6 @@
 mapping-entities =  Entidades
 
-mapping-tiles = Tiles
+mapping-tiles = Pisos
 
 mapping-decals = Decalques
 

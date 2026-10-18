@@ -8,4 +8,4 @@ rotate-verb-get-data-text =  Rodar no sentido horário
 rotate-counter-verb-get-data-text =  Rodar no sentido anti-horário
 
 # ResetVerb
-rotate-reset-verb-get-data-text = Reiniciar
+rotate-reset-verb-get-data-text = Redefinir

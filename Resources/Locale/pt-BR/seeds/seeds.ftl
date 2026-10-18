@@ -21,25 +21,25 @@ seeds-banana-name = Banana
 
 seeds-banana-display-name = Banana
 
-seeds-mimana-name = - Mimana.
+seeds-mimana-name = - Mimana
 
 seeds-mimana-display-name =  planta de mimana
 
-seeds-carrots-name = Cenoura.
+seeds-carrots-name = Cenoura
 
-seeds-carrots-display-name = Cenouras.
+seeds-carrots-display-name = Cenouras
 
-seeds-cabbage-name = -Repolho.
+seeds-cabbage-name = -Repolho
 
 seeds-cabbage-display-name = Couves
 
-seeds-garlic-name =  Cabeça de alho.
+seeds-garlic-name = Cabeça de alho
 
-seeds-garlic-display-name =  Cabeças de alho.
+seeds-garlic-display-name = Cabeças de alho
 
-seeds-lemon-name =  limão.
+seeds-lemon-name = limão
 
-seeds-lemon-display-name = Limoeiro.
+seeds-lemon-display-name = Limoeiro
 
 seeds-lemoon-name = Lemoon
 
@@ -79,7 +79,7 @@ seeds-papercane-display-name = canas-de-papel
 
 seeds-towercap-name = Torre cap
 
-seeds-towercap-display-name = Torre de bonés.
+seeds-towercap-display-name = Torre de bonés
 
 seeds-steelcap-name =  tampa de aço
 
@@ -125,7 +125,7 @@ seeds-onionred-name = Cebola vermelha
 
 seeds-onionred-display-name = Cebolas vermelhas
 
-seeds-chanterelle-name = Câterelle.
+seeds-chanterelle-name = Câterelle
 
 seeds-chanterelle-display-name = Cogumelos chanterelle
 
@@ -155,9 +155,9 @@ seeds-deathnettle-display-name = Urtigas da morte
 
 seeds-chili-name = Chili
 
-seeds-chili-display-name = Pimentas de pimenta.
+seeds-chili-display-name = Pimentas de pimenta
 
-seeds-chilly-name = -Fresco.
+seeds-chilly-name = -Fresco
 
 seeds-chilly-display-name = Pimentas geladas
 
@@ -165,9 +165,9 @@ seeds-poppy-name = papoula
 
 seeds-poppy-display-name = papoulas
 
-seeds-aloe-name = Aloé.
+seeds-aloe-name = Aloé
 
-seeds-aloe-display-name = Aloé.
+seeds-aloe-display-name = Aloé
 
 seeds-laughin-pea-name = Ervilhas rindo
 
@@ -181,17 +181,17 @@ seeds-lingzhi-name = Lingzhi
 
 seeds-lingzhi-display-name = Lingzhi
 
-seeds-ambrosiavulgaris-name = Ambrosia vulgaris.
+seeds-ambrosiavulgaris-name = Ambrosia vulgaris
 
-seeds-ambrosiavulgaris-display-name = Ambrosia vulgaris.
+seeds-ambrosiavulgaris-display-name = Ambrosia vulgaris
 
-seeds-ambrosiadeus-name = Ambrosia Deus.
+seeds-ambrosiadeus-name = Ambrosia Deus
 
-seeds-ambrosiadeus-display-name = Ambrosia Deus.
+seeds-ambrosiadeus-display-name = Ambrosia Deus
 
-seeds-galaxythistle-name = Galáxia, cardo
+seeds-galaxythistle-name = Cardo galáctico
 
-seeds-galaxythistle-display-name = Galáxia, cardo
+seeds-galaxythistle-display-name = Cardo galáctico
 
 seeds-glasstle-name = glasstle
 
@@ -217,7 +217,7 @@ seeds-spacemans-trumpet-name = Trompete do homem do espaço
 
 seeds-spacemans-trumpet-display-name =  Planta de trompete do homem do espaço
 
-seeds-koibean-name = Koibeans.
+seeds-koibean-name = Koibeans
 
 seeds-koibean-display-name =  Planta de koibean
 
@@ -225,7 +225,7 @@ seeds-watermelon-name = Melancia
 
 seeds-watermelon-display-name = Melancias
 
-seeds-holymelon-name = Holymelon.
+seeds-holymelon-name = Holymelon
 
 seeds-holymelon-display-name = "Vinha de melancia"
 
@@ -241,7 +241,7 @@ seeds-berries-name = bagas
 
 seeds-berries-display-name = arbusto de frutas
 
-seeds-bungo-name = Bungo.
+seeds-bungo-name = Bungo
 
 seeds-bungo-display-name =  planta bungo
 

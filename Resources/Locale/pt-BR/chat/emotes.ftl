@@ -1,15 +1,15 @@
 # Names
-chat-emote-name-scream =  Grite.
+chat-emote-name-scream = Grite
 
 chat-emote-name-laugh = Rir
 
-chat-emote-name-honk = Buzine.
+chat-emote-name-honk = Buzine
 
 chat-emote-name-sigh =  Suspiro
 
 chat-emote-name-whistle = Assobiar
 
-chat-emote-name-crying = Chore.
+chat-emote-name-crying = Chore
 
 chat-emote-name-squish = Espreme
 
@@ -21,7 +21,7 @@ chat-emote-name-thump = "Tump Tail"
 
 chat-emote-name-click =  Clique
 
-chat-emote-name-clap =  Batam palmas.
+chat-emote-name-clap = Batam palmas
 
 chat-emote-name-clap-single =  Batam palmas
 
@@ -29,11 +29,11 @@ chat-emote-name-snap = Snap
 
 chat-emote-name-salute = Saúde
 
-chat-emote-name-gasp = Gasp.
+chat-emote-name-gasp = Gasp
 
 chat-emote-name-deathgasp = Gasp da Morte
 
-chat-emote-name-buzz = Buzz.
+chat-emote-name-buzz = Buzz
 
 chat-emote-name-weh = Weh
 
@@ -45,7 +45,7 @@ chat-emote-name-beep = Beep
 
 chat-emote-name-chime = Chime
 
-chat-emote-name-buzztwo = Buzz Dois.
+chat-emote-name-buzztwo = Buzz Dois
 
 chat-emote-name-ping = Ping
 
@@ -59,13 +59,13 @@ chat-emote-name-cathisses =  Gato Hiss
 
 chat-emote-name-monkeyscreeches =  Macaco Screech
 
-chat-emote-name-robotbeep = Robô.
+chat-emote-name-robotbeep = Robô
 
 chat-emote-name-yawn = Bocejo
 
 chat-emote-name-snore = Roncar
 
-chat-emote-name-bark = Late.
+chat-emote-name-bark = Late
 
 chat-emote-name-snarl = Snarl
 

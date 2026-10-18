@@ -8,9 +8,9 @@ add-uplink-command-completion-2 = Uid de ligação ascendente (por omissão para
 
 add-uplink-command-completion-3 =  Está habilitado o desconto de uplink
 
-add-uplink-command-error-1 =  Jogador selecionado não controla nenhuma entidade.
+add-uplink-command-error-1 = Jogador selecionado não controla nenhuma entidade
 
-add-uplink-command-error-2 =  Não foi possível adicionar link ao jogador.
+add-uplink-command-error-2 = Não foi possível adicionar link ao jogador
 
 add-uplink-command-success-pda = Uplink adicionado ao jogador PDA com código { $code }
 

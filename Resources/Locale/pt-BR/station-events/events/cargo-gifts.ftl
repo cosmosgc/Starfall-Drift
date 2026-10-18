@@ -16,23 +16,23 @@ cargo-gift-dest-janitor =  Departamento de Serviço
 
 cargo-gift-dest-med =  Departamento Médico
 
-cargo-gift-dest-sec =  Departamento de Segurança.
+cargo-gift-dest-sec = Departamento de Segurança
 
-cargo-gift-pizza-small =  Uma pequena festa de pizza.
+cargo-gift-pizza-small = Uma pequena festa de pizza
 
-cargo-gift-pizza-large =  Uma grande festa de pizza.
+cargo-gift-pizza-large = Uma grande festa de pizza
 
 cargo-gift-eng =  Materiais de reparo
 
-cargo-gift-vending =  Máquinas de venda de recargas.
+cargo-gift-vending = Máquinas de venda de recargas
 
 cargo-gift-cleaning =  Equipamento de limpeza
 
-cargo-gift-medical-supply = Suprimentos médicos.
+cargo-gift-medical-supply = Suprimentos médicos
 
 cargo-gift-space-protection =  Proteção de Perigo Espacial
 
-cargo-gift-fire-protection =  Proteção contra incêndio.
+cargo-gift-fire-protection = Proteção contra incêndio
 
 cargo-gift-security-guns =  Armas Letais
 

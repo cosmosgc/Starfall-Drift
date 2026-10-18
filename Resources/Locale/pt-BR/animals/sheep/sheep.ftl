@@ -12,4 +12,4 @@ rainbow-sheep-shearable-examine-markup =  Ela tem um velo de folhas de arco-íri
 
 rainbow-sheep-not-shearable-examine-markup =  Seu velo está recém tosquiado e [color=#3b86ec] psicodelicamente[/color] - Não, não.
 
-rainbow-sheep-shearable-verb = Prune.
+rainbow-sheep-shearable-verb = Prune

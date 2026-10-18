@@ -1,3 +1,5 @@
+spacevillain-menu-title = Vilão Espacial
+
 spacevillain-menu-label-player =  Jogador
 
 spacevillain-menu-button-attack = ATAQUE

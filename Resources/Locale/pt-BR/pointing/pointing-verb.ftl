@@ -1,1 +1,1 @@
-pointing-verb-get-data-text =  Ponto em
+pointing-verb-get-data-text =  Apontar para

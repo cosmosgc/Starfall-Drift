@@ -1,10 +1,10 @@
 marking-ArachnidCheliceraeDownwards = Chelicerae (Downwards)
 
-marking-ArachnidCheliceraeDownwards-downwards = Chelicerae.
+marking-ArachnidCheliceraeDownwards-downwards = Chelicerae
 
 marking-ArachnidCheliceraeInwards = Chelicerae (Para Dentro)
 
-marking-ArachnidCheliceraeInwards-inwards = Chelicerae.
+marking-ArachnidCheliceraeInwards-inwards = Chelicerae
 
 marking-ArachnidAppendagesDefault =  Anexos (Long)
 
@@ -68,7 +68,7 @@ marking-ArachnidTorsoSlashes = Slashs
 
 marking-ArachnidTorsoSlashes-slashes =  Desenho
 
-marking-ArachnidTorsoCross = Cruz.
+marking-ArachnidTorsoCross = Cruz
 
 marking-ArachnidTorsoCross-cross =  Desenho
 
@@ -128,4 +128,4 @@ marking-ArachnidLLegStripes = Aracnídeos (esquerda)
 
 marking-ArachnidLLegStripes-stripes_left = Listras
 
-marking-ArachnidOverlayFuzzy = Fuzzy.
+marking-ArachnidOverlayFuzzy = Fuzzy

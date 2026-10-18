@@ -1,3 +1,5 @@
+department-Cargo-description = Complete recompensas, ganhe Spessos e peça suprimentos úteis para a tripulação.
+
 department-Civilian-description =  Faça pequenas tarefas úteis para manter a estação sã e bem cuidada.
 
 department-Command-description = Gerencie a tripulação e mantenha-os trabalhando eficientemente.
@@ -10,7 +12,7 @@ department-Medical-description =  Mantenha a tripulação saudável.
 
 department-Security-description =  Mantenha a paz na estação.
 
-department-Science-description = Pesquisa artefatos e anomalias para inventar novos equipamentos para a estação.
+department-Science-description = Pesquisa artefatos e anomalias para inventar novos equipamentos para a estação
 
 department-Silicon-description = Obedeçam suas leis e sirvam a tripulação.
 

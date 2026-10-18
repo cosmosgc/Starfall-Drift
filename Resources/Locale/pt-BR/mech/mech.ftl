@@ -1,6 +1,6 @@
 mech-verb-enter = Entre
 
-mech-verb-exit = Remova o piloto.
+mech-verb-exit = Remova o piloto
 
 mech-equipment-begin-install =  Instalando o { THE($item) }...
 
@@ -8,11 +8,11 @@ mech-equipment-finish-install =  Terminado a instalação do { THE($item) }
 
 mech-equipment-select-popup = { $item }  selecionado
 
-mech-equipment-select-none-popup =  Nada selecionado.
+mech-equipment-select-none-popup = Nada selecionado
 
-mech-ui-open-verb =  Abra o painel de controle.
+mech-ui-open-verb = Abra o painel de controle
 
-mech-menu-title =  Painel de controle do Mech.
+mech-menu-title = Painel de controle do Mech
 
 mech-integrity-display = Integridade: { $amount }%
 

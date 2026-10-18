@@ -30,7 +30,7 @@ fibers-black = Preto
 
 fibers-blue =  azul
 
-fibers-teal = Teal.
+fibers-teal = Teal
 
 fibers-brown =  marrom
 
@@ -48,7 +48,7 @@ fibers-yellow =  Amarelo
 
 fibers-regal-blue =  azul real
 
-fibers-olive = Olive.
+fibers-olive = Olive
 
 fibers-silver =  prata
 

@@ -17,6 +17,6 @@ comp-stack-becomes-full = Stack está cheio agora.
 # Text related to splitting a stack
 comp-stack-split =  Você dividiu a pilha.
 
-comp-stack-split-halve =  Metade.
+comp-stack-split-halve = Metade
 
 comp-stack-split-too-small = Stack é muito pequeno para dividir.

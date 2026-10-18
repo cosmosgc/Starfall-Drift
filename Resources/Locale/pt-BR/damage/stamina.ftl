@@ -1,4 +1,4 @@
-melee-stamina =  Não há resistência suficiente.
+melee-stamina = Esforço insuficiente
 
 slow-on-damage-modifier-examine = A lentidão dos ferimentos é reduzida por [color=yellow]{ $mod }%[/color]
 

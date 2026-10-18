@@ -1,3 +1,5 @@
+cmd-jobwhitelist-job-does-not-exist = O cargo { $job } não existe.
+
 cmd-jobwhitelist-player-not-found =  Jogador { $player }  Não encontrado.
 
 cmd-jobwhitelist-hint-player = [player]

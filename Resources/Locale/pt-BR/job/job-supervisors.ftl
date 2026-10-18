@@ -1,31 +1,31 @@
-job-supervisors-centcom =  Comando Central
+job-supervisors-centcom = Comando Central
 
-job-supervisors-captain = O Capitão.
+job-supervisors-captain = o Capitão
 
-job-supervisors-hop = O Chefe do Pessoal
+job-supervisors-hop = o Chefe de Pessoal
 
-job-supervisors-hos =  Chefe de Segurança
+job-supervisors-hos = o Chefe de Segurança
 
-job-supervisors-ce = O Engenheiro Chefe.
+job-supervisors-ce = o Engenheiro Chefe
 
-job-supervisors-cmo = O Chefe de Medicina
+job-supervisors-cmo = o Chefe Médico
 
-job-supervisors-rd =  Diretor de Pesquisa
+job-supervisors-rd = o Diretor de Pesquisa
 
-job-supervisors-qm = O Intendente
+job-supervisors-qm = o Intendente
 
-job-supervisors-service = Chefs, botânicos, bartender, e o chefe de pessoal
+job-supervisors-service = Chefs, Botânicos, Bartenders e o Chefe de Pessoal
 
-job-supervisors-engineering =  Engenheiros de Estação, Técnicos Atmosféricos, e o Engenheiro Chefe
+job-supervisors-engineering = Engenheiros da Estação, Técnicos Atmosféricos e o Engenheiro Chefe
 
-job-supervisors-medicine =  Médicos, paramédicos, químicos e o Chefe de Medicina
+job-supervisors-medicine = Médicos, Paramédicos, Químicos e o Chefe Médico
 
-job-supervisors-security =  Oficiais de Segurança, o Diretor e o Chefe de Segurança
+job-supervisors-security = Oficiais de Segurança, o Carcereiro e o Chefe de Segurança
 
-job-supervisors-science = Cientistas e Diretor de Pesquisa
+job-supervisors-science = Cientistas e o Diretor de Pesquisa
 
-job-supervisors-hire =  Quem quer que te contrate.
+job-supervisors-hire = quem quer que te contrate
 
-job-supervisors-everyone =  Absolutamente todos.
+job-supervisors-everyone = absolutamente todos
 
-job-supervisors-nobody =  Ninguém.
+job-supervisors-nobody = ninguém

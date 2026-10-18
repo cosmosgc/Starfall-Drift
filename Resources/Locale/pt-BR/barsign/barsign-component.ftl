@@ -16,7 +16,7 @@ barsign-prototype-name-drunk-carp = A Carpa Bêbada
 
 barsign-prototype-description-drunk-carp =  Não beba e nade.
 
-barsign-prototype-name-officer-beersky =  Oficial Beersky.
+barsign-prototype-name-officer-beersky = Oficial Beersky
 
 barsign-prototype-description-officer-beersky = Se um homem comer um dong, essas bebidas são ótimas.
 
@@ -24,7 +24,7 @@ barsign-prototype-name-outer-spess = O Spess Exterior
 
 barsign-prototype-description-outer-spess = Este bar não está localizado no espaço.
 
-barsign-prototype-name-coderbus = O Coderbus.
+barsign-prototype-name-coderbus = O Coderbus
 
 barsign-prototype-description-coderbus = Um bar muito controverso conhecido por sua grande variedade de bebidas em constante mudança.
 
@@ -64,7 +64,7 @@ barsign-prototype-name-the-birdcage = A gaiola de pássaros
 
 barsign-prototype-description-the-birdcage = Caw caw!
 
-barsign-prototype-name-zocalo = Zocalo.
+barsign-prototype-name-zocalo = Zocalo
 
 barsign-prototype-description-zocalo =  Anteriormente ubicado en Spessmerica.
 
@@ -96,7 +96,7 @@ barsign-prototype-name-spacebucks = Spacebucks
 
 barsign-prototype-description-spacebucks =  Não dá para fugir deles, mesmo no espaço, e mesmo depois de começarmos a chamá-los de "pesos".
 
-barsign-prototype-name-maltroach = Maltroach.
+barsign-prototype-name-maltroach = Maltroach
 
 barsign-prototype-description-maltroach = Squeak!
 

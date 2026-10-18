@@ -1,4 +1,4 @@
-battery-menu-footer-left =  Perigo: alta tensão.
+battery-menu-footer-left = Perigo: alta tensão
 
 battery-menu-footer-right =  7.2 REV 6
 

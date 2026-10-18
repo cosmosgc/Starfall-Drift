@@ -17,7 +17,7 @@ chat-radio-medical =  Médico
 
 chat-radio-science = Ciência
 
-chat-radio-security =  Segurança.
+chat-radio-security = Segurança
 
 chat-radio-service =  Serviço
 
@@ -28,10 +28,10 @@ chat-radio-syndicate = Sindicato
 chat-radio-freelance = Freelance
 
 # not headset but whatever
-chat-radio-handheld = -Mão.
+chat-radio-handheld = -Mão
 
 chat-radio-binary = Binário
 
 chat-radio-xenoborg = Xenoborg
 
-chat-radio-mothership =  Nave-mãe.
+chat-radio-mothership = Nave-mãe

@@ -1,3 +1,5 @@
+point-scoreboard-winner = O vencedor foi [color=lime]{ $player }![/color]
+
 point-scoreboard-header = [bold] Painel de avaliação[/bold]
 
 point-scoreboard-list =

@@ -1,4 +1,4 @@
-feedbackpopup-window-name =  Pedido de feedback.
+feedbackpopup-window-name = Pedido de feedback
 
 feedbackpopup-control-button-text =  Abra o Link
 
@@ -8,7 +8,7 @@ feedbackpopup-control-total-surveys =
        *[other] { $num }  entradas
     }
 
-feedbackpopup-control-no-entries =  Nenhuma entrada.
+feedbackpopup-control-no-entries = Nenhuma entrada
 
 feedbackpopup-control-ui-footer =  Deixe-nos saber o que você pensa!
 
@@ -21,9 +21,9 @@ command-description-feedback-add =  Adiciona um protótipo de feedback aos clien
 
 command-description-feedback-remove = Remove um protótipo de feedback dos clientes.
 
-feedbackpopup-give-command-name =  Dê-me o feed de volta.
+feedbackpopup-give-command-name = givefeedbackpopup
 
-feedbackpopup-show-command-name = Showfeedbackpopup
+feedbackpopup-show-command-name = showfeedbackpopup
 
 cmd-givefeedbackpopup-desc =  Dá ao jogador alvo um retorno.
 

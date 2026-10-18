@@ -1,3 +1,5 @@
+advertisement-gibb-1 = Delicioso!
+
 advertisement-gibb-2 =  Recomendado por pelo menos um médico!
 
 advertisement-gibb-3 =  Mais de 1 milhão de bebidas vendidas!

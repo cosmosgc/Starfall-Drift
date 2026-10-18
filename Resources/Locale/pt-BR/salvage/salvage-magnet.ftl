@@ -8,7 +8,7 @@ salvage-system-announcement-arrived = Um pedaço de detritos salvagáveis foi pu
 
 salvage-asteroid-name = Asteróide
 
-salvage-magnet-window-title =  Ímã de salvação.
+salvage-magnet-window-title = Ímã de salvação
 
 salvage-expedition-window-progression = Progressão
 

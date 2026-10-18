@@ -90,7 +90,7 @@ anomaly-sync-connect-verb-text = Anexar anomalia
 
 anomaly-sync-connect-verb-message = Anexar uma anomalia próxima para { THE($machine) }.
 
-anomaly-sync-disconnect-verb-text =  Desamarre a anomalia.
+anomaly-sync-disconnect-verb-text = Desamarre a anomalia
 
 anomaly-sync-disconnect-verb-message =  Desanexe a anomalia conectada de { THE($machine) }.
 
@@ -118,7 +118,7 @@ anomaly-generator-announcement =  Uma anomalia foi gerada!
 
 anomaly-command-pulse = Pulso de uma anomalia do alvo
 
-anomaly-command-supercritical =  Faz uma anomalia de alvo ficar supercrítica.
+anomaly-command-supercritical = Faz uma anomalia de alvo ficar supercrítica
 
 # Flavor text on the footer
 anomaly-generator-flavor-left =  Anomalias podem desovar dentro do operador.
@@ -151,7 +151,7 @@ anomaly-behavior-sensivity = Reação ampliada a partículas foi detectada.
 
 anomaly-behavior-invisibility = A distorção da onda de luz foi detectada.
 
-anomaly-behavior-secret =  Alguns dados não podem ser lidos.
+anomaly-behavior-secret = Alguns dados não podem ser lidos
 
 anomaly-behavior-inconstancy = [color=crimson]Impermanência foi detectada, tipos de partículas podem mudar com o tempo.[/color]
 

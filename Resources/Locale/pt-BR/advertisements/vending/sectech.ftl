@@ -1,3 +1,5 @@
+advertisement-sectech-1 = Estilhaça crânios do Sindicato!
+
 advertisement-sectech-2 =  Batam em algumas cabeças!
 
 advertisement-sectech-3 =  Não se esqueça - o mal é bom!

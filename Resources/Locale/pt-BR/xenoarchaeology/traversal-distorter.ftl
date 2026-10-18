@@ -1,4 +1,4 @@
-traversal-distorter-set-up = Viés traversais prontos para subir, em direção a nós mais seguros.
+traversal-distorter-set-up = Viés traversais prontos para subir, em direção a nós mais seguros
 
 traversal-distorter-set-down = Viés de Traversais definidos para baixo, em direção a nós mais perigosos
 

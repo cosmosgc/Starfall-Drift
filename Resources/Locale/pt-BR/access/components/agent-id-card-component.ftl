@@ -11,6 +11,6 @@ agent-id-card-current-job =  Trabalho:
 
 agent-id-card-job-icon-label =  Ícone do trabalho:
 
-agent-id-menu-title =  Cartão de identificação do agente.
+agent-id-menu-title = Cartão de identificação do agente
 
 agent-id-open-ui-verb =  Mudar as configurações

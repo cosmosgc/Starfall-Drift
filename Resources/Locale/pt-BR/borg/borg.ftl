@@ -28,7 +28,7 @@ borg-ui-menu-title = Interface Cyborg
 
 borg-ui-charge-label =  Carga: { $charge }%
 
-borg-ui-no-brain =  Nenhum cérebro presente.
+borg-ui-no-brain = Nenhum cérebro presente
 
 borg-ui-remove-battery = Remova
 
@@ -47,9 +47,9 @@ borg-transponder-emagged-disabled-popup = As luzes do seu transponder se apagam!
 
 borg-transponder-emagged-destroyed-popup =  Seu transmissor está estourando!
 
-borg-select-type-menu-title =  Selecione o tipo de chassis.
+borg-select-type-menu-title = Selecione o tipo de chassis
 
-borg-select-type-menu-bottom-text = A seleção de chassis é irreversível.
+borg-select-type-menu-bottom-text = A seleção de chassis é irreversível
 
 borg-select-type-menu-available =  Tipos disponíveis
 
@@ -61,7 +61,7 @@ borg-select-type-menu-confirm =  Confirmar seleção
 
 borg-select-type-menu-guidebook = Guia
 
-borg-type-generic-name = Genérico.
+borg-type-generic-name = Genérico
 
 borg-type-generic-desc =  Faça várias tarefas aleatórias na estação, ou talvez ajude o departamento de ciências que o construiu.
 
@@ -79,7 +79,7 @@ borg-type-mining-desc =  Junte-se ao salvamento e ajude-os a pegar materiais, pr
 
 borg-type-mining-transponder = cyborg de salvamento
 
-borg-type-janitor-name = Zelador.
+borg-type-janitor-name = Zelador
 
 borg-type-janitor-desc =  Mantenha a estação bem arrumada, limpe os vazamentos, recolha e descarte corretamente o lixo deixado por membros preguiçosos da tripulação.
 

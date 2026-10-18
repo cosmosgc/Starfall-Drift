@@ -38,32 +38,32 @@ network-configurator-title-saved-devices =  Dispositivos salvos
 
 network-configurator-title-device-configuration =  Configuração do dispositivo
 
-network-configurator-ui-clear-button =  Limpo.
+network-configurator-ui-clear-button = Limpo
 
 network-configurator-ui-count-label = { $count }  Dispositivos
 
-network-configurator-text-set =  Preparar.
+network-configurator-text-set = Preparar
 
 network-configurator-text-add =  Adicionar
 
-network-configurator-text-clear =  Limpo.
+network-configurator-text-clear = Limpo
 
-network-configurator-text-copy =  Entendido.
+network-configurator-text-copy = Entendido
 
 network-configurator-text-show =  Mostre
 
 # tooltips
-network-configurator-tooltip-set = Define a lista de alvos.
+network-configurator-tooltip-set = Define a lista de alvos
 
-network-configurator-tooltip-add =  Adiciona à lista de alvos.
+network-configurator-tooltip-add = Adiciona à lista de alvos
 
 network-configurator-tooltip-edit =  Editar lista de alvos
 
 network-configurator-tooltip-clear =  Limpar lista de alvos
 
-network-configurator-tooltip-copy =  Copie a lista de alvos para a ferramenta segura.
+network-configurator-tooltip-copy = Copie a lista de alvos para a ferramenta segura
 
-network-configurator-tooltip-show =  Mostre uma visualização holográfica da lista de alvos.
+network-configurator-tooltip-show = Mostre uma visualização holográfica da lista de alvos
 
 # examine
 network-configurator-examine-mode-link = [color=red]Link[/color]

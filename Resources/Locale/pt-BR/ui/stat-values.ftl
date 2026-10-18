@@ -1,1 +1,1 @@
-stat-values-ui-title = Melee Stats
+stat-values-ui-title = Estatísticas de Melee

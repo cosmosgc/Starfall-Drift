@@ -10,7 +10,7 @@ traitor-corporations-dataset-5 = S.E.L.F.
 
 traitor-corporations-dataset-6 =  Consórcio dos Direitos dos Animais
 
-traitor-corporations-dataset-7 = Donk Corporation.
+traitor-corporations-dataset-7 = Donk Corporation
 
 traitor-corporations-dataset-8 =  Corporação Waffle
 

@@ -62,62 +62,62 @@ news-dataset-31 =  Uma palavra nesta Gazeta é Sdrawkcab
 
 news-dataset-32 = É difícil ter muito espaço na prateleira
 
-news-dataset-33 = Da mesa do espertinho Sammy, vinho e amizades melhoram com a idade.
+news-dataset-33 = Da mesa do espertinho Sammy, vinho e amizades melhoram com a idade
 
-news-dataset-34 = Da mesa do espertinho Sammy, o interior das bolas de golfe são principalmente bandas de borracha.
+news-dataset-34 = Da mesa do espertinho Sammy, o interior das bolas de golfe são principalmente bandas de borracha
 
-news-dataset-35 =  Não precisa enganar todas as pessoas, só as certas, e não as que não são mais espertas.
+news-dataset-35 = Não precisa enganar todas as pessoas, só as certas, e não as que não são mais espertas
 
-news-dataset-36 = Se você fez a bagunça, você limpa tudo.
+news-dataset-36 = Se você fez a bagunça, você limpa tudo
 
-news-dataset-37 = É mais fácil obter perdão do que permissão para o seu amigo.
+news-dataset-37 = É mais fácil obter perdão do que permissão para o seu amigo
 
-news-dataset-38 = Da mesa do espertinho Sammy, verifique seus fatos antes de fazer papel de bobo.
+news-dataset-38 = Da mesa do espertinho Sammy, verifique seus fatos antes de fazer papel de bobo
 
-news-dataset-39 =  Não pode esperar uma burocracia que não pode ser vista como uma boa notícia.
+news-dataset-39 = Não pode esperar uma burocracia que não pode ser vista como uma boa notícia
 
-news-dataset-40 = É melhor ceder do que exigir isso.
+news-dataset-40 = É melhor ceder do que exigir isso
 
-news-dataset-41 = Do escritório do espertinho Sammy, uma pessoa que gosta de gatos não pode ser tão ruim.
+news-dataset-41 = Do escritório do espertinho Sammy, uma pessoa que gosta de gatos não pode ser tão ruim
 
-news-dataset-42 = A ajuda é o lado ensolarado do controle.
+news-dataset-42 = A ajuda é o lado ensolarado do controle
 
-news-dataset-43 =  Dois pontos determinam uma linha reta para o cara esperto Sammy.
+news-dataset-43 = Dois pontos determinam uma linha reta para o cara esperto Sammy
 
-news-dataset-44 = Da mesa do espertinho Sammy, ler melhora a mente e eleva o espírito.
+news-dataset-44 = Da mesa do espertinho Sammy, ler melhora a mente e eleva o espírito
 
-news-dataset-45 =  Melhor apontar alto e perder, depois apontar baixo e acertar.
+news-dataset-45 = Melhor apontar alto e perder, depois apontar baixo e acertar
 
-news-dataset-46 = Na mesa do espertinho Sammy, os meteoros frequentemente atacam o mesmo lugar mais de uma vez.
+news-dataset-46 = Na mesa do espertinho Sammy, os meteoros frequentemente atacam o mesmo lugar mais de uma vez
 
-news-dataset-47 =  Olhe para os dois lados antes de embarcar no nave espacial.
+news-dataset-47 = Olhe para os dois lados antes de embarcar no nave espacial
 
-news-dataset-48 = Tommy B. Saif Sez: espere, o repentino pára às vezes necessário.
+news-dataset-48 = Tommy B. Saif Sez: espere, o repentino pára às vezes necessário
 
-news-dataset-49 =  Mantenha os dedos longe dos painéis móveis.
+news-dataset-49 = Mantenha os dedos longe dos painéis móveis
 
-news-dataset-50 =  Não há volta à esquerda, exceto os nave.
+news-dataset-50 = Não há volta à esquerda, exceto os nave
 
-news-dataset-51 = Tommy B. Saif Sez, devolva assentos e bandejas para sua posição correta e correta.
+news-dataset-51 = Tommy B. Saif Sez, devolva assentos e bandejas para sua posição correta e correta
 
-news-dataset-52 = Comer e beber em Docking Bays é proibido.
+news-dataset-52 = Comer e beber em Docking Bays é proibido
 
-news-dataset-53 = Tommy B. Saif Sez: não aceite substitutos, e não seja enganado por imitações.
+news-dataset-53 = Tommy B. Saif Sez: não aceite substitutos, e não seja enganado por imitações
 
-news-dataset-54 =  Não remova essa etiqueta sob pena de lei.
+news-dataset-54 = Não remova essa etiqueta sob pena de lei
 
 news-dataset-55 =  Sempre misture bem quando tão instruída
 
-news-dataset-56 =  Tente manter as despesas de seis meses na reserva.
+news-dataset-56 = Tente manter as despesas de seis meses na reserva
 
 news-dataset-57 =  Mudança não dada sem compra
 
-news-dataset-58 = Se você quebrar, você compra.
+news-dataset-58 = Se você quebrar, você compra
 
-news-dataset-59 = As reservas devem ser canceladas 48 horas antes do evento para obter o reembolso.
+news-dataset-59 = As reservas devem ser canceladas 48 horas antes do evento para obter o reembolso
 
 news-dataset-60 =  Há algo que eles não possam fazer?
 
 news-dataset-61 = Se os assobios de lata são feitos de estanho, do que fazem os assobios de espuma?
 
-news-dataset-62 = Brócolis descobriu que eram colônias de pequenos alienígenas com assassinato em suas mentes.
+news-dataset-62 = Brócolis descobriu que eram colônias de pequenos alienígenas com assassinato em suas mentes

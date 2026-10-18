@@ -4,7 +4,7 @@ ame-controller-component-fuel-slot-fail-locked =  Desligue o EMA antes de manipu
 
 ame-controller-component-fuel-slot-success-insert =  Você insere o frasco na área de combustível.
 
-ame-window-title =  Unidade de Controle de Antimatéria.
+ame-window-title = Unidade de Controle de Antimatéria
 
 ame-window-engine-status-label = Estado do motor:
 
@@ -16,7 +16,7 @@ ame-window-toggle-injection-button = Alternar a injeção
 
 ame-window-fuel-status-label = Estado do combustível:
 
-ame-window-fuel-not-inserted-text = Sem combustível inserido.
+ame-window-fuel-not-inserted-text = Sem combustível inserido
 
 ame-window-injection-amount-label =  Quantidade de injeção:
 

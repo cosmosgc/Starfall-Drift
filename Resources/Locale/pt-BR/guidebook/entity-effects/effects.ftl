@@ -206,17 +206,17 @@ entity-effect-guidebook-knockdown =
             { $chance ->
                 [1] Causa
                *[other] causam
-            } atordoamento por pelo menos { NATURALFIXED($time, 3) } { MANY("second", $time) } com acúmulo
+            } derrubamento por pelo menos { NATURALFIXED($time, 3) } { MANY("second", $time) } com acúmulo
        *[set]
             { $chance ->
                 [1] Causa
                *[other] causam
-            } atordoamento por pelo menos { NATURALFIXED($time, 3) } { MANY("second", $time) } sem acúmulo
+            } derrubamento por pelo menos { NATURALFIXED($time, 3) } { MANY("second", $time) } sem acúmulo
         [remove]
             { $chance ->
                 [1] Remove
                *[other] removem
-            } { NATURALFIXED($time, 3) } { MANY("second", $time) } de atordoamento
+            } { NATURALFIXED($time, 3) } { MANY("second", $time) } de derrubamento
     }
 
 entity-effect-guidebook-set-solution-temperature-effect =

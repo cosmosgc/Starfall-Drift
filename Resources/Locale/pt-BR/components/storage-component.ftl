@@ -18,7 +18,7 @@ comp-storage-window-weight = { $weight }/{ $maxWeight }, Tamanho Máx. { $size }
 
 comp-storage-window-slots = Fendas: { $itemCount }/{ $maxCount }, Tamanho Máx. { $size }
 
-comp-storage-window-dummy = Tolo.
+comp-storage-window-dummy = Tolo
 
 comp-storage-verb-open-storage =  Abrir o Armazenamento
 

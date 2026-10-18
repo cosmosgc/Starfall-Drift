@@ -1,1 +1,1 @@
-tips-dataset-1 = Yooby.
+tips-dataset-1 = Yooby

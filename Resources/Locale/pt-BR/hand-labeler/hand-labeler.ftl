@@ -7,10 +7,10 @@ hand-labeler-current-text-label = Rótulo:
 hand-labeler-ui-reset-label-text = Reiniciar
 
 # The text on the button in the UI to clear the text entry input
-hand-labeler-ui-clear-label-text =  Limpo.
+hand-labeler-ui-clear-label-text = Limpo
 
 # When the hand labeler applies a label successfully
-hand-labeler-successfully-applied = Rótulo aplicado com sucesso.
+hand-labeler-successfully-applied = Rótulo aplicado com sucesso
 
 # When the hand labeler removes a label successfully
 hand-labeler-successfully-removed = Rótulo removido com sucesso

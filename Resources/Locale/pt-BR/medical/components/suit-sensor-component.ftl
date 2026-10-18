@@ -1,4 +1,4 @@
-suit-sensor-mode-off =  Desligado.
+suit-sensor-mode-off = Desligado
 
 suit-sensor-mode-binary = Binário
 

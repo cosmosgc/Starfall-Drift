@@ -6,22 +6,22 @@ generic-article-an = e
 
 generic-and = e
 
-generic-or =  Ou
+generic-or = Ou
 
-generic-unknown =  desconhecido
+generic-unknown = desconhecido
 
-generic-unknown-title =  Desconhecido
+generic-unknown-title = Desconhecido
 
-generic-error =  Erro
+generic-error = Erro
 
-generic-invalid =  inválido
+generic-invalid = inválido
 
-generic-hours =  horas
+generic-hours = horas
 
-generic-minutes =  minutos
+generic-minutes = minutos
 
-generic-seconds =  segundos
+generic-seconds = segundos
 
-generic-playtime-title =  Hora de brincar.
+generic-playtime-title = Hora de brincar
 
-generic-confirm =  Confirmar
+generic-confirm = Confirmar

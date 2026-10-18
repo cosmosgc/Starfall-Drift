@@ -17,7 +17,7 @@ bwoink-system-typing-indicator = { $players } { $count ->
        *[other] estão
     } digitando...
 
-admin-ahelp-admin-only =  Só o administrador.
+admin-ahelp-admin-only = Só o administrador
 
 admin-ahelp-admin-only-tooltip = Se marcada, então a mensagem não será visível para o jogador, mas será visível para outros administradores e ainda será transmitida Discord.
 

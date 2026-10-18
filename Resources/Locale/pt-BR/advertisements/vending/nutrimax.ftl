@@ -1,3 +1,5 @@
+advertisement-nutrimax-1 = Nós gostamos de plantas!
+
 advertisement-nutrimax-2 =  Não quer um pouco?
 
 advertisement-nutrimax-3 =  Os polegares mais verdes de todos.

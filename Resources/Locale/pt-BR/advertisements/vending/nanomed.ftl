@@ -1,3 +1,5 @@
+advertisement-nanomed-1 = Vá salvar algumas vidas!
+
 advertisement-nanomed-2 = O melhor para o seu leito de saúde.
 
 advertisement-nanomed-3 =  Só as melhores ferramentas.

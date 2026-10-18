@@ -2,7 +2,7 @@ microwave-component-interact-using-no-power =  Não tem poder!
 
 microwave-component-interact-using-broken =  Está quebrado!
 
-microwave-component-interact-using-container-full = O container está cheio.
+microwave-component-interact-using-container-full = O container está cheio
 
 microwave-component-interact-using-transfer-success = Transferido { $amount }U
 
@@ -22,7 +22,7 @@ microwave-bound-user-interface-cook-time-label =  Hora da cozinha: { $time }
 
 microwave-menu-title = Microondas
 
-microwave-menu-start-button =  Comecem.
+microwave-menu-start-button = Comecem
 
 microwave-menu-eject-all-text = Ejetar todo o conteúdo
 

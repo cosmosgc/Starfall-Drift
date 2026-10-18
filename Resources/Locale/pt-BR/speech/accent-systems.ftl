@@ -1,1 +1,1 @@
-skeleton-suffix = -Acabou!
+skeleton-suffix = ACK ACK!

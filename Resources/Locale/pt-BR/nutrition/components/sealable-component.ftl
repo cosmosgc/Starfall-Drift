@@ -1,3 +1,5 @@
+sealable-component-on-examine-is-sealed = O lacre está intacto.
+
 sealable-component-on-examine-is-unsealed = O selo está quebrado.
 
 sealable-component-on-examine-is-unsealed-no-cork = O selo está quebrado, e a rolha se foi.

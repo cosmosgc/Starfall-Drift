@@ -14,11 +14,11 @@ stat-cargo-id = ID
 stat-cargo-price =  Preço
 
 # Melee
-stat-melee-values = Dano da arma Melee.
+stat-melee-values = Dano da arma Melee
 
 stat-melee-id = ID
 
-stat-melee-base-damage = Dano na base.
+stat-melee-base-damage = Dano na base
 
 stat-melee-wield-damage = Dano de vitela
 

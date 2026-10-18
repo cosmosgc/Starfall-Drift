@@ -86,7 +86,7 @@ descriptions-cookie-fortune-dataset-43 = Boo!
 
 descriptions-cookie-fortune-dataset-44 = O verdadeiro tesouro são os amigos que fez no turno.
 
-descriptions-cookie-fortune-dataset-45 = Allan, por favor, adicione detalhes.
+descriptions-cookie-fortune-dataset-45 = Allan, por favor, adicione detalhes
 
 descriptions-cookie-fortune-dataset-46 =  Você é a melhor pessoa que já viveu!
 
@@ -136,7 +136,7 @@ descriptions-cookie-fortune-dataset-68 =  Voltem ao trabalho!
 
 descriptions-cookie-fortune-dataset-69 = Cookie.print () não encontrado
 
-descriptions-cookie-fortune-dataset-70 =  Não há nenhum palhaço nesta estação.
+descriptions-cookie-fortune-dataset-70 = Não há nenhum palhaço nesta estação
 
 descriptions-cookie-fortune-dataset-71 =  Colocar sensores de traje no máximo é sempre uma boa ideia.
 

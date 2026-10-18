@@ -4,7 +4,7 @@ ui-disposal-unit-label-state = Estado:
 
 ui-disposal-unit-label-pressure =  Pressão:
 
-ui-disposal-unit-label-status =  Pronto.
+ui-disposal-unit-label-status = Pronto
 
 ui-disposal-unit-button-flush = Flush
 
@@ -21,7 +21,7 @@ disposal-unit-no-hands =  Você não tem mãos!
 disposal-unit-is-full =  Não há mais espaço lá dentro.
 
 # state
-disposal-unit-state-Ready =  Pronto.
+disposal-unit-state-Ready = Pronto
 
 # Yes I want it to always say Pressurizing
 disposal-unit-state-Flushed =  Pressurizando
