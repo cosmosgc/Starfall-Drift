@@ -4,7 +4,7 @@ species-name-dwarf = Anão
 
 species-name-reptilian = Unathi
 
-species-name-slime = Pessoa de Lixo
+species-name-slime = Pessoa de Gosma
 
 species-name-diona = Diona
 
